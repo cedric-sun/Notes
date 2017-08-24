@@ -1,0 +1,10 @@
+try-throw-catch的错误处理机制是为了在不影响逻辑流的前提下，在语义上更优雅的处理函数失败的情况。当在设计缺乏错误处理机制的底层语言的API的时候，这件事就变得格外显眼，如何设计一个能够通知上层callstack"我这里发生了什么问题"的函数变得格外重要。
+
+Linux Kernel Coding Style提倡使用错误码作为返回值。见:
+[Linux Kernel Coding Style Secion#16](https://www.kernel.org/doc/html/v4.10/process/coding-style.html#function-return-values-and-names)
+
+以及
+[stackoverflow link](https://stackoverflow.com/questions/385975/error-handling-in-c-code)
+
+语言的特性一定是为了解决特定问题而提出的，没有平白无故存在的麻烦特性。
+

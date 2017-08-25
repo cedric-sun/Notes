@@ -1,0 +1,48 @@
+cling	clung	clung
+
+seek	sought	sought
+
+strike	struck	struck
+	strook	stricken
+
+grow	grew	grown
+
+stun	stunned	stunned
+
+lie	lay	lain
+	lied	lied
+
+lay	laid	laid
+
+breed	bred	bred
+
+hurt	hurt	hurt
+
+fly	flew	flown
+
+sink	sank	sunk
+
+sting	stang	stung
+
+weave	wove	woven
+
+hide	hid	hidden
+
+dwell	dwelt	dwelt
+	dwelled	dwelled
+
+throw	threw	thrown
+
+burn	burnt	burnt
+	burned	burned
+
+swing	swang	swung
+	swung	swung
+
+chisel	chiselled	chiselled	chiselling
+	chiseled	chiseled
+
+flee	fled	fled
+
+stir	stirred	stirred
+

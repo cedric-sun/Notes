@@ -56,8 +56,9 @@ acreage n.  面积(英亩数)
 protective gear 保护装置
 kudos   n.  名声，声誉
 distress    n.  痛苦  v.  使悲痛
-
-
+allege	vt.	断言
+pugnacious	adj.	好斗的
+pugnacity	n.	好斗
 
 
 

@@ -72,6 +72,8 @@ malodor		n.	臭气
 malodorous	a.	恶臭的
 fusty		a.	腐臭的/过时的
 noisome		a.	恶臭的/非常令人厌恶的
+stench		n.	恶臭
+stink		vi.	散发恶臭	n.	恶臭
 
 =====================
 antediluvian	a.	古老的，过时的
@@ -87,7 +89,6 @@ loutish		a.	粗鲁的
 ====================
 instigate	vt.	煽动，激起
 
-
 ===========================
 contumacious	a.	不服管束的，倔强的
 insubordinate	a.	不服从权威的
@@ -95,7 +96,6 @@ insubordinate	a.	不服从权威的
 =================================
 intransigent	a.	固执的，不妥协的
 mulish			a.	固执的
-
 
 =================================
 inveigle	vt.	诱骗
@@ -108,16 +108,12 @@ lachrymose	a.	催人泪下的，悲伤的
 maudlin		a.	过度感伤的
 mawkish		a.	过度感伤的
 
-
-
 ===============================
 levelheaded	a.	明智的
 judicious	a.	明智的
 
-
 =====================
 daft		a.	不明智的
-
 
 ==========================
 languid		a.	无精打采的

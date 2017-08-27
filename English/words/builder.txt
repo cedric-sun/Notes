@@ -59,8 +59,10 @@ distress    n.  痛苦  v.  使悲痛
 allege	vt.	断言
 pugnacious	adj.	好斗的
 pugnacity	n.	好斗
-
-
+hatred		n.	憎恨
+disposition	n.	性格；倾向
+incongruous	adj.	不协调的，不一致的
+hassle 
 
 bow out of (a plan)	v.	退出
 kick off = start	v.	开始

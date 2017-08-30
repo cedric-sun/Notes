@@ -91,6 +91,8 @@ eponymous	a.	（人物与作品标题）同名的
 furnishings	n.	家具
 emissary	n.	使者
 project		vt.	投掷，发射
+		vi.	突出，伸出！
+			projecting	突出的，伸出的
 	project one's voice	放开嗓音
 	projectile	n.	投掷物；抛射物；发射物（尤指子弹、炮弹等）
 			a.	投射的

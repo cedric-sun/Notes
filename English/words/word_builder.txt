@@ -191,3 +191,35 @@ ethnic	a.
 	ethnology	n.	人种学
 
 Caucasian	n.	高加索人
+stratum		n.	地层；阶级
+	stratify	v.	使...分层
+	stratigraphy	n.	地层学
+
+circle
+	circulate	v.	（使）循环，（使）流通
+		circulation	n.	循环，流通
+	encircle	vt.	围绕
+	circular	a.	圆形的，环形的；	n. 传单
+		circularize	v.
+
+hypocrisy	n.	虚伪，伪善
+	hypocrite	n.	伪善者（满嘴仁义道德，实际虚伪可耻的人）
+	hypocritical	a.	伪善的
+
+vitriol		n.	刻薄（原指硫酸盐 dated）
+	vitrolic	a.	刻薄的（硫酸的，硫酸盐的 dated）
+
+metallurgy	n.	冶金学
+raven		n.	大乌鸦	v. 掠夺
+	ravage		v.	（严重地）破坏，毁坏
+	ravish		vt.	掠夺；使...陶醉；强奸
+		ravishment	n.
+		ravishing	a.	极其美丽的
+
+cognitive	a.	认知的
+	cognizant	a.	意识到的
+		incognizant	a.	未意识到的
+	cognition	n.	认知
+		precognition	n.	预知
+
+

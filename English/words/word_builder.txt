@@ -1,6 +1,6 @@
 dusk		adj.	黄昏
 drowsy		adj.	睡意朦胧的
-drowsiness	n.	睡意	
+	drowsiness	n.	睡意	
 grief		n.	悲伤
 goblet		n.	（尤指盛酒的，通常用玻璃或金属做的）无柄高脚杯
 verge		n.	边；边缘；边沿
@@ -8,16 +8,13 @@ squash		vt.	把…压扁
 squander	vt.	浪费，挥霍
 apprentice	n.	学徒
 intriguing	a.	吸引人的
-intrigue	vt. 吸引，激起...的兴趣	n. 阴谋
-campaign 	n. 运动
-champaign 	n. 平原
-champagne 	n. 香槟
+intrigue	vt.	吸引，激起...的兴趣	n. 阴谋
 urea		n.	尿素
-continual	adj.  不断的, 频繁的
-continuous	adj. 连续的, 继续的, 连绵不断的
-continuum	n. 连续体；渐变体；逐渐演变的事物
+continual	adj.	不断的, 频繁的
+	continuous	adj.	连续的, 继续的, 连绵不断的
+	continuum	n.	连续体；渐变体；逐渐演变的事物
 scandal		n.	丑闻
-scandalous	a.	丑闻的
+	scandalous	a.	丑闻的
 vehement	a.	（感情）强烈的；猛烈的
 scold		vt.	责骂
 alley		n.	小巷
@@ -30,39 +27,50 @@ charisma	n.	魅力，领导力
 torture		n./vt.	折磨，拷问
 debt		n.	债务
 recital		n.	独奏会
-shrewdness	n.	精明
-controversy 	n.  争议
-controversial   a.  有争议的
-vengeance   	n.  复仇
-contention  	n.  争论；看法
-pharmacy    	n.  药剂学；药店
-pharmacist  	n.  药剂师
-pharmacology    n.  药理学
-pharmacologist  n.  药理学家
-contemptible    a.  卑劣可鄙的   ->adv.  contemptibly
-timid   	a.  胆小的
-daisy   	n.  雏菊  ->pl.   daisies
-emulate 	vt. 模仿
-percolate   	v.  渗透
-contrive    	vt. 发明；谋划
-stray   	v.  迷路；跑题
-panaceas    	n.  灵丹妙药/万能之计
-meltdown    	n.  （尤指金融方面的）灾难     financial/economic/market meltdown 金融／经济／市场崩溃
-detrimental 	a.  有害的
-societal    	a.  社会的
-tailor  	v.  裁剪  n.  裁缝
-parkland    	n.  公园绿地(! not 停车场) 
-acreage		n.  面积(英亩数)
-protective gear 保护装置
-kudos		n.  名声，声誉
-distress    	n.  痛苦  v.  使悲痛
-allege		vt.	断言
-pugnacious	adj.	好斗的
+shrewd		a.	精明的
+	shrewdness	n.	精明
+controvert	v.	争论
+	controversy 	n.  	争议
+	controversial   a.  	引起争议的
+	uncontroversial	a.	不引起争议的	
+	incontrovertible	a.	无可争议的
+
+vengeance   	n.  	复仇
+contention  	n.  	争论；看法
+pharmacy    	n.  	药剂学；药店
+	pharmacist  	n.  	药剂师
+	pharmacology	n.	药理学
+	pharmacologist	n.	药理学家
+	pharmaceutical	a.	制药的	n. 药剂，药品	the pharmaceutical industry 制药业
+
+contemptible    a.  	卑劣可鄙的   ->adv.  contemptibly
+timid   	a.  	胆小的
+daisy   	n.  	雏菊  ->pl.   daisies
+emulate 	vt. 	模仿
+percolate   	vi.  	（液体）渗透；（信息）扩散，弥漫
+contrive    	vt. 	发明；谋划
+stray   	v.  	迷路；跑题
+panacea    	n.  	灵丹妙药/万能之计
+meltdown    	n.  	（尤指金融方面的）灾难     financial/economic/market meltdown 金融／经济／市场崩溃
+detrimental 	a.	有害的
+societal    	a.  	社会的	from society
+tailor  	v.  	裁剪  n.  裁缝
+parkland    	n.  	公园绿地(! not 停车场) 
+acreage		n.  	面积(英亩数)
+kudos		n.  	名声，声誉
+distress    	n.  	痛苦		v.使痛苦
 pugnacity	n.	好斗
+	pugnacious	adj.	好斗的
+	repugnant	adj.	令人反感的
+		repugnance	n.	厌恶；矛盾，不一致
+	expunge		vt.	删除，抹去
+	impugn		vt.	质疑
+	oppugn		vt.	质疑
+
 hatred		n.	憎恨
 disposition	n.	性格；倾向
 incongruous	adj.	不协调的，不一致的
-hassle		vt.	烦扰；		n.	麻烦
+hassle		vt.	烦扰；		n. 麻烦
 physiognomy	n.	[FORMAL] 相貌，容貌
 perverse	a.	有悖常理的；任性的
 erotic		a.	性爱的，性欲的，色情的
@@ -87,11 +95,10 @@ eponym		n.	名祖，名字被用于命名其他事物的人，
 eponymous	a.	（人物与作品标题）同名的
 furnishings	n.	家具
 emissary	n.	使者
-project		vt.	投掷，发射 	vi.	突出，伸出
+project		vt.	投掷，发射 	vi. 突出，伸出
 projecting	a.	突出的，伸出的
 projectile	n.	投掷物；抛射物；发射物（尤指子弹、炮弹等） a.	投射的
-ballistic	a.	弹道的
-ballistic missle	弹道导弹
+ballistic	a.	弹道的 ballistic missle	弹道导弹
 vomit		v.	吐，呕吐 (vomit+up if intransitive)
 lien		n.	（扣押某人财产直至其偿清债务的）留置令，扣押令
 consortium	n.	财团；联合
@@ -108,9 +115,9 @@ decorum		n.	（行为）稳重，端庄
 torpedo		n.	鱼雷；	v.	用鱼雷破坏； -> 破坏，毁坏[INFORMAL]
 
 patriarch	n.	（男性）族长
-patriarchic = patriarchal
-patriarchal	a.	父权制的
-patriarchy	n.	父权制社会，男权社会
+	patriarchic = patriarchal
+	patriarchal	a.	父权制的
+	patriarchy	n.	父权制社会，男权社会
 
 the Tropic of Cancer	n.	北回归线（Cancer n. 巨蟹宫）
 the Tropic of Capricorn	n.	南回归线（Capricorn n. 摩羯宫)
@@ -152,29 +159,35 @@ plodding
 pleat
 sedate
 repudiate
+treason		n.	叛国（罪）
+clunky
+tenet		n.	基本原则，宗旨 [FORMAL]one of the principles on which a belief or theory is based
+lethal
+	sublethal
+sense
+	sensible	a.	明智的；意识到的 be sensible of = be cognizant of;（形容衣物）实用的（而非时髦花哨的）
+		insensible	a.	无动于衷的(be ~ of/to)；失去知觉的；
+			insensibility	n.	冷漠，不在乎；失去知觉的状态；
+		sensibility	n.	鉴赏力，感受力；感情；
+	sensitive	a.	（人）敏感的，（机器）灵敏的；（话题）敏感的；善解人意的；
+		sensitivity	n.	善解人意；敏感性，（机器的）灵敏度
+	sensory		a.	感官的，感觉上的
+		extrasensory	a.	超感的
+		multisensory	n.	多感官并用的
+	sensual		a.	感官的(=sensory)；肉欲的，愉悦肉体的
+	sensuous	a.	感官的(=sensory)；引起美感的；
+	senseless	a.	无意义的；失去意识的；
+	nonsense	n.	胡闹，愚蠢，一派胡言
+	sensor		n.	传感器
+		sensorial = sensory	a.
+	sensate		a.	感知的（强调通过感觉理解）（不常用 Bottom 40%）
+		insensate	a.	无感觉的；无动于衷的，冷漠的；
+		sensation	n.	感觉；轰动性事件；
+			sensational	a.	极好的；（新闻报道）耸人听闻的
+				sensationalize	v.
+ethnic	a.
+	ethnical = ethnic
+	ethinicity	n.	种族
+	ethnology	n.	人种学
 
-bow out of (a plan)	v.	退出
-kick off = start	v.	开始
-subscribe to		v.	同意；赞成
-wrap up				v.	圆满完成
-be not sb's cup of tea	非某人所喜好，对...不感冒
-It's your call.  这取决于你
-Tell me about that.  我知道/我已经知道了
-	used to say that you feel the same way or have had the same experience
-draw the line 划定界限
-sth. wanders off topic 跑题
-(be) tongue in cheek 开玩笑
-	He said that he was a huge fan of the president, although I suspect it was tongue in cheek.
-	他曾说自己是美国头号情人，而我认为他是在开玩笑。
-serve the purpose 服务于宗旨
-(be) out of touch with 失去联络，没有接触
-If you don't use it, you lose it.
-take/make a vow/vows to do
-the jury is (still) out. （答案或观点）尚不明确，悬而未决
-that's/it's your funeral! 那活该你倒霉！你自作自受！
-project one's voice	放开嗓音
-A's loss is B's gain	一人之失即是他人之得
-a tinge of = a hint of = a whiff of 一点...,一丝...,略带...
-be one's strong suit	是某人的长处
-once and for all	彻底了结的，一劳永逸地
-Words fail me.		不知道该说什么。
+Caucasian	n.	高加索人

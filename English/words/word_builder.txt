@@ -136,16 +136,16 @@ aroma		n.	（通常指食物、饮料的）香味，香气，芳香
 aromatic	a.	有香味的
 
 hypocrisy	n.	伪善
-hypocritical	a.	伪善的
-hypocrite	n.	伪善者，伪君子
+	hypocritical	a.	伪善的
+	hypocrite	n.	伪善者，伪君子
 
 flirt		vi.	调情，打情骂俏
-flirty		a.	轻浮的，轻佻的
-flirtation	n.	调情，打情骂俏
-flirtatious	a.	打情骂俏的，轻佻的
+	flirty		a.	轻浮的，轻佻的
+	flirtation	n.	调情，打情骂俏
+	flirtatious	a.	打情骂俏的，轻佻的
 
 diocese		n.	主教辖区 an area controlled by a bishop
-diosesan	a.	主教辖区的
+	diosesan	a.	主教辖区的
 nettlesome	a.	烦人的，讨厌的
 scrupulous
 
@@ -222,4 +222,113 @@ cognitive	a.	认知的
 	cognition	n.	认知
 		precognition	n.	预知
 
+mule		n.	骡子
+	mulish		a.	（骡子般）顽固的	
+quaff		v.	痛饮，大口喝
+permeate	v.	[具象的物质，但可指抽象事物]渗透，弥漫
+	permeation	n.
+	permeant	adj.	渗透的
+	permeable	a.	可渗透的	Certain types of sandstone are permeable to water.  某些类型的沙岩可渗水。
+		permeability	n.	渗透性		Chalk has a high permeability (= liquids easily pass through it).  粉笔的渗透性很强。
+
+pervade		v.	[抽象](信息，情绪的)弥漫，渗透	to spread or diffuse through
+	pervious	a.	可渗透的
+	pervasive	a.	弥漫的，遍布的
+	pervasion	n.
+
+sour		a.	酸味的
+	vinegar		n.	醋
+bitter		a.	苦味的
+spicy pungent	a.	辛辣的
+	garlic		n.	大蒜
+	ginger		n.	姜
+	pepper		n.	胡椒
+	chili pepper	n.	红辣椒
+
+honor		n.	荣誉
+	honorable	a.	光荣的，可敬的
+	honorary	a.	（尤指学位）荣誉的，名誉的	honorary doctorate
+	dishonor	vt.	使丢脸，使蒙羞	n. 耻辱
+	honorific	a.	表示尊敬的	an honorific title 尊称
+resultant = resulting = consequent	a.	作为结果的[resultant最为正式]
+hunch		n.	预感，直觉
+complexion	n.	（天然的）面色；总体特征，性质
+merchant	n.
+	mercantile	a.	贸易的，商业的
+		mercantilism	n.	重商主义（认为一国的国力基于通过贸易的顺差，主张国家干预经济，最先由亚当斯密提出和反对）
+	merchandise	n.	商品[formal]	v. 促销
+		merchandising	n.	推销，促销
+		merchandiser	n.
+	mercenary	a.	唯利是图的	n. 雇佣兵
+
+stale		a.	（通常指因久放）不新鲜的
+pass
+	passage		n.
+	surpass		vt	超越，胜过
+		unsurpassed	a.	未被超越的，不可超越的
+	trespass	vi.	侵入
+		trespasser	n.	侵入者
+	bypass		vt.	绕过；忽视
+
+urban		a.	城市的
+	urbanite	n.	都市人，城市居民
+	suburban	a.	市郊的，郊区的
+		suburbia	n.	郊区
+		suburbanite	n.	郊区居民
+	urbane		a.	（尤指男子）从容自信的，温文尔雅的
+		urbanity	n.
+
+luxury		n.
+	luxurious	a.
+	luxuriate	v.	（尤指物质方面）享受，享用
+	luxuriant	a.	茂盛的；浓密的
+		luxuriance	n.
+		luxuriantly	adv.
+
+retaliate	v.	报复
+	retaliatory	a.	报复性的
+	retaliation	n.	报复
+
+über-	uu-ber		prefix.	（用于名词前）极度的，超级的，极好的，极成功的
+consulate	n.	领事馆
+
+speculate	v.	推测；投机，做投机买卖
+	speculation	n.
+	speculative	a.
+	speculator	n.	投机者
+
+spectate	vi.	观看
+	spectator	n.	（尤指体育赛事的）观众
+	spectacle	n.	场景；眼镜
+		spectacular	a.	壮观的
+			spectacularly	adv.	壮观的；极度的(=extremely)
+
+specter		n.	鬼魂（幽鬼） US. = UK. spectre
+
+jewel		n.	宝石	v. 用宝石装饰，镶以宝石
+	jeweled		a.	宝石装饰的 US = UK jewelled
+	jewelry		n.	（总称）珠宝，首饰 US = UK jewellery
+	jeweler		n.	宝石匠 US = UK jeweller
+
+Jew		n.	犹太人
+	Jewish		a.	犹太人的
+		Jewishness	n.
+	Jewry		n.	（总称）犹太人(=all the Jews)
+	Judaism		n.	犹太教
+
+inhere		vi.	固有，原本就有	Does selfishness inhere in each of us?
+	inherent	a.	内在的，固有的
+		inherence	n.
+
+petrol		n.	汽油（透明）	UK = US **Gasoline**
+	petroleum	n.	石油（黄黑色）
+	petrology	n.	岩石学
+
+generous	a.	慷慨的(antonym: un~)
+	generosity	n.	慷慨
+
+prey		n.	被捕食者
+	predator	n.	捕食者
+		predatory	a.	捕食猎物为生的；掠夺的	
+		predaceous = predatory
 

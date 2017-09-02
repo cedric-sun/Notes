@@ -2,12 +2,14 @@
 	argue		
 	wrangle		n.
 	controvert	
+	tiff
 
 边，边缘，边沿	n.
 	edge
 	verge
 	brink
 	brim
+	border
 
 浪费，挥霍	v.
 	waste

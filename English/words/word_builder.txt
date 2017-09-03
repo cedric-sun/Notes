@@ -387,8 +387,51 @@ vouch		vi.	证实；担保 ~ for
 	voucher		n.	证人 -> 代金券
 
 pest		n.
+	pesky		a.	讨厌的，烦人的
+	pesticide	n.
 	pestilent	a.	致命的；危害社会的
 		pestilential	a.	=pestilent
 		pestilence	n.	瘟疫；毒害之物	I'll pour this pestilence into his ear - Shakespeare
 
 pernicious	a.	(极其)有害的
+
+announce	vt.	宣布，声明
+renounce	vt.	宣布放弃
+denounce	vt.	谴责；检举告发
+
+licit		a.	合法的
+	illicit		a.	不合法的
+
+timid		a.	胆怯的，害羞的
+	timorous = timid	[LITERARY]
+	intimidate	vt.	威胁，恐吓
+		intimidatory	a.
+			intimidation	n.
+
+edify		vt.	启迪
+	edification	n.
+	edifice		n.
+
+inspect		vt.
+	inspection	n.
+
+inquire		v.	问，询问
+	inquiry		n.
+	inquiring	a.	刨根问底的
+	inquirer	n.	询问者
+	inquisitor	n.	[贬]问题过多的询问者
+		inquisitive	a.	好奇的，好问
+			-ly		adv.
+			-ness		n.	好奇
+		inquisition	n.	[贬]盘问(asking unfriendly)；审讯
+			the Inquisition	n.	（旧时天主教的）宗教法庭
+
+gratify		v.	使高兴，使满意
+	-ing		a.	令人～的
+	gratification	n.	愉悦，满足
+	gratitude	n.	感激的心情
+		in-		n.	不感激->忘恩负义
+	grateful	a.	感激的
+		un-		a.
+	gratuity	n.	小费，赏钱
+		gratuitous	a.	不必要亦不好的；不求报酬的；

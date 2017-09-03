@@ -1,0 +1,3 @@
+Is there xxx ? If there is, what's xxx? = What's xxx, if any, xxx?
+use verb `occasion` to replace `lead to`
+

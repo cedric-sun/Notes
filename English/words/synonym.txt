@@ -28,6 +28,7 @@
 	contemptible
 
 有害的	adj.
+	pernicious
 	detrimental
 	noxious
 

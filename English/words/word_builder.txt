@@ -332,3 +332,63 @@ prey		n.	被捕食者
 		predatory	a.	捕食猎物为生的；掠夺的	
 		predaceous = predatory
 
+suspend		v.	悬挂；暂停
+	suspension	n.	悬挂；暂停；悬浮液
+		suspensory	a.	悬挂的
+	suspense	n.	悬念
+		suspenseful	a.	有悬念的
+	suspensive	a.	暂停的；有悬念的；(bottom 20%)
+
+suspect		vt.	怀疑	n. 嫌疑犯	a.可疑的
+	suspicion	n.	怀疑
+	suspicious	n.	（引起）怀疑的	Her behaviour was very suspicious.  她的举止非常可疑。
+		-ly		adv.
+		-ness		n.	疑心
+
+solar plexus	n.	心口，心窝 a punch in the solar plexus 打在心口上的一拳
+
+conceive	v.
+	conceivalbe	a.
+		-ly	adv.
+		in-	a.
+	concept		n.
+		conceptual	a.
+			conceptualize	v.
+			conceptualist	n.
+			conceptualism	n.
+
+fuse		v.	（使）熔化，熔合	n. 保险丝
+	fusible		a.	易熔的
+	fusion		n.	熔合
+	suffuse		v.	弥漫于，充满，遍布
+
+stupefy		v.	使昏昏沉沉；使震惊
+	stupefaction	n.
+	stupor		n.	昏迷，神志不清
+
+fane		n.	寺庙
+	profane		v.	亵渎
+		profanation	n.
+
+precipice	n.	悬崖
+	precipitous	a.	陡峭的；变化急剧的
+	precipitate	v.	促成	a. 仓促的
+		precipitation	n.	降水；冲动；沉淀物
+
+cerebrum	n.	大脑
+	cerebral	a.	脑的
+	cerebrate	v.	用脑思考
+		cerebration	n.
+
+coinage		n.	造币；新造的词
+
+vouch		vi.	证实；担保 ~ for
+	avouch		vt.	证实；担保
+	voucher		n.	证人 -> 代金券
+
+pest		n.
+	pestilent	a.	致命的；危害社会的
+		pestilential	a.	=pestilent
+		pestilence	n.	瘟疫；毒害之物	I'll pour this pestilence into his ear - Shakespeare
+
+pernicious	a.	(极其)有害的

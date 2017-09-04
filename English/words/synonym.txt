@@ -4,6 +4,34 @@
 	controvert	
 	tiff
 
+简洁的
+	succinct	简洁的，言简意赅的[APPROVINNG]
+	laconic		简洁的，言简意赅的[FORMAL]
+	terse		简短生硬的(using few words, sometimes in a way that seems rude or unfriendly)
+	curt		（态度或说话）简短而失礼的，言辞简略以至于显得粗鲁的[DISAPPROVING]
+	concise		简洁的，简明扼要的
+
+呼吸
+	respire
+	inhale		吸气
+	exhale		呼气
+	breathe
+
+无可争议的
+	undoubted
+	incontrovertible
+	undisputed
+
+漫步
+	wander
+	stroll
+	meander
+	stray
+	amble
+	ramble
+	hang around
+	roam
+
 边，边缘，边沿	n.
 	edge
 	verge
@@ -119,6 +147,7 @@
 根除
 	deracinate
 	eradicate
+	exterminate
 
 温和的
 	moderate(品行)

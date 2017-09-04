@@ -26,7 +26,6 @@ connotation 	n.	内涵
 charisma	n.	魅力，领导力
 torture		n./vt.	折磨，拷问
 debt		n.	债务
-recital		n.	独奏会
 shrewd		a.	精明的
 	shrewdness	n.	精明
 controvert	v.	争论
@@ -61,8 +60,8 @@ kudos		n.  	名声，声誉
 distress    	n.  	痛苦		v.使痛苦
 pugnacity	n.	好斗
 	pugnacious	adj.	好斗的
-	repugnant	adj.	令人反感的
-		repugnance	n.	厌恶；矛盾，不一致
+	repugnant	adj.	令人反感的；不一致的
+		repugnance	n.	厌恶；不一致，矛盾
 	expunge		vt.	删除，抹去
 	impugn		vt.	质疑
 	oppugn		vt.	质疑
@@ -429,9 +428,151 @@ inquire		v.	问，询问
 gratify		v.	使高兴，使满意
 	-ing		a.	令人～的
 	gratification	n.	愉悦，满足
+	grateful	a.	感激的
+		un-		a.	不感激的->忘恩负义的
 	gratitude	n.	感激的心情
 		in-		n.	不感激->忘恩负义
-	grateful	a.	感激的
-		un-		a.
 	gratuity	n.	小费，赏钱
-		gratuitous	a.	不必要亦不好的；不求报酬的；
+		gratuitous	a.	（工作）无报酬的；（人）不求报酬的；（商品）免费的；bad and unnecessary
+	ingratiate	v.	为...赢得好感(usual: A ingratiate A-self with B = A讨好B)
+		-ing		a.	[贬]迎合的，奉承的
+		ingratiation	n.
+		ingratiatory = -ing
+
+specifics		n.	细节 = detail
+revelry		n.	（尤指吵闹地）狂欢，作乐
+obnoxious	a.	令人反感的，粗鲁无礼的
+objectionable	a.	令人反感的
+convivial	a.	友好的；欢乐的，愉悦的 a convivial atmosphere/host 欢乐的气氛／热情的主人
+recompense	n.	支付，酬谢，报答；补偿
+requite		vt.	报答
+compensatoin	n.	补偿
+
+unearned	a.	不劳而获的
+grain		n.	颗粒
+	granule		n.	颗粒		coffee granules 咖啡粒
+		granular	a.	颗粒状的
+			granularity	n.	粒度
+
+strapping	a.	(人)魁梧的
+
+indemnify	vt.	保障，担保
+	indemnity	n.	保障，担保
+	indemnification = indemnity
+
+sparing		a.	节俭的
+liquor		n.	烈酒		intoxicating liquor
+
+temp
+	temper
+	tempest
+	temporary
+	temperance
+
+contrary
+contrast
+
+rigor		n.
+	rigorous	a.
+	rigid		a.
+		non-		a.
+		rigidity	n.
+
+fable		n.
+	-ed		a.
+	fabulous	a.
+		-ly		adv.
+
+cite		vt.	引用
+	citation	n.	引用
+	incite		vt.	煽动
+		incitement	n.
+	excite		vt.	使...激动；**激起，引起(formal)**
+		-ed
+		-ing
+		excitable
+		excitant
+		excitement
+		excitation
+	recite		v.	背诵
+		recitative	a.
+		recitation	n.
+		recital		n.	独奏会
+
+meteor		n.	流星（穿过地球大气的流星体） = shooting star
+	meteoric
+	meteoroid	n.	流星体（还未进入地球大气）
+	meteorite	n.	陨石（已经落地的）
+	meteorology	n.	气象学
+		-ic
+		-ical
+		-ist
+
+toxin		n.	毒素
+	toxicant	n.
+	toxicology	n.
+		-ical		a.
+	intoxicate	vt.
+		-ed
+		intoxication	n.
+	antitoxin
+	toxic		a.
+		antitoxic	a.
+		toxicity	n.
+
+pure
+	-ly
+	purist		n.
+	purity		n.
+		impurity	n.
+	purify
+		purification	n.
+	purge		v.
+		purgation	n.
+		purgatory	a.
+		purgative	a.
+
+sinus		n.
+	sinuous		a.
+	insinuate	v.
+		-ing		a.
+		insinuation	n.
+
+ordinate
+	subordinate
+	superordinate
+	coordinate
+
+respire		vi.	呼吸
+	respiratory	adj.	呼吸的
+	respiration	n.	呼吸
+		artificial respiration
+		photorespiration	n.	光呼吸（作用）
+
+semble		= It seems	多用于法律领域	e.g. Semble that ...
+	semblance	n.	相似，近似
+	resemble	vt.	像
+	assemble	v.	组装；集合	(拆卸dismantle);(解散dismiss)
+	dissemble	v.	掩盖，掩饰
+
+proselyte	n.	改变信仰者	v. =proselytize
+	proselytize	v.	使改变信仰
+		-er = -ist	n.	劝说他人改变信仰者
+			proselytistic	a.
+		proselytization	n.
+	proselytism	n.	改变信仰
+
+escort		vt.	护送
+moralize	vi.	说教[贬]
+
+dominant
+	predominant
+		-ly
+
+laconic		a.	简洁的
+	laconism	n.	简洁(brevity or terseness of expression or style)；一条简洁的表述(a laconic expression)
+	laconicism = laconism
+
+delinquent	a.	拖欠的[FORMAL]；（青少年）不良的，违法的	n. 不良少年
+overdue		a.	过期的，延误的
+

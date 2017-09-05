@@ -315,9 +315,6 @@ Jew		n.	犹太人
 	Jewry		n.	（总称）犹太人(=all the Jews)
 	Judaism		n.	犹太教
 
-inhere		vi.	固有，原本就有	Does selfishness inhere in each of us?
-	inherent	a.	内在的，固有的
-		inherence	n.
 
 petrol		n.	汽油（透明）	UK = US **Gasoline**
 	petroleum	n.	石油（黄黑色）
@@ -651,4 +648,61 @@ illustrate	v.	举例说明；给...插图；
 
 
 prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
-lustrum		n.	5年
+
+olympiad = 4 years
+lustrum = 5 years
+decade = 10 years
+indiction = 15 years
+century = 100 years
+millennium = 1000 years
+
+inhere		vi.	固有，原本就有	Does selfishness inhere in each of us?
+	inherent	a.	内在的，固有的
+		inherence	n.	内在，固有
+		inherency = inherence
+
+adhere		vi.	粘；遵守，忠于；	(~ to)
+	adhesive	a.	有粘性的；	n. 粘合剂；[没有抽象的意思，这个词指且仅指物理性质]
+	adherent	a.	有粘性的；遵守的	n.	信徒，追随者
+		adherence	n.	粘性，附着性；遵守，忠诚	adherence of paint to wood 油漆和木料之间的附着性	He was noted for his strict adherence to the rules.  他因为严守规则而闻名。	nations adherent to the treaty 遵守条款的国家
+
+cohere		vi.	（论据或理论）连贯，有条理(all the stages of an argument or theory fit together to form a reasonable whole)；合为一体；The various elements of the novel fail to cohere.  这部小说的各部分之间无法连贯起来。
+	cohesive
+	coherent	a.
+		coherence	n.
+		coherency = coherence
+
+viscid		a.	粘性的(=adhesive, sticky)；黏稠的(viscous)；
+	viscous		a.	黏稠的
+		viscosity	a.	黏稠度
+
+consistency	a.	一致性；**黏稠度(=viscosity)**(但是consistent没有`粘稠的`的意思)	Boil the juice to the consistency of a thick syrup.
+
+maple		n.	枫树
+syrup		n.	糖浆
+	maple syrup	n.	枫糖浆
+
+heinous		a.	罪大恶极的
+	heinousness	n.
+hideous		a.	极丑陋的；（罪行）可怕的
+
+slander		vt./n.	诋毁，诽谤
+slender		a.	苗条的，纤细的
+
+plagiary = plagiarism		-[archaic]剽窃者 = plagiarizer
+	plagiarize	v.	剽窃
+	plagiarism	n.	剽窃
+
+amorous		a.	表示性爱的，色情的
+
+lightly		adv.	随便地，不严肃地(=casually?)
+
+the Orient	东方国家
+the Occident	欧美国家
+
+sublime		vt.	使升华（物质直接由solid转化为vapor）	a.	极好的
+	the sublime	n.	极好之物
+
+dread		n.	恐惧	vt. 感到恐惧
+	dread to think		不愿想；不敢想 I dread to think what would happen if he was left to cope on his own.  我不敢想象，如果让他自己去应付会怎么样。
+

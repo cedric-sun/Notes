@@ -1,0 +1,9 @@
+ye		= the, you(plura)
+thou		= you(nominative,single)
+thee		= you(objective)
+thy		= your(single)
+shalt		= shall
+	thou shalt
+aye		= yes
+saith		= says(third person singular present)
+

@@ -235,7 +235,7 @@ pervade		v.	[抽象](信息，情绪的)弥漫，渗透	to spread or diffuse thr
 	pervasive	a.	弥漫的，遍布的
 	pervasion	n.
 
-sour		a.	酸味的
+sour vinegary	a.	酸味的
 	vinegar		n.	醋
 bitter		a.	苦味的
 spicy pungent	a.	辛辣的
@@ -514,6 +514,7 @@ toxin		n.	毒素
 		-ical		a.
 	intoxicate	vt.
 		-ed
+		intoxicant	n.
 		intoxication	n.
 	antitoxin
 	toxic		a.
@@ -576,3 +577,78 @@ laconic		a.	简洁的
 delinquent	a.	拖欠的[FORMAL]；（青少年）不良的，违法的	n. 不良少年
 overdue		a.	过期的，延误的
 
+imminent	a.	临近的，即将发生的，迫在眉睫的
+inferior	a.	差的		be inferior to 比...次
+ignis fatuus	n.	鬼火，磷火
+
+vigil		n.	守夜		Vigil Knight 守夜骑士
+	vigilant	a.	警惕的，警觉的
+		vigilance	n.	警惕，警觉
+	vigilante	n.	（尤指认为警方无法维持治安而自发组织起来的）治安会会员，治安维持者
+
+vacillate	vi.
+	vacillant	a.
+	vacillation	n.
+
+penal		a.	刑罚的，刑事的
+	penalty		n.	惩罚
+	penalize	vt.	惩罚
+
+penance		n.	忏悔	v. 迫使...忏悔
+repent		vi.	后悔，忏悔
+	repentant	a.	悔悟的
+		unrepentant	a.	不思悔改的
+		repentance	n.
+
+penitent	a.	（感到）悔悟的，悔改的
+	impenitent	a.	不知悔改的
+	penitence	n.
+	penitency = penitence
+	penitential	a.	（和）悔悟（有关）的
+	penitentiary	n.	监狱
+
+tantalize	vt.	用欺骗来戏弄，使...干着急
+	-zation		n.
+
+Hades
+Styx
+
+venerate	vt.	尊敬 [FORMAL]
+	venerable	adj.	德高望重的（强调得到尊重是因为年龄或社会地位）
+		Venerable	n.	（天主教）尊者；（佛教）法师 [均为尊称]
+	veneration	n.
+
+vile		a.	邪恶的；可耻的；极令人厌恶的
+	revile		vt.	谩骂，辱骂[FORMAL]
+	vilify		vt.	诋毁，诬蔑
+		vilification	n.
+
+abusive		a.	辱骂的		an abusive letter/phone call 辱骂信／电话 He was apparently abusive to the flight attendants.  显然他对航班乘务员说了些不干不净的话。
+
+withhold	vt.	拒绝给予
+rail		vi.	抱怨，谴责(usually rail at/against)
+
+lu-, lumin- = light(Latin)
+luster		n.	光泽，光辉 = UK. lustre
+	lustrous	a.	有光泽的
+	lackluster	a.	黯淡无光的
+
+lucent		a.	透明的
+	lucency		n.	透明
+	translucent	a.	透明的；半透明的；
+
+lucid		a.	清晰明了的，易懂的；
+	lucidity	n.
+	pellucid	a.	清澈透明的，易懂的；
+
+elucidate	v.	阐明，解释
+
+luminous	a.	发光的
+	luminary	n.	知名人士
+	illuminate	vt.	照亮；阐明，解释
+
+illustrate	v.	举例说明；给...插图；
+
+
+prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
+lustrum		n.	5年

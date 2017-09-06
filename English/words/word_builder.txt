@@ -144,23 +144,21 @@ flirt		vi.	调情，打情骂俏
 diocese		n.	主教辖区 an area controlled by a bishop
 	diosesan	a.	主教辖区的
 nettlesome	a.	烦人的，讨厌的
-scrupulous
 
-vituperation	n.	辱骂
-vituperative
+vituperate	v.	辱骂	~= berate
+	vituperation	n.	辱骂
+	vituperative	a.	辱骂的
 
-indurate??
-prevaricate	
-repose
-plodding
-pleat
-sedate
-repudiate
+indurate	vt.	使...变硬	adj. 铁石心肠的
+sedate		a.	平静的(=unruffled)	vt. 给...服镇定剂
+	-ly		adv.
+	-ness		n.	(adj -> noun)
+	-tion		n.	(v -> noun)
+	sedative	a.	使人平静的	n.	镇静剂
+
 treason		n.	叛国（罪）
-clunky
 tenet		n.	基本原则，宗旨 [FORMAL]one of the principles on which a belief or theory is based
-lethal
-	sublethal
+
 sense
 	sensible	a.	明智的；意识到的 be sensible of = be cognizant of;（形容衣物）实用的（而非时髦花哨的）
 		insensible	a.	无动于衷的(be ~ of/to)；失去知觉的；
@@ -182,7 +180,7 @@ sense
 		sensation	n.	感觉；轰动性事件；
 			sensational	a.	极好的；（新闻报道）耸人听闻的
 				sensationalize	v.
-ethnic	a.
+ethnic	a.	种族的；民族特色的；
 	ethnical = ethnic
 	ethinicity	n.	种族
 	ethnology	n.	人种学
@@ -222,6 +220,7 @@ cognitive	a.	认知的
 mule		n.	骡子
 	mulish		a.	（骡子般）顽固的	
 quaff		v.	痛饮，大口喝
+
 permeate	v.	[具象的物质，但可指抽象事物]渗透，弥漫
 	permeation	n.
 	permeant	adj.	渗透的
@@ -276,7 +275,7 @@ urban		a.	城市的
 		urbanity	n.
 
 luxury		n.
-	luxurious	a.
+	luxurious	a.	奢侈的；舒服的； The cat gave a long, luxurious stretch.  猫舒舒服服地伸了一个长长的懒腰。
 	luxuriate	v.	（尤指物质方面）享受，享用
 	luxuriant	a.	茂盛的；浓密的
 		luxuriance	n.
@@ -286,7 +285,7 @@ retaliate	v.	报复
 	retaliatory	a.	报复性的
 	retaliation	n.	报复
 
-über-	uu-ber		prefix.	（用于名词前）极度的，超级的，极好的，极成功的
+über-	uu-ber		prefix.	（用于名词前）极度的，超级的，极好的，极成功的	über-billionaire 超级富翁
 consulate	n.	领事馆
 
 speculate	v.	推测；投机，做投机买卖
@@ -341,15 +340,17 @@ suspect		vt.	怀疑	n. 嫌疑犯	a.可疑的
 
 solar plexus	n.	心口，心窝 a punch in the solar plexus 打在心口上的一拳
 
-conceive	v.
-	conceivalbe	a.
+conceive	v.	构思；怀孕；
+	conception	n.
+	conceivalbe	a.	能想到的 Books on every conceivable subject 能想到的所有学科的书
 		-ly	adv.
 		in-	a.
-	concept		n.
-		conceptual	a.
-			conceptualize	v.
-			conceptualist	n.
-			conceptualism	n.
+
+concept		n.
+	conceptual	a.
+		conceptualize	v.
+		conceptualist	n.
+		conceptualism	n.
 
 fuse		v.	（使）熔化，熔合	n. 保险丝
 	fusible		a.	易熔的
@@ -430,9 +431,9 @@ gratify		v.	使高兴，使满意
 	gratuity	n.	小费，赏钱
 		gratuitous	a.	（工作）无报酬的；（人）不求报酬的；（商品）免费的；bad and unnecessary
 	ingratiate	v.	为...赢得好感(usual: A ingratiate A-self with B = A讨好B)
-		-ing		a.	[贬]迎合的，奉承的
+		ingratiating	a.	[贬]迎合的，奉承的
 		ingratiation	n.
-		ingratiatory = -ing
+		ingratiatory = ingratiating
 
 specifics		n.	细节 = detail
 revelry		n.	（尤指吵闹地）狂欢，作乐
@@ -458,24 +459,39 @@ indemnify	vt.	保障，担保
 sparing		a.	节俭的
 liquor		n.	烈酒		intoxicating liquor
 
-temp
-	temper
-	tempest
-	temporary
-	temperance
+temper		n.	脾气，性情	vt. 使缓和	I learned to temper my criticism.  我学会了批评别人时语气要缓和些。
+	temperate	a.	气候温和的；（行为）温和的，适度的 calm and controlled
+		in-		a.
+		temperance	n.	自我克制，节制（如戒酒、节食等）
+		temperament	n.	性情，气质
+			temperamental	a.	喜怒无常的；性情的；（机器）性能不稳定的
+		temperature	n.	温度
 
-contrary
-contrast
+# tempor-: time(latin)
+temporal	a.	时间的；尘世的，物质的（与spiritual相对）
+	temporary	a.	临时的
+		contemporary	a.	当代的；同时代的；	n. 同时代的人，同辈
+	temporize	vi.	拖延(=procrastinate);妥协(=compromise)
+
+earthly		adj.	尘世的，世俗的(literary: happening in or relating to this world and this physical life, not in heaven or relating to a spiritual life); （用于疑问句或否定句中）可能的，能想到的 What earthly reason can she have for being so horrible to you?  她对你这么不友好，到底什么原因？
+
+secular		a.	世俗的，非宗教的(not having any connection with religion)
+
+contrast	n.	反差，对比	vt. 对比	vi. 形成对照	The styles of the two film makers contrast quite dramatically.  两位电影导演风格迥异。
+contrary	n.	相反，对立面	a. 相反的，对立的
+	on the contrary = to the contrary 正相反
 
 rigor		n.
-	rigorous	a.
-	rigid		a.
+	rigorous	a.	（法律）严厉的；（研究）严谨的
+		-ness		n.
+	rigid		a.	僵硬的；刚硬的，不能弯曲的；死板的；严格的
 		non-		a.
-		rigidity	n.
+		-ness		n.
+		rigidity	n.	死板；（金属）刚性；
 
-fable		n.
-	-ed		a.
-	fabulous	a.
+fable		n.	寓言；神话；谎言
+	-ed		a.	传奇式的；虚构的；
+	fabulous	a.	极好的；虚构的；
 		-ly		adv.
 
 cite		vt.	引用
@@ -486,16 +502,17 @@ cite		vt.	引用
 		-ed
 		-ing
 		excitable
-		excitant
-		excitement
-		excitation
-	recite		v.	背诵
-		recitative	a.
-		recitation	n.
+		excitant	a.	刺激性的；兴奋剂；
+		excitement	n.
+		excitation	n.
+
+	recite		v.	背诵，朗诵；列举(enumerate)；
+		recitative	a.	背诵的	n. 背诵，朗诵(=recitation)
+		recitation	n.	背诵，朗诵；列举(enumerating)；
 		recital		n.	独奏会
 
 meteor		n.	流星（穿过地球大气的流星体） = shooting star
-	meteoric
+	meteoric	a.	流星的；如流星般（耀眼/快速/短暂）的；
 	meteoroid	n.	流星体（还未进入地球大气）
 	meteorite	n.	陨石（已经落地的）
 	meteorology	n.	气象学
@@ -503,18 +520,20 @@ meteor		n.	流星（穿过地球大气的流星体） = shooting star
 		-ical
 		-ist
 
-toxin		n.	毒素
-	toxicant	n.
-	toxicology	n.
-		-ical		a.
-	intoxicate	vt.
-		-ed
-		intoxicant	n.
+toxic		a.	有毒的；（人）中毒的；
+	toxicant	n.	有毒物
+	toxicity	n.	毒性
+	toxin		n.	毒素
+	toxicology	n.	毒理学
+		-gical		a.
+		-gist		n.
+	intoxicate	vt.	给...下毒；使醉倒；使沉醉；
+		intoxicant	n.	致醉物；麻醉品		a. 醉人的 = intoxicating
 		intoxication	n.
-	antitoxin
-	toxic		a.
-		antitoxic	a.
-		toxicity	n.
+	antitoxic	a.	抗毒的
+		antitoxin	n.	抗毒素
+
+antidote	n.	解毒剂
 
 pure
 	-ly
@@ -523,21 +542,21 @@ pure
 		impurity	n.
 	purify
 		purification	n.
-	purge		v.
+	purge		v.	肃清；净化（邪恶）；通便；	n. 政治肃清
 		purgation	n.
-		purgatory	a.
-		purgative	a.
+		purgatory	a.	（天主教教义中的）炼狱，涤罪所；[humorous]炼狱般的经历
+		purgative	a.	泻药(=laxative)
 
-sinus		n.
-	sinuous		a.
-	insinuate	v.
+sinus		n.	鼻窦???wtf
+	sinuous		a.	[literary]弯曲的，蜿蜒的
+	insinuate	vt.	1. to introduce (something, such as an idea) gradually or in a subtle, indirect, or covert way （渗入？） 2. 影射，含沙射影地说(something unpleasant);
 		-ing		a.
 		insinuation	n.
 
 ordinate
-	subordinate
-	superordinate
-	coordinate
+	subordinate	n.	下属，下级 adj. 下级的；次要的 vt. 征服（使从属于，使处于次要地位）
+	superordinate	n.	上级，上司(=superior)	a.
+	coordinate	vt.	协调，使配合	vi. 相配(A ~ with B)	n. 坐标
 
 respire		vi.	呼吸
 	respiratory	adj.	呼吸的
@@ -581,8 +600,8 @@ vigil		n.	守夜		Vigil Knight 守夜骑士
 		vigilance	n.	警惕，警觉
 	vigilante	n.	（尤指认为警方无法维持治安而自发组织起来的）治安会会员，治安维持者
 
-vacillate	vi.
-	vacillant	a.
+vacillate	vi.	摇摆不定；犹豫不决；
+	vacillant	a. = vacillating
 	vacillation	n.
 
 penal		a.	刑罚的，刑事的
@@ -593,7 +612,7 @@ penance		n.	忏悔	v. 迫使...忏悔
 repent		vi.	后悔，忏悔
 	repentant	a.	悔悟的
 		unrepentant	a.	不思悔改的
-		repentance	n.
+		repentance	n.	后悔，忏悔
 
 penitent	a.	（感到）悔悟的，悔改的
 	impenitent	a.	不知悔改的
@@ -605,8 +624,9 @@ penitent	a.	（感到）悔悟的，悔改的
 tantalize	vt.	用欺骗来戏弄，使...干着急
 	-zation		n.
 
-Hades
-Styx
+Hades		n.	冥界；哈迪斯；
+Styx		n.	冥河
+	Stygian		a.	地狱的，冥河的
 
 venerate	vt.	尊敬 [FORMAL]
 	venerable	adj.	德高望重的（强调得到尊重是因为年龄或社会地位）
@@ -665,11 +685,11 @@ adhere		vi.	粘；遵守，忠于；	(~ to)
 		adherence	n.	粘性，附着性；遵守，忠诚	adherence of paint to wood 油漆和木料之间的附着性	He was noted for his strict adherence to the rules.  他因为严守规则而闻名。	nations adherent to the treaty 遵守条款的国家
 
 cohere		vi.	（论据或理论）连贯，有条理(all the stages of an argument or theory fit together to form a reasonable whole)；合为一体；The various elements of the novel fail to cohere.  这部小说的各部分之间无法连贯起来。
-	cohesive
-	coheresion
-	coherent	a.
-		coherence	n.
+	coherent	a.	一致的，连贯的（强调逻辑上能成为一个整体的）；（人）说话清晰有条理的；（光）相干的
+		coherence	n.	连贯性
 		coherency = coherence
+	cohesive	a.	连贯的，一致的；有凝聚力的；
+	cohesion	n.	凝聚力，团结
 
 viscid		a.	粘性的(=adhesive, sticky)；黏稠的(viscous)；
 	viscous		a.	黏稠的
@@ -773,3 +793,15 @@ hypnotic	a.	催眠的；令人着迷的
 magnetism	n.	磁力；**吸引力，魅力**
 trance		n.	催眠状态，恍惚，出神
 statute		n.	法令（强调已批准，且已成文的法律）
+
+scrupulous	a.	acting in strict regard for what is considered right or proper;punctiliously exact
+punctilious	a.	一丝不苟的
+
+ruff		n.	褶皱衣领
+	ruffle		vt.	弄乱，弄皱；使生气;
+		unruffled	a.	平静的，泰然自若的
+
+disown		vt.	声明与...断绝关系
+clunky		a.	笨重的
+lethal		a.	致死的
+	sublethal	a.	尚不致死的...我背这个干嘛》》？》？《？》《？》	

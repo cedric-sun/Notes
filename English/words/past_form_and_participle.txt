@@ -9,10 +9,10 @@ grow	grew	grown
 
 stun	stunned	stunned
 
-lie	lay	lain
-	lied	lied
+lie	lay	lain	lying	躺
+	lied	lied	lying	说谎
 
-lay	laid	laid
+lay	laid	laid	放，放置
 
 breed	bred	bred
 

@@ -24,7 +24,6 @@ errand		n.	使命
 truncate	v.	截短，删节
 connotation 	n.	内涵
 charisma	n.	魅力，领导力
-torture		n./vt.	折磨，拷问
 debt		n.	债务
 shrewd		a.	精明的
 	shrewdness	n.	精明
@@ -111,7 +110,6 @@ affect		vt.	影响；假装；
 affectation	n.	做作，装模作样
 attentive	a.	认真倾听的；关心的，体贴的
 decorum		n.	（行为）稳重，端庄
-torpedo		n.	鱼雷；	v.	用鱼雷破坏； -> 破坏，毁坏[INFORMAL]
 
 patriarch	n.	（男性）族长
 	patriarchic = patriarchal
@@ -668,6 +666,7 @@ adhere		vi.	粘；遵守，忠于；	(~ to)
 
 cohere		vi.	（论据或理论）连贯，有条理(all the stages of an argument or theory fit together to form a reasonable whole)；合为一体；The various elements of the novel fail to cohere.  这部小说的各部分之间无法连贯起来。
 	cohesive
+	coheresion
 	coherent	a.
 		coherence	n.
 		coherency = coherence
@@ -706,3 +705,71 @@ sublime		vt.	使升华（物质直接由solid转化为vapor）	a.	极好的
 dread		n.	恐惧	vt. 感到恐惧
 	dread to think		不愿想；不敢想 I dread to think what would happen if he was left to cope on his own.  我不敢想象，如果让他自己去应付会怎么样。
 
+civil
+resilient	a.	有弹性的，能复原的
+
+venal
+	venality	n.
+
+sophism
+surge
+	insurgent
+	resurge
+	surgence
+
+hysteria	n.	歇斯底里
+dismal		a.	阴沉的，凄凉的
+
+impale		vt.	刺穿，刺死
+rescind		vt.	废除，取消
+
+ferment		v.	（使）发酵；（使）事态发酵->煽动=foment	n. 骚动，动乱
+	fermentable	a.
+		fermentability	n.
+	fermentation	n.
+yeast		n.	酵母；导火索（煽动群情之事物）	were all seething with the yeast of revolt — J. F. Dobie
+seethe		vi	（大量人或物在狭小的空间内）涌动，密集，云集
+dough		n.	面团
+	sourdough	n.	酵头（包含酵母的面团）
+leaven		n.	酵母	v. 发酵；使生动有趣
+
+subside		vi.	缓和，平息；下降，下沉
+	subsidence	n.
+	subsidy		n.	补助金，补贴
+		subsidize	vt.	补助，资助
+		subsidiary	a.	辅助的，次要的；子公司，附属公司
+tort
+	distort		vt.	扭曲（事实）
+	contort		v.	（物理）扭曲
+	retort		vt./n.	（愤怒或风趣地）反驳，回嘴
+	extort		vt.	敲诈，勒索
+
+torpor		n.	不活跃，萎靡
+torpid		a.	不活泼的，萎靡的
+	torpidity	n.	= torpor
+torture		vt./n.	折磨，拷问	bottom 50%
+torment		vt./n.	折磨，拷问	top 40%
+
+torpedo		n.	鱼雷；	v.	用鱼雷破坏； -> 破坏，毁坏[INFORMAL]
+
+forbear		vi.	克制，忍耐
+	forbearance	n.
+
+forebear	n.	祖先
+
+scarcely	adv.	几乎不 = barely = hardly
+
+mesmeric	a.	催眠术的；令人着迷的
+	mesmerize	vt.	催眠；迷住；	= hypnotize
+	mesmerism	n.	催眠术		= hypnotism
+	mesmerist	n.
+
+hypnotic	a.	催眠的；令人着迷的
+	hypnosis	n.	催眠状态
+	hypnotize	v.	催眠；使...着迷于(passive)	I was hypnotized by his steely grey eyes.  我被他那双神情坚毅的灰色眼睛迷住了。
+	hypnotism	n.
+	hypnotist	n.
+
+magnetism	n.	磁力；**吸引力，魅力**
+trance		n.	催眠状态，恍惚，出神
+statute		n.	法令（强调已批准，且已成文的法律）

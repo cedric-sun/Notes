@@ -4,6 +4,11 @@
 	controvert	
 	tiff
 
+小册子
+	brochure
+	pamphlet
+	tract
+
 浸，浸没在
 	steep
 	soak

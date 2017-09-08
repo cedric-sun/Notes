@@ -145,7 +145,7 @@ diocese		n.	主教辖区 an area controlled by a bishop
 	diosesan	a.	主教辖区的
 nettlesome	a.	烦人的，讨厌的
 
-vituperate	v.	辱骂	~= berate
+vituperate	v.	辱骂	~= berate	[formal]
 	vituperation	n.	辱骂
 	vituperative	a.	辱骂的
 
@@ -186,9 +186,10 @@ ethnic	a.	种族的；民族特色的；
 	ethnology	n.	人种学
 
 Caucasian	n.	高加索人
-stratum		n.	地层；阶级
+stratum		n.	地层；阶级 [pl. strata]
 	stratify	v.	使...分层
 	stratigraphy	n.	地层学
+	substratum	n.	基础，根基
 
 circle
 	circulate	v.	（使）循环，（使）流通
@@ -414,7 +415,7 @@ inquire		v.	问，询问
 	inquiry		n.
 	inquiring	a.	刨根问底的
 	inquirer	n.	询问者
-	inquisitor	n.	[贬]问题过多的询问者
+	inquisitor	n.	[贬]讯问者，问题过多的询问者
 		inquisitive	a.	好奇的，好问
 			-ly		adv.
 			-ness		n.	好奇
@@ -805,3 +806,37 @@ disown		vt.	声明与...断绝关系
 clunky		a.	笨重的
 lethal		a.	致死的
 	sublethal	a.	尚不致死的...我背这个干嘛》》？》？《？》《？》	
+innocuous	a.	无害的
+
+operate
+	cooperate
+
+corporate
+	incorporate
+	corporation
+
+build		n.	身材
+
+-turb
+	perturb
+	disturb
+
+shun		vt.	回避，避开
+
+fervor
+	fervid
+	fervent
+		fervency
+
+resoluteness
+caliber
+	calibrate
+
+shrivel
+parody
+dogma
+	dogmatic
+
+undergrowth
+immanent
+impudent

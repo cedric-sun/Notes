@@ -4,6 +4,9 @@
 	controvert	
 	tiff
 
+业余的
+	amateur
+
 小册子
 	brochure
 	pamphlet

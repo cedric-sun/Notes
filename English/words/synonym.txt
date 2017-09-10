@@ -4,6 +4,10 @@
 	controvert	
 	tiff
 
+坚持的
+	pertinacious	[FORMAL]
+	tenacious
+
 业余的
 	amateur
 
@@ -52,6 +56,7 @@
 	ramble
 	hang around
 	roam
+	saunter
 
 边，边缘，边沿	n.
 	edge
@@ -140,6 +145,7 @@
 	plunge
 	plummet
 	slump
+	plump
 
 暴涨，剧增
 	spurt

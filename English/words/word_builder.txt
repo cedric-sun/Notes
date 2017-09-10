@@ -236,7 +236,7 @@ pervade		v.	[抽象](信息，情绪的)弥漫，渗透	to spread or diffuse thr
 sour vinegary	a.	酸味的
 	vinegar		n.	醋
 bitter		a.	苦味的
-spicy pungent	a.	辛辣的
+spicy pungent piquant	a.	辛辣的
 	garlic		n.	大蒜
 	ginger		n.	姜
 	pepper		n.	胡椒
@@ -773,6 +773,9 @@ torment		vt./n.	折磨，拷问	top 40%
 
 torpedo		n.	鱼雷；	v.	用鱼雷破坏； -> 破坏，毁坏[INFORMAL]
 
+torrid		a.	炙热的
+turgid		a.	（写作）枯燥而浮夸的
+
 forbear		vi.	克制，忍耐
 	forbearance	n.
 
@@ -839,4 +842,9 @@ dogma
 
 undergrowth
 immanent
+percipient
 impudent
+plunder
+minutia
+refract
+stain

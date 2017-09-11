@@ -4,6 +4,20 @@
 	controvert	
 	tiff
 
+宣告无罪
+	absolve
+	acquit
+
+减轻罪过，辩解
+	exonerate
+
+使有罪
+	incriminate
+
+非法的
+	illegal
+	illicit
+	illegitimate
 坚持的
 	pertinacious	[FORMAL]
 	tenacious

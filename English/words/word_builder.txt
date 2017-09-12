@@ -479,8 +479,8 @@ earthly		adj.	尘世的，世俗的(literary: happening in or relating to this w
 secular		a.	世俗的，非宗教的(not having any connection with religion)
 
 contrast	n.	反差，对比	vt. 对比	vi. 形成对照	The styles of the two film makers contrast quite dramatically.  两位电影导演风格迥异。
-contrary	n.	相反，对立面	a. 相反的，对立的
-	on the contrary = to the contrary 正相反
+contrary	n.	相反，对立面	a. 相反的，对立的	on the contrary = to the contrary 正相反
+converse	n.	相反，对立面	a. 相反的，对立的	vi.+with 与某人交谈	Conversely...	相反...		the converse 相反的事物
 
 rigor		n.
 	rigorous	a.	（法律）严厉的；（研究）严谨的
@@ -848,3 +848,10 @@ plunder
 minutia
 refract
 stain
+enthrall
+lapse
+	elapse
+	collapse
+		colapsible
+	prolapse
+	relapse

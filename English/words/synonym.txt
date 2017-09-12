@@ -4,16 +4,33 @@
 	controvert	
 	tiff
 
+推动力
+	propulsion
+
+
+sip
+sap 
+spat
+spit
+
+摇摆
+	sway
+
+蹒跚而行
+	
 宣告无罪
 	absolve
 	acquit
+	exonerate
 
 减轻罪过，辩解
-	exonerate
+	extenuate
 
 使有罪
 	incriminate
 
+囚禁
+	
 非法的
 	illegal
 	illicit

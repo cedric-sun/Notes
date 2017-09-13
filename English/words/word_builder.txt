@@ -855,3 +855,17 @@ lapse
 		colapsible
 	prolapse
 	relapse
+
+stage-manage		vt.	精心安排	stage-managed = carefully choreographed
+management		n.	资方，管理层
+per se			adv.		[FORMAL] by or of itself 自身，本身 Research shows that it is not divorce per se that harms children, but the continuing conflict between parents.  研究表明，对孩子造成伤害的不是离婚本身，而是父母间持续的矛盾。
+
+incinerate		v.	焚烧
+	inceneration		n.
+
+sporadic		a.	偶尔的；零星的；（强调不稳定，无规律） = occasional
+	sporadically		adv.
+	sporadicity		n.
+
+affix			vt.	附上，粘上	She affixed a stamp to the envelope.
+她把一张邮票贴在信封上。	n. [linguistics]词缀 a group of letters added to the beginning or end of a word to make a new word

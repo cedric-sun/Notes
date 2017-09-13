@@ -1,22 +1,34 @@
-争论，争吵	v.
-	argue		
-	wrangle		n.
-	controvert	
-	tiff
+争论，争吵
+	argue		v.
+	wrangle		v. n.
+	controvert	vt.
+	tiff		vi. n.
+	spat		n.
+
+预兆
+	sign		n	(m-w 6c)预兆	v.
+	portend		vt.	[FORMAL]预示
+		portent		n.	预兆
+			portentous	a.
+	presage		vt.	预示		n.	预兆
+	omen		n.	预兆
+	augur		n.=soothsayer(old use)预言者	v.预示[FORMAL]
+		augury		n.	预兆；占卜术；
+	bode		v.	预示[FORMAL]
+	harbinger	n.	前兆，先锋	vt.	预示	[LITERARY]
+	herald		n.	传令官；前兆;	vt.	预示
+	adumbrate	vt.	预示
+		adumbration	n.	预兆
+	foreshadow	vt.	预示
 
 推动力
-	propulsion
-
-
-sip
-sap 
-spat
-spit
+	propulsion	n.
 
 摇摆
-	sway
+	sway		v.
 
 蹒跚而行
+	waddle
 	
 宣告无罪
 	absolve
@@ -30,17 +42,20 @@ spit
 	incriminate
 
 囚禁
-	
+	imprison	v.
+		imprisonment	n.
 非法的
 	illegal
 	illicit
 	illegitimate
+
 坚持的
 	pertinacious	[FORMAL]
 	tenacious
 
-业余的
-	amateur
+业余的/业余爱好者
+	amateur		a. n.
+	dilettante	a. n.
 
 小册子
 	brochure
@@ -262,12 +277,6 @@ intrinsic
 	vibrant
 	vigorous
 
-预兆
-	portent n.
-	portentous a.
-	presage	n. v.
-	bode v.
-	harbinger n.
 
 分散
 	disseminate vt. 宣传，散播（信息）

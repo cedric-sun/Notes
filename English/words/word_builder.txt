@@ -143,7 +143,9 @@ flirt		vi.	调情，打情骂俏
 
 diocese		n.	主教辖区 an area controlled by a bishop
 	diosesan	a.	主教辖区的
-nettlesome	a.	烦人的，讨厌的
+
+nettle		vt.
+	nettlesome	a.	烦人的，讨厌的
 
 vituperate	v.	辱骂	~= berate	[formal]
 	vituperation	n.	辱骂

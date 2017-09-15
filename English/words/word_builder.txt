@@ -484,8 +484,8 @@ contrast	n.	反差，对比	vt. 对比	vi. 形成对照	The styles of the two fi
 contrary	n.	相反，对立面	a. 相反的，对立的	on the contrary = to the contrary 正相反
 converse	n.	相反，对立面	a. 相反的，对立的	vi.+with 与某人交谈	Conversely...	相反...		the converse 相反的事物
 
-rigor		n.
-	rigorous	a.	（法律）严厉的；（研究）严谨的
+rigor		n.	（脾气、观点的）死板
+	rigorous	a.	（法律）严厉的；（研究）严谨的；
 		-ness		n.
 	rigid		a.	僵硬的；刚硬的，不能弯曲的；死板的；严格的
 		non-		a.
@@ -871,3 +871,6 @@ sporadic		a.	偶尔的；零星的；（强调不稳定，无规律） = occasio
 
 affix			vt.	附上，粘上	She affixed a stamp to the envelope.
 她把一张邮票贴在信封上。	n. [linguistics]词缀 a group of letters added to the beginning or end of a word to make a new word
+
+austere		a.	艰苦的；朴素的；
+	austerity	n.	艰苦；朴素；

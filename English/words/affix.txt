@@ -1,0 +1,11 @@
+legend:
+	#:	variant comment
+
+in
+	# before L:	il	illicit
+	# before B/M/P:	im	imbalance immature impenitent
+	# before R:	ir	irregular
+	否，非		inability	illicit		imbalance
+			immature	impenitent	irregular
+	进入，向内	instill		imprison
+	使，加以	infect?		impress

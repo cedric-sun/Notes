@@ -596,6 +596,8 @@ overdue		a.	过期的，延误的
 
 imminent	a.	临近的，即将发生的，迫在眉睫的
 inferior	a.	差的		be inferior to 比...次
+	antonym: superior
+
 ignis fatuus	n.	鬼火，磷火
 
 vigil		n.	守夜		Vigil Knight 守夜骑士
@@ -799,6 +801,8 @@ hypnotic	a.	催眠的；令人着迷的
 magnetism	n.	磁力；**吸引力，魅力**
 trance		n.	催眠状态，恍惚，出神
 statute		n.	法令（强调已批准，且已成文的法律）
+ordinance	n.	法令，法规[FORMAL]
+
 
 scrupulous	a.	acting in strict regard for what is considered right or proper;punctiliously exact
 punctilious	a.	一丝不苟的
@@ -813,12 +817,10 @@ lethal		a.	致死的
 	sublethal	a.	尚不致死的...我背这个干嘛》》？》？《？》《？》	
 innocuous	a.	无害的
 
-operate
-	cooperate
-
-corporate
-	incorporate
-	corporation
+corporate	a.	公司的；集体的；
+	incorporate	v.	吸收，包含
+	corporation	n.	大公司
+	corporatism	n.	社团主义
 
 build		n.	身材
 
@@ -826,37 +828,43 @@ build		n.	身材
 	perturb
 	disturb
 
-shun		vt.	回避，避开
+shun		vt.	躲避；避免；
 
-fervor
-	fervid
-	fervent
-		fervency
+fervor		n.	热情，热心；炎热；	intensity of feeling or expression
+	fervid = fervent
+	fervent		a.	热情的；炎热的；
+		fervency = fervor
 
-resoluteness
-caliber
-	calibrate
+resolute	a.	坚决的，坚定的
+	resoluteness	n. 决心，坚决(=resolution)
 
-shrivel
-parody
-dogma
-	dogmatic
+caliber		n.	口径；才能；水平； UK calibre
+	calibrate	vt.	调准，使标准化
+		calibration	n.
 
-undergrowth
-immanent
-percipient
-impudent
-plunder
-minutia
-refract
-stain
-enthrall
-lapse
-	elapse
-	collapse
-		colapsible
-	prolapse
-	relapse
+shrivel		v.	（使）枯萎；萎缩；(US -l- UK -ll-)	Profits are shrivelling as the recession gets worse.  随着经济衰退的加剧，利润不断萎缩。
+parody		vt. n.	滑稽模仿（作品）
+
+dogma		n.	（宗教的）教条，教义（可略带贬义，强调死板、不容置疑地相信）
+	dogmatic	a.	教条的；自以为是的，武断的
+		dogmatism	n.	武断，教条
+
+undergrowth	n.	树下灌木（bush是普通的灌木？）
+immanent	a.	内在的
+	immanence	n.
+
+percipient	a.	有洞察力的，洞察力强的 [FORMAL]
+impudent	a.	（尤指对年长者或上级）放肆的，无礼的
+plunder		v.	掠夺，窃取
+refract		vt.	使折射		The glass prism refracted the white light into the colours of the rainbow.  玻璃棱镜将白色光折射成彩虹的七色光。
+stain		n.	污迹	v. 沾污
+enthrall	v.	吸引，迷住	The baseball game completely enthralled the crowd.  棒球赛使得观众们完全着了迷。
+lapse		n.	失误，过失
+	elapse		vi.	（时间）流逝
+	collapse	vi.	倒塌，倒下
+		colapsible	a.	可折叠的
+	prolapse	n.	（器官的）脱垂
+	relapse		v. n.	旧态复萌；旧病复发；
 
 stage-manage		vt.	精心安排	stage-managed = carefully choreographed
 management		n.	资方，管理层
@@ -874,3 +882,67 @@ affix			vt.	附上，粘上	She affixed a stamp to the envelope.
 
 austere		a.	艰苦的；朴素的；
 	austerity	n.	艰苦；朴素；
+
+propel		vt.	推动(尤指物理上的)
+impel		vt.	驱使(im强调内在的动力)
+compel		vt.	强迫；激起，引发[FORMAL]；
+repel		vt.	驱逐；使...厌恶
+aisle		n.	（客机、电影院或教堂座席间的）走廊，过道，（商店货架间的）通道
+	go/walk down the aisle		[informal] to get married 结婚
+
+treachery	n.	背叛[FORMAL]
+	treacherous	a.	背信弃义的；（因环境恶劣）极端危险的
+
+seduce		vt.	诱惑；吸引；(sex)勾引；
+	seducer		n.	勾引者
+	seduction	n.	诱惑，吸引力
+	seductive	a.	诱人的，有诱惑力的
+		seductively	adv.
+		seductiveness	n.
+
+gross		a.	（尤指违法行为）严重的，恶劣的，极端的
+	grossly		adv.	非常，极端
+
+incept		v.	开始；就职；获得学位；
+	inception	n.	开始，创立；就职；获得学位
+	inceptor	n.	学位获得者，接受学位的人
+	inceptive	a.	开端的，起初的；[linguistics]始动词
+
+incipient	a.	刚开始的，起初的 [FORMAL]
+	incipiency	n.	开始 = beginning
+	incipience = incipiency
+
+inchoate	a.	刚开始的，不完全的（强调不完全 formless incoherent） [LITERARY] = incipient
+	inchoation	n.
+	inchoative	a.	=inchoate
+		-ly		adv.
+
+orthography	n.	（正确）拼写法
+decease		v. n.	去世 [FORMAL]
+fakery		n.	伪造，弄虚作假
+visionary
+oomph		n.	活力，热情
+parachute	n.	降落伞
+grudge
+	grudging	a.	不情愿的
+
+comply		vi.	顺从
+	compliant	a.	顺从的，服从的[FORMAL]
+		insubordinate	a.	不服从的
+	compliance	n.	服从，顺从[FORMAL]
+
+prostitute		v.	卖淫
+	prostitution		n.	卖淫
+
+obsequious		a.	谄媚的，奉承的 [FORMAL]
+	obsequiousness		n.
+
+stria		n.	条纹	(plural. striae) = striation
+striate		v.	加条纹		a. =striated 有条纹的
+	striation	n.
+
+debauch		vt.	使堕落，使放荡
+	-ed		a.	堕落的，沉溺酒色的
+	debauchery	n.	放荡，堕落，沉溺酒色，花天酒地
+	debauchee	n.	放荡之人
+

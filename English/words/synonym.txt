@@ -5,6 +5,24 @@
 	tiff		vi. n.
 	spat		n.
 
+贪婪
+	avarice		n.
+	voracity	n.
+		voracious	a.
+			voraciously	adv.
+			voraciousness	n.
+	rapacity
+		rapacious	a.
+			rapaciously	adv.
+			rapaciousness	n.
+
+滑稽(嘲弄性)的模仿
+	mimic		v.
+		mimicry		n.
+	parody		vt. n.
+	travesty	n.	拙劣的模仿[FORMAL]
+	caricature	vt. n.	尤指漫画
+
 预兆
 	sign		n	(m-w 6c)预兆	v.
 	portend		vt.	[FORMAL]预示
@@ -81,6 +99,7 @@
 	terse		简短生硬的(using few words, sometimes in a way that seems rude or unfriendly)
 	curt		（态度或说话）简短而失礼的，言辞简略以至于显得粗鲁的[DISAPPROVING]
 	concise		简洁的，简明扼要的
+	taut		（文章、讲话）简洁的，明快的	taut prose 结构严谨的散文
 
 呼吸
 	respire
@@ -244,6 +263,8 @@ intrinsic
 	conjecture	v./n.	推测猜想
 	surmise		v./n.	推测
 	speculate	v.only	推测
+	suppose		v.	推测
+		supposition	n.	推测
 
 嘲笑
 	jeer	v./n.
@@ -400,6 +421,12 @@ boorish		a.	粗鲁的
 churlish	a.	无礼的
 insolent	a.	无礼的
 loutish		a.	粗鲁的
+impertinent	a.	不敬的
+impious		a.	（尤指对上帝或宗教）不敬的
+flippant	a.	轻率的->无礼的
+	flippancy	n.
+impudent	a.	（尤指对年长者或上级）放肆的，无礼的
+
 
 ====================
 instigate	vt.	煽动，激起
@@ -437,3 +464,6 @@ languor		n.
 lassitude	n.	乏力，没精打采
 lethargic	a.	没精打采的，行动迟缓的(?)
 
+柔软的
+	supple
+	

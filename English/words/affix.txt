@@ -16,5 +16,3 @@ com/con/cor
 			compassion	comflict	concur
 			conspiracy	consortium	correspond	
 			correlate
-
-

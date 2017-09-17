@@ -1025,3 +1025,27 @@ foreordain	v.	注定
 damnation	n.	[宗教]下地狱，遭天谴
 vie		vi.	竞争，争夺	(~ for/with/to_do)	vie vied vied vying
 
+machine		n.	机器
+	machinery	n.	（总称）机器；机构；	bureaucratic/political/decision-making machinery	官僚／政治／决策机构 the machinery of government 政府机构
+	machinelike	a.	机器般的
+	machinist	n.	机械师
+	machinate	v.	密谋，策划阴谋
+		machination	n.	阴谋，诡计
+
+mechanic	n.	技师，修理工
+	mechanics	n.	力学，机械学；机制，原理；
+	mechanical	a.	机械的；机械般的；	mechanical engineering
+		mechanically	adv.
+	mechanize	vt.	使机械化
+		mechanization	n.
+	mechanism	n.	机械装置；机制；体制（制度）；	The mechanism for collecting taxes needs revising. 收税制度需要修改。
+	mechanistic	a.	[哲学]机械论的
+		mechanist	n.
+
+discourse	n.	对话；演讲；文章；[FORMAL]
+
+cathode		n.	阴极
+anode		n.	阳极
+cation		n.	阳离子
+anion		n.	阴离子
+

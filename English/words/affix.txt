@@ -16,3 +16,59 @@ com/con/cor
 			compassion	comflict	concur
 			conspiracy	consortium	correspond	
 			correlate
+
+-monger
+	专门制造（或散布）…的人；（尤指）专门惹麻烦的人
+		warmonger	战争贩子 = a war profiteer
+		ironmonger	五金商
+		fishmonger	鱼贩子
+
+-aholic -oholic
+	...狂，有...癖好的人
+		workaholic	工作狂
+		alcoholic	酗酒者
+		chocoholic	巧克力狂
+
+-folk
+	人，通常指复数或群体
+		menfolk		男子们
+		countryfolk	本国的人们，同胞们；乡下人们； = countrymen
+		townsfolk	镇上的人们
+
+-mania
+	...狂
+		egomania	自大狂
+		kleptomania	偷窃狂
+		megalomania	中二病，认为自己有超乎寻常的能力（权力、地位）的心理疾病
+
+-itis
+	炎，炎症
+		arthritis	关节炎
+		hepatitis	肝炎
+		appendicitis	阑尾炎
+		glossitis	舌炎
+
+-logue -log
+	说话，谈话
+		dialogue	对话
+		duologue	对话
+		monologue	独白
+		catalogue	目录
+	学生，学者
+		sinologue
+
+-cracy -ocracy
+	政体，政治阶级
+		autocracy	独裁体制
+		democracy	民主
+		bureaucracy	官僚体制（主义）
+
+-crat -ocrat
+	...党羽，...（上流）阶级的人
+		democrat	n.	民主党人
+		theocrat	n.	神权政治家
+		aristocrat	n.	贵族
+		plutocrat	n.	富豪
+		bureaucrat	n.	官僚
+
+

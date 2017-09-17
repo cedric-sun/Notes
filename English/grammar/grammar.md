@@ -48,4 +48,60 @@
 
 ### 从句 Clause
 从句充当句子成分
-1. 
+
+
+## 名词
+### 分类
+- 专有名词	没有不加冠词的说法: the Sun, the Yangtze River
+- 普通名词
+	- 个体名词	
+	- 集体名词
+	- 物质名词
+	- 抽象名词
+
+个体名词、集体名词被视为可数名词
+物质名词、抽象名词被视为不可数名词
+
+### 成分
+1. 主语
+	*Knowledge* is power.
+2. 表语
+	Knowledge is *power*.
+3. 宾语
+	I love *knowledge*.
+4. 定语。不如coin一个新词算了。
+	*flower* show
+5. 同位语
+6. 呼语
+7. 状语。Wow。
+	Wait a *minute*, I'll call her.
+	We'll meet *Monday*.	//邪教？
+8. 介词宾语
+	He majored in *physics*.
+9. 复合宾语(compound object) = 宾语 + 宾语补足语？
+	He gave her a *letter*.
+
+## 冠词 Article
+### 零冠词 Zero Article
+
+## 代词
+### 分类
+1. 人称代词	Personal Pronouns	I you he she
+2. 物主代词	Possessive Pronouns	
+3. 反身代词	Reflexive Pronouns
+4. 相互代词	Reciprocal Pronouns
+5. 指示代词	Demonstrative Pronouns
+6. 疑问代词	Interrogative Pronouns
+7. 连接代词	Conjunctive Pronouns
+8. 关系代词	Relative Pronouns
+9. 不定代词	Indefinite Pronouns
+
+### 成分
+1. 主
+	*This* is our new home.
+	*Both* are from the South.
+	*Who* is on the phone?
+2. 宾
+	I have read *neither* of the books.
+	Take care of *yourself*.
+

@@ -66,7 +66,7 @@ pugnacity	n.	好斗
 	oppugn		vt.	质疑
 
 hatred		n.	憎恨
-disposition	n.	性格；倾向
+disposition	n.	性格；倾向；
 incongruous	adj.	不协调的，不一致的
 hassle		vt.	烦扰；		n. 麻烦
 physiognomy	n.	[FORMAL] 相貌，容貌
@@ -75,39 +75,39 @@ erotic		a.	性爱的，性欲的，色情的
 genital		n.	生殖器 = genitalia [均为plural] (male: penis / female: vulva)
 erectile	a.	（躯体组织或部位）能勃起的
 ejaculate	v.	射精
-ejaculation	n.	射精
+	ejaculation	n.	射精
 libido		n.	性欲	(plural. libidos)
 repress		vt.	压抑，克制（感情）；（尤指用武力）镇压
 mend		vt.	修理，修补；
 transmute	vt.	使变形，使变质，把...变成...;
 celibate	a.	禁欲的，没有性生活的	n.	禁欲者
-celibacy	n.	禁欲
+	celibacy	n.	禁欲
 impotent	a.	无能的，无力的；阳痿的
-impotence	n.	无能，无力；阳痿
+	impotence	n.	无能，无力；阳痿
 tertiary	a.	[FORMAL]第三的；(primary secondary tertiary quaternary quinary senary septenary octonary nonary denary)
 grump		n.	[INFORMAL]脾气坏的人
-grumpy		a.	脾气坏的，易怒的
+	grumpy		a.	脾气坏的，易怒的
 marmalade	a.	果酱，橘子酱（涂在面包上吃，通常在早餐食用）
-marmalade cat	n.	(UK.)橘猫 = US. red tabby cat / orange tabby cat
+	marmalade cat	n.	(UK.)橘猫 = US. red tabby cat / orange tabby cat
 eponym		n.	名祖，名字被用于命名其他事物的人，
-eponymous	a.	（人物与作品标题）同名的
+	eponymous	a.	（人物与作品标题）同名的
+
 furnishings	n.	家具
 emissary	n.	使者
 project		vt.	投掷，发射 	vi. 突出，伸出
-projecting	a.	突出的，伸出的
-projectile	n.	投掷物；抛射物；发射物（尤指子弹、炮弹等） a.	投射的
-ballistic	a.	弹道的 ballistic missle	弹道导弹
+	projecting	a.	突出的，伸出的
+	projectile	n.	投掷物；抛射物；发射物（尤指子弹、炮弹等） a.	投射的
+ballistic	a.	弹道的	ballistic missle 弹道导弹
 vomit		v.	吐，呕吐 (vomit+up if intransitive)
 lien		n.	（扣押某人财产直至其偿清债务的）留置令，扣押令
-consortium	n.	财团；联合
-granule		n.	颗粒；颗粒状物；
+consortium	n.	财团；联合；
 bedfellow	n.	伙伴，盟友
 qua		prep.	[FORMAL]作为 = as
 obscene		a.	淫秽的，下流的；令人震惊的
-obscenity	n.	淫秽；下流话，淫秽的言辞...骚话？
+	obscenity	n.	淫秽；下流话，淫秽的言辞...骚话？
 priggish	a.	[DISAPPROVING]一本正经的，死板的
 affect		vt.	影响；假装；
-affectation	n.	做作，装模作样
+	affectation	n.	做作，装模作样
 attentive	a.	认真倾听的；关心的，体贴的
 decorum		n.	（行为）稳重，端庄
 
@@ -118,19 +118,23 @@ patriarch	n.	（男性）族长
 
 the Tropic of Cancer	n.	北回归线（Cancer n. 巨蟹宫）
 the Tropic of Capricorn	n.	南回归线（Capricorn n. 摩羯宫)
+aurora		n.	极光
+the aurora borealis	n.	北极光	(also: the Northern Lights)
+the aurora australis	n.	南极光	(also: the Southern Lights)
+
 carcinogen	n.	致癌物
 cinematography	n.	电影摄制艺术
 stodgy		a.	无聊的，枯燥的
 bulky		a.	笨重的，体积庞大的
-bulkiness	n.	笨重
+	bulkiness	n.	笨重
 forte		n.	长处，特长
 
 cleave 		v.	劈开；裂开；(US. ~ clove cloven)(UK. ~ cleaved cleaved)
-cleave to sth.	信守，忠于
+	cleave to sth.	信守，忠于
 cleft		n.	（岩石，地面的）裂口，裂缝
 
 aroma		n.	（通常指食物、饮料的）香味，香气，芳香
-aromatic	a.	有香味的
+	aromatic	a.	有香味的
 
 hypocrisy	n.	伪善
 	hypocritical	a.	伪善的
@@ -182,6 +186,7 @@ sense
 		sensation	n.	感觉；轰动性事件；
 			sensational	a.	极好的；（新闻报道）耸人听闻的
 				sensationalize	v.
+
 ethnic	a.	种族的；民族特色的；
 	ethnical = ethnic
 	ethinicity	n.	种族
@@ -408,12 +413,12 @@ timid		a.	胆怯的，害羞的
 
 edify		vt.	启迪
 	edification	n.
-	edifice		n.
+	edifice		n.	大厦；体系架构；
 
-inspect		vt.
+inspect		vt.	检查，视察
 	inspection	n.
 
-inquire		v.	问，询问
+inquire		v.	问，询问	(UK. sometime enquire)
 	inquiry		n.
 	inquiring	a.	刨根问底的
 	inquirer	n.	询问者
@@ -504,7 +509,7 @@ cite		vt.	引用
 	excite		vt.	使...激动；**激起，引起(formal)**
 		-ed
 		-ing
-		excitable
+		excitable	a.	易兴奋的；易激动的；
 		excitant	a.	刺激性的；兴奋剂；
 		excitement	n.
 		excitation	n.
@@ -538,12 +543,13 @@ toxic		a.	有毒的；（人）中毒的；
 
 antidote	n.	解毒剂
 
-pure
-	-ly
-	purist		n.
-	purity		n.
+pure		a.
+	purly		adv.
+	impure	a.
 		impurity	n.
-	purify
+	purist		n.	正统主义者
+	purity		n.	纯净，纯粹
+	purify		v.
 		purification	n.
 	purge		v.	肃清；净化（邪恶）；通便；	n. 政治肃清
 		purgation	n.
@@ -891,7 +897,7 @@ aisle		n.	（客机、电影院或教堂座席间的）走廊，过道，（商�
 	go/walk down the aisle		[informal] to get married 结婚
 
 treachery	n.	背叛[FORMAL]
-	treacherous	a.	背信弃义的；（因环境恶劣）极端危险的
+	treacherous	a.	背信弃义的；（因环境恶劣）极端危险的；
 
 seduce		vt.	诱惑；吸引；(sex)勾引；
 	seducer		n.	勾引者
@@ -931,18 +937,91 @@ comply		vi.	顺从
 		insubordinate	a.	不服从的
 	compliance	n.	服从，顺从[FORMAL]
 
-prostitute		v.	卖淫
+pliant		a.	易弯的；顺从的；
+	pliantly	adv.
+	pliancy		n.	
+	pliable		a.	易弯的；顺从的；
+		pliability	n.
+
+complaisant	a.	顺从的，殷勤的[FORMAL]
+	complaisance	n.	顺从，殷勤，彬彬有礼[FORMAL]
+
+obey		v.
+	obedient	a.	服从的，顺从的
+	obedience	n.	服从，顺从
+
+amenable	a.	顺从的
+submit		v.	顺从，屈服
+	submission	n.
+supple		a.	易弯的；顺从的；灵活的；
+
+contumacious	a.	不服管束的，倔强的
+insubordinate	a.	不顺从的，不听话的
+
+prostitute	v.	卖淫
 	prostitution		n.	卖淫
 
-obsequious		a.	谄媚的，奉承的 [FORMAL]
+obsequious	a.	谄媚的，奉承的 [FORMAL]
 	obsequiousness		n.
+unctuous	a.	谄媚的，虚情假意的
 
 stria		n.	条纹	(plural. striae) = striation
-striate		v.	加条纹		a. =striated 有条纹的
-	striation	n.
+	striate		v.	加条纹	a. =striated 有条纹的
+		striation	n.	= stria
+
+strip		n. 条，带；脱衣舞；	vt. 除去，剥掉；脱衣服；拆卸（机器）；
+stripe		n.	条纹，斑纹	vt. 画上条纹
+	striped		a.	有条纹的 = variegate
 
 debauch		vt.	使堕落，使放荡
 	-ed		a.	堕落的，沉溺酒色的
 	debauchery	n.	放荡，堕落，沉溺酒色，花天酒地
 	debauchee	n.	放荡之人
+
+vary		v.	变化
+	variety		n.	多种多样
+	various		a.	多种多样的
+	variegate	v.	使...多样，画上杂色
+		variegated	a.	色彩斑驳的，有斑点的
+		variegation	n.
+
+liable		a.	[法]有责任的(=responsible)；很可能发生的（be liable to sth)
+	liability	n.	责任，义务；可能，可能性；
+		liabilities	n.	（特指）债务 = debts
+
+lenity		n.	仁慈 = clemency
+	lenient		a.	仁慈的，宽大的
+		leniently	adv.
+		leniency	n.	仁慈
+		lenience = leniency
+
+provide		v.
+	provident	a.	有远见的，未雨绸缪的[FORMAL]
+		providence	n.	天意，天命；远见(noun for provident)；
+		providential	a.	（神谕般、天意般）幸运的
+	provision	n.	（粮食、物资的）供给；条款；
+		provisional	a.	临时的，暂时的
+		proviso		n.	条件，条款（的附文）
+			provisory	a.	附文的，有附带条件的(=conditional)；暂时的(=provisional)
+
+
+utter		vt.	说，发声	a. 完全，彻底
+	utterly		adv.	完全地，彻底地
+
+solicit		v.	请求，征求[FORMAL]；
+	solicitous	a.	关心的，关切的[FORMAL]
+		solicitude	n.	关心，关切
+	solicitation	n.	请求，征求[FORMAL]
+	solicitor	n.	UK. AU. 初级律师
+		barrister	n.	UK. AU. 大律师
+		attorney	n.	US. 律师
+		lawyer		n.	律师
+
+grudge		n.	怨恨
+feudal		n.	欧洲封建制度的
+	feudalism	n.	欧洲封建制度
+
+foreordain	v.	注定
+damnation	n.	[宗教]下地狱，遭天谴
+vie		vi.	竞争，争夺	(~ for/with/to_do)	vie vied vied vying
 

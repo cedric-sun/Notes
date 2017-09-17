@@ -422,7 +422,8 @@ churlish	a.	无礼的
 insolent	a.	无礼的
 loutish		a.	粗鲁的
 impertinent	a.	不敬的
-impious		a.	（尤指对上帝或宗教）不敬的
+impiety		n.	（对上帝或宗教的）不敬
+	impious		a.	（尤指对上帝或宗教）不敬的
 flippant	a.	轻率的->无礼的
 	flippancy	n.
 impudent	a.	（尤指对年长者或上级）放肆的，无礼的

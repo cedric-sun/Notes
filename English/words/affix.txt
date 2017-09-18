@@ -71,4 +71,10 @@ com/con/cor
 		plutocrat	n.	富豪
 		bureaucrat	n.	官僚
 
+-ridden
+	充满...的
+		cliché-ridden	a.	充满陈词滥调的
+		superstition-ridden	充满迷信的	a.
+		guilt-ridden	a.	充满内疚的
+
 

@@ -105,11 +105,19 @@ bedfellow	n.	伙伴，盟友
 qua		prep.	[FORMAL]作为 = as
 obscene		a.	淫秽的，下流的；令人震惊的
 	obscenity	n.	淫秽；下流话，淫秽的言辞...骚话？
-priggish	a.	[DISAPPROVING]一本正经的，死板的
+
+prig		n.	站在优越的角度对别人行为是否端庄得体做过分要求的人 = prude
+	priggish	a.	[DISAPPROVING]一本正经的，死板的
+prude		n.	过度关注行为是否端庄得体的人，过分拘谨的人
+	prudery		n.
+	prudish		a.
+
 affect		vt.	影响；假装；
 	affectation	n.	做作，装模作样
+
 attentive	a.	认真倾听的；关心的，体贴的
 decorum		n.	（行为）稳重，端庄
+propriety	n.	（行为）得体，端庄
 
 patriarch	n.	（男性）族长
 	patriarchic = patriarchal
@@ -447,6 +455,7 @@ specifics		n.	细节 = detail
 revelry		n.	（尤指吵闹地）狂欢，作乐
 obnoxious	a.	令人反感的，粗鲁无礼的
 objectionable	a.	令人反感的
+
 convivial	a.	友好的；欢乐的，愉悦的 a convivial atmosphere/host 欢乐的气氛／热情的主人
 recompense	n.	支付，酬谢，报答；补偿
 requite		vt.	报答
@@ -648,7 +657,8 @@ vile		a.	邪恶的；可耻的；极令人厌恶的
 	revile		vt.	谩骂，辱骂[FORMAL]
 	vilify		vt.	诋毁，诬蔑
 		vilification	n.
-
+turpitude	n.	邪恶，堕落
+iniquity	n.	邪恶，不公正
 abusive		a.	辱骂的		an abusive letter/phone call 辱骂信／电话 He was apparently abusive to the flight attendants.  显然他对航班乘务员说了些不干不净的话。
 
 withhold	vt.	拒绝给予
@@ -739,8 +749,8 @@ dread		n.	恐惧	vt. 感到恐惧
 civil
 resilient	a.	有弹性的，能复原的
 
-venal
-	venality	n.
+venal		a.	唯利是图的，贪污腐败的
+	venality	n.	贪婪，腐败
 
 sophism
 surge
@@ -774,6 +784,8 @@ tort
 	contort		v.	（物理）扭曲
 	retort		vt./n.	（愤怒或风趣地）反驳，回嘴
 	extort		vt.	敲诈，勒索
+
+tortuous	a.	曲折的；拐弯抹角的；
 
 torpor		n.	不活跃，萎靡
 torpid		a.	不活泼的，萎靡的
@@ -963,7 +975,18 @@ prostitute	v.	卖淫
 
 obsequious	a.	谄媚的，奉承的 [FORMAL]
 	obsequiousness		n.
-unctuous	a.	谄媚的，虚情假意的
+
+unction		n.	涂油，涂油礼；圣油；<-总之一群跟油有关的东西；谄媚，阿谀奉承(=unctuousness)；
+	unctuous	a.	油腻的；谄媚的，阿谀奉承的；
+		unctuosity	n.	油腻，油腻度
+		unctuousness	n.	谄媚，阿谀奉承
+
+flatter		v.	奉承，讨好
+	flattering	a.
+	flattery	n.
+adulate		v.	奉承，拍马屁
+	adulation	n.
+	adulatory	a.
 
 stria		n.	条纹	(plural. striae) = striation
 	striate		v.	加条纹	a. =striated 有条纹的
@@ -1006,7 +1029,7 @@ provide		v.
 
 
 utter		vt.	说，发声	a. 完全，彻底
-	utterly		adv.	完全地，彻底地
+	utterly		adv.	完全地，彻底地(=soundly)
 
 solicit		v.	请求，征求[FORMAL]；
 	solicitous	a.	关心的，关切的[FORMAL]
@@ -1017,7 +1040,7 @@ solicit		v.	请求，征求[FORMAL]；
 		attorney	n.	US. 律师
 		lawyer		n.	律师
 
-grudge		n.	怨恨
+grudge		n.	怨恨		refer to: rancor
 feudal		n.	欧洲封建制度的
 	feudalism	n.	欧洲封建制度
 
@@ -1049,3 +1072,23 @@ anode		n.	阳极
 cation		n.	阳离子
 anion		n.	阴离子
 
+plaudit		n.	赞扬
+
+instrument	n.	乐器；器械；
+	instrumental	n.	器乐的；*起作用的，有帮助的；*
+
+ulcer		n.	溃疡
+	ulcerate	v.	形成溃疡
+		ulceration	n.
+	ulcerative	a.
+
+high heels = high-heeled shoes	高跟鞋
+
+masculinity	n.	男子气概
+
+sound		a.	完好无损的(intact)；合理的，明智的；完全的，彻底的；
+	soundly		adv.	完全地(=utterly, completely)；
+
+needlessly	adv.	=unnecessarily
+
+rite		n.	（宗教）仪式

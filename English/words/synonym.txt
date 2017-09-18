@@ -16,6 +16,15 @@
 			rapaciously	adv.
 			rapaciousness	n.
 
+易碎的
+	brittle		a.
+	fragile		a.
+		frangible	a.
+			infrangible	a.
+			frangibility	n.
+	friable		a.
+		friability	n.
+
 滑稽(嘲弄性)的模仿
 	mimic		v.
 		mimicry		n.
@@ -44,6 +53,10 @@
 
 摇摆
 	sway		v.
+	teeter		vi.
+
+易怒的
+	irascible
 
 蹒跚而行
 	waddle
@@ -354,10 +367,11 @@ berate		vt.	严厉指责
 castigate	vt.	强烈（公开）指责
 censure		v.	公开表示反对，谴责
 deplore		vt.	谴责，强烈反对
-denounce	v.	公开指责
+denounce	v.	公开指责；检举，告发；
 excoriate	vt.	严厉批评
 fulminate	v.	大声斥责(痛斥)
 lambaste	vt.	严厉斥责
+pillory		vt	批评，抨击
 
 =================================================
 carp		vi.	挑剔			carp about something
@@ -427,6 +441,7 @@ impiety		n.	（对上帝或宗教的）不敬
 flippant	a.	轻率的->无礼的
 	flippancy	n.
 impudent	a.	（尤指对年长者或上级）放肆的，无礼的
+obnoxious	a.	令人反感的，粗鲁无礼的
 
 
 ====================

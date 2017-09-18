@@ -78,7 +78,7 @@
 	We'll meet *Monday*.	//邪教？
 8. 介词宾语
 	He majored in *physics*.
-9. 复合宾语(compound object) = 宾语 + 宾语补足语？
+9. 宾语补足语
 	He gave her a *letter*.
 
 ## 冠词 Article
@@ -86,8 +86,8 @@
 
 ## 代词
 ### 分类
-1. 人称代词	Personal Pronouns	I you he she
-2. 物主代词	Possessive Pronouns	
+1. 人称代词	Personal Pronouns		I we you he she it they & 各自宾格
+2. 物主代词	Possessive Pronouns		my our your his her its their + 名词性
 3. 反身代词	Reflexive Pronouns
 4. 相互代词	Reciprocal Pronouns
 5. 指示代词	Demonstrative Pronouns
@@ -104,4 +104,32 @@
 2. 宾
 	I have read *neither* of the books.
 	Take care of *yourself*.
+	We should help *each other*.
+
+3. 表
+	That's not *mine*.
+	Who is *it*? - It's *me*.
+	I'm not quite *myself* today.
+
+4. 同
+	We *both* liev in the dorm.
+	You *yourself* are to blame.
+	He ate them *all*.
+
+5. 呼
+	Be patient, everybody!
+	Fuck off, both of you!
+
+6. 宾补
+	What do you call *it*?
+
+7. 物主代词做定语。UK: Determiner	US: Adjective
+	It is *my* book.
+
+### Gist
+- 口语中，作主语的人称代词也用宾格，尤其是than引导的从句中：（从句？）
+	Who found Gran's watch? - *Me*. (*I* found it.)
+	John is smaller than him.
+	Joseph is more dissolute than Stalin.
+- 
 

@@ -372,6 +372,11 @@ excoriate	vt.	严厉批评
 fulminate	v.	大声斥责(痛斥)
 lambaste	vt.	严厉斥责
 pillory		vt	批评，抨击
+traduce		vt	强烈批评，尤指伤害名誉的那种
+defame		vt.	诋毁，损害...名誉 [FORMAL]
+	defamation	n.
+libel		n.	（文字性的）诬蔑，诽谤
+slander		v. n.	诋毁，诽谤
 
 =================================================
 carp		vi.	挑剔			carp about something

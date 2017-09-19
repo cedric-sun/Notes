@@ -702,7 +702,7 @@ inhere		vi.	固有，原本就有	Does selfishness inhere in each of us?
 
 adhere		vi.	粘；遵守，忠于；	(~ to)
 	adhesive	a.	有粘性的；	n. 粘合剂；[没有抽象的意思，这个词指且仅指物理性质]
-	adherent	a.	有粘性的；遵守的	n.	信徒，追随者
+	adherent	a.	有粘性的；遵守的；	n.	信徒，追随者
 		adherence	n.	粘性，附着性；遵守，忠诚	adherence of paint to wood 油漆和木料之间的附着性	He was noted for his strict adherence to the rules.  他因为严守规则而闻名。	nations adherent to the treaty 遵守条款的国家
 
 cohere		vi.	（论据或理论）连贯，有条理(all the stages of an argument or theory fit together to form a reasonable whole)；合为一体；The various elements of the novel fail to cohere.  这部小说的各部分之间无法连贯起来。
@@ -911,12 +911,46 @@ aisle		n.	（客机、电影院或教堂座席间的）走廊，过道，（商�
 treachery	n.	背叛[FORMAL]
 	treacherous	a.	背信弃义的；（因环境恶劣）极端危险的；
 
+
+# -duce和-duct没有任何直接联系，但是两者的名词形式都是-duction，所以同一个单词出现在了不同词根树上，词意叠加。
+adduce		vt.	举出（理由、证据）[FORMAL]	None of the evidence adduced in court was conclusive.  在法庭上引证的证据都不确凿。
+	adduction	n.
+conduce		vi.	促进，导致(often desirable result)[FORMAL]	the belief that technological progress conduces to human happiness	“技术进步会促进人类幸福”这一信念
+	conducing	很遗憾名词不是conduction，conduction完全没有“促进，导致”的意思。
+deduce		vt.	推断，推理		refer to: infer
+	deducible	a.	able to be deduced 可以推断的（能由推断得知的？）
+	deduction	n.	推断
+induce		vt.	导致；劝说；
+	induction	n.	引发，诱导；[specialized]电磁感应
+reduce		v.	减少；化简，归纳；[数]约分；
+	reduction	n.	减少；[数]约分；
+		reductionism	n.	简化论，简化主义
+	reductive	a.	精简的，
+		reductivism = reductionism
+	reducible	a.	可减少的；可化简的；
+		irreducible	a.
+
 seduce		vt.	诱惑；吸引；(sex)勾引；
 	seducer		n.	勾引者
 	seduction	n.	诱惑，吸引力
 	seductive	a.	诱人的，有诱惑力的
 		seductively	adv.
 		seductiveness	n.
+traduce		vt.	强烈批评
+	traduction	n.
+
+# -duct
+abduct		vt.	绑架，劫持
+	abduction	n.	绑架
+conduct		vt.	进行；指挥；传导；	n. 行为品行
+	conduction	n.	传导
+	conductor	n.	导体		MIND CONDUCTOR!
+deduct		vt.	减去，扣除
+	deduction	n.	扣除；所得税；
+induct		vt.	使...就职	Li Xiannian was inducted into the Politburo in 1956.  李先念于1956年进入政治局。
+	induction	n.	就职，入职
+viaduct		n.	高架桥
+
 
 gross		a.	（尤指违法行为）严重的，恶劣的，极端的
 	grossly		adv.	非常，极端
@@ -1093,4 +1127,4 @@ needlessly	adv.	=unnecessarily
 
 rite		n.	（宗教）仪式
 nomenclature	n.	（尤指某一科学领域的）命名法
-
+lineage		n.	血统[FORMAL]		refer to: extraction

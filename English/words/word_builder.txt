@@ -65,7 +65,7 @@ pugnacity	n.	好斗
 	impugn		vt.	质疑
 	oppugn		vt.	质疑
 
-hatred		n.	憎恨
+hatred		n.	仇恨，憎恨
 disposition	n.	性格；倾向；
 incongruous	adj.	不协调的，不一致的
 hassle		vt.	烦扰；		n. 麻烦
@@ -251,7 +251,7 @@ pervade		v.	[抽象](信息，情绪的)弥漫，渗透	to spread or diffuse thr
 sour vinegary	a.	酸味的
 	vinegar		n.	醋
 bitter		a.	苦味的
-spicy pungent piquant	a.	辛辣的
+spicy pungent piquant fiery	a.	辛辣的
 	garlic		n.	大蒜
 	ginger		n.	姜
 	pepper		n.	胡椒
@@ -610,7 +610,7 @@ delinquent	a.	拖欠的[FORMAL]；（青少年）不良的，违法的	n. 不良
 overdue		a.	过期的，延误的
 
 imminent	a.	临近的，即将发生的，迫在眉睫的
-inferior	a.	差的		be inferior to 比...次
+inferior	a.	差的；下等（阶级）的	be inferior to 比...次
 	antonym: superior
 
 ignis fatuus	n.	鬼火，磷火
@@ -795,7 +795,11 @@ torment		vt./n.	折磨，拷问	top 40%
 
 torpedo		n.	鱼雷；	v.	用鱼雷破坏； -> 破坏，毁坏[INFORMAL]
 
-torrid		a.	炙热的
+torrid		a.	炙热的；热情的；	1. hot, scorching 2.ardent
+	torridly	adv.
+	torridity	n.
+	torridness	n.
+
 turgid		a.	（写作）枯燥而浮夸的
 
 forbear		vi.	克制，忍耐
@@ -848,9 +852,9 @@ build		n.	身材
 
 shun		vt.	躲避；避免；
 
-fervor		n.	热情，热心；炎热；	intensity of feeling or expression
-	fervid = fervent
-	fervent		a.	热情的；炎热的；
+fervor		n.	热情，热心；炎热；	intensity of feeling or expression, a strong sensation
+	fervid = fervent (bottom 40%)
+	fervent		a.	热情的；炎热的；(top 20%)
 		fervency = fervor
 
 resolute	a.	坚决的，坚定的
@@ -945,8 +949,8 @@ abduct		vt.	绑架，劫持
 conduct		vt.	进行；指挥；传导；	n. 行为品行
 	conduction	n.	传导
 	conductor	n.	导体		MIND CONDUCTOR!
-deduct		vt.	减去，扣除
-	deduction	n.	扣除；所得税；
+deduct		vt.	减去，扣除(=subtract)；推断，推理(=duduce, infer)；
+	deduction	n.	扣除；所得税（得到收入之前被扣除的部分）；
 induct		vt.	使...就职	Li Xiannian was inducted into the Politburo in 1956.  李先念于1956年进入政治局。
 	induction	n.	就职，入职
 viaduct		n.	高架桥
@@ -1128,3 +1132,24 @@ needlessly	adv.	=unnecessarily
 rite		n.	（宗教）仪式
 nomenclature	n.	（尤指某一科学领域的）命名法
 lineage		n.	血统[FORMAL]		refer to: extraction
+ardent		a.	热情的，热烈的	showing strong feelings
+parch		vt.	烤干，烤焦
+fiery		a.	燃烧的；火红的；辛辣的；充满强烈感情的，激烈的，（尤指）愤怒的
+
+stamp		v.	（重）踩，踏
+tramp		v.	（重）踩，踏	US also tromp
+tread		v.	踩，踏
+trample		v.	践踏；侵犯；
+spurn		v.	（重）践踏；轻蔑地拒绝；
+
+confess		v.	坦白，招认（错误或罪行）；（基督教中向上帝或神父）忏悔；
+	confession	n.	坦白；忏悔；
+
+altar		n.	圣坛，祭坛
+
+menial		a.	（工作）低贱的，不体面的
+carapace	n.	（动物的）壳，甲壳
+
+vivace
+	vivacious	a.	活泼迷人的
+	vivacity	n.

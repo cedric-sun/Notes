@@ -1,3 +1,15 @@
+拖长，拖延
+	protract
+	prolong
+	procrastinate
+	temporize
+
+轻视，鄙视
+	scorn
+	disdain
+	contemn
+	spurn		鄙视+拒绝...
+
 争论，争吵
 	argue		v.
 	wrangle		v. n.
@@ -60,6 +72,7 @@
 
 蹒跚而行
 	waddle
+	teeter
 	
 宣告无罪
 	absolve

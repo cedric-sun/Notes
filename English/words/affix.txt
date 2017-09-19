@@ -78,3 +78,14 @@ com/con/cor
 		guilt-ridden	a.	充满内疚的
 
 
+retro-
+	向后 going backwards
+		retrograde
+	复古 looking at or copying the past
+		retrocomputing
+
+-grade
+	走 walking
+		retrograde	vt.	倒退
+		degrade		vt.	贬低，侮辱；危害，损害；分解，降解；
+

@@ -1153,3 +1153,6 @@ carapace	n.	（动物的）壳，甲壳
 vivace
 	vivacious	a.	活泼迷人的
 	vivacity	n.
+
+pious		a.	虔诚的		ANTONYM: impious
+

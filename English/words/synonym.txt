@@ -66,13 +66,17 @@
 摇摆
 	sway		v.
 	teeter		vi.
-
-易怒的
-	irascible
+	wag
 
 蹒跚而行
 	waddle
 	teeter
+	wag
+	lurch
+
+易怒的
+	irascible
+
 	
 宣告无罪
 	absolve
@@ -186,7 +190,7 @@
 	foundational
 	rudimentary = rudimental
 
-渗透
+渗透	refer to: word_builder
 	percolate
 	penetrate
 	pervade

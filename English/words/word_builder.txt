@@ -45,7 +45,6 @@ contemptible    a.  	卑劣可鄙的   ->adv.  contemptibly
 timid   	a.  	胆小的
 daisy   	n.  	雏菊  ->pl.   daisies
 emulate 	vt. 	模仿
-percolate   	vi.  	（液体）渗透；（信息）扩散，弥漫
 contrive    	vt. 	发明；谋划
 stray   	v.  	迷路；跑题
 panacea    	n.  	灵丹妙药/万能之计
@@ -180,6 +179,7 @@ sense
 		sensibility	n.	鉴赏力，感受力；感情；
 	sensitive	a.	（人）敏感的，（机器）灵敏的；（话题）敏感的；善解人意的；
 		sensitivity	n.	善解人意；敏感性，（机器的）灵敏度
+		insensitive	a.
 	sensory		a.	感官的，感觉上的
 		extrasensory	a.	超感的
 		multisensory	n.	多感官并用的
@@ -247,6 +247,9 @@ pervade		v.	[抽象](信息，情绪的)弥漫，渗透	to spread or diffuse thr
 	pervious	a.	可渗透的
 	pervasive	a.	弥漫的，遍布的
 	pervasion	n.
+
+percolate   	vi.  	（液体）渗透；（信息）扩散，弥漫；
+	percolation	n.
 
 sour vinegary	a.	酸味的
 	vinegar		n.	醋
@@ -587,6 +590,7 @@ semble		= It seems	多用于法律领域	e.g. Semble that ...
 	resemble	vt.	像
 	assemble	v.	组装；集合	(拆卸dismantle);(解散dismiss)
 	dissemble	v.	掩盖，掩饰
+	ensemble	n.	全体，整体；乐团，剧团；
 
 proselyte	n.	改变信仰者	v. =proselytize
 	proselytize	v.	使改变信仰
@@ -665,25 +669,26 @@ withhold	vt.	拒绝给予
 rail		vi.	抱怨，谴责(usually rail at/against)
 
 lu-, lumin- = light(Latin)
-luster		n.	光泽，光辉 = UK. lustre
-	lustrous	a.	有光泽的
-	lackluster	a.	黯淡无光的
+	luster		n.	光泽，光辉 = UK. lustre
+		lustrous	a.	有光泽的
+		lackluster	a.	黯淡无光的
 
-lucent		a.	透明的
-	lucency		n.	透明
-	translucent	a.	透明的；半透明的；
+	lucent		a.	透明的
+		lucency		n.	透明
+		translucent	a.	透明的；半透明的；
 
-lucid		a.	清晰明了的，易懂的；
-	lucidity	n.
-	pellucid	a.	清澈透明的，易懂的；
+	lucid		a.	清晰明了的，易懂的；
+		lucidity	n.
+		pellucid	a.	清澈透明的，易懂的；
 
-elucidate	v.	阐明，解释
+	elucidate	v.	阐明，解释
 
-luminous	a.	发光的
-	luminary	n.	知名人士
-	illuminate	vt.	照亮；阐明，解释
+	luminous	a.	发光的
+		luminary	n.	知名人士
+		illuminate	vt.	照亮；阐明，解释
+			illumination	n.
 
-illustrate	v.	举例说明；给...插图；
+	illustrate	v.	举例说明；给...插图；
 
 
 prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
@@ -823,6 +828,7 @@ hypnotic	a.	催眠的；令人着迷的
 magnetism	n.	磁力；**吸引力，魅力**
 trance		n.	催眠状态，恍惚，出神
 statute		n.	法令（强调已批准，且已成文的法律）
+	statutory	a.	法定的
 ordinance	n.	法令，法规[FORMAL]
 
 
@@ -1155,4 +1161,28 @@ vivace
 	vivacity	n.
 
 pious		a.	虔诚的		ANTONYM: impious
+lackadaisical	a.	懒散的，慵懒的
+
+vestibule	n.	门厅
+porch		n.	门厅
+
+yolk		n.	蛋黄
+poach		v.	炖（直接和水接触）；偷猎；窃用；
+coddle		vt.	在略低于沸点的水中炖；溺爱，纵容(indulge)；
+simmer		v.	在略低于沸点的水中炖；酝酿，积聚；
+
+pamper		vt.	溺爱，娇惯，纵容
+
+slaver		vi.	流口水；渴望，垂涎[贬，强调令他人不悦的渴望](~ over)；	Stop slavering over that guitar, Stephen! 不要再垂涎那把吉他了，斯蒂芬！
+saliva		n.	唾液
+
+corona		n.	日冕，光晕	plural: coronae
+	coronal		a.	头冠的，冠状的
+	coronary	a.	冠状的
+	coronation	n.	加冕礼
+	coronet		n.	小王冠，a small crown
+	coronagraph	n.	日冕观测仪
+	coronograph = coronagraph
+	# coroner		n.	验尸官
+
 

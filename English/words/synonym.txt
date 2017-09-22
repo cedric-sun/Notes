@@ -4,6 +4,14 @@
 	procrastinate
 	temporize
 
+剧变，大灾难
+	cataclysm
+		cataclysmal
+	catastrophe
+	apocalypse
+		apocalyptic
+	maelstrom	//mael-strom: NOT `storm`
+
 轻视，鄙视
 	scorn
 	disdain
@@ -61,13 +69,19 @@
 	foreshadow	vt.	预示
 
 推动力
-	propulsion	n.
+	propel		v.	推进，推动
+		propulsion	n.	推动力
+	impetus		n.	推动，促进，刺激
+		impetuous	a.	冲动的，鲁莽的
 
 摇摆
 	sway		v.
 	teeter		vi.
 	wag
 
+微温的；不热心的，冷淡的；
+	tepid
+	lukewarm
 蹒跚而行
 	waddle
 	teeter
@@ -299,10 +313,12 @@ intrinsic
 嘲笑
 	jeer	v./n.
 	sneer	v./n.
-	deride	v.only
+	deride	v.only		[FORMAL]
 	mock	v.			(a.	虚假的，假装的)
 	ridicule	v./n.
-	gibe	
+	gibe
+	jibe		1. variant spelling of `gibe` 2. vi.+with: agree, to be in accord
+	tease
 
 粥 		n.
 	porridge

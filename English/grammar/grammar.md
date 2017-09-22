@@ -34,17 +34,29 @@
 ### 短语
 除了单词，短语也可充当句子成分
 1. 动词短语 Verbal Phrases
-	- What have you been doing?
+	- What *have* you *been* doing?
 2. 不定式短语 Infinitive Phrases
-	- It's time to go to bed.
+	- It's time *to go to bed*.
 3. 动名词短语 Gerundial Phrases
-	- His major interest is painting pictures.
+	- His major interest is *painting pictures*.
 4. 分词短语 Participial Phrases
-	- There's a freeway connecting the two cities.
+	- There's a freeway *connecting the two cities*.
 5. 介词短语 Prepositional Phrases
-	- The boys went swimming in the river.
+	- The boys went swimming *in the river*.
+	- 成分：
+		1. 定：后置
+			The woman *in the room* is his wife.
+		2. 状
+			The children are playing *by the river*.
+		3. 表
+			He is *at home*.
+		4. 补
+			The cold kept him *in bed* *for three days*. // 宾补
+			We found her in tear. // 宾补
+			She was found in tear. // 变被动时变主补
+	
 6. 名词短语 Noun Phrases
-	- Thanks a lot.
+	- Thanks *a lot*.
 
 ### 从句 Clause
 从句充当句子成分
@@ -88,8 +100,8 @@
 ### 分类
 1. 人称代词	Personal Pronouns		I we you he she it they & 各自宾格
 2. 物主代词	Possessive Pronouns		my our your his her its their + 名词性
-3. 反身代词	Reflexive Pronouns
-4. 相互代词	Reciprocal Pronouns
+3. 反身代词	Reflexive Pronouns		\*self
+4. 相互代词	Reciprocal Pronouns		ONLY 2: one another, each other
 5. 指示代词	Demonstrative Pronouns
 6. 疑问代词	Interrogative Pronouns
 7. 连接代词	Conjunctive Pronouns
@@ -102,10 +114,13 @@
 	- *Both* are from the South.
 	- *Who* is on the phone?
 
-2. 宾
+2. 宾语
+	动词宾语：
 	- I have read *neither* of the books.
 	- Take care of *yourself*.
 	- We should help *each other*.
+	介词宾语：
+	- The children were running around *him*.
 
 3. 表
 	- That's not *mine*.
@@ -128,20 +143,30 @@
 	- It is *my* book.
 
 ### Gist
-- 口语中，作主语的人称代词也用宾格，尤其是than引导的从句中：（从句？）
+#### 人称代词
+1. 口语中，作主语的人称代词也用宾格，尤其是than引导的从句中：（从句？）
 	- Who found Gran's watch? - *Me*. (*I* found it.)
 	- John is smaller than him.
 	- Joseph is more dissolute than Stalin.
-- 
 
-## Uncategorized
-1. 短语
-	动词短语由 情态动词+动词原形 或 助动词和动词的不同时态组成，作复合宾语
-2. 三种宾语
-	1. Direct Object: Sam fed *the dogs*.
-	2. Indirect Object: She sent *him* a present.  // `a present` is the direct object
-	3. Prepositional Object
-2. 双宾语，宾语补足语，宾语的定语
-	双宾语的两个宾语直接与主语发生逻辑联系：
-		She sent him a present.
+2. 口语中，作表语的人称代词常用宾格，尽管书面上仍宜用主格。
+	- I noticed at once (that) it was *her*.
+	- If I were *her*, I'd not take the job.
+	- It was *me*, DIO!
+	- It was *I*, the vigilante. // FORMAL
+
+#### 反身代词
+	1. 反身代词作主语或宾语的同位语
+		The president *himself* gave her the medal. 总统*亲自*给她颁发奖章。
+		调换语序后可冒充状语：
+		I'll do it *myself*. = I myself will do it.
+	2. 表语，见怪不怪
+		I am not myself today.	// 身体不适
+
+#### 相互代词
+	1. 动宾
+		Jotarou and Polnareff have known *one another* for years.
+		Stand Users will attract *each other*, JOJO!
+	2. 介宾
+		Their rooms rooms were next (to) each other.
 

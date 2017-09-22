@@ -912,9 +912,13 @@ austere		a.	艰苦的；朴素的；
 	austerity	n.	艰苦；朴素；
 
 propel		vt.	推动(尤指物理上的)
+	propulsion	n.
 impel		vt.	驱使(im强调内在的动力)
 compel		vt.	强迫；激起，引发[FORMAL]；
+	compelling	a.
 repel		vt.	驱逐；使...厌恶
+	repellent	a.	令人厌恶的；	n.驱虫剂；	mosquito repellent
+
 aisle		n.	（客机、电影院或教堂座席间的）走廊，过道，（商店货架间的）通道
 	go/walk down the aisle		[informal] to get married 结婚
 

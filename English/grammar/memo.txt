@@ -1,0 +1,34 @@
+1. [SOLVED] 如何区分宾语补足语和宾语的定语
+	The woman in the room is his wife.
+		in the room介词宾语做定语?The woman (that is) in the room is his wife.
+	We found the woman in the room.  // "in the room" here: Complement or Attribute?
+	Controversy: if 介词宾语与宾语有主谓、主表关系 then 宾补？
+	我的思考：
+		所谓补语是补充主或宾的，而主宾的概念是依附于谓语而存在的，也就是说补语是提供描述“被补成分在谓语的作用下发生了什么事”的更多额外信息的。
+		I find the girl in tear.  // 此处介宾in tear应当被理解为宾补，因为书写者想表达“发现女孩和发现在哭都是find这一行为的结果”
+		He killed the man in red. // 此处介宾in red充当the man的定语，和“杀”这一行为毫无关系。
+		
+
+2. 介词短语(prepositional phrase)和介词宾语(Prepositional Object)的包含关系？
+	A:
+	Prepositional Object 仅指那个做介词的宾语的成分。She is waiting for *Lucy*.
+	Prepositional Phrase 指整个短语 She is waiting *for Lucy*.
+
+	Collins: A prepositional phrase is a structure consisting of a preposition and its object. Examples are 'on the table' and 'by the sea'.
+	Cambridge: a combination of a preposition followed by a noun or pronoun
+	Exception(?): in case of, in the course of ?
+
+3. 宾补和双宾的区别
+	双宾的2个宾语都直接与主语发生逻辑联系
+		I gave him a present.
+			双宾有Direct Object和Indirect Object的概念 # refer to (4)
+			direct object:		a present
+			indirect object:	him
+	宾补仅和宾语+谓语有逻辑联系
+
+4. [INFORMATIVE] 三种宾语
+	1. (Direct) Object: Sam fed *the dogs*.
+	2. Indirect Object: She sent *him* a present.  // `a present` is the direct object
+	3. Prepositional Object: I sprawl on *the sofa*.
+
+5. 

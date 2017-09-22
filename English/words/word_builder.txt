@@ -806,6 +806,7 @@ torrid		a.	炙热的；热情的；	1. hot, scorching 2.ardent
 	torridness	n.
 
 turgid		a.	（写作）枯燥而浮夸的
+turbid		a.	浑浊的
 
 forbear		vi.	克制，忍耐
 	forbearance	n.
@@ -1190,3 +1191,39 @@ corona		n.	日冕，光晕	plural: coronae
 	# coroner		n.	验尸官
 
 
+egregious	a.	（错误等）令人震惊的，极其严重的	It was an egregious error for a statesman to show such ignorance.  一位政界人士表现得如此无知，犯这种错误是极不应该的。
+sagacious	a.	聪慧的，能洞察事理的(=wise)[FORMAL]
+
+laud		vt.	赞美	[FORMAL]
+	laudatory	a.	赞美的 [FORMAL]
+	laudable	a.	[FORMAL]
+	laudation	n.
+
+deranged	a.	精神错乱的，发狂的
+
+fatuity		n.	愚蠢
+	infatuate	vt.	（excessive love / admiration）冲昏头脑，使狂热痴迷
+		infatuation	n.	迷恋，痴迷
+	fatuous		a.	愚蠢的
+
+oblivion	n.	被遗忘，被忘却，无人知晓	He was another minor poet who was consigned to oblivion.  他也许又是一位怀才不遇、湮没无闻的小诗人。
+	oblivious	a.	毫无察觉的
+
+consign		vt.	运送，交付 [FORMAL]	The goods have been consigned to you by air.  货物已经空运给你了。
+	consign sb/sth to sth
+
+
+trivia		n.	琐事
+	trivial		a.	琐碎的，微不足道的；容易解决的；平凡
+		non-trivial	a.	[数]非平凡的；并非小打小闹的，有一定分量的；
+		trivialize	vt.	贬低，使显得不重要
+		triviality	n.	琐事；琐碎，无足轻重；
+
+trifle		n.	琐事
+	a trifle = a little = slightly = kind of = sort of 有点，稍微 I'm a trifle confused. 我有点迷惑。
+	trifling	a.	微不足道的，不重要的
+
+shirk		v.	逃避（工作、责任等）
+swindle		vt.	诈骗，骗取（钱财）
+
+serendipity	n.	机缘，幸运(the fact of finding interesting or valuable things by chance)

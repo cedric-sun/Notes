@@ -67,7 +67,7 @@ com/con/cor
 	...党羽，...（上流）阶级的人
 		democrat	n.	民主党人
 		theocrat	n.	神权政治家
-		aristocrat	n.	贵族
+		aristocrat	n.	贵族(patrician n.)
 		plutocrat	n.	富豪
 		bureaucrat	n.	官僚
 

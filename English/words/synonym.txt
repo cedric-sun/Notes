@@ -4,6 +4,12 @@
 	procrastinate
 	temporize
 
+使...就职，任命
+	install
+	instate
+	inaugurate
+	induct
+
 剧变，大灾难
 	cataclysm
 		cataclysmal
@@ -45,12 +51,13 @@
 	friable		a.
 		friability	n.
 
-滑稽(嘲弄性)的模仿
+滑稽(嘲弄性)的模仿，恶搞
 	mimic		v.
 		mimicry		n.
 	parody		vt. n.
 	travesty	n.	拙劣的模仿[FORMAL]
 	caricature	vt. n.	尤指漫画
+	spoof		n.	（对文章、音乐、戏剧等）滑稽模仿的作品	v. 捉弄，愚弄
 
 预兆
 	sign		n	(m-w 6c)预兆	v.

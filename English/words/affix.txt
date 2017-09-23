@@ -89,3 +89,11 @@ retro-
 		retrograde	vt.	倒退
 		degrade		vt.	贬低，侮辱；危害，损害；分解，降解；
 
+para-
+	超出
+		parapsychology
+		paranormal
+	类似
+		paramedic	医疗辅助人员
+		paramilitary
+		parable		n. 寓言（可类比的->寓言）

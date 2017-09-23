@@ -461,7 +461,9 @@ objectionable	a.	令人反感的
 
 convivial	a.	友好的；欢乐的，愉悦的 a convivial atmosphere/host 欢乐的气氛／热情的主人
 recompense	n.	支付，酬谢，报答；补偿
-requite		vt.	报答
+requite		vt.	回报（报答或报仇）
+	requital	n.
+	unrequited	a.	无回报的；（爱情）单方面的，得不到回报的，单相思的；
 compensatoin	n.	补偿
 
 unearned	a.	不劳而获的
@@ -767,7 +769,7 @@ hysteria	n.	歇斯底里
 dismal		a.	阴沉的，凄凉的
 
 impale		vt.	刺穿，刺死
-rescind		vt.	废除，取消
+rescind		vt.	废除，撤销
 
 ferment		v.	（使）发酵；（使）事态发酵->煽动=foment	n. 骚动，动乱
 	fermentable	a.
@@ -1036,6 +1038,7 @@ flatter		v.	奉承，讨好
 adulate		v.	奉承，拍马屁
 	adulation	n.
 	adulatory	a.
+fawn		n.	幼鹿；鹿色；小孩；	v. （动物向人）表示好感；奉承，讨好；
 
 stria		n.	条纹	(plural. striae) = striation
 	striate		v.	加条纹	a. =striated 有条纹的
@@ -1224,6 +1227,49 @@ trifle		n.	琐事
 	trifling	a.	微不足道的，不重要的
 
 shirk		v.	逃避（工作、责任等）
-swindle		vt.	诈骗，骗取（钱财）
+swindle		vt. n.	诈骗，骗取（钱财）
 
 serendipity	n.	机缘，幸运(the fact of finding interesting or valuable things by chance)
+
+sentry		n.	哨兵；岗哨；
+sentinel	n.	哨兵；岗哨； [LITERARY]		卫报 The Fort Lauderdale Sun-Sentinel Lauderdale堡太阳卫报
+
+appease		v.	[贬]绥靖，为了息事宁人或讨好而妥协
+customary	a.	惯常的(usual)；传统的(traditional)；
+
+wean		vt.	使断奶
+	unweaned	a.	尚未断奶的
+
+torrent		n.	激流；集中的倾泻(barrage)；
+	torrential	a.	猛烈的，激流般的
+
+vest		n.	背心；		v. 给予，授予
+	divest		v.	脱去；剥夺(deprive, dispossess)；夺走；
+		divestment	n.
+		divestiture	n.	剥夺
+	invest		v.	投资；授予(=vest)；
+		investment	n.
+		disinvest	v.	撤资
+		reinvest	v.	用投资获得的利润再次投资
+	vesture
+
+revelation	n.	揭露，暴露(disclosure)	reveal -> revelation
+
+courteous	a.	有礼貌的，谦恭有礼的
+postpone	vt.	推迟
+
+shabby		a.	破烂的，破旧的；不公正的；
+ill-bred	a.	没教养的，粗鲁的	ANTONYM: well-bred
+surly		a.	粗鲁的，不礼貌的
+	surlily		adv.
+	surliness	n.
+
+favor
+	favorable
+	favortism
+	in favor of
+
+swelter		vi.	（人）感觉热急了，汗流浃背
+reckless	a.	鲁莽的
+slumber		vi. n.	睡眠	[LITERARY]
+

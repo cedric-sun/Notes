@@ -1,0 +1,6 @@
+			争辩者		好争辩者	善争辩者
+polemic			Y		Y
+polemist				Y		Y
+polemicist				Y		Y
+controversialist	Y		Y
+disputant		Y

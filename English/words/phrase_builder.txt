@@ -39,11 +39,11 @@ put somebody up (for the night)	为某人提供住宿
 trespass on/upon sth		不公正地利用他人性格中的优点 trespass on his hospitality/generosity = impose on ~
 (raise) the specter(spectre) of sth	（引起了）对于…的恐惧（...的鬼魂）
 the jewel in the crown		王冠上的宝石，最珍贵的部分
-cast light on sth		使更易理解；有助于说明 The discovery of the dinosaur skeleton has cast light on why they became extinct.  恐龙骨架的发现使人们对于恐龙灭绝的原因有了一些认识。 
+cast/shed/throw light on sth	使更易理解；有助于说明 The discovery of the dinosaur skeleton has cast light on why they became extinct.  恐龙骨架的发现使人们对于恐龙灭绝的原因有了一些认识。 
 there but for the grace of God (go I)		（表示没有遭到别人的厄运而庆幸）要不是上帝的恩典（我也遭殃）；多亏上帝开恩（我才逃过一劫）
 lean on		1. 依靠...	2.向...施压
 with a capital A, B, etc.	（用于表示性质的词后，表示强调）非常，特别 He's trouble with a capital T!  他这个人特别烦人！
-on account of = in consideration of	考虑到，出于
+on account of = in consideration of = in deference to	考虑到，出于
 in preparation for = in anticipation of	准备着
 not scruple to do sth		做某事从不迟疑
 run for office		竞选公职
@@ -69,4 +69,9 @@ be/get in the groove		to be or start operating or performing successfully 性能
 at length		1. 全面地 2. 最终
 be out of humor		心情不好，闷闷不乐
 consign sb/sth to sth		使...处于不利境地	to be consigned to prison 被投入监狱	After the financial disaster, she was consigned to a life of poverty.  金融危机之后，她的生活陷于贫困。
-
+wean sb off/from sth	使（某人）逐渐戒掉；使（某人）脱离	It's difficult to wean addicts off cocaine once they're hooked.  一旦对可卡因上了瘾，就很难戒掉。	The whole scheme is intended to wean people off welfare dependency.  整个计划旨在使人们摆脱对福利的依赖。
+wean sb on sth		使（某人）从小受…影响 	This generation has been weaned on computer games.  这一代人从小就受到了电脑游戏的影响。
+fawn over/on sb		奉承，讨好，恭维某人	I hate waiters who fawn over you. 我讨厌奉承人的侍者。
+give in			勉强同意；投降，屈服；
+be given to		经常做，习惯于	She was given to staying in bed till lunchtime.  她常常在床上呆到吃午饭时才起来。
+be above/beyond reproach	无可非议，十全十美

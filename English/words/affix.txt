@@ -36,10 +36,21 @@ com/con/cor
 		townsfolk	镇上的人们
 
 -mania
-	...狂
-		egomania	自大狂
-		kleptomania	偷窃狂
-		megalomania	中二病，认为自己有超乎寻常的能力（权力、地位）的心理疾病
+	...的狂热，...癖
+		egomania	自大狂妄	egomaniac 自大的人，中文意义上的自大狂
+		kleptomania	偷窃辟		kleptomaniac 偷窃癖者
+		megalomania	狂妄自大，中二病，认为自己有超乎寻常的能力（权力、地位）的心理疾病
+		monomania	=mania
+
+megalo-
+	巨大
+		megalomania
+		megalopolis
+
+-polis		本身就是个单词，polis (plural: poleis) n. 希腊城邦
+	城邦
+		metropolis
+		megalopolis
 
 -itis
 	炎，炎症
@@ -97,3 +108,12 @@ para-
 		paramedic	医疗辅助人员
 		paramilitary
 		parable		n. 寓言（可类比的->寓言）
+
+meta-
+	after, beyond: used to indicate a concept which is an abstraction behind another concept, used to complete or add to the latter
+		metadata
+		meta.stackexchange.com
+
+ante-
+	在...之前	from latin "antecedere"		refer to "antecede"
+		antediluvian

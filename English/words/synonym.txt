@@ -9,7 +9,7 @@
 	berate		vt.	严厉指责
 	castigate	vt.	强烈（公开）指责
 	censure		v.	公开表示反对，谴责
-	deplore		vt.	谴责，强烈反对
+	deplore		vt.	谴责，悲叹，对...深表遗憾
 	denounce	v.	公开指责；检举，告发；
 	excoriate	vt.	严厉批评
 	fulminate	v.	大声斥责(痛斥)
@@ -32,7 +32,7 @@
 	blemish		v.	玷污，损害
 	maculate	v. a.	玷污；有污点的；(the verb use become archaic in US)
 
-诋毁，诽谤，诬蔑（用虚假的信息伤害别人的名誉）
+诋毁，诽谤，诬蔑
 	aspersion	n.	诽谤
 	calumny		n.	诽谤（的言论或诽谤这一行为本身）
 		calumniate	vt.	诽谤
@@ -425,6 +425,9 @@ intrinsic
 	breach
 	slit
 	cleft
+	crack	裂缝
+	chasm
+
 
 轮廓
 	profile（侧面轮廓）

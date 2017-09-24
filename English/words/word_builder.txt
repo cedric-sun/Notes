@@ -1253,6 +1253,12 @@ wean		vt.	使断奶
 torrent		n.	激流；集中的倾泻(barrage)；
 	torrential	a.	猛烈的，激流般的
 
+tolerant	a.	容忍的，忍耐的
+	tolerate	vt.
+	tolerable	a.
+		tolerably	adv.
+	tolerance	n.
+
 vest		n.	背心；		v. 给予，授予
 	divest		v.	脱去；剥夺(deprive, dispossess)；夺走；
 		divestment	n.
@@ -1324,5 +1330,21 @@ artful		a.	精明的，巧妙的	clever and skillful
 
 mendacious	a.
 	mendacity	n.
+attest		v.	表明，证明
 
+bent		n.	天赋
+
+hedonism	n.	享乐主义
+	hedonistic	a.	享乐主义的
+	hedonist	n.
+
+meretricious	a.	华而不实的，金玉其外败絮其中的 seeming attractive but really false or of little value
+
+the Flood = the Deluge	圣经旧约中提到的滔天洪水
+the ark			圣经中的方舟	Noah Ark
+diluvium	n.	[archaic][geology]洪积层：一种已被证伪的地质层假说，认为一场大洪水造成了该地层，尤指圣经旧约中的大洪水	plural: diluviums or diluvia	Etymology: latin "diluere" -> dilute v.稀释 a.稀释过的
+	diluvion = diluvium	plural: -s
+	diluvial	a.	洪水的，洪水带来的
+	diluvian = diluvial
+		antediluvian	a.	[humorous]在大洪水之前的，戏谑极古老之物
 

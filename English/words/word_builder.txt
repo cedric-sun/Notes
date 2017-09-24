@@ -70,11 +70,20 @@ incongruous	adj.	不协调的，不一致的
 hassle		vt.	烦扰；		n. 麻烦
 physiognomy	n.	[FORMAL] 相貌，容貌
 perverse	a.	有悖常理的；任性的
+
+amorous		a.	表示性爱的，色情的
 erotic		a.	性爱的，性欲的，色情的
 genital		n.	生殖器 = genitalia [均为plural] (male: penis / female: vulva)
 erectile	a.	（躯体组织或部位）能勃起的
 ejaculate	v.	射精
 	ejaculation	n.	射精
+sperm		n.	精子；精液(=semen)；
+	spermatozoon	n.	[生物学]精子（动物或植物的）	plural: spermatozoa
+		spermatozoal	a.
+	spermatozoid	n.	[生物学]植物精子
+semen		n.	精液
+	seminal		a.
+gamete		n.	配子（指精子或卵子）
 libido		n.	性欲	(plural. libidos)
 repress		vt.	压抑，克制（感情）；（尤指用武力）镇压
 mend		vt.	修理，修补；
@@ -83,6 +92,7 @@ celibate	a.	禁欲的，没有性生活的	n.	禁欲者
 	celibacy	n.	禁欲
 impotent	a.	无能的，无力的；阳痿的
 	impotence	n.	无能，无力；阳痿
+
 tertiary	a.	[FORMAL]第三的；(primary secondary tertiary quaternary quinary senary septenary octonary nonary denary)
 grump		n.	[INFORMAL]脾气坏的人
 	grumpy		a.	脾气坏的，易怒的
@@ -116,6 +126,7 @@ affect		vt.	影响；假装；
 
 attentive	a.	认真倾听的；关心的，体贴的
 decorum		n.	（行为）稳重，端庄
+	decorous	adj.	端庄的，得体的
 propriety	n.	（行为）得体，端庄
 
 patriarch	n.	（男性）族长
@@ -454,7 +465,7 @@ gratify		v.	使高兴，使满意
 		ingratiation	n.
 		ingratiatory = ingratiating
 
-specifics		n.	细节 = detail
+specifics	n.	细节 = detail
 revelry		n.	（尤指吵闹地）狂欢，作乐
 obnoxious	a.	令人反感的，粗鲁无礼的
 objectionable	a.	令人反感的
@@ -647,7 +658,7 @@ penitent	a.	（感到）悔悟的，悔改的
 	penitential	a.	（和）悔悟（有关）的
 	penitentiary	n.	监狱
 
-tantalize	vt.	用欺骗来戏弄，使...干着急
+tantalize	vt.	吊胃口，使...干着急
 	-zation		n.
 
 Hades		n.	冥界；哈迪斯；
@@ -740,7 +751,6 @@ plagiary = plagiarism		-[archaic]剽窃者 = plagiarizer
 	plagiarize	v.	剽窃
 	plagiarism	n.	剽窃
 
-amorous		a.	表示性爱的，色情的
 
 lightly		adv.	随便地，不严肃地(=casually?)
 
@@ -1222,7 +1232,7 @@ trivia		n.	琐事
 		trivialize	vt.	贬低，使显得不重要
 		triviality	n.	琐事；琐碎，无足轻重；
 
-trifle		n.	琐事
+trifle		n.	琐事	v. 轻视（责任、决定等），不认真对待
 	a trifle = a little = slightly = kind of = sort of 有点，稍微 I'm a trifle confused. 我有点迷惑。
 	trifling	a.	微不足道的，不重要的
 
@@ -1266,10 +1276,53 @@ surly		a.	粗鲁的，不礼貌的
 
 favor
 	favorable
-	favortism
+	favorite
+		favortism
+	disfavor
 	in favor of
 
 swelter		vi.	（人）感觉热急了，汗流浃背
 reckless	a.	鲁莽的
 slumber		vi. n.	睡眠	[LITERARY]
+
+agreeable	a.	令人愉悦的[FORMAL]；（东西）可接受的(sth is ~ to sb)；（人）愿意接受的(sb is ~ to sth)；
+	agreeably	adv.	令人愉快地	We were agreeably surprised by the price.  这个价格真是让我们惊喜不已。
+
+mystery
+	mystic		n.	神秘主义者	a. =mystical
+		mysticism	n.	神秘主义
+	mystical	a.	神秘学的；
+	mysticete
+	mystique	
+	mystagogue
+	mysterious	a.	神秘的
+	mystify		vt.	使迷惑
+		demystify	vt.	解惑，使清晰易懂
+		mystification	n.
+
+communion	n.	（思想感情的）交流，沟通	[FORMAL]
+antecede	vt.	在...之前(=precede)	Latin: antecedere
+nimble		a.
+	nembleness	n.
+
+phlegm		n.	痰；冷静，沉着[FORMAL]；	[希波克拉底气质论]粘液质->沉着冷静
+	phlegmatic	a.	冷静的，沉着的[FORMAL]；冷漠的，冷淡的；
+		phlegmatically	adv.
+
+intractable	a.	棘手的，难处理的	[FORMAL]
+
+sopor		n.	[医]昏睡	profound or lethargic sleep
+	soporific	a.	催眠的	causing sleep or make a person want to sleep
+		soporifically	adv.
+	soporiferous = soporific
+
+nice		a.	细微的，微妙的	[FORMAL] based on very slight differences
+	nicety		n.	细微的区别；微妙；
+
+fragrance	n.	芳香；香水；
+artful		a.	精明的，巧妙的	clever and skillful
+
+mendacious	a.
+	mendacity	n.
+
 

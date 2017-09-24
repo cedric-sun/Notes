@@ -4,7 +4,7 @@
 	procrastinate
 	temporize
 
-批评，指责，谴责
+批评，指责，谴责，抨击
 	belabor		vt.	（当众）严厉批评
 	berate		vt.	严厉指责
 	castigate	vt.	强烈（公开）指责
@@ -13,11 +13,13 @@
 	denounce	v.	公开指责；检举，告发；
 	excoriate	vt.	严厉批评
 	fulminate	v.	大声斥责(痛斥)
-	lambaste	vt.	严厉斥责
+	lambaste	vt.	严厉斥责	=lambast
 	pillory		vt	批评，抨击
 	traduce		vt	强烈批评，尤指诬蔑他人名誉的那种
 	rail against/at	v.	谴责
 	blast		vt.	斥责，抨击	[INFORMAL]
+	chastise	vt.	严厉批评
+		chastisement	n.
 
 玷污，抹黑
 	besmirch	v.	玷污

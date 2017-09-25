@@ -34,7 +34,6 @@ controvert	v.	争论
 	incontrovertible	a.	无可争议的
 
 vengeance   	n.  	复仇
-contention  	n.  	争论；看法
 pharmacy    	n.  	药剂学；药店
 	pharmacist  	n.  	药剂师
 	pharmacology	n.	药理学
@@ -256,11 +255,15 @@ permeate	v.	[具象的物质，但可指抽象事物]渗透，弥漫
 
 pervade		v.	[抽象](信息，情绪的)弥漫，渗透	to spread or diffuse through
 	pervious	a.	可渗透的
-	pervasive	a.	弥漫的，遍布的
+	pervasive	a.	弥漫的，遍布的，*普遍的*
 	pervasion	n.
 
 percolate   	vi.  	（液体）渗透；（信息）扩散，弥漫；
 	percolation	n.
+
+filter		vi.	渗入，渗透	vt.	过滤	News filtered down to us during the day. 白天的时候消息慢慢传到了我们这里。
+
+infiltrate	v.	（使）（液体）渗透；（特工）渗入（敌对组织、危险区域等）；
 
 sour vinegary	a.	酸味的
 	vinegar		n.	醋
@@ -702,6 +705,10 @@ lu-, lumin- = light(Latin)
 			illumination	n.
 
 	illustrate	v.	举例说明；给...插图；
+		illustrator	n.	插画家
+		illustration	n.
+		illustrious	a.	著名的，卓越的
+		illustrative	a.	起说明作用的，作为例证的
 
 
 prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
@@ -1315,7 +1322,8 @@ phlegm		n.	痰；冷静，沉着[FORMAL]；	[希波克拉底气质论]粘液质-
 	phlegmatic	a.	冷静的，沉着的[FORMAL]；冷漠的，冷淡的；
 		phlegmatically	adv.
 
-intractable	a.	棘手的，难处理的	[FORMAL]
+tractable	a.	（情况）易处理的；（人）易管教的，易说服的	[FORMAL]
+	intractable	a.	棘手的；难管教的；	[FORMAL]
 
 sopor		n.	[医]昏睡	profound or lethargic sleep
 	soporific	a.	催眠的	causing sleep or make a person want to sleep
@@ -1348,3 +1356,68 @@ diluvium	n.	[archaic][geology]洪积层：一种已被证伪的地质层假说�
 	diluvian = diluvial
 		antediluvian	a.	[humorous]在大洪水之前的，戏谑极古老之物
 
+reign		v. n.	统治
+regime		n.	政权[MAINLY DISAPPROVING]；养生法；
+regimen		n.	养生法；统治；政权(=regime)；
+
+poise		n.	自信沉着，泰然自若	clam confidence, a quailty of grace
+	poised		a.
+
+senile		a.	老糊涂的，老态龙钟的	showing poor mental ability because of old age
+	senilely	adv.
+	senility	n.
+dotage		n.	老糊涂的(=senility)
+	dotard		n.	a person in its dotage
+
+rectify		v.	纠正，矫正；整流（把交流电变成直流电）
+	rectification	n.
+	rectifier	n.	整流器
+	rectitude	n.	诚实，正直
+
+redoubt		n.	（尤指即将消失或受到威胁的信仰或生活方式的）藏身处，庇护所，堡垒，据点	the last redoubt of hippy culture	嬉皮士文化的最后堡垒	n. [SPECIALIZED][military] 防御工事，掩体
+	redoubted	a.	[archaic] =redoubtable
+	redoubtable	a.	强大可怕的；杰出的，值得尊敬的；
+
+eminent		a.	凸出的(=projecting, protruding, prominent)；杰出的，卓越的；	from Latin eminent-, eminens, present participle of eminēre: to stand out
+	eminently	adv.
+	eminence	n.
+	supereminent	a.	=preeminent，只形容人
+	prominent	a.	凸出的(=projecting, protruding, eminent)；显眼的，显著的；杰出的，著名的；
+		prominence	n.
+	preeminent	a.	杰出的，卓越的，强调凸出于众人的能力、才华或地位
+		preeminence	n.
+
+noteworthy	a.	值得注意的
+
+fume
+	fumigate
+	fumigant
+	perfume
+		perfumery
+
+constrain	vt.	限制
+	constrained	a.	受限制的；拘谨的，局促的，不自然的；	a constrained voice/manner
+	feel constained to do	认为自己必须做
+
+oblige		v.	帮助，为..效劳；（以法律或道义）强迫，强制(US./UK-FORMAL =obligate)；
+	obliging	a.	乐于助人的
+	disoblige	vt.	违背...的愿望；给...带来不便(=inconvenience)；
+	obligate	vt.	（以法律或道义）强迫，强制
+		obligatory	a.	强制的，义务的
+		obligation	n.
+
+inconvenience	n	不便，麻烦	*vt. 给...带来不便，麻烦*
+
+contend		vi.	竞争，争夺	vt.+that	声称，断言，主张
+	contentious	a.	（事件）有争议的；（人）好争论的；
+		contentiously	adv.
+		contentiousness	n.
+	contention  	n.  	争论；看法
+
+stint		v.	限量提供
+	unstinting	a.	极慷慨的，极大方的
+
+condition	vt.	调整，使处于理想状态
+	recondition	vt.	修理（再调整）
+
+thoughtless

@@ -11,7 +11,7 @@
 	censure		v.	公开表示反对，谴责
 	deplore		vt.	谴责，悲叹，对...深表遗憾
 	denounce	v.	公开指责；检举，告发；
-	excoriate	vt.	严厉批评
+	excoriate	vt.	磨掉皮肤；严厉批评
 	fulminate	v.	大声斥责(痛斥)
 	lambaste	vt.	严厉斥责	=lambast
 	pillory		vt	批评，抨击
@@ -20,6 +20,8 @@
 	blast		vt.	斥责，抨击	[INFORMAL]
 	chastise	vt.	严厉批评
 		chastisement	n.
+	inveigh		vi.	(~ against sb/sth)猛烈抨击，痛骂(=rail)
+	stricture	n.	指责；限制；
 
 玷污，抹黑
 	besmirch	v.	玷污
@@ -42,6 +44,7 @@
 	defame		vt.	诋毁，损害...名誉 [FORMAL][LAW]
 		defamation	n.
 	slander		v. n.	诋毁，诽谤
+	vilify		v.	诋毁，诬蔑	[FORMAL]
 
 
 （语言、态度）尖刻的，嘲讽的，尖酸的
@@ -262,6 +265,9 @@
 	percolate
 	penetrate
 	pervade
+	filter
+	infiltrate
+	
 
 分散，传播
 	disffuse	v.	（气体、液体）扩散；（信息，知识）扩散（传播）	adj. 分散的	The company has become large and diffuse.  公司规模大了，业务范围也更广了。
@@ -374,6 +380,7 @@ intrinsic
 	jibe		1. variant spelling of `gibe` 2. vi.+with: agree, to be in accord
 	tease
 	flout
+	taunt
 
 粥 		n.
 	porridge

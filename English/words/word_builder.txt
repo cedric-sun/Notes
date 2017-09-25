@@ -627,7 +627,8 @@ laconic		a.	简洁的
 	laconicism = laconism
 
 delinquent	a.	拖欠的[FORMAL]；（青少年）不良的，违法的	n. 不良少年
-overdue		a.	过期的，延误的
+due		a.	预计的；
+	overdue		a.	过期的，延误的
 
 imminent	a.	临近的，即将发生的，迫在眉睫的
 inferior	a.	差的；下等（阶级）的	be inferior to 比...次
@@ -1421,3 +1422,13 @@ condition	vt.	调整，使处于理想状态
 	recondition	vt.	修理（再调整）
 
 thoughtless
+unthinking
+incogitant
+
+invoice		n.	发票	vt. 给...开发票
+patio		n.	露台	plural: patios
+quote		n.	引用；*报价*；
+clutter		n.	杂乱，乱七八糟		vt. 塞满，乱堆在
+reckon		vi.	想，认为
+well-versed	a.	精通的，熟知的(be well-versed in sth)
+

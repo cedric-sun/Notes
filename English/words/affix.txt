@@ -117,3 +117,41 @@ meta-
 ante-
 	在...之前	from latin "antecedere"		refer to "antecede"
 		antediluvian
+
+xen- xeno-	Etymology:	Greek, "xenos": strange
+	外来的，外国人
+		xenophobia	仇外心理
+
+-phobia		phobia n. （病态的）恐惧 or 厌恶
+		xenophobia	仇外
+		agoraphobia	广场恐惧
+			agora	n.	（尤指古希腊的）集市
+	-phobe
+		a person who has that phobia
+	-phobic
+		of, or relating to that phobia
+
+alt: high	Latin:altus(=high)
+	altar 祭坛
+	altimeter 高度计 
+	altitude 高度 
+	exalt 提高，擢升 使得意，赞扬 
+	exaltation 擢升;狂喜 
+	haughty 傲慢的 骄傲的 
+
+alter,ali: other	Latin: alter,alius(=other) [变形]altr
+	alter 更改 改变 
+	altercate 口角 争论 
+	alternate 轮流 交替 
+	alternative 二者择一 选择余地 
+	alternator 交流发电机 
+	altruism 利他主义 
+	altruistic 利他主义的 
+	alien 外国人的 相反的 
+	alienable 可让渡的 
+	alienation 疏远 让渡 
+	alias 别名 化名 假名 
+	alibi 不在场证明 托辞 
+	adulterate .v.混杂 .adj. 不道德的 堕落的 [ad-= to, ulter=alter] 
+	adultary .n.通奸 私通
+

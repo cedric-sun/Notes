@@ -73,6 +73,10 @@ perverse	a.	有悖常理的；任性的
 amorous		a.	表示性爱的，色情的
 erotic		a.	性爱的，性欲的，色情的
 genital		n.	生殖器 = genitalia [均为plural] (male: penis / female: vulva)
+labium		n.	阴唇(folds on the outside of the female sex organs) usually plural: labia
+	labia majora
+	labia minora
+vagina		n.	阴道
 erectile	a.	（躯体组织或部位）能勃起的
 ejaculate	v.	射精
 	ejaculation	n.	射精
@@ -812,9 +816,10 @@ tort
 
 tortuous	a.	曲折的；拐弯抹角的；
 
-torpor		n.	不活跃，萎靡
-torpid		a.	不活泼的，萎靡的
-	torpidity	n.	= torpor
+torpor		n.	不活跃，萎靡，无精打采
+	torpid		a.	不活泼的，萎靡的，无精打采的
+		torpidity	n.	= torpor
+
 torture		vt./n.	折磨，拷问	bottom 50%
 torment		vt./n.	折磨，拷问	top 40%
 
@@ -1057,6 +1062,7 @@ adulate		v.	奉承，拍马屁
 	adulation	n.
 	adulatory	a.
 fawn		n.	幼鹿；鹿色；小孩；	v. （动物向人）表示好感；奉承，讨好；
+saccharine	n.	糖精	a. 过于殷勤的，甜得发腻的
 
 stria		n.	条纹	(plural. striae) = striation
 	striate		v.	加条纹	a. =striated 有条纹的
@@ -1431,4 +1437,34 @@ quote		n.	引用；*报价*；
 clutter		n.	杂乱，乱七八糟		vt. 塞满，乱堆在
 reckon		vi.	想，认为
 well-versed	a.	精通的，熟知的(be well-versed in sth)
+
+thievish	a.	of, or relating to, or characteristic of a thief; given to stealing
+
+benifit
+
+persevere	v.
+	persevering	a.
+	perseverance	n.
+
+presume		vt.
+	presumable	a.
+		presumably	adv.
+	presumption	n.
+	presumptive	a.
+	presumptuous	a.	
+
+mellow		a.	柔和的；轻松的，令人愉快的；	vi. 变柔和	vt. （使）放松
+
+mellifluous	a.
+mellifluence
+melliferous
+mellifluent
+
+the Labyrinth	n.	希腊神话中的迷宫，由Asterion(Asterius)把守	Greek: λαβύρινθος labyrinthos
+	labyrinth	n.	迷宫
+		labyrinthine	adj.	迷宫般的
+
+spotlight	n.	聚光灯	vt. 用聚光灯照亮；曝光，使公众关注；
+wretch		n.	可怜的人，不幸的人；坏人，流氓[INFORMAL or HUMOROUS]
+	wretched	a.	不幸的；质量差的；
 

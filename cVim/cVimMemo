@@ -1,19 +1,28 @@
-q trigger hover event fails
-zr restart chrome doesn't really work
-P fails to handle multiple lines URLs without protocol prefixes.
--------------------
+Feature Request
+----------------------
+1. Go back normal mode after yanking in visual mode.
+2. Put cursor at the position specified by hint sequence when entering visual mode.
 
-jump to the first search result
-jump to specific tab starting with the following character
-enter caret mode from specific position. Refer to VimFx `v`
-cannot bind <C-[>, but <C-]> works
 
--------------------
+Desires, not sure whether they are viable or logically not ambiguous.
+----------------------
+1. Highlight `/` or `?` search result on scroll bar just like the native Chrome `Ctrl-F` does.
+2. Jump (back) to the first `/` or `?` search result.
 
+
+Known (dubious) problem
+----------------------
+1. `q` fails to trigger hover event.
+2. `zr` fails to restart Chrome.
+3. `P` fails to handle multiple lines URLs without protocol prefixes.
+4. Cannot `map <C-[> previousTab`, but `map <C-]> nextTab` works.
+
+
+Dingus
+----------------------
 what does gh gl mean
 key '#' reset the scroll focus to the main page: what m1
 ; what does it mean by 'change the link hint focus'?
 '' go to last scroll position : what does it mean
 <C-o> <C-i>: add explanation that which operations will modify the jump list(i.e. a more specific doc?)
 mnemonic annotation in doc?
-

@@ -16,6 +16,7 @@ Known (dubious) problem
 2. `zr` fails to restart Chrome.
 3. `P` fails to handle multiple lines URLs without protocol prefixes.
 4. Cannot `map <C-[> previousTab`, but `map <C-]> nextTab` works.
+5. Input method is able to change the content of page in caret mode.
 
 
 Dingus

@@ -4,6 +4,12 @@
 	procrastinate
 	temporize
 
+倾向，偏好，喜爱
+	predilection
+	proclivity	n.	尤指坏的癖好
+	affinity	n.	喜爱；相似；
+
+
 交谈
 	converse with sb
 	engage sb in conversation	[FORMAL]
@@ -275,7 +281,7 @@
 	
 
 分散，传播
-	disffuse	v.	（气体、液体）扩散；（信息，知识）扩散（传播）	adj. 分散的	The company has become large and diffuse.  公司规模大了，业务范围也更广了。
+	diffuse		v.	（气体、液体）扩散；（信息，知识）扩散（传播）	adj. 分散的	The company has become large and diffuse.  公司规模大了，业务范围也更广了。
 	disperse	v.	（使）分散 When the rain came down the crowds started to disperse.  雨下来时人群开始四处散开。	Police dispersed the crowd that had gathered.  警察驱散了聚在一起的人群。
 	scatter		v.	（使）分散；播撒；	The protesters scattered at the sound of gunshots.  听到枪声后抗议者便散开了。	The soldiers came in and scattered the crowd.  士兵进来把人群驱散了。
 	disseminate	v.	传播（信息、新闻），宣传	One of the organization's aims is to disseminate information about the disease.  该组织的宗旨之一就是宣传关于这种疾病的知识。

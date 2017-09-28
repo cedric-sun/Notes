@@ -2,6 +2,7 @@ Feature Request
 ----------------------
 1. Go back normal mode after yanking in visual mode.
 2. Put cursor at the position specified by hint sequence when entering visual mode.
+3. Support `Nw` or `Nb` in caret mode and visual mode where `N` is a number.
 
 
 Desires, not sure whether they are viable or logically not ambiguous.

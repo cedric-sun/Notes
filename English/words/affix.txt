@@ -160,3 +160,6 @@ alter,ali: other	Latin: alter,alius(=other) [变形]altr
 	an ivy-clad wall	爬满常春藤的墙面
 	an armour-clad vehicle	装甲车
 
+hyp- hypo-
+	under
+		hypothesis	hypo-thesis

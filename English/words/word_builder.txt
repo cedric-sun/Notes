@@ -652,7 +652,7 @@ vigil		n.	守夜		Vigil Knight 守夜骑士
 		vigilance	n.	警惕，警觉
 	vigilante	n.	（尤指认为警方无法维持治安而自发组织起来的）治安会会员，治安维持者
 
-vacillate	vi.	摇摆不定；犹豫不决；
+vacillate	vi.	摇摆不定；犹豫不决；(to waver in mind, will, or feeling : hesitate in choice of opinions or courses)	*可以指物理上的摇摆*
 	vacillant	a. = vacillating
 	vacillation	n.
 
@@ -788,11 +788,16 @@ resilient	a.	有弹性的，能复原的
 venal		a.	唯利是图的，贪污腐败的
 	venality	n.	贪婪，腐败
 
-sophism
-surge
-	insurgent
-	resurge
-	surgence
+sophism		n.	诡辩
+surge		n.	剧增；涌现；（情感的）涌起，翻涌；	vi.	剧增；涌动；（情感的）涌起，翻涌；
+	surgence	n.
+	insurgent	n.	叛乱者，反叛者	[FORMAL]	a. 叛乱的
+		insurgency	n.	叛乱（的状态）；叛乱（这一行为本身）(=insurgence)；
+			counterinsurgency	n.	（政府的）反暴乱的军事行动
+		insurgence	n.	叛乱（这一行为本身）(=insurrection)
+	resurge		vi.	复活，复兴
+		resurgent	a.	复活的，复兴的
+		resurgence	n.	复活，复兴
 
 hysteria	n.	歇斯底里
 dismal		a.	阴沉的，凄凉的
@@ -850,12 +855,15 @@ scarcely	adv.	几乎不 = barely = hardly
 sleepy		a.	困的，想睡的；（场所、地点）静寂的，冷清的(a sleepy place is quiet and does not have much activity or excitement)；
 	sleepyhead	n.	瞌睡虫（贪睡者）（尤指儿童）[INFORMAL]
 
+beauty sleep	n.	美容觉(the sleep that you need in order to feel and look healthy and attractive)
+
 somnolent	a.	想睡的，昏昏欲睡的(=sleepy)
 	somnolence	n.	瞌睡，昏昏欲睡
 	somnambulism	n.	梦游 [SPECIALIZED]
 		somnambulist	n.	梦游者
 
 drowsy		a.	想睡的，睡意朦胧的，昏昏欲睡的
+
 sopor		n.	[医]昏睡	profound or lethargic sleep
 	soporific	a.	催眠的	causing sleep or make a person want to sleep
 		soporifically	adv.
@@ -864,13 +872,13 @@ sopor		n.	[医]昏睡	profound or lethargic sleep
 mesmeric	a.	催眠术的；令人着迷的
 	mesmerize	vt.	催眠；迷住；	= hypnotize
 	mesmerism	n.	催眠术		= hypnotism
-	mesmerist	n.
+		mesmerist	n.
 
-hypnotic	a.	催眠的；令人着迷的
+hypnotic	a.	催眠的；令人着迷的；
 	hypnosis	n.	催眠状态
 	hypnotize	v.	催眠；使...着迷于(passive)	I was hypnotized by his steely grey eyes.  我被他那双神情坚毅的灰色眼睛迷住了。
 	hypnotism	n.
-	hypnotist	n.
+		hypnotist	n.
 
 magnetism	n.	磁力；**吸引力，魅力**
 trance		n.	催眠状态，恍惚，出神
@@ -1108,7 +1116,7 @@ vary		v.	变化
 		variegated	a.	色彩斑驳的，有斑点的
 		variegation	n.
 
-liable		a.	[法]有责任的(=responsible)；很可能发生的（be liable to sth)
+liable		a.	[法]有责任的(=responsible)；很可能发生的（be liable to sth/to do sth)
 	liability	n.	责任，义务；可能，可能性；
 		liabilities	n.	（特指）债务 = debts
 
@@ -1188,6 +1196,8 @@ masculinity	n.	男子气概
 
 sound		a.	完好无损的(intact)；合理的，明智的；完全的，彻底的；
 	soundly		adv.	完全地(=utterly, completely)；
+	resound		vi.	回响
+	unsound		a.	（人的活动或判断）不够好的，靠不住的；（建筑）不稳固的；
 
 needlessly	adv.	=unnecessarily
 
@@ -1285,6 +1295,9 @@ sentinel	n.	哨兵；岗哨； [LITERARY]		卫报 The Fort Lauderdale Sun-Sentin
 
 appease		v.	[贬]绥靖，为了息事宁人或讨好而妥协
 customary	a.	惯常的(usual)；传统的(traditional)；
+wont		n.	习惯，惯常	a. 习惯的，惯常的
+	wonted		a.	通常的(=usual)	[FORMAL]
+		unwonted	a.	不平常的(=unusual)，异常的
 
 wean		vt.	使断奶
 	unweaned	a.	尚未断奶的
@@ -1412,6 +1425,7 @@ eminent		a.	凸出的(=projecting, protruding, prominent)；杰出的，卓越�
 	supereminent	a.	=preeminent，只形容人
 	prominent	a.	凸出的(=projecting, protruding, eminent)；显眼的，显著的；杰出的，著名的；
 		prominence	n.
+			solar prominence	n.	日珥（太阳表面的火舌状焰柱）
 	preeminent	a.	杰出的，卓越的，强调凸出于众人的能力、才华或地位
 		preeminence	n.
 
@@ -1504,3 +1518,47 @@ lettuce		n.	生菜（叶用莴苣的俗称）
 
 shin		vi.	爬(~ up)	n. 胫(the front part of your leg between your knee and your foot)
 eatery		n.	=a restaurant	[INFORMAL] 餐馆
+mead		n.	蜂蜜酒（用蜂蜜酿的）
+
+critical list	n.	病危名单
+	be on/off the critical list	在病危名单上/从病危名单上去除；[FIGURATIVE] 处于危险之中/脱离危险
+
+servile		a.	卑躬屈膝的，过度谦卑的
+	servitude	n.	奴役（比slavery好一点？）
+
+sonant
+	resonant	a.	（声音）洪亮共鸣的；（观点、情感）引起共鸣的；
+		resonance	n.
+	dissonant	n.	
+		dissonance	n.	不和谐，不一致，（意见的）分歧
+	consonant	n.	辅音字母（元音: vowel）；和谐的，一致的；
+		consonance	n.	和谐，统一(=harmony)
+		consonantal	a.	辅音的
+		inconsonant	a.	不和谐的，不一致的
+			inconsonance	n.	不和谐，不一致
+
+syllable
+	syllabic
+
+vestige		n.	遗迹 [FORMAL]；退化的器官；
+	vestigial	a.	残留的，残余的；（器官）退化的，发育不全的；	Vestigial remains of these plays are now seen in the Christmas pantomime.	这些剧目的残余部分现在能在圣诞哑剧中被发现。
+
+prevail		vi.	胜出，占上风，占优势；流行，盛行；
+	prevailing	a.	盛行的，普遍的
+	prevalent	a.	盛行的，普遍的
+
+fortuante	a.
+	unfortunate	a.	不幸的；[FORMAL] （言论或行为）令人尴尬的，不恰当的，得罪人的
+felicitous	a.	令人愉快的(~ weather, =pleasant,delightful)；恰当的，贴切的；
+	infelicitous	a.	不恰当的，不合适的，令人尴尬的；*根本没有“不幸”的意思*
+
+triumphant	a.	凯旋的；[Derivative] 洋洋得意的；
+
+entreat		vt.	恳求	to try very hard to persuade someone to do something
+	entreaty	n.
+
+portent		n.	预兆
+	portentous	a.	预兆的[LITERARY]；*自命不凡的，自大的 [FORMAL & DISAPPROVING]*；
+
+glabrous	a.	光洁的
+precocious	a.	（尤指儿童）智力超常的，早熟的；少年老成的[DISAPPROVING]；

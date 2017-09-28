@@ -4,6 +4,27 @@
 	procrastinate
 	temporize
 
+狂饮，痛饮
+	carouse
+		carousel	n.	旋转木马(US)；行李传送带；
+	quaff
+	guzzle
+
+杂色，混杂
+	mottle
+		motley
+	piebald
+
+叛乱
+	rebellious = be in revolt	a.
+	insurgent	a.
+	insurrection	n.	叛乱
+
+似真实的，好像真实的
+	plausible
+	verisimilar
+		verisimilitude	n.	貌似真实，逼真
+
 倾向，偏好，喜爱
 	predilection
 	proclivity	n.	尤指坏的癖好
@@ -546,6 +567,7 @@ instigate	vt.	煽动，激起
 ===========================
 contumacious	a.	不服管束的，倔强的
 insubordinate	a.	不服从权威的
+refractory	a.	倔强的，不服从的
 
 =================================
 intransigent	a.	固执的，不妥协的

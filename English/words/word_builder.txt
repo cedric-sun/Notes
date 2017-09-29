@@ -88,7 +88,7 @@ semen		n.	精液
 	seminal		a.
 gamete		n.	配子（指精子或卵子）
 libido		n.	性欲	(plural. libidos)
-repress		vt.	压抑，克制（感情）；（尤指用武力）镇压
+repress		vt.	抑制，克制（感情）；（尤指用武力）镇压
 mend		vt.	修理，修补；
 transmute	vt.	使变形，使变质，把...变成...;
 celibate	a.	禁欲的，没有性生活的	n.	禁欲者
@@ -167,6 +167,8 @@ aroma		n.	（通常指食物、饮料的）香味，香气，芳香
 hypocrisy	n.	伪善
 	hypocritical	a.	伪善的
 	hypocrite	n.	伪善者，伪君子
+
+sanctimonious	a.	假装圣洁的，道貌岸然的，伪善的
 
 flirt		vi.	调情，打情骂俏
 	flirty		a.	轻浮的，轻佻的
@@ -909,8 +911,9 @@ corporate	a.	公司的；集体的；
 build		n.	身材
 
 -turb
-	perturb
-	disturb
+	perturb		v.	打扰，使不安 [FORMAL]
+		imperturbable	a.	沉着的，泰然自若的
+	disturb		v.	打扰，使不安
 
 shun		vt.	躲避；避免；
 
@@ -1068,6 +1071,7 @@ obey		v.
 
 amenable	a.	顺从的
 submit		v.	顺从，屈服
+	submissive	a.	顺从的
 	submission	n.
 supple		a.	易弯的；顺从的；灵活的；
 
@@ -1488,12 +1492,16 @@ presume		vt.
 	presumptive	a.
 	presumptuous	a.	
 
-mellow		a.	柔和的；轻松的，令人愉快的；	vi. 变柔和	vt. （使）放松
+mellow		a.	柔和的；（声音）柔和的，圆润的；轻松的，令人愉快的；	vi. 变柔和	vt. （使）放松
 
-mellifluous	a.
-mellifluence
-melliferous
-mellifluent
+melliferous	a.	产蜜的
+mellifluous	a.	（声音）甜美流畅的	Middle English mellyfluous, from Late Latin mellifluus, from Latin mell-, mel honey + fluere to flow
+	mellifluously	adv.
+	mellifluousness	n.
+mellifluent = mellifluous
+	mellifluently	adv.
+	mellifluence	n.
+mead		n.	蜂蜜酒（用蜂蜜酿的）
 
 the Labyrinth	n.	希腊神话中的迷宫，由Asterion(Asterius)把守	Greek: λαβύρινθος labyrinthos
 	labyrinth	n.	迷宫
@@ -1518,27 +1526,46 @@ lettuce		n.	生菜（叶用莴苣的俗称）
 
 shin		vi.	爬(~ up)	n. 胫(the front part of your leg between your knee and your foot)
 eatery		n.	=a restaurant	[INFORMAL] 餐馆
-mead		n.	蜂蜜酒（用蜂蜜酿的）
 
 critical list	n.	病危名单
 	be on/off the critical list	在病危名单上/从病危名单上去除；[FIGURATIVE] 处于危险之中/脱离危险
 
-servile		a.	卑躬屈膝的，过度谦卑的
-	servitude	n.	奴役（比slavery好一点？）
+serve		v.
+	serving		a.	现役的	serving and retired military officers 现役和退役的军官
+	server		n.	
+	servitor = servant
+	servant		n.
+		public servant/servant of the state
+		a person who works for the government 公务员，公仆
+			Public servants should be incorruptible.  公务员应该做到清正廉洁。
+	service		n.
+		serviceable	a.	合适使用的	suitable for use
+		serviceberry	n.	花楸(树)果(实)
+		serviceman	n.	男兵，男军人
+		servicewoman	n.	女兵，女军人
+		serviceperson	n.	军人；（设备）维护人员；
+	serviette	n.	餐巾，餐巾纸(UK)(=napkin)
+	servo = servomechanism
+	servomechanism	n.	伺服机构（或系统）(a system that uses a small amount of power to control the power of a larger machine)
+	servomotor	n.	伺服电动机(a motor that provides the power for a servomechanism)
+	servient	a.	现役的(=serving)；从属的，下属的(=servile)；受奴役的；
+		subservient	a.	恭顺的，卑躬屈膝的
+		servitude	n.	奴役（比slavery好一点？）
+	servile		a.	卑躬屈膝的，过度谦卑的
 
 sonant
 	resonant	a.	（声音）洪亮共鸣的；（观点、情感）引起共鸣的；
 		resonance	n.
-	dissonant	n.	
+	dissonant	n.	不和谐的，刺耳的
 		dissonance	n.	不和谐，不一致，（意见的）分歧
-	consonant	n.	辅音字母（元音: vowel）；和谐的，一致的；
-		consonance	n.	和谐，统一(=harmony)
+	consonant	n.	辅音字母（元音: vowel）；一致的，符合的，和谐的；
+		consonance	n.	和谐，一致(=harmony)
 		consonantal	a.	辅音的
 		inconsonant	a.	不和谐的，不一致的
 			inconsonance	n.	不和谐，不一致
 
-syllable
-	syllabic
+syllable	n.	音节	a single unit of speech, either a whole word or one of the parts into which a word can be separated, usually containing a vowel
+	syllabic	a.	音节的
 
 vestige		n.	遗迹 [FORMAL]；退化的器官；
 	vestigial	a.	残留的，残余的；（器官）退化的，发育不全的；	Vestigial remains of these plays are now seen in the Christmas pantomime.	这些剧目的残余部分现在能在圣诞哑剧中被发现。
@@ -1549,6 +1576,7 @@ prevail		vi.	胜出，占上风，占优势；流行，盛行；
 
 fortuante	a.
 	unfortunate	a.	不幸的；[FORMAL] （言论或行为）令人尴尬的，不恰当的，得罪人的
+
 felicitous	a.	令人愉快的(~ weather, =pleasant,delightful)；恰当的，贴切的；
 	infelicitous	a.	不恰当的，不合适的，令人尴尬的；*根本没有“不幸”的意思*
 
@@ -1560,5 +1588,60 @@ entreat		vt.	恳求	to try very hard to persuade someone to do something
 portent		n.	预兆
 	portentous	a.	预兆的[LITERARY]；*自命不凡的，自大的 [FORMAL & DISAPPROVING]*；
 
-glabrous	a.	光洁的
+glabrous	a.	光洁的，无毛的
 precocious	a.	（尤指儿童）智力超常的，早熟的；少年老成的[DISAPPROVING]；
+
+resile		v.	改变先前的决定或想法
+	resilient	a.	有弹性的，能复原的
+		resilience	n.	弹性，复原力
+		resiliency = resilience
+
+recluse		n.	隐居者；喜欢独处的人	a. 隐居的(=solitary, secluded)
+	reclusive	a.	隐居的，喜欢独处的
+		-ly		adv.
+	reclusion	n.
+
+seclude		vt.	使隐居	[REFLEXIVE] He preferred to seclude himself in the laboratory.
+	secluded	a.
+		secludedness	n.
+	seclusive
+		seclusively	adv.
+		seclusiveness	n.
+	seclusion	n.
+		seclusionist	n.	隐居者
+
+singularly	adv.	特别地	singularly beautiful	特别漂亮
+
+dial		n.	仪表盘
+startle		vt.	使吃惊，使受惊
+	startling	a.	惊人的
+
+murk		n.	黑暗，昏暗
+	murky		a.	黑暗的，昏暗的；（形势）复杂难懂的，不明朗的；
+
+gloom		n.	忧郁，愁闷；昏暗，幽暗[LITERARY]；
+	gloomy		a.	忧郁的，悲观的；灰暗的；
+
+endemic
+pandemic
+
+epidemic
+
+Saturn		n.	土星
+	saturnine	adj.	阴郁的，严肃的
+
+contact lens	n.	隐形眼镜
+frantic		a.	发狂的，情绪失控的
+	frantically	adv.
+
+obviate
+ostracize
+oscillate = vacillate
+
+opprobrium	n.	谴责，抨击
+	opprobrious	a.
+
+sepulchre	n.	石墓	a stone structure where someone is buried
+	sepulchral	adj.	阴沉的，阴森森的
+
+

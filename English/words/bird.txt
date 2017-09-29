@@ -1,0 +1,5 @@
+canary		金丝雀
+cardinal	北美红雀
+finch		（泛指）雀类(small singing bird with a short, wide, pointed beak)
+	bullfinch	红腹灰雀
+	chaffinch	（欧洲）苍头燕雀，花鸡

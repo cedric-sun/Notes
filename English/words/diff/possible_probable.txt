@@ -1,0 +1,7 @@
+Possible = It is not impossible. There is no proof to suggest that it could not be achieved or that it couldn't occur.
+	impossible	a.	根本没可能的
+
+Probable = There is a good chance of this happening. Not 100%, but better than 50%.
+	improbable	a.	不大可能的(not likely to happen to be true)
+
+Plausible = It *sounds* to be true, or sometimes even has the tendency of being specious, but who knows?

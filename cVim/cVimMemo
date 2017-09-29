@@ -5,7 +5,7 @@ Feature Request
 3. Support `Nw` or `Nb` in caret mode and visual mode where `N` is a number.
 
 
-Desires, not sure whether they are viable or logically not ambiguous.
+Feature Request (not sure they are implementable via the current APIs)
 ----------------------
 1. Highlight `/` or `?` search result on scroll bar just like the native Chrome `Ctrl-F` does.
 2. Jump (back) to the first `/` or `?` search result.
@@ -14,9 +14,9 @@ Desires, not sure whether they are viable or logically not ambiguous.
 Known (dubious) problem
 ----------------------
 1. `q` fails to trigger hover event.
-2. `zr` fails to restart Chrome.
+2. `zr` fails to restart Chrome.	/* Do we really need this utility? */
 3. `P` fails to handle multiple lines URLs without protocol prefixes.
-4. Cannot `map <C-[> previousTab`, but `map <C-]> nextTab` works.
+4. Cannot `map <C-[> previousTab`, but `map <C-]> nextTab` works. /* Not sure if this problem is local to `previousTab`. */
 5. Input method is able to change the content of page in caret mode.
 
 

@@ -127,7 +127,7 @@ prude		n.	过度关注行为是否端庄得体的人，过分拘谨的人
 affect		vt.	影响；假装；
 	affectation	n.	做作，装模作样
 
-attentive	a.	认真倾听的；关心的，体贴的
+attentive	a.	（听或读）仔细的，认真的；关心的，体贴的
 
 decor		n.	（房间内的）装饰布局，装饰风格 (elegant decor 雅致的装饰)
 	decorate	vt.	装饰
@@ -398,10 +398,30 @@ concept		n.
 		conceptualist	n.
 		conceptualism	n.
 
+# suffuse	强调充满
+# diffuse	强调扩散这一动作本身
+# n. -fusion	a. -fusive
 fuse		v.	（使）熔化，熔合	n. 保险丝
 	fusible		a.	易熔的
 	fusion		n.	熔合
-	suffuse		v.	弥漫于，充满，遍布
+	suffuse		vt.	弥漫于，*充满*，遍布	[LITERARY]
+		suffusion	n.
+		suffusive	a.
+	perfuse		vt.	弥漫，布满(=suffuse)；扩散(=diffuse)；
+		perfusion	n.
+		perfusive	a.
+	circumfuse	vt.	=surround	环绕，包围
+		circumfusion	n.
+	diffuse		v.	（气体、液体）扩散；（信息，知识）扩散（传播）	adj. 分散的
+	effuse		vt.	to pour out (a liquid)	vi. to flow out (=emanate) 散发		vi. to make a great or excessive display of enthusiasm: they effused about his accomplishments
+	infuse		v.	注入（情感）	to fuse someone/something with an emotion or quality
+	profuse		a.	大量的(=boutiful)	a profuse harvest 大丰收	*CUSTOMARY COMBINATION*: If you offer profuse apologies or thanks, you apologize or thank someone a lot.
+	transfuse	vt.	输送（液体，血液）；传输(=transmit)；渗透，穿透 sunlight transfuses the bay(月桂树)；
+		transfusion	n.
+	defuse		vt.	平息，缓和
+	confuse
+	refuse
+
 
 stupefy		v.	使昏昏沉沉；使震惊
 	stupefaction	n.
@@ -438,7 +458,7 @@ pernicious	a.	(极其)有害的
 
 announce	vt.	宣布，声明
 renounce	vt.	宣布放弃
-denounce	vt.	谴责；检举告发
+denounce	vt.	谴责；检举告发；
 
 licit		a.	合法的
 	illicit		a.	不合法的
@@ -995,6 +1015,7 @@ deduce		vt.	推断，推理		refer to: infer
 	deduction	n.	推断
 induce		vt.	导致；劝说；
 	induction	n.	引发，诱导；[specialized]电磁感应
+	inducement	n.	引诱（物），诱惑
 reduce		v.	减少；化简，归纳；[数]约分；
 	reduction	n.	减少；[数]约分；
 		reductionism	n.	简化论，简化主义
@@ -1231,7 +1252,12 @@ vivace
 	vivacious	a.	活泼迷人的
 	vivacity	n.
 
-pious		a.	虔诚的		ANTONYM: impious
+piety		n.	（对宗教的）虔诚	[FORMAL]
+	pious		a.	（对宗教）虔诚的；[DISAPPROVING]假装真诚的，假惺惺的，虚伪的；
+		pious hope/wish	n.	不太可能实现的愿望，不切实际的希望	something that is hoped for but will probably not happen
+	impiety		n.	（尤指对上帝和宗教的）不敬，不恭
+		impious		a.	（尤指对上帝或宗教）不敬的；不恭的
+
 lackadaisical	a.	懒散的，慵懒的
 
 vestibule	n.	门厅
@@ -1291,6 +1317,7 @@ trifle		n.	琐事	v. 轻视（责任、决定等），不认真对待
 
 shirk		v.	逃避（工作、责任等）
 swindle		vt. n.	诈骗，骗取（钱财）
+	swindler	n.	骗子
 
 serendipity	n.	机缘，幸运(the fact of finding interesting or valuable things by chance)
 
@@ -1644,4 +1671,84 @@ opprobrium	n.	谴责，抨击
 sepulchre	n.	石墓	a stone structure where someone is buried
 	sepulchral	adj.	阴沉的，阴森森的
 
+sedent		a.	坐着的(=sitting)，多用于形容雕像	Latin sedent-, sedens, present participle of sedēre to sit
+	sedentary	a.
+		1 :not migratory :settled sedentary birds, sedentary civilizations 非迁徙的鸟类，定居（非迁徙，非游牧）的文明
+		2 
+			a :doing or requiring much sitting: a sedentary job	久坐的
+			b :not physically active: a sedentary lifestyle		定居的，不活动的
+		3 :permanently attached: sedentary barnacles(barnacles:（岩石、船底等处的）附着甲壳动物，藤壶)
 
+ire		n.	（公开明显的）愤怒，怒火(intense and usually openly displayed anger)	[FORMAL]	vt. 激怒
+	ireful		a.
+	irate		a.	愤怒的 1. roused to ire 2. arising from anger
+		irately		adv.
+		irateness	n.
+
+distinct	a.	明显的，确实的；明显不同的；	There's a distinct smell of cigarettes in here.  这里确实有一股烟味儿。
+	indistinct	a.	不清楚的，模糊的	an indistinct shape/sound/recollection 模糊的形状／声音／记忆
+
+devalue		v.	（使）贬值	vt. 贬低，轻视
+	devaluation	n.
+
+probable	a.	很可能发生的，强调发生的概率较大
+	improbable	a.	不太可能发生的
+	probably	adv.
+	probability	n.
+
+plaudit		n.	赞扬(=praise)	[FORMAL]
+
+tend		vi.	倾向(~ to)	vt./vi.+to 照顾，照料[FORMAL]	Nurses tended to the injured.  护士们照料伤员。
+	tender		a.	温柔的，关切的；年幼的[LITERARY]；	vt. 提交[FORMAL]	vi. 投标(If you tender for a job, you make a formal offer to do it for a stated price.)
+	tendency	n.	（思想、行为等的）倾向(see disposition)；倾向，趋势；
+		tendentious	a.	（发言）有倾向（性）的，有偏见的
+
+particular	a.	特定的，特别的(this and NOT any other)；讲究的，挑剔的；	He's very particular about the kitchen - everything has to be perfectly clean and in its place.  他对厨房非常挑剔——每样东西都得一尘不染，该放哪放哪。
+
+fuss		n.	大惊小怪，（因小事）过度激动	vi. 过度关注（细节），为小事烦恼
+	fuss over sb/sth	过分宠爱/过度关注
+	fuss with sth		（因为紧张或犹豫）摆弄	She's always fussing with her hair.
+	fussy		a.	过分挑剔的；过度花哨的；	a fussy wallpaper pattern
+
+overly		adv.	过分地，过度的(=excessively)
+
+upset		vt.	to make someone worried, unhappy, or *angry*	使心烦意乱，强调使内心失去平静，而具体的形式不限于沮丧，也可以是担忧或*愤怒*
+
+probity		n.	诚实，正直
+	improbity	n.
+
+pursue		v.
+	pursuit		n.	嗜好，消遣（追求）；追踪；追求；
+
+forth		adv.	（时间、地点上）向前	*from that day forth* / They set forth on their travels in early June.		adv. out into notice or view (m-w); When someone or something is brought forth, they are brought to a place or moved into a position where people can see them. out, esp,: out into view, as from hiding (collins)		adv. [OBSOLETE] away, abroad
+	forthright	a.	直率的，直截了当的	adv. =forthrightly
+		forthrightly	adv.
+		forthrightness	n.
+
+whither		adv.	=where
+boutiful	a.	数量巨大的；慷慨的；	[LITERARY]
+
+unfold		vt.	展开；（形势或故事）发展；详细讲述（尤指计划） Gradually, the author unfolds a fantastical tale.	Unfold your plan to us! 给我们说说你的计划！	[FORMAL]；
+
+outspoken	adj.	直率的，直言不讳的
+
+composure	n.	沉着，镇定，泰然自若	the feeling of being calm, confident, and in control
+
+zest
+	zesty
+
+sanc
+	sanctuary
+	sanctum
+	sanction
+	sanctimonious
+
+frown		vi.	皱眉	frown on/upon sth 不赞同，表示异议
+
+trying		a.	（任务）棘手的，难对付的
+
+sate		v.
+	satiate		v.
+	satiety		n.
+	satiable	a.
+		insatiable	a.

@@ -53,7 +53,11 @@ tempest in a teapot		小题大做，大惊小怪 = UK storm in a teacup
 ruffle sb's feathers 		to upset or annoy someone 使（某人）心烦意乱；使（某人）生气；使（某人）恼怒 	She knows how to ruffle his feathers.  她知道怎样去惹他发火。
 as opposed to		与...相对
 insinuate oneself into sth(another's life, another's favor)	渗入某人的生活，巧妙地巴结上某人
-at the end of your tether (mainly uk) = (US) ~ your rope		筋疲力尽；一筹莫展
+
+at the end of your tether (mainly uk) = (US) ~ your rope
+	having no strength or patience left 筋疲力尽；一筹莫展
+		By six o'clock after a busy day I'm at the end of my tether.  忙碌了一天后，到6点钟时我已筋疲力尽了。
+
 repose trust/confidence/hope in sb/sth		to place your trust or hopes in someone or something 寄托（信任／信心于某人／事）	We repose a lot of hope in this project.  我们对这个项目寄托了很大的希望。
 give sb the creeps		to cause someone to have uncomfortable feelings of nervousness or fear 使（某人）毛骨悚然；使（某人）紧张害怕	Living next to a graveyard would give me the creeps.  住在墓地旁边会令我毛骨悚然。
 be on the prowl		to be moving around quietly in a place trying not to be seen or heard 悄然潜行		There was a fox on the prowl earlier.  早些时候有只狐狸出没于此。
@@ -249,3 +253,31 @@ at once
 		I knew at once that I'd like it here.  我立刻知道我会喜欢这里的。
 	2. at the same time 同时
 		They all started talking at once.  他们同时开始讲起话来。
+
+infringe on/upon sth	[FORMAL]
+	If something infringes on/upon someone's rights or freedom, it takes away some of their rights or limits their freedom.  侵犯（权利或自由）
+		These restrictions infringe upon basic human rights.  这些限制侵犯了基本人权。
+
+take the edge off sth
+	to make something unpleasant have less of an effect on someone 减弱，削弱（不良事物的影响）
+		Have an apple - it'll take the edge off your hunger.  吃个苹果吧——可以充充饥。
+		His apology took the edge off her anger.  他道了歉，她的火气就消了些。
+		Apple and computer, those two words ain't go together, but it made you feel with friendly, it took the edge off the word "computer".
+
+make beisance
+	鞠躬
+	One by one the noblemen made their obeisances (= bent at the waist) to the queen.  贵族们一一向女王鞠躬行礼。
+
+bristle with something
+	1. to be covered with (something)
+		a bush bristling with thorns 荆棘覆盖的灌木
+	2. to be full of (something)	充满
+		The movie bristles with excitement. 这部电影很刺激。
+		He bristles with energy. 他充满能量。
+		The helicopter hovered above them bristling with machine guns.  直升机在他们头顶上盘旋，上面架着许多机关枪。
+
+
+a treasure trove of sth
+	a place that is full of something good 丰富的…，…的宝库
+		a treasure trove of information 丰富的信息
+		Though small, this museum is a veritable treasure trove of history.  尽管这个博物馆很小，却也是大量史实资料的宝库。

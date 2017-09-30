@@ -163,3 +163,8 @@ alter,ali: other	Latin: alter,alius(=other) [变形]altr
 hyp- hypo-
 	under
 		hypothesis	hypo-thesis
+
+per-
+	thoroughly 彻底，完全
+		persiflage	siflage from siffer, to whistle, to hiss, to boo
+		perambulate

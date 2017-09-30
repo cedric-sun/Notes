@@ -181,7 +181,7 @@ diocese		n.	主教辖区 an area controlled by a bishop
 nettle		vt.
 	nettlesome	a.	烦人的，讨厌的
 
-vituperate	v.	辱骂	~= berate	[formal]
+vituperate	v.	辱骂	~= berate	[FORMAL]
 	vituperation	n.	辱骂
 	vituperative	a.	辱骂的
 
@@ -717,6 +717,7 @@ abusive		a.	辱骂的		an abusive letter/phone call 辱骂信／电话 He was ap
 
 withhold	vt.	拒绝给予
 rail		vi.	抱怨，谴责(usually rail at/against)
+	raillery	n.	（善意的）戏谑，玩笑，揶揄
 
 lu-, lumin- = light(Latin)
 	luster		n.	光泽，光辉 = UK. lustre
@@ -1238,7 +1239,8 @@ stamp		v.	（重）踩，踏
 tramp		v.	（重）踩，踏	US also tromp
 tread		v.	踩，踏
 trample		v.	践踏；侵犯；
-spurn		v.	（重）践踏；轻蔑地拒绝；
+spurn		v.	（重）践踏(=trample)；轻蔑地拒绝；
+# spur-表示踢，spur马刺在靴子上
 
 confess		v.	坦白，招认（错误或罪行）；（基督教中向上帝或神父）忏悔；
 	confession	n.	坦白；忏悔；
@@ -1586,6 +1588,7 @@ serve		v.
 
 sonant
 	resonant	a.	（声音）洪亮共鸣的；（观点、情感）引起共鸣的；
+		resonate	vi.	发出共鸣，回响；（思想、感情）产生共鸣；
 		resonance	n.
 	dissonant	n.	不和谐的，刺耳的
 		dissonance	n.	不和谐，不一致，（意见的）分歧
@@ -1787,13 +1790,6 @@ kin		n.	[archaic]家属，亲属
 			We can't release his name until we have informed his next of kin.  在通知他的直系亲属前，我们不能透露他的名字。
 	akin	a.	血族的，同族的；相似的；
 
-quiescent	a.	静止的，平静的	Latin quiescent-, quiescens, present participle of quiescere to become quiet, rest, from quies
-	quiescently	adv.
-	quiescence or quiescency	n.
-	acquiesce	vi.	默许，勉强同意
-		acquiscent	a.	默从的		willing to do what other people want
-			acquiescence	n.	默许
-
 quiet		a. v.
 	unquiet		a.	不平静的；焦躁不安的	[LITERARY]
 		unquietude	n.	wtf
@@ -1808,8 +1804,13 @@ quiet		a. v.
 		discharge a debt	清偿债务	[FORMAL]
 	requiem		n.	镇魂曲
 	requiescat	n.	安魂的悼词
+	quiescent	a.	静止的，平静的	Latin quiescent-, quiescens, present participle of quiescere to become quiet, rest, from quies
+		quiescently	adv.
+		quiescence or quiescency	n.
+		acquiesce	vi.	默许，勉强同意
+			acquiscent	a.	默从的		willing to do what other people want
+				acquiescence	n.	默许
 	
-
 gall		n.	胆；鲁莽，厚颜无耻；激怒；
 	gallstone	n.	胆结石
 	gallbladder	n.	胆囊
@@ -1846,3 +1847,55 @@ vocative	n.	呼格
 
 grace
 	gracious	a.	高贵优雅的
+
+garage		n.	车库
+
+fringe		n.	（地区或群体的）边缘，外围
+	infringe	v.	侵犯，违反（规定、法律等）	[超出（法律）边缘 -> 违反，侵犯]
+		infringement	n.	违反
+
+alternative	a.	另类的，非传统的	alternative band
+
+macula		n.	（皮肤上的）斑点；（矿石上的）斑点；（太阳表面的）黑点；
+	macular		a.
+	maculate	a.	有斑点的；（名誉）有污点的；	v. 玷污[archaic in AmE]
+		maculated	a.
+		immaculate	a.	整洁的；完美的；
+		maculation	n.	斑点
+
+smart		a.	整洁的；时髦优雅的(stylish or elegant in dress or appearance)；
+stylish		n.	时髦的，格调优雅的	having style; specifically :conforming to current fashion
+
+hiss		嘶嘶声；嘘声；
+boo
+whistle		口哨，吹口哨
+capacity	n.	容量；职位，工作；
+decry		vt.	谴责，抨击(=condemn)	[FORMAL]
+	decrial		n.
+	decrier		n.
+
+juxtapose	v.	把（不同的事物）并置，把…并列
+lurid		a.	
+
+concede		v.	让步，不情愿地承认
+	concession	n.	让步；认输（承认失败）；
+
+exult		vi.	欢欣鼓舞，狂喜
+	exultant	a.	极高兴的，狂喜的
+
+ambulate	vi.	走动(=walk)
+	ambulation	n.
+	perambulate	vt.	（徒步）巡游；（徒步）巡视；	vi. 漫步(=stroll)
+		perambulatory	a.
+		perambulation	n.
+
+dismissive	a.	轻视的，轻蔑的
+pedant		n.	书呆子	[DISAPPROVING]
+embroil		vt.	使卷入（纷争）
+malleable	a.	具延展性的，易变形的；易受外界影响的(=susceptible)；
+lionize		vt.	使成名；将…视作名人
+backlash	n.	（社会或政治方面的）强烈反响，强烈反对
+bereft		a.	缺乏…的；感到失落的
+	bereftness	n.
+avocation	n.	业余爱好
+stale		n.	（通常指因久放）不新鲜的，走味的

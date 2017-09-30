@@ -4,6 +4,9 @@
 	procrastinate
 	temporize
 
+使干枯，使凋谢
+	wizen
+
 冷漠的，麻木的
 	anesthetic
 	nonchalant
@@ -47,7 +50,7 @@
 	converse with sb
 	engage sb in conversation	[FORMAL]
 
-批评，指责，谴责，抨击
+批评，指责，谴责，抨击		强调因不认同对方的行为或观点而进行的批驳
 	belabor		vt.	（当众）严厉批评
 	berate		vt.	严厉指责
 	castigate	vt.	强烈（公开）指责
@@ -58,7 +61,7 @@
 	fulminate	v.	大声斥责(痛斥)
 	lambaste	vt.	严厉斥责	=lambast
 	pillory		vt	批评，抨击
-	traduce		vt	强烈批评，尤指诬蔑他人名誉的那种
+	traduce		vt	强烈批评，尤指伤害他人名誉的那种	[FORMAL]
 	rail against/at	v.	谴责
 	blast		vt.	斥责，抨击	[INFORMAL]
 	chastise	vt.	严厉批评
@@ -71,8 +74,14 @@
 	culpa		n.	Latin: fault, guilt 过失，罪过	(plural: culpae)
 		culpable	a.	应受谴责的	[FORMAL]
 		mea culpa	ex.	我的过失，我应受谴责，我的锅
+	opprobrium	n.	谴责，抨击
+		opprobrious	a.
+	condemn
+	decry		vt.	谴责，抨击(=condemn)	[FORMAL]
+		decrial		n.
+		decrier		n.
 
-玷污，抹黑
+玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污
 	sully		vt.	弄脏；玷污（名誉）；
 	soil
@@ -83,7 +92,7 @@
 	blemish		v.	玷污，损害
 	maculate	v. a.	玷污；有污点的；(the verb use become archaic in US)
 
-诋毁，诽谤，诬蔑
+诋毁，诽谤，诬蔑	强调以恶意伤害他人名誉为目的
 	aspersion	n.	诽谤
 	calumny		n.	诽谤（的言论或诽谤这一行为本身）
 		calumniate	vt.	诽谤
@@ -94,6 +103,7 @@
 		defamation	n.
 	slander		v. n.	诋毁，诽谤
 	vilify		v.	诋毁，诬蔑	[FORMAL]
+	denigrate	vt.	诋毁；*贬低*；
 
 
 （语言、态度）尖刻的，嘲讽的，尖酸的
@@ -201,6 +211,9 @@
 	choleric
 	testy
 	*combustible
+	crabby
+	cantankerous
+	ticklish
 
 	
 宣告无罪
@@ -534,6 +547,7 @@ mitigate	vt.	减轻痛苦，使缓和
 mollify		vt.	平息，抚慰，缓和
 moderate	vt.	使缓和
 appease		v.	[贬]绥靖，为了息事宁人而妥协
+palliate	vt.	缓和，减轻
 
 =================================================
 clot		v.	凝固

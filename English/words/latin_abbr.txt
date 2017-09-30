@@ -1,7 +1,8 @@
-et al.		et alia		and others			...等人，以及其他人
-i.e		id est		that is,namely			即，也就是说
-viz.		videlicet	that is,namely			即，也就是说
-per se		/		by/of/in itself, intrinsically	本身
-per capita	/		of/for each person		每人，人均
-etc.		et cetera	and so on			...等等，诸如此类
+et al.		et alia			and others			...等人，以及其他人
+i.e		id est			that is,namely			即，也就是说
+viz.		videlicet		that is,namely			即，也就是说
+per se		/			by/of/in itself, intrinsically	本身
+per capita	/			of/for each person		每人，人均
+etc.		et cetera		and so on			...等等，诸如此类
 R.I.P		requiescat in peace
+e.g.		exempli gratia		for example			比如

@@ -727,7 +727,7 @@ lu-, lumin- = light(Latin)
 		lucency		n.	透明
 		translucent	a.	透明的；半透明的；
 
-	lucid		a.	清晰明了的，易懂的；
+	lucid		a.	清晰明了的，易懂的
 		lucidity	n.
 		pellucid	a.	清澈透明的，易懂的；
 
@@ -1229,10 +1229,10 @@ needlessly	adv.	=unnecessarily
 rite		n.	（宗教）仪式
 nomenclature	n.	（尤指某一科学领域的）命名法
 lineage		n.	血统[FORMAL]		refer to: extraction
-ardent		a.	热情的，热烈的	showing strong feelings
+ardent		a.	热情的，（对某一行动）狂热的；火热的(an ardent sun)；发光的，闪亮的(ardent eyes)(=shining, glowing)；
 parch		vt.	烤干，烤焦
 fiery		a.	燃烧的；火红的；辛辣的；充满强烈感情的，激烈的，（尤指）愤怒的
-	fierce		a.	激烈的，猛烈的；
+	fierce		a.	激烈的，猛烈的
 
 stamp		v.	（重）踩，踏
 tramp		v.	（重）踩，踏	US also tromp
@@ -1394,9 +1394,12 @@ antecede	vt.	在...之前(=precede)	Latin: antecedere
 nimble		a.
 	nembleness	n.
 
+sanguine
 phlegm		n.	痰；冷静，沉着[FORMAL]；	[希波克拉底气质论]粘液质->沉着冷静
 	phlegmatic	a.	冷静的，沉着的[FORMAL]；冷漠的，冷淡的；
 		phlegmatically	adv.
+choleric
+melancholic
 
 tractable	a.	（情况）易处理的；（人）易管教的，易说服的	[FORMAL]
 	intractable	a.	棘手的；难管教的；	[FORMAL]
@@ -1502,6 +1505,7 @@ patio		n.	露台	plural: patios
 quote		n.	引用；*报价*；
 clutter		n.	杂乱，乱七八糟		vt. 塞满，乱堆在
 reckon		vi.	想，认为
+	reckoning	n.	计算(=calculation)
 well-versed	a.	精通的，熟知的(be well-versed in sth)
 
 thievish	a.	of, or relating to, or characteristic of a thief; given to stealing
@@ -1752,3 +1756,93 @@ sate		v.
 	satiety		n.
 	satiable	a.
 		insatiable	a.
+
+perspicuous	a.	(speech or writing)清晰明了的，易懂的
+	perspicuity	n.
+
+perspicacious	a.	(of people)有洞察力的，聪明的
+	perspicacity	n.
+
+perspire	vt.	流汗	polite word for `sweat`	[FORMAL]
+	perspiration	n.
+	anti-perspir-ant	n.	（尤指涂在腋下等皮肤表面的）止汗剂
+
+punchline	n.	（故事或笑话的最后部分点题或抛出笑料等的）妙语，画龙点睛的结尾句：笑点
+
+lament		vi. 大声哀哭(to mourn aloud, =wail)	vt. 对...感到悲痛惋惜	vt. 极度后悔	n. 挽歌，悼诗(=elegy, dirge)[FORMAL]
+	lamentable	a.	值得惋惜的(=deplorable)；悲痛的(expressing grief, =mournful)；
+
+mourn		v.	（对人的去世，物的消亡、丢失而）（感到/表达）哀伤，悲伤
+	mournful	a.	哀伤的，悲伤的
+
+outpost		n.	前哨，前哨基地
+
+detachment	n.	小分队，行动小组；	n. 淡漠，冷漠，事不关己；
+jest		n.	笑话 [FORMAL]	vi. 开玩笑(~ about)
+	in jest
+
+kin		n.	[archaic]家属，亲属
+	next of kin	[FORMAL]
+		your closest relation or relations 直系亲属；最近的亲属
+			We can't release his name until we have informed his next of kin.  在通知他的直系亲属前，我们不能透露他的名字。
+	akin	a.	血族的，同族的；相似的；
+
+quiescent	a.	静止的，平静的	Latin quiescent-, quiescens, present participle of quiescere to become quiet, rest, from quies
+	quiescently	adv.
+	quiescence or quiescency	n.
+	acquiesce	vi.	默许，勉强同意
+		acquiscent	a.	默从的		willing to do what other people want
+			acquiescence	n.	默许
+
+quiet		a. v.
+	unquiet		a.	不平静的；焦躁不安的	[LITERARY]
+		unquietude	n.	wtf
+	disquiet	n.	焦虑，担心，不安(=worry)
+		disquietude	n.
+	inquite = disquiet	[archaic]
+		inquitetude	n.
+	quietude	n.	平静；宁静；安宁[FORMAL]	In many of his poems the poet reflects on the quietude of the countryside.  在他的许多诗中，诗人描写了乡村的宁静。
+	quieten		v.	UK （使）安静 = US quiet v.
+	quietism	n.	淡泊，清静无为；17世纪西班牙的寂静主义，主张无为；
+	quietus		n.	偿清（债务）；寂灭（偿清生命）；抑制物；
+		discharge a debt	清偿债务	[FORMAL]
+	requiem		n.	镇魂曲
+	requiescat	n.	安魂的悼词
+	
+
+gall		n.	胆；鲁莽，厚颜无耻；激怒；
+	gallstone	n.	胆结石
+	gallbladder	n.	胆囊
+		bladder		n.	膀胱；囊状物；
+		bile		n.	胆汁；愤怒，怒气；
+			biliary		adj.
+
+chol- chole- cholo-	=bile, gall 胆汁的，胆的	Greek chol-, cholē-, cholo-, from cholē, cholos
+	choleric	n.	胆汁气质的；易怒的；
+	cholesterol	n.	胆固醇
+	cholera		n.	霍乱
+
+calc- calx	Latin: lime 石灰
+	calcium		n.	钙
+	calcify		v.
+	calculus	n.	微积分；结石；		Latin: calculus = stone, pebble (used in reckoning)
+	calculate	v.	Latin calculatus, past participle of calculare, from calculus pebble (used in reckoning), perhaps irregular diminutive of calc-, calx lime
+		calculation	n.	
+	chalk		n.	粉笔
+
+inflection	n.	词形变化，屈折变化，如determines, determining, and determined由determine而来，本身的意思不变。区分于Morphological derivation，后者指派生，如quite->disquite->disquitude，单词的意思也改变。
+	decline		v.	名词、代词、形容词变格（数量、主宾格、性别）		girl girls girl's girls' 	China Chinese
+		declension	n.	（一组同根变化的名词、代词、形容词）；这种变化法本身；
+	conjugal	a.	婚姻的
+		conjugate	v.	（使）结合；	adj. 结合的；[数]共轭的；	v. 动词变格	break, breaks, breaking, broke, broken
+			conjugation	n.	结合；一组动词的变格；这种变化法本身；
+# And here's a little on-topic joke I came across recently:
+# A verb walks up to a noun in a bar:
+# -- Hey, babe, wanna go back to my place and conjugate?
+# -- I decline.
+
+oblique		n.	主格和呼格以外的所有人称
+vocative	n.	呼格
+
+grace
+	gracious	a.	高贵优雅的

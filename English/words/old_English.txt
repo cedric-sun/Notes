@@ -6,4 +6,8 @@ shalt		= shall
 	thou shalt
 aye		= yes
 saith		= says(third person singular present)
-
+sooth		n.	truth
+	in sooth
+		used to show or emphasize that something is true:
+			In sooth, I know not why I am sad.
+oft		adv.	often		that oft-repeated cliché, "time heals a broken heart" 那句经常重复的老话，即“时间能治愈创伤”

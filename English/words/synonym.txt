@@ -4,11 +4,23 @@
 	procrastinate
 	temporize
 
+冷漠的，麻木的
+	anesthetic
+	nonchalant
+	detached
+		detachment	n.
+恳求
+	beseech
+	entreat
+	supplicate
+
 狂饮，痛饮
 	carouse
 		carousel	n.	旋转木马(US)；行李传送带；
 	quaff
 	guzzle
+	swig	-gg-
+	swill
 
 杂色，混杂
 	mottle
@@ -40,7 +52,7 @@
 	berate		vt.	严厉指责
 	castigate	vt.	强烈（公开）指责
 	censure		v.	公开表示反对，谴责
-	deplore		vt.	谴责，悲叹，对...深表遗憾
+	deplore		vt.	谴责，悲叹，对...深表遗憾	[FORMAL]
 	denounce	v.	公开指责；检举，告发；
 	excoriate	vt.	磨掉皮肤；严厉批评
 	fulminate	v.	大声斥责(痛斥)
@@ -54,6 +66,11 @@
 	inveigh		vi.	(~ against sb/sth)猛烈抨击，痛骂(=rail)
 	stricture	n.	指责；限制；
 	upbraid		vt.	谴责，责骂	[FORMAL]
+	reprehend	v.	谴责，指责
+		reprehensible	a.	应受谴责的	[FORMAL]
+	culpa		n.	Latin: fault, guilt 过失，罪过	(plural: culpae)
+		culpable	a.	应受谴责的	[FORMAL]
+		mea culpa	ex.	我的过失，我应受谴责，我的锅
 
 玷污，抹黑
 	besmirch	v.	玷污
@@ -167,6 +184,8 @@
 	sway		v.
 	teeter		vi.
 	wag
+	wobble		vi.	（使）摇晃，（使）摇摆；（观点）摇摆不定；
+		wobbly		a.
 
 微温的；不热心的，冷淡的；
 	tepid
@@ -179,6 +198,9 @@
 
 易怒的
 	irascible
+	choleric
+	testy
+	*combustible
 
 	
 宣告无罪

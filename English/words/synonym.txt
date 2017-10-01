@@ -3,7 +3,46 @@
 	prolong
 	procrastinate
 	temporize
+	drag on
 
+轻率的，鲁莽的，不考虑后果的
+	audacious	a.
+		audacity	n.
+	gall		n.
+	reckless	a.
+
+多余的，过剩的
+	superfluous
+	
+激怒，烦扰，使恼火
+	annoy
+	irk
+		irksome
+	nettle
+	ire
+	gall
+	exasperate
+
+赞美，赞颂，歌颂，颂词，颂文，赞美诗，etc.
+	paean		n.	
+	hymn
+
+悲痛的，忧伤的
+	dolorous
+	lachrymose	relating the the gland that produce tear
+	melancholy
+
+无聊的，乏味的
+	bland
+	vapid
+
+谨慎的，仔细的
+	punctilious	a.
+	cautious	a.
+	prudent		a.	谨慎的；->花钱谨慎的->节俭的；
+		imprudent	a.
+		prudence
+	
 使干枯，使凋谢
 	wizen
 
@@ -80,6 +119,8 @@
 	decry		vt.	谴责，抨击(=condemn)	[FORMAL]
 		decrial		n.
 		decrier		n.
+	obloquy		n.	（公开的）抨击，批评
+	impugn		vt.	抨击，质疑	[FORMAL]
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污
@@ -391,7 +432,7 @@
 	posterity
 	offspring
 	descendant
-	progeny
+	*progeny*
 
 污染
 	pollute v. -> pollution n.
@@ -448,6 +489,7 @@ intrinsic
 	tease
 	flout
 	taunt
+	scoff		v. n.
 
 粥 		n.
 	porridge
@@ -532,6 +574,7 @@ fastidious	a.	挑剔的
 finicky		a.	过分讲究的，挑剔的
 fussy		a.	挑剔的/谨慎的
 nitpick		v.	吹毛求疵
+censorious	a.	挑剔的
 
 =================================================
 bromide		n.	陈词滥调
@@ -623,6 +666,7 @@ mawkish		a.	过度感伤的
 ===============================
 levelheaded	a.	明智的
 judicious	a.	明智的
+well-baked
 
 =====================
 daft		a.	不明智的

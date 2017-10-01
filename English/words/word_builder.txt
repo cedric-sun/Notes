@@ -45,6 +45,7 @@ timid   	a.  	胆小的
 daisy   	n.  	雏菊  ->pl.   daisies
 emulate 	vt. 	模仿
 contrive    	vt. 	发明；谋划
+devise		vt.	发明，设计
 stray   	v.  	迷路；跑题
 panacea    	n.  	灵丹妙药/万能之计
 meltdown    	n.  	（尤指金融方面的）灾难     financial/economic/market meltdown 金融／经济／市场崩溃
@@ -157,9 +158,20 @@ bulky		a.	笨重的，体积庞大的
 	bulkiness	n.	笨重
 forte		n.	长处，特长
 
-cleave 		v.	劈开；裂开；(US. ~ clove cloven)(UK. ~ cleaved cleaved)
-	cleave to sth.	信守，忠于
 cleft		n.	（岩石，地面的）裂口，裂缝
+
+cleave 		v.	劈开；裂开；(US. ~ clove cloven)(UK. ~ cleaved cleaved)
+	cleave to sth.	附着，紧贴；信守，忠于
+		The ancient ivy cleaved to the ruined castle walls.  古老的常春藤紧紧攀附在破败的城堡墙上。
+		People in the remote mountain villages still cleave to their old traditions.  边远山村的人们依然固守着古老的传统。
+
+hew		vt.	砍，劈
+	hew to sth	服从，遵守，忠于
+		hew to tradition / hew to the line
+# Hew is a strong, simple word of Anglo-Saxon descent. It can suggest actual ax-wielding, or it can be figurative: "If ... our ambition hews and shapes [our] new relations, their virtue escapes, as strawberries lose their flavor in garden-beds" (Ralph Waldo Emerson). It's easy to see how the figurative "shape" sense of "hew" developed from the literal hacking sense, but what does chopping have to do with adhering and conforming? That sense first appeared in the late 1800s in the phrase "hew to the line." The "hew line" is a line marked along the length of a log indicating where to chop in order to shape a beam. "Hewing to the line," literally, is cutting along the mark-adhering to it-until the side of the log is squared.
+
+chop		v.	砍
+
 
 aroma		n.	（通常指食物、饮料的）香味，香气，芳香
 	aromatic	a.	有香味的
@@ -168,7 +180,6 @@ hypocrisy	n.	伪善
 	hypocritical	a.	伪善的
 	hypocrite	n.	伪善者，伪君子
 
-sanctimonious	a.	假装圣洁的，道貌岸然的，伪善的
 
 flirt		vi.	调情，打情骂俏
 	flirty		a.	轻浮的，轻佻的
@@ -186,6 +197,7 @@ vituperate	v.	辱骂	~= berate	[FORMAL]
 	vituperative	a.	辱骂的
 
 indurate	vt.	使...变硬	adj. 铁石心肠的
+obdurate	a.	顽固的，倔强的
 sedate		a.	平静的(=unruffled)	vt. 给...服镇定剂
 	-ly		adv.
 	-ness		n.	(adj -> noun)
@@ -217,6 +229,18 @@ sense
 		sensation	n.	感觉；轰动性事件；
 			sensational	a.	极好的；（新闻报道）耸人听闻的
 				sensationalize	v.
+	sentiment	n.	观点；情绪；（愚蠢或不合适的）伤感，温情；
+		sentimental	a.	感情（上）的；多愁善感的，过度感伤的[DISAPPROVING]；
+			sentimentalism	n.	多愁善感 being sentimental
+				sentimentality = sentimentalism
+				sentimentalist	n.	多愁善感者
+			sentimentalize	v.	感情化，强调失去了客观性	Her book sentimentalizes parenthood and completely ignores the disadvantages of it.
+			unsentimental	a.	冷漠的，无感情的	not marked or governed by feeling, sensibility, or emotional idealism
+	sentient	a.	有知觉的，有感知力的
+		insentient	a.	无知觉的，无生命的
+		# **dissentient	a. n.	不同意的 expressing `dissent`
+		sentience
+		presentient
 
 ethnic	a.	种族的；民族特色的；
 	ethnical = ethnic
@@ -321,7 +345,7 @@ urban		a.	城市的
 		urbanity	n.
 
 luxury		n.
-	luxurious	a.	奢侈的；舒服的； The cat gave a long, luxurious stretch.  猫舒舒服服地伸了一个长长的懒腰。
+	luxurious	a.	奢侈的；舒服的； The cat gave a long, luxurious stretch.  猫舒舒服服地伸了一个长长的懒腰。	(=sumptuous)
 	luxuriate	v.	（尤指物质方面）享受，享用
 	luxuriant	a.	茂盛的；浓密的
 		luxuriance	n.
@@ -875,6 +899,8 @@ forebear	n.	祖先
 
 scarcely	adv.	几乎不 = barely = hardly
 
+slumber		vi. n.	睡眠	[LITERARY]
+
 sleepy		a.	困的，想睡的；（场所、地点）静寂的，冷清的(a sleepy place is quiet and does not have much activity or excitement)；
 	sleepyhead	n.	瞌睡虫（贪睡者）（尤指儿童）[INFORMAL]
 
@@ -1120,7 +1146,8 @@ adulate		v.	奉承，拍马屁
 fawn		n.	幼鹿；鹿色；小孩；	v. （动物向人）表示好感；奉承，讨好；
 saccharine	n.	糖精	a. 过于殷勤的，甜得发腻的
 smarmy		a.	迎合的，过于殷勤的
-
+toady		n.	马屁精，谄媚的人(=sycophant)	vi. 奉承，拍马屁
+	toadyism	n.
 
 stria		n.	条纹	(plural. striae) = striation
 	striate		v.	加条纹	a. =striated 有条纹的
@@ -1156,7 +1183,7 @@ provide		v.
 	provident	a.	有远见的，未雨绸缪的[FORMAL]
 		providence	n.	天意，天命；远见(noun for provident)；
 		providential	a.	（神谕般、天意般）幸运的
-	provision	n.	（粮食、物资的）供给；条款；
+	provision	n.	（粮食、物资的）供给；条款；准备，预防措施；
 		provisional	a.	临时的，暂时的
 		proviso		n.	条件，条款（的附文）
 			provisory	a.	附文的，有附带条件的(=conditional)；暂时的(=provisional)
@@ -1229,7 +1256,7 @@ needlessly	adv.	=unnecessarily
 
 rite		n.	（宗教）仪式
 nomenclature	n.	（尤指某一科学领域的）命名法
-lineage		n.	血统[FORMAL]		refer to: extraction
+lineage		n.	血统[FORMAL]		refer to: extraction, descent
 ardent		a.	热情的，（对某一行动）狂热的；火热的(an ardent sun)；发光的，闪亮的(ardent eyes)(=shining, glowing)；
 parch		vt.	烤干，烤焦
 fiery		a.	燃烧的；火红的；辛辣的；充满强烈感情的，激烈的，（尤指）愤怒的
@@ -1356,6 +1383,7 @@ vest		n.	背心；		v. 给予，授予
 
 revelation	n.	揭露，暴露(disclosure)	reveal -> revelation
 
+courtesy	n.	礼节，礼貌
 courteous	a.	有礼貌的，谦恭有礼的
 postpone	vt.	推迟
 
@@ -1374,7 +1402,6 @@ favor
 
 swelter		vi.	（人）感觉热急了，汗流浃背
 reckless	a.	鲁莽的
-slumber		vi. n.	睡眠	[LITERARY]
 
 agreeable	a.	令人愉悦的[FORMAL]；（东西）可接受的(sth is ~ to sb)；（人）愿意接受的(sb is ~ to sth)；
 	agreeably	adv.	令人愉快地	We were agreeably surprised by the price.  这个价格真是让我们惊喜不已。
@@ -1744,11 +1771,16 @@ composure	n.	沉着，镇定，泰然自若	the feeling of being calm, confident
 zest
 	zesty
 
-sanc
-	sanctuary
-	sanctum
-	sanction
-	sanctimonious
+sanc		Latin: sanctus = sacred
+	saint		n.	圣人
+	sage		n.	圣人	a. 贤明的
+	sanctuary	n.	庇护所；圣殿，圣堂(the most sacred part of a religious building)
+	sanctum		n.	圣所	plural: sancta
+	sanction	vt.n.	批准，认可；（贸易）制裁；	to make holy
+	sanctimony	n.	假神圣，假虔诚(affected or hypocritical holiness)
+		sanctimonious	a.	假装圣洁的，道貌岸然的，伪善的
+	sanctify	vt.	使神圣
+	sanctity	n.	神圣性 the sanctity of a cemetery/tomb 墓地的神圣性
 
 frown		vi.	皱眉	frown on/upon sth 不赞同，表示异议
 
@@ -1780,7 +1812,9 @@ mourn		v.	（对人的去世，物的消亡、丢失而）（感到/表达）哀
 
 outpost		n.	前哨，前哨基地
 
+attachment	n.	附件；喜爱，爱慕，依恋；
 detachment	n.	小分队，行动小组；	n. 淡漠，冷漠，事不关己；
+
 jest		n.	笑话 [FORMAL]	vi. 开玩笑(~ about)
 	in jest
 
@@ -1828,6 +1862,7 @@ calc- calx	Latin: lime 石灰
 	calcify		v.
 	calculus	n.	微积分；结石；		Latin: calculus = stone, pebble (used in reckoning)
 	calculate	v.	Latin calculatus, past participle of calculare, from calculus pebble (used in reckoning), perhaps irregular diminutive of calc-, calx lime
+		calculating	a.	工于心计的；精明的；狡猾的
 		calculation	n.	
 	chalk		n.	粉笔
 
@@ -1846,7 +1881,9 @@ oblique		n.	主格和呼格以外的所有人称
 vocative	n.	呼格
 
 grace
+	graceful	a.	优雅的，得体的
 	gracious	a.	高贵优雅的
+	disgrace	n.	
 
 garage		n.	车库
 
@@ -1890,7 +1927,8 @@ ambulate	vi.	走动(=walk)
 		perambulation	n.
 
 dismissive	a.	轻视的，轻蔑的
-pedant		n.	书呆子	[DISAPPROVING]
+pedant		n.	书呆子，过于关注不重要的细节和传统规则的人[DISAPPROVING]
+	pedantic	a.	书呆子气的，过于拘泥细节的
 embroil		vt.	使卷入（纷争）
 malleable	a.	具延展性的，易变形的；易受外界影响的(=susceptible)；
 lionize		vt.	使成名；将…视作名人
@@ -1899,3 +1937,102 @@ bereft		a.	缺乏…的；感到失落的
 	bereftness	n.
 avocation	n.	业余爱好
 stale		n.	（通常指因久放）不新鲜的，走味的
+
+
+detonate	v.	引爆，（使）爆炸
+
+auspicious	a.	吉利的，吉祥的	suggesting a positive and successful future
+advantageous	a.	=favorable	有利的
+
+disaffected	a.	（对权威）不满的，叛逆的(=rebellious)
+unaffected	a.	未受影响的；真诚的(=genuine)；
+
+resent		vt.	怨恨，对...感到不满
+	She bitterly resented her father's new wife.  她对她父亲新娶的妻子恨之入骨。
+	[ + -ing verb ] He resents having to explain his work to other people.  他讨厌非得向人们解释他的工作。
+	resentful	a.	愤恨的，反感的
+
+synergic	a.	合作的，协作的
+
+# Latin: salutare salut- salus = health
+salute		n. v.	（尤指军人）敬礼	vt. 公开赞扬，赞颂[FORMAL]
+	salutation	n.	问候，致意
+		salutatory	a.	致意的，表示欢迎的
+		salutatorian	n.	US 代表毕业生致词之学生，致辞者
+	salutary	a.	有益的
+	salubrious	a.	有益健康的
+
+genuine		a.	真正的（非伪造的）；真诚的；
+generous	a.	慷慨的；大量的(a generous slice of cake 一大块蛋糕)
+ingenuous	a.	天真幼稚的
+	disingenuous	a.	不真诚的，不坦诚的(lacking in candor)
+ingenious	a.	（人）intelligent and skillful；（物）独创且精巧的；
+ingénue		n.	=ingenue	a naive girl or young woman	（尤指电影或戏剧中）天真无邪的少女
+
+homogeneous	a.
+	homogenize	vt.
+	homogenous = homogeneous
+	# heterogeneous	a.
+
+resourceful	a.	机敏的，有智谋的
+	resourcefulness	n.
+
+palate		n.	腭(the top part of the inside of your mouth)；（对美食、美酒的）鉴赏力；
+	palatable	a.	美味的，可口的[FORMAL]
+		unpalatable	a.
+
+gladiator	n.	（古罗马）角斗士
+	gladiatorial	a.	你死我活的；狭路相逢的 		gladiatorial combat 你死我活的战斗
+
+heirloom	n.	传家宝，祖传之物
+inculcate	vt.	反复灌输，谆谆教诲	[FORMAL]
+
+feud
+	feudal
+		feudalism
+
+formality	n.	礼节；俗套；例行公事	something that has to be done but has no real importance	n. 庄重，正式
+
+punctilio	n.	品行的细节；对形式、礼节的遵守；
+	punctilious	a.	一丝不苟的；循规蹈矩的；
+
+petty		a.	（事情）琐碎的，不重要的；（人）过分在意琐事细节的；
+
+puissance	n.	权力(=strength, power)
+	impuissance	n.	无权(powerlessness)；虚弱(weakness)；
+
+avert		v.	转移，转开；阻止，防止；Latin:avertere, ab + vertere(to turn)
+	averse		a.	反对的
+		aversion	n.	厌恶，反感
+
+subdue		vt.	压制，控制
+
+ascend		v.	上升；攀登；
+	ascent		n.	上升；攀登；成功，腾达；
+	ascendant	a.	有影响力的，主宰的
+descend		v.	下降；世代相传；
+	descent		n.	血统，出身；下降；堕落；
+
+stigma		n.	耻辱，污名	plural: stigmata or stigmas   古希腊烙在奴隶身上的烙印，复数stigmata指圣痕，即耶稣手脚上的钉伤痕迹，基督教主教称这些圣痕会重现在自己的身上
+	stigmatic	a.
+	stigmatize	vt.	打上烙印，蒙上污名
+	astigmatic	a.	散光的；盲目的；	an astigmatic fanaticism, a disregard for the facts—The New York Herald Tribune	盲目的狂热，对事实的无视
+		astigmatism	n.	散光；盲目，曲解；
+
+suggestive	a.	引起联想的(be ~ of)；性暗示的，性挑逗的；
+spin
+	spindle		n.	（机器的）轴；纺锤，绕线杆
+		spindly		a.	纺锤般的，细长瘦弱的，长而纤弱的
+
+Latin: nasci = to be born
+	nascent		a.	新生的
+		nascence	n.
+		renascent	a.	复活的，复兴的(=reviving)
+	renaissance	n.	复兴	the Renaissance 文艺复兴
+	nation
+
+beget		vt.	[archaic]成为...的父亲(=sire)；引起，导致；
+procreate	vi.	生育
+
+---------------------------------------------------------
+

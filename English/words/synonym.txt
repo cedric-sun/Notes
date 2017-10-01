@@ -5,6 +5,10 @@
 	temporize
 	drag on
 
+过剩，过量
+	glut
+	surfeit
+	superfluous	a.
 轻率的，鲁莽的，不考虑后果的
 	audacious	a.
 		audacity	n.
@@ -31,6 +35,7 @@
 	dolorous
 	lachrymose	relating the the gland that produce tear
 	melancholy
+	lugubrious	a.	忧伤的，悲伤的
 
 无聊的，乏味的
 	bland
@@ -45,6 +50,7 @@
 	
 使干枯，使凋谢
 	wizen
+	sere		a.
 
 冷漠的，麻木的
 	anesthetic
@@ -591,6 +597,7 @@ mollify		vt.	平息，抚慰，缓和
 moderate	vt.	使缓和
 appease		v.	[贬]绥靖，为了息事宁人而妥协
 palliate	vt.	缓和，减轻
+placate
 
 =================================================
 clot		v.	凝固

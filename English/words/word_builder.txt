@@ -1,6 +1,4 @@
 dusk		adj.	黄昏
-drowsy		adj.	睡意朦胧的
-	drowsiness	n.	睡意	
 grief		n.	悲伤
 goblet		n.	（尤指盛酒的，通常用玻璃或金属做的）无柄高脚杯
 verge		n.	边；边缘；边沿
@@ -900,7 +898,8 @@ forebear	n.	祖先
 scarcely	adv.	几乎不 = barely = hardly
 
 slumber		vi. n.	睡眠	[LITERARY]
-
+drowsy		adj.	睡意朦胧的
+	drowsiness	n.	睡意	
 sleepy		a.	困的，想睡的；（场所、地点）静寂的，冷清的(a sleepy place is quiet and does not have much activity or excitement)；
 	sleepyhead	n.	瞌睡虫（贪睡者）（尤指儿童）[INFORMAL]
 
@@ -938,7 +937,9 @@ ordinance	n.	法令，法规[FORMAL]
 
 
 scrupulous	a.	acting in strict regard for what is considered right or proper;punctiliously exact
-punctilious	a.	一丝不苟的
+punctilio	n.	品行的细节；对形式、礼节的遵守；
+	punctilious	a.	一丝不苟的；循规蹈矩的；
+
 
 ruff		n.	褶皱衣领
 	ruffle		vt.	弄乱，弄皱；使生气;
@@ -1935,6 +1936,10 @@ lionize		vt.	使成名；将…视作名人
 backlash	n.	（社会或政治方面的）强烈反响，强烈反对
 bereft		a.	缺乏…的；感到失落的
 	bereftness	n.
+bereave		vi.	剥夺；夺走；  past tense/past participle: bereaved or bereft
+	bereft		a.	
+		bereftness	n.
+	bereavement	n.	丧失亲人
 avocation	n.	业余爱好
 stale		n.	（通常指因久放）不新鲜的，走味的
 
@@ -1993,9 +1998,6 @@ feud
 
 formality	n.	礼节；俗套；例行公事	something that has to be done but has no real importance	n. 庄重，正式
 
-punctilio	n.	品行的细节；对形式、礼节的遵守；
-	punctilious	a.	一丝不苟的；循规蹈矩的；
-
 petty		a.	（事情）琐碎的，不重要的；（人）过分在意琐事细节的；
 
 puissance	n.	权力(=strength, power)
@@ -2034,5 +2036,13 @@ Latin: nasci = to be born
 beget		vt.	[archaic]成为...的父亲(=sire)；引起，导致；
 procreate	vi.	生育
 
+vernal		a.	春天的	[FUCKING LITERARY]
+	vernal equinox	n.	春分
+longevity	n.	长寿
+lugubrious	a.	忧伤的，悲伤的
+flagrant	a.	骇人听闻的，公然的 shocking because of being so OBVIOUS
+indolence	n.	懒惰	[FUCKING LITERARY]
+conflate	vt.	合并，结合
+all-round	a.	多才多艺的
 ---------------------------------------------------------
 

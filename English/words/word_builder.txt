@@ -47,7 +47,6 @@ devise		vt.	发明，设计
 stray   	v.  	迷路；跑题
 panacea    	n.  	灵丹妙药/万能之计
 meltdown    	n.  	（尤指金融方面的）灾难     financial/economic/market meltdown 金融／经济／市场崩溃
-detrimental 	a.	有害的
 societal    	a.  	社会的	from society
 tailor  	v.  	裁剪  n.  裁缝
 parkland    	n.  	公园绿地(! not 停车场) 
@@ -88,6 +87,7 @@ semen		n.	精液
 gamete		n.	配子（指精子或卵子）
 libido		n.	性欲	(plural. libidos)
 repress		vt.	抑制，克制（感情）；（尤指用武力）镇压
+	repression	n.	（尤指通过武力进行的）镇压，压制(subjugate)；（感情的）抑制，克制
 mend		vt.	修理，修补；
 transmute	vt.	使变形，使变质，把...变成...;
 celibate	a.	禁欲的，没有性生活的	n.	禁欲者
@@ -477,6 +477,10 @@ pest		n.
 		pestilence	n.	瘟疫；毒害之物	I'll pour this pestilence into his ear - Shakespeare
 
 pernicious	a.	(极其)有害的
+detrimental 	a.	有害的
+nocuous		a.	[rare]
+	innocuous	a.	无害的
+poisonous	a.
 
 announce	vt.	宣布，声明
 renounce	vt.	宣布放弃
@@ -760,6 +764,7 @@ lu-, lumin- = light(Latin)
 		luminary	n.	知名人士
 		illuminate	vt.	照亮；阐明，解释
 			illumination	n.
+			illuminati	n.	智者，博学者
 
 	illustrate	v.	举例说明；给...插图；
 		illustrator	n.	插画家
@@ -1202,7 +1207,6 @@ solicit		v.	请求，征求[FORMAL]；
 		attorney	n.	US. 律师
 		lawyer		n.	律师
 
-grudge		n.	怨恨		refer to: rancor
 feudal		n.	欧洲封建制度的
 	feudalism	n.	欧洲封建制度
 
@@ -1952,6 +1956,7 @@ advantageous	a.	=favorable	有利的
 disaffected	a.	（对权威）不满的，叛逆的(=rebellious)
 unaffected	a.	未受影响的；真诚的(=genuine)；
 
+grudge		n.	怨恨		refer to: rancor
 resent		vt.	怨恨，对...感到不满
 	She bitterly resented her father's new wife.  她对她父亲新娶的妻子恨之入骨。
 	[ + -ing verb ] He resents having to explain his work to other people.  他讨厌非得向人们解释他的工作。
@@ -1979,7 +1984,7 @@ homogeneous	a.
 	homogenous = homogeneous
 	# heterogeneous	a.
 
-resourceful	a.	机敏的，有智谋的
+resourceful	a.	机敏的，足智多谋的
 	resourcefulness	n.
 
 palate		n.	腭(the top part of the inside of your mouth)；（对美食、美酒的）鉴赏力；
@@ -2006,6 +2011,7 @@ puissance	n.	权力(=strength, power)
 avert		v.	转移，转开；阻止，防止；Latin:avertere, ab + vertere(to turn)
 	averse		a.	反对的
 		aversion	n.	厌恶，反感
+odium		n.	憎恨，厌恶	[FORMAL]
 
 subdue		vt.	压制，控制
 
@@ -2044,5 +2050,40 @@ flagrant	a.	骇人听闻的，公然的 shocking because of being so OBVIOUS
 indolence	n.	懒惰	[FUCKING LITERARY]
 conflate	vt.	合并，结合
 all-round	a.	多才多艺的
----------------------------------------------------------
 
+# 虽然没有ept这个词，但是ept似乎是apt的各种derivation的等价物
+apt
+	aptly
+	aptness		n.
+	inapt		a.	1. 不合适的(not suitable)	2. =inept
+		inaptly
+		inaptness
+	aptitude	n.	才能，资质；合适（性）（=aptness)
+		aptitudinal
+		aptitudinally
+		inaptitude	n.
+	inept		a.	无能的；不合适的；
+		ineptly
+		ineptitude	n.
+
+vivace		a. adv.	（音乐）生动活泼的
+	vivacious	a.	活泼迷人的
+	vivacity	n.
+
+sator		n.	[HUMOROUS or LITERARY and RARE] 裁缝	=tailor
+	satorial	a.	衣着上的，制衣的	satorial elegance
+
+tacit		a.	默契的		understood without being expressed directly
+	taciturn	a.	沉默寡言的	tending not to speak much
+
+swerve		vi.	突然转向；改变，背离；
+	unswerving	a.	（信任或信仰）坚定的，不懈的，始终如一的
+
+confidant	n.	知己，密友
+
+mordant
+	mordancy
+		mordancious
+
+encumber	vt.	拖累，阻碍
+	encumberance	n.

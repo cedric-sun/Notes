@@ -5,10 +5,17 @@
 	temporize
 	drag on
 
+不重要的，无价值的，微不足道的
+	paltry		a.
+	measly
+
+
 过剩，过量
 	glut
-	surfeit
+	surfeit		n.
 	superfluous	a.
+	plethora	n.
+
 轻率的，鲁莽的，不考虑后果的
 	audacious	a.
 		audacity	n.
@@ -26,10 +33,23 @@
 	ire
 	gall
 	exasperate
+	rile
 
 赞美，赞颂，歌颂，颂词，颂文，赞美诗，etc.
 	paean		n.	
 	hymn
+	eulogize	v.
+	laud		vt. n.	赞美，表扬；赞美诗，颂歌；	[FORMAL]
+		laudatory	a.	赞美的，赞赏的 [FORMAL]
+		laudable	a.
+		laudation	n.
+	exalt		vt.	（高度）赞扬；提拔；
+		exaltation	n.
+	acclaim
+	praise
+	glorify
+		glorification
+	extol		vt.	赞扬；赞颂；赞美	[FORMAL] -ll-
 
 悲痛的，忧伤的
 	dolorous
@@ -151,6 +171,7 @@
 	slander		v. n.	诋毁，诽谤
 	vilify		v.	诋毁，诬蔑	[FORMAL]
 	denigrate	vt.	诋毁；*贬低*；
+	scurrilous	a.	诋毁的，诽谤的	a scurrilous remark/attack/article 诋毁的话／攻击／文章
 
 
 （语言、态度）尖刻的，嘲讽的，尖酸的
@@ -186,6 +207,9 @@
 	tiff		vi. n.
 	spat		n.
 	polemic		n.	辩论文章，激烈的争辩
+	*quarrel*
+		querulous	a.
+		quarrelsome	a.
 
 贪婪
 	avarice		n.
@@ -362,9 +386,13 @@
 	contemptible
 
 有害的	adj.
-	pernicious
-	detrimental
+	pernicious	a.	(极其)有害的
+	detrimental 	a.	有害的
+	nocuous		a.	[rare]
+		innocuous	a.	无害的
+	poisonous	a.
 	noxious
+	deleterious
 
 胆小的，胆怯的	adj.
 	timid
@@ -568,6 +596,8 @@ sacrilege	n.
 bumptious	a.	专横傲慢的
 cavalier	a.	傲慢的			n.有骑士精神的人
 imperious	a.
+pompous
+overbearing
 
 
 =================================================
@@ -658,6 +688,7 @@ refractory	a.	倔强的，不服从的
 =================================
 intransigent	a.	固执的，不妥协的
 mulish			a.	固执的
+obdurate	a.
 
 =================================
 inveigle	vt.	诱骗

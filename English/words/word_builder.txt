@@ -39,7 +39,6 @@ pharmacy    	n.  	药剂学；药店
 	pharmaceutical	a.	制药的	n. 药剂，药品	the pharmaceutical industry 制药业
 
 contemptible    a.  	卑劣可鄙的   ->adv.  contemptibly
-timid   	a.  	胆小的
 daisy   	n.  	雏菊  ->pl.   daisies
 emulate 	vt. 	模仿
 contrive    	vt. 	发明；谋划
@@ -489,7 +488,7 @@ denounce	vt.	谴责；检举告发；
 licit		a.	合法的
 	illicit		a.	不合法的
 
-timid		a.	胆怯的，害羞的
+timid		a.	胆小的，胆怯的，害羞的
 	timorous = timid	[LITERARY]
 	intimidate	vt.	威胁，恐吓
 		intimidatory	a.
@@ -749,6 +748,11 @@ lu-, lumin- = light(Latin)
 	luster		n.	光泽，光辉 = UK. lustre
 		lustrous	a.	有光泽的
 		lackluster	a.	黯淡无光的
+		illustrate	v.	举例说明；给...插图；
+			illustrator	n.	插画家
+			illustration	n.
+			illustrious	a.	著名的，卓越的
+			illustrative	a.	起说明作用的，作为例证的
 
 	lucent		a.	透明的
 		lucency		n.	透明
@@ -757,8 +761,7 @@ lu-, lumin- = light(Latin)
 	lucid		a.	清晰明了的，易懂的
 		lucidity	n.
 		pellucid	a.	清澈透明的，易懂的；
-
-	elucidate	v.	阐明，解释
+		elucidate	v.	阐明，解释
 
 	luminous	a.	发光的
 		luminary	n.	知名人士
@@ -766,11 +769,11 @@ lu-, lumin- = light(Latin)
 			illumination	n.
 			illuminati	n.	智者，博学者
 
-	illustrate	v.	举例说明；给...插图；
-		illustrator	n.	插画家
-		illustration	n.
-		illustrious	a.	著名的，卓越的
-		illustrative	a.	起说明作用的，作为例证的
+	illusion	n.	幻觉
+		illusionary	a.
+		illusory	a.
+		illusive	a.
+		disillusion	vt.	使幻想破灭，使清醒	n. 幻灭
 
 
 prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
@@ -1082,8 +1085,8 @@ viaduct		n.	高架桥
 gross		a.	（尤指违法行为）严重的，恶劣的，极端的
 	grossly		adv.	非常，极端
 
-incept		v.	开始；就职；获得学位；
-	inception	n.	开始，创立；就职；获得学位
+incept		v.	ingest;to receive as a member;开始[OBSOLETE]；获得学位[OBSOLETE, now used only at Cambridge University]；
+	inception	n.	开始，创立(=commencement)
 	inceptor	n.	学位获得者，接受学位的人
 	inceptive	a.	开端的，起初的；[linguistics]始动词
 
@@ -1977,6 +1980,7 @@ generous	a.	慷慨的；大量的(a generous slice of cake 一大块蛋糕)
 ingenuous	a.	天真幼稚的
 	disingenuous	a.	不真诚的，不坦诚的(lacking in candor)
 ingenious	a.	（人）intelligent and skillful；（物）独创且精巧的；
+	ingenuity	n.
 ingénue		n.	=ingenue	a naive girl or young woman	（尤指电影或戏剧中）天真无邪的少女
 
 homogeneous	a.
@@ -2087,3 +2091,26 @@ mordant
 
 encumber	vt.	拖累，阻碍
 	encumberance	n.
+
+assort		vt.	分类	vi. 匹配，相配(~ with)
+	assortative	a.
+	assortment	n.	大杂烩
+
+uprising	n.	起义，暴动
+
+indigene	n.	土著人，本土的动物或植物	=indigen
+	indigenous	a.	当地的，本土的
+
+incise		vt.	雕，刻
+	incisive	a.	suggestive of something that can incise, sharp: 尖锐的[physical];（见解）深刻的；（批评意见）尖刻的，辛辣的；
+	incision	n.
+
+decisive	a.	果断的；决定性的；
+	indecisive	a.
+
+adroit		a.
+	maladroit	a.	
+
+tumult		n.	喧闹，骚乱，混乱
+	tumultuary	a.
+	tumultuous	a.

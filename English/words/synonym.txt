@@ -1,3 +1,8 @@
+贫穷
+	indigent	a.
+	impecunious	a.	贫穷的		[X] pecunious
+	penury		n.	赤贫，极度贫穷
+
 拖长，拖延
 	protract
 	prolong
@@ -69,8 +74,9 @@
 		prudence
 	
 使干枯，使凋谢
-	wizen
+	wizen		v.
 	sere		a.
+	wither		v.
 
 冷漠的，麻木的
 	anesthetic
@@ -172,6 +178,7 @@
 	vilify		v.	诋毁，诬蔑	[FORMAL]
 	denigrate	vt.	诋毁；*贬低*；
 	scurrilous	a.	诋毁的，诽谤的	a scurrilous remark/attack/article 诋毁的话／攻击／文章
+	slur
 
 
 （语言、态度）尖刻的，嘲讽的，尖酸的
@@ -179,6 +186,7 @@
 	cutting
 	acerbic
 	acrid
+	scathing
 
 使...就职，任命
 	install
@@ -393,6 +401,7 @@
 	poisonous	a.
 	noxious
 	deleterious
+	baleful
 
 胆小的，胆怯的	adj.
 	timid
@@ -530,6 +539,7 @@ intrinsic
 	congee
 	conjee
 	gruel
+		gruelling	a.	繁重而累人的
 
 垂直的	a.
 	vertical
@@ -598,6 +608,7 @@ cavalier	a.	傲慢的			n.有骑士精神的人
 imperious	a.
 pompous
 overbearing
+portentous	a.	自大的
 
 
 =================================================

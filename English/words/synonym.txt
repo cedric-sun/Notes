@@ -55,6 +55,12 @@
 	glorify
 		glorification
 	extol		vt.	赞扬；赞颂；赞美	[FORMAL] -ll-
+	encomium	n.
+	eulogy		n.
+		eulogize	v.
+	carol		n.	圣歌，（圣诞）颂歌	vi. 唱颂歌
+	glorify
+	resound		vi.	[figurative]to be extolled
 
 悲痛的，忧伤的
 	dolorous
@@ -95,6 +101,9 @@
 	guzzle
 	swig	-gg-
 	swill
+	booze
+	soak
+	tipple
 
 杂色，混杂
 	mottle
@@ -187,6 +196,7 @@
 	acerbic
 	acrid
 	scathing
+		unscathed	a.	安然无恙的，未受损的，未受伤的
 
 使...就职，任命
 	install

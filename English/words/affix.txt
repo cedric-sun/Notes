@@ -175,3 +175,9 @@ ana-
 	back backward
 		anatropous
 		anachronism	时代错位
+
+hagi- hagio-
+	holy
+		hagioscope
+	sanits
+		hagiography

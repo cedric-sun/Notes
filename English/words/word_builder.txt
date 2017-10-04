@@ -5,9 +5,10 @@ verge		n.	边；边缘；边沿
 squash		vt.	把…压扁
 squander	vt.	浪费，挥霍
 apprentice	n.	学徒
-intriguing	a.	吸引人的
 intrigue	vt.	吸引，激起...的兴趣	n. 阴谋
+	intriguing	a.	吸引人的
 urea		n.	尿素
+	urinate		vi.
 continual	adj.	不断的, 频繁的
 	continuous	adj.	连续的, 继续的, 连绵不断的
 	continuum	n.	连续体；渐变体；逐渐演变的事物
@@ -54,11 +55,11 @@ kudos		n.  	名声，声誉
 distress    	n.  	痛苦		v.使痛苦
 pugnacity	n.	好斗
 	pugnacious	adj.	好斗的
-	repugnant	adj.	令人反感的；不一致的
-		repugnance	n.	厌恶；不一致，矛盾
-	expunge		vt.	删除，抹去
-	impugn		vt.	质疑
-	oppugn		vt.	质疑
+repugnant	adj.	令人反感的；矛盾的，不一致的；
+	repugnance	n.	厌恶；矛盾，不一致；
+expunge		vt.	删除，抹去
+impugn		vt.	抨击
+oppugn		vt.	反对；质疑；
 
 hatred		n.	仇恨，憎恨
 disposition	n.	性格；倾向；
@@ -196,9 +197,9 @@ vituperate	v.	辱骂	~= berate	[FORMAL]
 indurate	vt.	使...变硬	adj. 铁石心肠的
 obdurate	a.	顽固的，倔强的
 sedate		a.	平静的(=unruffled)	vt. 给...服镇定剂
-	-ly		adv.
-	-ness		n.	(adj -> noun)
-	-tion		n.	(v -> noun)
+	sedately		adv.
+	sedateness		n.	(adj -> noun)
+	sedation		n.	(v -> noun)
 	sedative	a.	使人平静的	n.	镇静剂
 
 treason		n.	叛国（罪）
@@ -402,16 +403,16 @@ suspend		v.	悬挂；暂停
 suspect		vt.	怀疑	n. 嫌疑犯	a.可疑的
 	suspicion	n.	怀疑
 	suspicious	n.	（引起）怀疑的	Her behaviour was very suspicious.  她的举止非常可疑。
-		-ly		adv.
-		-ness		n.	疑心
+		suspiciously	adv.
+		suspiciousness	n.	疑心
 
 solar plexus	n.	心口，心窝 a punch in the solar plexus 打在心口上的一拳
 
 conceive	v.	构思；怀孕；
 	conception	n.
-	conceivalbe	a.	能想到的 Books on every conceivable subject 能想到的所有学科的书
-		-ly	adv.
-		in-	a.
+	conceivable	a.	能想到的 Books on every conceivable subject 能想到的所有学科的书
+		conceivably	adv.
+		inconceivable	a.
 
 concept		n.
 	conceptual	a.
@@ -507,13 +508,13 @@ inquire		v.	问，询问	(UK. sometime enquire)
 	inquirer	n.	询问者
 	inquisitor	n.	[贬]讯问者，问题过多的询问者
 		inquisitive	a.	好奇的，好问
-			-ly		adv.
-			-ness		n.	好奇
+			inquisitively	adv.
+			inquisitiveness	n.	好奇
 		inquisition	n.	[贬]盘问(asking unfriendly)；审讯
 			the Inquisition	n.	（旧时天主教的）宗教法庭
 
 gratify		v.	使高兴，使满意
-	-ing		a.	令人～的
+	gratifying		a.	令人～的
 	gratification	n.	愉悦，满足
 	grateful	a.	感激的
 		un-		a.	不感激的->忘恩负义的
@@ -577,24 +578,24 @@ converse	n.	相反，对立面	a. 相反的，对立的	vi.+with 与某人交谈
 
 rigor		n.	（脾气、观点的）死板
 	rigorous	a.	（法律）严厉的；（研究）严谨的；
-		-ness		n.
+		rigorousness		n.
 	rigid		a.	僵硬的；刚硬的，不能弯曲的；死板的；严格的
-		non-		a.
-		-ness		n.
+		nonrigid	a.
+		rigidness	n.
 		rigidity	n.	死板；（金属）刚性；
 
 fable		n.	寓言；神话；谎言
-	-ed		a.	传奇式的；虚构的；
+	fabled		a.	传奇式的；虚构的；
 	fabulous	a.	极好的；虚构的；
-		-ly		adv.
+		fabulously	adv.
 
 cite		vt.	引用
 	citation	n.	引用
 	incite		vt.	煽动
 		incitement	n.
 	excite		vt.	使...激动；**激起，引起(formal)**
-		-ed
-		-ing
+		excited
+		exciting
 		excitable	a.	易兴奋的；易激动的；
 		excitant	a.	刺激性的；兴奋剂；
 		excitement	n.
@@ -610,17 +611,17 @@ meteor		n.	流星（穿过地球大气的流星体） = shooting star
 	meteoroid	n.	流星体（还未进入地球大气）
 	meteorite	n.	陨石（已经落地的）
 	meteorology	n.	气象学
-		-ic
-		-ical
-		-ist
+		meteorologic
+		meteorological
+		meteorologist
 
 toxic		a.	有毒的；（人）中毒的；
 	toxicant	n.	有毒物
 	toxicity	n.	毒性
 	toxin		n.	毒素
 	toxicology	n.	毒理学
-		-gical		a.
-		-gist		n.
+		toxicological		a.
+		toxicologist		n.
 	intoxicate	vt.	给...下毒；使醉倒；使沉醉；
 		intoxicant	n.	致醉物；麻醉品		a. 醉人的 = intoxicating
 		intoxication	n.
@@ -645,7 +646,7 @@ pure		a.
 sinus		n.	鼻窦???wtf
 	sinuous		a.	[literary]弯曲的，蜿蜒的
 	insinuate	vt.	1. to introduce (something, such as an idea) gradually or in a subtle, indirect, or covert way （渗入？） 2. 影射，含沙射影地说(something unpleasant);
-		-ing		a.
+		insinuating	a.
 		insinuation	n.
 
 ordinate
@@ -668,7 +669,7 @@ semble		= It seems	多用于法律领域	e.g. Semble that ...
 
 proselyte	n.	改变信仰者	v. =proselytize
 	proselytize	v.	使改变信仰
-		-er = -ist	n.	劝说他人改变信仰者
+		proselytizer = -ist	n.	劝说他人改变信仰者
 			proselytistic	a.
 		proselytization	n.
 	proselytism	n.	改变信仰
@@ -678,7 +679,7 @@ moralize	vi.	说教[贬]
 
 dominant
 	predominant
-		-ly
+		predominantly
 
 laconic		a.	简洁的
 	laconism	n.	简洁(brevity or terseness of expression or style)；一条简洁的表述(a laconic expression)
@@ -721,7 +722,7 @@ penitent	a.	（感到）悔悟的，悔改的
 	penitentiary	n.	监狱
 
 tantalize	vt.	吊胃口，使...干着急
-	-zation		n.
+	tantalization		n.
 
 Hades		n.	冥界；哈迪斯；
 Styx		n.	冥河
@@ -736,8 +737,20 @@ vile		a.	邪恶的；可耻的；极令人厌恶的
 	revile		vt.	谩骂，辱骂[FORMAL]
 	vilify		vt.	诋毁，诬蔑
 		vilification	n.
+	villain		n.
+		villainous	a.	邪恶的，极坏的
 turpitude	n.	邪恶，堕落
 iniquity	n.	邪恶，不公正
+
+heinous		a.	罪大恶极的，（罪行）滔天的
+	heinousness	n.
+hideous		a.	极丑陋的；（罪行）可怕的；
+	hideousness	n.	丑陋
+atrocious	a.	极坏的
+nefarious	a.	极坏的，邪恶的
+grisly		a.
+miscreant	a.	邪恶的，极坏的	n. 恶棍
+
 abusive		a.	辱骂的		an abusive letter/phone call 辱骂信／电话 He was apparently abusive to the flight attendants.  显然他对航班乘务员说了些不干不净的话。
 
 withhold	vt.	拒绝给予
@@ -812,9 +825,6 @@ maple		n.	枫树
 syrup		n.	糖浆
 	maple syrup	n.	枫糖浆
 
-heinous		a.	罪大恶极的
-	heinousness	n.
-hideous		a.	极丑陋的；（罪行）可怕的
 
 slander		vt./n.	诋毁，诽谤
 slender		a.	苗条的，纤细的
@@ -939,6 +949,7 @@ hypnotic	a.	催眠的；令人着迷的；
 magnetism	n.	磁力；**吸引力，魅力**
 trance		n.	催眠状态，恍惚，出神
 
+decree		n.	法令	vt. 命令
 statute		n.	法令（强调已批准，且已成文的法律）
 	statutory	a.	法定的
 ordinance	n.	法令，法规[FORMAL]
@@ -998,7 +1009,6 @@ immanent	a.	内在的
 
 percipient	a.	有洞察力的，洞察力强的 [FORMAL]
 impudent	a.	（尤指对年长者或上级）放肆的，无礼的
-plunder		v.	掠夺，窃取
 refract		vt.	使折射		The glass prism refracted the white light into the colours of the rainbow.  玻璃棱镜将白色光折射成彩虹的七色光。
 stain		n.	污迹	v. 沾污
 enthrall	v.	吸引，迷住	The baseball game completely enthralled the crowd.  棒球赛使得观众们完全着了迷。
@@ -1097,7 +1107,7 @@ incipient	a.	刚开始的，起初的 [FORMAL]
 inchoate	a.	刚开始的，不完全的（强调不完全 formless incoherent） [LITERARY] = incipient
 	inchoation	n.
 	inchoative	a.	=inchoate
-		-ly		adv.
+		inchoatively	adv.
 
 orthography	n.	（正确）拼写法
 decease		v. n.	去世 [FORMAL]
@@ -1105,8 +1115,6 @@ fakery		n.	伪造，弄虚作假
 visionary
 oomph		n.	活力，热情
 parachute	n.	降落伞
-grudge
-	grudging	a.	不情愿的
 
 comply		vi.	顺从
 	compliant	a.	顺从的，服从的[FORMAL]
@@ -1167,7 +1175,7 @@ stripe		n.	条纹，斑纹	vt. 画上条纹
 	striped		a.	有条纹的 = variegate
 
 debauch		vt.	使堕落，使放荡
-	-ed		a.	堕落的，沉溺酒色的
+	debauched	a.	堕落的，沉溺酒色的
 	debauchery	n.	放荡，堕落，沉溺酒色，花天酒地
 	debauchee	n.	放荡之人
 
@@ -1257,7 +1265,7 @@ masculinity	n.	男子气概
 
 sound		a.	完好无损的(intact)；合理的，明智的；完全的，彻底的；
 	soundly		adv.	完全地(=utterly, completely)；
-	resound		vi.	回响
+	resound		vi.	回响；（善行、美德）广为传颂的，被世人传颂回响的；
 	unsound		a.	（人的活动或判断）不够好的，靠不住的；（建筑）不稳固的；
 
 needlessly	adv.	=unnecessarily
@@ -1285,7 +1293,7 @@ altar		n.	圣坛，祭坛
 menial		a.	（工作）低贱的，不体面的
 carapace	n.	（动物的）壳，甲壳
 
-vivace
+vivace		a. adv.	（音乐）生动活泼的
 	vivacious	a.	活泼迷人的
 	vivacity	n.
 
@@ -1431,7 +1439,15 @@ antecede	vt.	在...之前(=precede)	Latin: antecedere
 nimble		a.
 	nembleness	n.
 
-sanguine
+sanguine	a.	血的；嗜血的；乐观的；
+	sanguineness	n.
+	sanguinary	a.	血腥的
+	ensanguine	vt.	用血染
+	consanguine	a.	同族的，血亲的
+		consanguinity	n.
+	sanguineous	a.	血红的
+		consanguineous	a.	=consanguine
+
 phlegm		n.	痰；冷静，沉着[FORMAL]；	[希波克拉底气质论]粘液质->沉着冷静
 	phlegmatic	a.	冷静的，沉着的[FORMAL]；冷漠的，冷淡的；
 		phlegmatically	adv.
@@ -1667,7 +1683,7 @@ resile		v.	改变先前的决定或想法
 
 recluse		n.	隐居者；喜欢独处的人	a. 隐居的(=solitary, secluded)
 	reclusive	a.	隐居的，喜欢独处的
-		-ly		adv.
+		reclusively	adv.
 	reclusion	n.
 
 seclude		vt.	使隐居	[REFLEXIVE] He preferred to seclude himself in the laboratory.
@@ -1852,7 +1868,7 @@ quiet		a. v.
 		acquiesce	vi.	默许，勉强同意
 			acquiscent	a.	默从的		willing to do what other people want
 				acquiescence	n.	默许
-	
+
 gall		n.	胆；鲁莽，厚颜无耻；激怒；
 	gallstone	n.	胆结石
 	gallbladder	n.	胆囊
@@ -1960,6 +1976,7 @@ disaffected	a.	（对权威）不满的，叛逆的(=rebellious)
 unaffected	a.	未受影响的；真诚的(=genuine)；
 
 grudge		n.	怨恨		refer to: rancor
+	grudging	a.	不情愿的
 resent		vt.	怨恨，对...感到不满
 	She bitterly resented her father's new wife.  她对她父亲新娶的妻子恨之入骨。
 	[ + -ing verb ] He resents having to explain his work to other people.  他讨厌非得向人们解释他的工作。
@@ -2070,10 +2087,6 @@ apt
 		ineptly
 		ineptitude	n.
 
-vivace		a. adv.	（音乐）生动活泼的
-	vivacious	a.	活泼迷人的
-	vivacity	n.
-
 sator		n.	[HUMOROUS or LITERARY and RARE] 裁缝	=tailor
 	satorial	a.	衣着上的，制衣的	satorial elegance
 
@@ -2108,9 +2121,68 @@ incise		vt.	雕，刻
 decisive	a.	果断的；决定性的；
 	indecisive	a.
 
-adroit		a.
-	maladroit	a.	
+adroit		a.	精明的，机敏的
+	maladroit	a.	笨拙的，不灵巧的，不熟练的
 
 tumult		n.	喧闹，骚乱，混乱
 	tumultuary	a.
 	tumultuous	a.
+
+suffrage	n.	选举权
+sovereignty	n.	主权，统治权
+populism	n.	民粹主义
+	populist	n.
+safeguard	vt. n.	保卫，维护，捍卫
+pragmatism	n.	实用主义	Pragmatism means thinking of or dealing with problems in a practical way, rather than by using theory or abstract principles.
+	pragmatic	a.	实用主义的
+
+despondent	a.	沮丧的，没有精神的
+	despondency	n.
+	despondently	adv.
+
+peeve		vt.	惹恼
+	peevish		a.	易怒的，脾气坏的
+
+rinse		v.	冲洗
+provoke		vt.	激起；激怒；
+	provocation	n.	刺激；刺激物；
+	provocative	a.
+
+oppress		v.	压迫，欺压；使烦恼；
+	oppression	n.
+	oppressor	n.
+	oppressive	a.
+
+pillage		v.	（尤指在战争中）掠夺，抢劫，劫掠	[FORMAL]
+plunder		v. n.	（尤指战争期间的）掠夺，抢劫，劫掠	vt. n. 盗用，侵吞
+
+floppy		a.	松软的，耷拉的
+
+vulgar		a.	粗俗的，庸俗下流的
+	vulgarian	n.	俗人，庸俗的人
+	vulgarize	vt.	使...通俗（流行）化
+	vulgarity	n.	粗俗
+	vulgarism	n.	=vulgarity
+	vulgar fraction	n.	普通分数（区别于带分数）
+
+haughty		a.	傲慢的，自大的
+	haughtily	adv.
+	haughtiness	n.
+
+fudge		vt. n.	含糊其辞，回避（问题）
+weasel		n.	黄鼠狼；狡猾的人；	vi. 含糊其辞(equivocate)；逃避（责任义务）(~ out)；
+sneak		v.	悄悄地走，潜行(prowl)
+	sneaky		a.	鬼鬼祟祟的，偷偷摸摸的
+snitch		vi.	告密，揭发；偷窃；
+baffle		vt.	使困惑，使迷惑
+
+prudent		a.	谨慎的；->花钱谨慎的->节俭的；
+	prudence	n.
+	imprudent	a.	
+		imprudence	n.
+
+discreet	a.	谨慎的
+	discretion	n.
+		discretionary	a.
+
+assail		vt.	攻击，袭击；抨击；困扰，使苦恼；	[FORMAL]

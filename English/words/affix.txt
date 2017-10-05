@@ -181,3 +181,8 @@ hagi- hagio-
 		hagioscope
 	sanits
 		hagiography
+
+phil- philo-
+	loving
+		philanthropic
+		philately

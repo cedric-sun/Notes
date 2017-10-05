@@ -1,3 +1,9 @@
+萌芽
+	sprout
+	germinate
+	burgeon
+	embryo		n.
+		embryonic	a.
 贫穷
 	indigent	a.
 	impecunious	a.	贫穷的		[X] pecunious
@@ -18,7 +24,7 @@
 过剩，过量
 	glut
 	surfeit		n.
-	superfluous	a.
+	superfluous	a.	多余的
 	plethora	n.
 
 轻率的，鲁莽的，不考虑后果的
@@ -61,6 +67,7 @@
 	carol		n.	圣歌，（圣诞）颂歌	vi. 唱颂歌
 	glorify
 	resound		vi.	[figurative]to be extolled
+	panegyric	n.
 
 悲痛的，忧伤的
 	dolorous
@@ -71,6 +78,7 @@
 无聊的，乏味的
 	bland
 	vapid
+	insipid
 
 谨慎的，仔细的
 	punctilious	a.
@@ -104,6 +112,10 @@
 	booze
 	soak
 	tipple
+	revel		vi.
+		revelry		n.
+	roister		vi.	to engage in noisy revelry
+		roisterer	n	a person who roister
 
 杂色，混杂
 	mottle
@@ -160,7 +172,7 @@
 	decry		vt.	谴责，抨击(=condemn)	[FORMAL]
 		decrial		n.
 		decrier		n.
-	obloquy		n.	（公开的）抨击，批评
+	obloquy		n.	（公开的）抨击，批评	-loquy 言语: soliloquy 独白
 	impugn		vt.	抨击，质疑	[FORMAL]
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
@@ -410,6 +422,7 @@
 		innocuous	a.	无害的
 	poisonous	a.
 	noxious
+		obnoxious
 	deleterious
 	baleful
 
@@ -619,7 +632,7 @@ imperious	a.
 pompous
 overbearing
 portentous	a.	自大的
-
+overweening	a.	傲慢的；自负的；过于自信的
 
 =================================================
 
@@ -673,7 +686,7 @@ extenuate	vt.	减轻罪过
 effluvium	n.	臭气
 fetid		a.	恶臭的
 malodor		n.	臭气
-malodorous	a.	恶臭的
+	malodorous	a.	恶臭的
 fusty		a.	腐臭的/过时的
 noisome		a.	恶臭的/非常令人厌恶的
 stench		n.	恶臭

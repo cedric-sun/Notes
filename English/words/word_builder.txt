@@ -55,7 +55,7 @@ kudos		n.  	名声，声誉
 distress    	n.  	痛苦		v.使痛苦
 pugnacity	n.	好斗
 	pugnacious	adj.	好斗的
-repugnant	adj.	令人反感的；矛盾的，不一致的；
+repugnant	adj.	令人反感的(disgusting)；矛盾的，不一致的(=incompatible, inconsistent)；
 	repugnance	n.	厌恶；矛盾，不一致；
 expunge		vt.	删除，抹去
 impugn		vt.	抨击
@@ -68,6 +68,9 @@ hassle		vt.	烦扰；		n. 麻烦
 physiognomy	n.	[FORMAL] 相貌，容貌
 perverse	a.	有悖常理的；任性的
 
+salacious	a.	淫荡的，好色的
+	salaciously	adv.
+	salaciousness	n.
 amorous		a.	表示性爱的，色情的
 erotic		a.	性爱的，性欲的，色情的
 genital		n.	生殖器 = genitalia [均为plural] (male: penis / female: vulva)
@@ -126,7 +129,7 @@ prude		n.	过度关注行为是否端庄得体的人，过分拘谨的人
 affect		vt.	影响；假装；
 	affectation	n.	做作，装模作样
 
-attentive	a.	（听或读）仔细的，认真的；关心的，体贴的
+attentive	a.	（听或读）仔细的，认真的(rapt)；关心的，体贴的
 
 decor		n.	（房间内的）装饰布局，装饰风格 (elegant decor 雅致的装饰)
 	decorate	vt.	装饰
@@ -190,7 +193,7 @@ diocese		n.	主教辖区 an area controlled by a bishop
 nettle		vt.
 	nettlesome	a.	烦人的，讨厌的
 
-vituperate	v.	辱骂	~= berate	[FORMAL]
+vituperate	v.	辱骂	~= berate	[FORMAL] 带脏字，比inveigh严重
 	vituperation	n.	辱骂
 	vituperative	a.	辱骂的
 
@@ -280,7 +283,6 @@ cognitive	a.	认知的
 
 mule		n.	骡子
 	mulish		a.	（骡子般）顽固的	
-quaff		v.	痛饮，大口喝
 
 permeate	v.	[具象的物质，但可指抽象事物]渗透，弥漫
 	permeation	n.
@@ -325,7 +327,6 @@ merchant	n.
 		merchandiser	n.
 	mercenary	a.	唯利是图的	n. 雇佣兵
 
-stale		a.	（通常指因久放）不新鲜的
 pass
 	passage		n.
 	surpass		vt	超越，胜过
@@ -507,7 +508,7 @@ inquire		v.	问，询问	(UK. sometime enquire)
 	inquiring	a.	刨根问底的
 	inquirer	n.	询问者
 	inquisitor	n.	[贬]讯问者，问题过多的询问者
-		inquisitive	a.	好奇的，好问
+		inquisitive	a.	好问的，好奇的；过分好奇的；
 			inquisitively	adv.
 			inquisitiveness	n.	好奇
 		inquisition	n.	[贬]盘问(asking unfriendly)；审讯
@@ -528,9 +529,18 @@ gratify		v.	使高兴，使满意
 		ingratiatory = ingratiating
 
 specifics	n.	细节 = detail
-revelry		n.	（尤指吵闹地）狂欢，作乐
+
+quaff		v.	痛饮，大口喝
+revel		vi.	狂饮作乐，狂欢		UK -ll-	US -l-
+	revelry		n.	（尤指吵闹地）狂欢，纵酒，作乐
+roister		vi.	喧闹地狂饮狂欢；吹牛摆架子，口出狂言；
+	roisterer	n.
+booze		n.	酒	vi. 喝酒
+tipple		n.	酒	vi. （作为习惯）喝酒
+
 obnoxious	a.	令人反感的，粗鲁无礼的
-objectionable	a.	令人反感的
+objection	n.	反对
+	objectionable	a.	令人反感的
 
 convivial	a.	友好的；欢乐的，愉悦的 a convivial atmosphere/host 欢乐的气氛／热情的主人
 recompense	n.	支付，酬谢，报答；补偿
@@ -556,7 +566,7 @@ liquor		n.	烈酒		intoxicating liquor
 
 temper		n.	脾气，性情	vt. 使缓和	I learned to temper my criticism.  我学会了批评别人时语气要缓和些。
 	temperate	a.	气候温和的；（行为）温和的，适度的 calm and controlled
-		in-		a.
+		intemperate	a.
 		temperance	n.	自我克制，节制（如戒酒、节食等）
 		temperament	n.	性情，气质
 			temperamental	a.	喜怒无常的；性情的；（机器）性能不稳定的
@@ -741,6 +751,8 @@ vile		a.	邪恶的；可耻的；极令人厌恶的
 		villainous	a.	邪恶的，极坏的
 turpitude	n.	邪恶，堕落
 iniquity	n.	邪恶，不公正
+vice		n.	邪恶，堕落；罪行；
+	vicious		a.	恶毒的，凶暴的
 
 heinous		a.	罪大恶极的，（罪行）滔天的
 	heinousness	n.
@@ -817,7 +829,7 @@ cohere		vi.	（论据或理论）连贯，有条理(all the stages of an argumen
 
 viscid		a.	粘性的(=adhesive, sticky)；黏稠的(viscous)；
 	viscous		a.	黏稠的
-		viscosity	a.	黏稠度
+		viscosity	n.	黏稠度
 
 consistency	a.	一致性；**黏稠度(=viscosity)**(但是consistent没有`粘稠的`的意思)	Boil the juice to the consistency of a thick syrup.
 
@@ -907,6 +919,10 @@ torrid		a.	炙热的；热情的；	1. hot, scorching 2.ardent
 
 turgid		a.	（写作）枯燥而浮夸的
 turbid		a.	浑浊的
+trepid		a.	惊恐的，不安的
+	trepidation	n.	惊恐，不安
+	intrepid	a.	大胆的
+		intrepidity	n.
 
 forbear		vi.	克制，忍耐
 	forbearance	n.
@@ -986,6 +1002,7 @@ shun		vt.	躲避；避免；
 
 fervor		n.	热情，热心；炎热；	intensity of feeling or expression, a strong sensation
 	fervid = fervent (bottom 40%)
+		perfervid	a.	极端热情的，过分热情的 excessively fervent
 	fervent		a.	热情的；炎热的；(top 20%)
 		fervency = fervor
 
@@ -1200,7 +1217,7 @@ provide		v.
 	provident	a.	有远见的，未雨绸缪的[FORMAL]
 		providence	n.	天意，天命；远见(noun for provident)；
 		providential	a.	（神谕般、天意般）幸运的
-	provision	n.	（粮食、物资的）供给；条款；准备，预防措施；
+	provision	n.	（粮食、物资的）供给(the act or process of providing)；条款(=proviso, stipulation)；准备，预防措施(=preparation)；
 		provisional	a.	临时的，暂时的
 		proviso		n.	条件，条款（的附文）
 			provisory	a.	附文的，有附带条件的(=conditional)；暂时的(=provisional)
@@ -1277,6 +1294,7 @@ ardent		a.	热情的，（对某一行动）狂热的；火热的(an ardent sun)
 parch		vt.	烤干，烤焦
 fiery		a.	燃烧的；火红的；辛辣的；充满强烈感情的，激烈的，（尤指）愤怒的
 	fierce		a.	激烈的，猛烈的
+		fiercely	adv.
 
 stamp		v.	（重）踩，踏
 tramp		v.	（重）踩，踏	US also tromp
@@ -1504,7 +1522,7 @@ rectify		v.	纠正，矫正；整流（把交流电变成直流电）
 
 redoubt		n.	（尤指即将消失或受到威胁的信仰或生活方式的）藏身处，庇护所，堡垒，据点	the last redoubt of hippy culture	嬉皮士文化的最后堡垒	n. [SPECIALIZED][military] 防御工事，掩体
 	redoubted	a.	[archaic] =redoubtable
-	redoubtable	a.	强大可怕的；杰出的，值得尊敬的；
+	redoubtable	a.	强大可怕的(=formidable)；杰出的，值得尊敬的(=illustrious, preeminent)；
 
 eminent		a.	凸出的(=projecting, protruding, prominent)；杰出的，卓越的；	from Latin eminent-, eminens, present participle of eminēre: to stand out
 	eminently	adv.
@@ -1602,6 +1620,7 @@ singe		vt.	烧焦，烤焦(to burn superficially or lightly, =scorch (m-w))
 parch		vt.	烤干（roast slightly)
 roast		v.	烤，烘焙（食物）	roast sb [INFORMAL]喷（严厉批评）
 toast		vt.	烤（食物）；为...干杯；		n. 干杯；吐司面包；
+sear		vt.	（用突然的高温）灼烧；（为防止汁液和味道溢出）高温速煎（肉）；给…留下极不愉快的感觉（或记忆）； 	The disaster is indelibly seared into the villagers' memories.  这场灾难在村民的记忆中留下了挥之不去的烙印。
 
 afflict		vt.	折磨，使痛苦
 
@@ -1742,6 +1761,9 @@ ire		n.	（公开明显的）愤怒，怒火(intense and usually openly displaye
 	irate		a.	愤怒的 1. roused to ire 2. arising from anger
 		irately		adv.
 		irateness	n.
+	irascible	a.	易怒的
+		irascibly	adv.
+		irascibility	n.
 
 distinct	a.	明显的，确实的；明显不同的；	There's a distinct smell of cigarettes in here.  这里确实有一股烟味儿。
 	indistinct	a.	不清楚的，模糊的	an indistinct shape/sound/recollection 模糊的形状／声音／记忆
@@ -1945,6 +1967,7 @@ exult		vi.	欢欣鼓舞，狂喜
 	exultant	a.	极高兴的，狂喜的
 
 ambulate	vi.	走动(=walk)
+	ambulant	a.
 	ambulation	n.
 	perambulate	vt.	（徒步）巡游；（徒步）巡视；	vi. 漫步(=stroll)
 		perambulatory	a.
@@ -1992,10 +2015,13 @@ salute		n. v.	（尤指军人）敬礼	vt. 公开赞扬，赞颂[FORMAL]
 	salutary	a.	有益的
 	salubrious	a.	有益健康的
 
+indigene	n.	土著人，本土的动物或植物	=indigen
+	indigenous	a.	当地的，本土的
 genuine		a.	真正的（非伪造的）；真诚的；
 generous	a.	慷慨的；大量的(a generous slice of cake 一大块蛋糕)
-ingenuous	a.	天真幼稚的
+ingenuous	a.	坦诚的；天真幼稚的(sometimes disapproving)；
 	disingenuous	a.	不真诚的，不坦诚的(lacking in candor)
+genius		n.	天才
 ingenious	a.	（人）intelligent and skillful；（物）独创且精巧的；
 	ingenuity	n.
 ingénue		n.	=ingenue	a naive girl or young woman	（尤指电影或戏剧中）天真无邪的少女
@@ -2111,9 +2137,6 @@ assort		vt.	分类	vi. 匹配，相配(~ with)
 
 uprising	n.	起义，暴动
 
-indigene	n.	土著人，本土的动物或植物	=indigen
-	indigenous	a.	当地的，本土的
-
 incise		vt.	雕，刻
 	incisive	a.	suggestive of something that can incise, sharp: 尖锐的[physical];（见解）深刻的；（批评意见）尖刻的，辛辣的；
 	incision	n.
@@ -2151,12 +2174,17 @@ provoke		vt.	激起；激怒；
 oppress		v.	压迫，欺压；使烦恼；
 	oppression	n.
 	oppressor	n.
-	oppressive	a.
+	oppressive	a.	压迫的，暴虐的；令人烦躁的；（天气）闷热的，令人窒息的；
 
 pillage		v.	（尤指在战争中）掠夺，抢劫，劫掠	[FORMAL]
 plunder		v. n.	（尤指战争期间的）掠夺，抢劫，劫掠	vt. n. 盗用，侵吞
 
-floppy		a.	松软的，耷拉的
+flop		vi. n.	掉下，垂下	vi. n. 搞砸，失败
+	floppy		a.	松软的，耷拉的		n. 软盘
+slop		n.	软泥(slush)，雪水；稀软味差的食物(food that is more liquid than it should be and is therefore unpleasant)	v. （使）溢出，溅出
+	sloppy		a.	过稀的((of a substance) more liquid than it should be, often in a way that is unpleasant)；adj. 邋遢的，不整洁的 adj. 庸俗伤感的(appealing to the emotions in an obvious and tiresome way)
+
+article		n.	*物品*；条款；
 
 vulgar		a.	粗俗的，庸俗下流的
 	vulgarian	n.	俗人，庸俗的人
@@ -2186,3 +2214,61 @@ discreet	a.	谨慎的
 		discretionary	a.
 
 assail		vt.	攻击，袭击；抨击；困扰，使苦恼；	[FORMAL]
+
+tense		a.	（人）紧张的；（局势）令人紧张的；（肌肉）绷紧的； v. （使）（肌肉）绷紧
+	tension		n.	（精神上的）紧张；紧张关系，紧张局势；拉力，张力；
+	intense		a.	强烈的，极度的；认真的，热切的；
+		intensify	v.	加强，强化
+
+voracity	n.	贪婪
+	voracious	a.	贪婪的
+		voraciousness	n.
+
+propitiate	vt.	平息（愤怒），安抚	[FORMAL]
+	propitiation	n.
+	propitiatory	a.
+
+unkempt		a.	不整洁的，凌乱的
+musty		a.	发霉的
+fusty		a.	发霉的；陈腐的，过时的；
+stuffy		a.	闷的，通风不畅的(oppressive)；古板的，乏味的；
+stale		a.	（通常指因久放）不新鲜的
+
+vent		n.	排气口		v.	发泄，表达
+	ventage		n.	=vent;管乐器（如竖笛）上用于通气的指孔；
+	ventilate	vt.	使通风，透使气，使空气流通；说出，发表[FORMAL]；
+		ventilation	n.
+		ventilator	n.
+		hyperventilate	v.
+			hyperventilation	n.
+
+scathe		vt.	（猛烈地）抨击；[dialectal]伤害；
+	scathing	a.	（批评）严厉的，尖刻的
+	unscathed	a.	安然无恙的，未受损的，未受伤的
+
+solute		n.	溶质
+solvent		n. 溶剂 adj. 有溶解力的（能溶解别的物质） adj. 可溶解的（能在别的物质中溶解） adj. 有偿还能力的
+solution	n.	溶液
+
+philately	n.	集邮	Greek "ateleia": tax exemption: a stamped letter frees the recipient from paying the mailing charges
+	philatelist	n.
+
+candid		a.	（尤指对棘手或令人痛苦之事）率直的，坦诚的，直言不讳的
+	candor		n.
+
+remonstrate	vi.	抗议；反对；抱怨
+	remonstrance	n.
+
+nuisance	n.	恼人的事物（或人）；麻烦的事物（或人）
+berserk		a.	狂怒的，狂暴的		n. =berserker	ber=bear serk=skirt literally a warrior who wear fur of bear
+	berserker	n.	巴萨卡!!!!
+defiant		a.	（公然）对抗的
+	defiance	n.
+
+high-flown	a.	浮夸的，言过其实的，装逼的
+haggle		v.	讨价还价
+panorama	n.	全景；全貌，概述，概论；
+	panoramic	a.
+minuet		n.	小步舞曲
+expend		vt.	花费
+bewitch		vt.	吸引，使着迷；施法魅惑；

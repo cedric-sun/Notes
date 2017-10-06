@@ -1,3 +1,21 @@
+满足
+	slake
+	satisfy
+	sate
+	satiate
+	# quench
+
+信徒，追随者
+	disciple
+	votary
+	exponent
+	proponent
+苍白的
+	wan
+	pallid
+	pale
+	whitish
+
 萌芽
 	sprout
 	germinate
@@ -97,6 +115,10 @@
 	nonchalant
 	detached
 		detachment	n.
+	impassive
+	stolid
+	callous
+
 恳求
 	beseech
 	entreat
@@ -143,6 +165,7 @@
 	engage sb in conversation	[FORMAL]
 
 批评，指责，谴责，抨击		强调因不认同对方的行为或观点而进行的批驳
+	pan		vt.	严厉批评	The critics panned the movie version of the novel.  评论家们严厉批评了根据这部小说改编的电影。
 	belabor		vt.	（当众）严厉批评
 	berate		vt.	严厉指责
 	castigate	vt.	强烈（公开）指责
@@ -185,6 +208,7 @@
 	blacken
 	blemish		v.	玷污，损害
 	maculate	v. a.	玷污；有污点的；(the verb use become archaic in US)
+	tarnish		v.	(金属）失去光泽		vt. 玷污，使名誉受损
 
 诋毁，诽谤，诬蔑	强调以恶意伤害他人名誉为目的
 	aspersion	n.	诽谤
@@ -403,6 +427,7 @@
 	waste
 	squander
 	dissipate
+	profligate	a.
 
 吸引人的，引人入胜的，令人着迷的 interesting	adj.
 	attractive

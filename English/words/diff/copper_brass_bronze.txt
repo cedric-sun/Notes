@@ -1,0 +1,3 @@
+copper	Pure copper, Cu
+brass	Copper-Zinc alloy	黄铜
+brozen	Bronze is an alloy consisting primarily of copper, commonly with about 12% tin and often with the addition of other metals (such as aluminium, manganese, nickel or zinc) and sometimes non-metals or metalloids such as arsenic, phosphorus or silicon.	青铜

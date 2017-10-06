@@ -355,3 +355,18 @@ jolt sb into sth
 jolt sb out of sth
 	使（某人）从…中觉醒
 		The sneak terrorist attack jolted the country out of its indolence and indifference.
+
+(be) tantamount to sth
+	being almost the same or having the same effect as something, usually something bad 几近于；等于，相当于
+		Her refusal to answer was tantamount to an admission of guilt.  她拒绝回答等于是认罪。
+
+a scintilla of sth
+	a very small amount of something 极少的，微量的
+		There's not a scintilla of truth in what he says.  他说话一点也不可信。
+
+this vale of tears [LITERARY]		vale: world
+	This vale of tears is the world we live in, seen as sad and difficult.  人生苦海；凡尘
+
+safeguard against sth
+	to do things that you hope will stop something unpleasant from happening 预防，避免
+		A good diet will safeguard against disease.  搭配合理的饮食可以预防疾病。

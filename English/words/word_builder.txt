@@ -4,8 +4,11 @@ goblet		n.	（尤指盛酒的，通常用玻璃或金属做的）无柄高脚杯
 verge		n.	边；边缘；边沿
 squash		vt.	把…压扁
 squander	vt.	浪费，挥霍
+profligate	a.	挥霍的		n. 挥霍者
+prodigal	a.	挥霍的		n. 挥霍者
+	prodigality	n.
 apprentice	n.	学徒
-intrigue	vt.	吸引，激起...的兴趣	n. 阴谋
+intrigue	vt.	吸引，激起...的兴趣	n. 阴谋	vi. 密谋
 	intriguing	a.	吸引人的
 urea		n.	尿素
 	urinate		vi.
@@ -22,7 +25,7 @@ antenna		n.	天线；触角
 errand		n.	使命
 truncate	v.	截短，删节
 connotation 	n.	内涵
-charisma	n.	魅力，领导力
+charisma	n.	（人格）魅力，领导力
 debt		n.	债务
 shrewd		a.	精明的
 	shrewdness	n.	精明
@@ -32,7 +35,16 @@ controvert	v.	争论
 	uncontroversial	a.	不引起争议的	
 	incontrovertible	a.	无可争议的
 
-vengeance   	n.  	复仇
+venge		vt.	[ARCHAIC] avenge
+	avenge		vt.	报...之仇
+		# avenge his brother's death
+		# She determined to avenge herself on the killer.
+		# 她决心要让凶手血债血偿。
+	revenge		n. vt.
+		# revenge is sweet
+		# revenge oneself on someone
+	vengeance   	n.  	复仇
+
 pharmacy    	n.  	药剂学；药店
 	pharmacist  	n.  	药剂师
 	pharmacology	n.	药理学
@@ -44,7 +56,7 @@ daisy   	n.  	雏菊  ->pl.   daisies
 emulate 	vt. 	模仿
 contrive    	vt. 	发明；谋划
 devise		vt.	发明，设计
-stray   	v.  	迷路；跑题
+stray   	v.  	迷路；跑题；走神；
 panacea    	n.  	灵丹妙药/万能之计
 meltdown    	n.  	（尤指金融方面的）灾难     financial/economic/market meltdown 金融／经济／市场崩溃
 societal    	a.  	社会的	from society
@@ -54,7 +66,7 @@ acreage		n.  	面积(英亩数)
 kudos		n.  	名声，声誉
 distress    	n.  	痛苦		v.使痛苦
 pugnacity	n.	好斗
-	pugnacious	adj.	好斗的
+	pugnacious	adj.	好斗的	scrappy
 repugnant	adj.	令人反感的(disgusting)；矛盾的，不一致的(=incompatible, inconsistent)；
 	repugnance	n.	厌恶；矛盾，不一致；
 expunge		vt.	删除，抹去
@@ -68,6 +80,10 @@ hassle		vt.	烦扰；		n. 麻烦
 physiognomy	n.	[FORMAL] 相貌，容貌
 perverse	a.	有悖常理的；任性的
 
+voluptuous	a. （女人）性感的	a. 感官上令人愉悦的 [LITERARY]
+	voluptuary	n.	沉溺奢华和感官享受的人(sensualist, sybarite)
+bawd		n.	鸨母
+	bawdy		adj.	淫秽的，下流的
 salacious	a.	淫荡的，好色的
 	salaciously	adv.
 	salaciousness	n.
@@ -114,6 +130,7 @@ project		vt.	投掷，发射 	vi. 突出，伸出
 ballistic	a.	弹道的	ballistic missle 弹道导弹
 vomit		v.	吐，呕吐 (vomit+up if intransitive)
 lien		n.	（扣押某人财产直至其偿清债务的）留置令，扣押令
+sequester	vt.	扣押（资产）	also sequestrate；隔离（陪审团）（以免其判断受外界影响）；
 consortium	n.	财团；联合；
 bedfellow	n.	伙伴，盟友
 qua		prep.	[FORMAL]作为 = as
@@ -129,7 +146,7 @@ prude		n.	过度关注行为是否端庄得体的人，过分拘谨的人
 affect		vt.	影响；假装；
 	affectation	n.	做作，装模作样
 
-attentive	a.	（听或读）仔细的，认真的(rapt)；关心的，体贴的
+attentive	a.	（听或读）仔细的，认真的(rapt)；关心的，体贴的(=solicitous)
 
 decor		n.	（房间内的）装饰布局，装饰风格 (elegant decor 雅致的装饰)
 	decorate	vt.	装饰
@@ -220,6 +237,7 @@ sense
 		extrasensory	a.	超感的
 		multisensory	n.	多感官并用的
 	sensual		a.	感官的(=sensory)；肉欲的，愉悦肉体的
+		sensualist	n.	voluptuary
 	sensuous	a.	感官的(=sensory)；引起美感的；
 	senseless	a.	无意义的；失去意识的；
 	nonsense	n.	胡闹，愚蠢，一派胡言
@@ -1179,7 +1197,9 @@ adulate		v.	奉承，拍马屁
 	adulatory	a.
 fawn		n.	幼鹿；鹿色；小孩；	v. （动物向人）表示好感；奉承，讨好；
 saccharine	n.	糖精	a. 过于殷勤的，甜得发腻的
-smarmy		a.	迎合的，过于殷勤的
+smarm		n.	smarmy language or behavior
+	smarmy		a.	谄媚的，奉承的 smug, ingratiating or false earnestness
+		smarmily	adv.
 toady		n.	马屁精，谄媚的人(=sycophant)	vi. 奉承，拍马屁
 	toadyism	n.
 
@@ -1388,6 +1408,7 @@ sentry		n.	哨兵；岗哨；
 sentinel	n.	哨兵；岗哨； [LITERARY]		卫报 The Fort Lauderdale Sun-Sentinel Lauderdale堡太阳卫报
 
 appease		v.	[贬]绥靖，为了息事宁人或讨好而妥协
+	appeasement	n.
 customary	a.	惯常的(usual)；传统的(traditional)；
 wont		n.	习惯，惯常	a. 习惯的，惯常的
 	wonted		a.	通常的(=usual)	[FORMAL]
@@ -2094,7 +2115,10 @@ vernal		a.	春天的	[FUCKING LITERARY]
 longevity	n.	长寿
 lugubrious	a.	忧伤的，悲伤的
 flagrant	a.	骇人听闻的，公然的 shocking because of being so OBVIOUS
-indolence	n.	懒惰	[FUCKING LITERARY]
+indolent	a.
+	indolence	n.	懒惰	[FUCKING LITERARY]
+redolent	a.	散发出…强烈气味的；（尤指气味）使人联想起…的(be ~ of/with)
+	redolence	n.	芳香，芬芳
 conflate	vt.	合并，结合
 all-round	a.	多才多艺的
 
@@ -2215,7 +2239,7 @@ discreet	a.	谨慎的
 
 assail		vt.	攻击，袭击；抨击；困扰，使苦恼；	[FORMAL]
 
-tense		a.	（人）紧张的；（局势）令人紧张的；（肌肉）绷紧的； v. （使）（肌肉）绷紧
+tense		a.	（人）紧张的；（局势）令人紧张的；（肌肉）绷紧的； v. （使）（肌肉）绷紧	(taut)
 	tension		n.	（精神上的）紧张；紧张关系，紧张局势；拉力，张力；
 	intense		a.	强烈的，极度的；认真的，热切的；
 		intensify	v.	加强，强化
@@ -2272,3 +2296,49 @@ panorama	n.	全景；全貌，概述，概论；
 minuet		n.	小步舞曲
 expend		vt.	花费
 bewitch		vt.	吸引，使着迷；施法魅惑；
+
+disciple	n.	[Christianity]门徒；追随者；
+	the Disciples	耶稣的十二门徒
+	discipline	n. vt.
+apostle		n.	[Christianity]使徒；（信仰或政治运动的）倡导者，鼓吹者，先驱
+	the Apostles	耶稣的十二使徒
+
+totalitarianism	n.	the belief that a government should have total power over its citizens 极权主义
+
+# vagary, caprice
+whim		n.	突然的念头，冲动 We booked the trip *on a whim*.  我们一冲动就预订了假日游。
+	whimsy		n.	
+		whimsical	a.
+			whimsicality	n.
+
+nicotine	n.	尼古丁
+	necotine-stained (teeth)	a.	被尼古丁熏黑（玷污）的（牙齿）
+
+harem		n.	后宫
+vanilla		n.	（用于给食物调味的）香子兰精，香草精
+succubus	n.	a female evil spirit who is believed to have sex with men while they are sleeping
+incubus		n.	a male evil spirit who is believed to have sex with women while they are sleeping
+incest		n.	sexual activity involving people who are closely related and not legally allowed to marry 乱伦
+
+scintilla	n.	一点，极少量	(not) a scintilla of
+	scintillate	vt.	闪烁，闪耀
+		scintillation	n.
+		scintillating	a.	funny, exciting, and clever 妙趣横生的，机敏风趣的
+
+valediction	n.	告别	vale-: to have strength, be well	-diction: to speak, say
+
+clamor		n.
+	clamorous	a.	=vociferous
+
+virtuoso	n.	（尤指演奏乐器或表演的）名家，能手	a. 熟练的，精湛的
+	virtuosity	n.
+
+spouse		n.	配偶
+	spousal		a.	attribute only
+	espouse		vt.
+		espousal	n.
+
+scalp		vt.	买黄牛票	UK tout
+	scalper		n.	黄牛
+
+hostage		n.	人质

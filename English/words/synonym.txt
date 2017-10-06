@@ -1,3 +1,13 @@
+吝啬
+	parsimony	n.
+		parsimonious	a.
+	miser
+		miserly
+			miserliness	n.
+	niggard		n.	吝啬鬼	a. 吝啬的
+		niggardly	a.	吝啬的；少量的(as if given by a niggard)	adv.	吝啬地
+			niggardliness
+	stingy		a.
 满足
 	slake
 	satisfy
@@ -10,6 +20,8 @@
 	votary
 	exponent
 	proponent
+	adherent
+
 苍白的
 	wan
 	pallid
@@ -63,6 +75,9 @@
 	gall
 	exasperate
 	rile
+	roil
+	rankle
+
 
 赞美，赞颂，歌颂，颂词，颂文，赞美诗，etc.
 	paean		n.	
@@ -158,6 +173,9 @@
 	predilection
 	proclivity	n.	尤指坏的癖好
 	affinity	n.	喜爱；相似；
+	penchant	n.
+	disposition	n.	性格，倾向
+	propensity	n.	（尤指不良的）倾向，嗜好，癖好
 
 
 交谈
@@ -308,6 +326,7 @@
 	adumbrate	vt.	预示
 		adumbration	n.	预兆
 	foreshadow	vt.	预示
+	prognosis	n.	预兆
 
 推动力
 	propel		v.	推进，推动
@@ -321,6 +340,7 @@
 	wag
 	wobble		vi.	（使）摇晃，（使）摇摆；（观点）摇摆不定；
 		wobbly		a.
+	rickety		a.	摇摇晃晃的，不结实的
 
 微温的；不热心的，冷淡的；
 	tepid
@@ -411,7 +431,7 @@
 	meander
 	stray
 	amble
-	ramble
+	ramble(2)
 	hang around
 	roam
 	saunter

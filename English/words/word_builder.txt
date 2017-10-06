@@ -763,6 +763,8 @@ venerate	vt.	尊敬 [FORMAL]
 
 vile		a.	邪恶的；可耻的；极令人厌恶的
 	revile		vt.	谩骂，辱骂[FORMAL]
+		revilement	n.
+		reviler		n.
 	vilify		vt.	诋毁，诬蔑
 		vilification	n.
 	villain		n.
@@ -854,7 +856,7 @@ consistency	a.	一致性；**黏稠度(=viscosity)**(但是consistent没有`粘�
 maple		n.	枫树
 syrup		n.	糖浆
 	maple syrup	n.	枫糖浆
-
+	syrupy		a.	甜而黏稠的，糖浆般的；娇柔做作的，过分多情的，甜的发腻的；
 
 slander		vt./n.	诋毁，诽谤
 slender		a.	苗条的，纤细的
@@ -989,7 +991,7 @@ statute		n.	法令（强调已批准，且已成文的法律）
 ordinance	n.	法令，法规[FORMAL]
 
 
-scrupulous	a.	acting in strict regard for what is considered right or proper;punctiliously exact
+scrupulous	a.	acting in strict regard for what is considered right or proper;punctiliously exact	正直的；一丝不苟的；
 punctilio	n.	品行的细节；对形式、礼节的遵守；
 	punctilious	a.	一丝不苟的；循规蹈矩的；
 
@@ -1536,11 +1538,6 @@ senile		a.	老糊涂的，老态龙钟的	showing poor mental ability because of
 dotage		n.	老糊涂的(=senility)
 	dotard		n.	a person in its dotage
 
-rectify		v.	纠正，矫正；整流（把交流电变成直流电）
-	rectification	n.
-	rectifier	n.	整流器
-	rectitude	n.	诚实，正直
-
 redoubt		n.	（尤指即将消失或受到威胁的信仰或生活方式的）藏身处，庇护所，堡垒，据点	the last redoubt of hippy culture	嬉皮士文化的最后堡垒	n. [SPECIALIZED][military] 防御工事，掩体
 	redoubted	a.	[archaic] =redoubtable
 	redoubtable	a.	强大可怕的(=formidable)；杰出的，值得尊敬的(=illustrious, preeminent)；
@@ -1814,6 +1811,11 @@ fuss		n.	大惊小怪，（因小事）过度激动	vi. 过度关注（细节）
 overly		adv.	过分地，过度的(=excessively)
 
 upset		vt.	to make someone worried, unhappy, or *angry*	使心烦意乱，强调使内心失去平静，而具体的形式不限于沮丧，也可以是担忧或*愤怒*
+
+rectify		v.	纠正，矫正；整流（把交流电变成直流电）
+	rectification	n.
+	rectifier	n.	整流器
+	rectitude	n.	诚实，正直
 
 probity		n.	诚实，正直
 	improbity	n.
@@ -2193,7 +2195,7 @@ peeve		vt.	惹恼
 rinse		v.	冲洗
 provoke		vt.	激起；激怒；
 	provocation	n.	刺激；刺激物；
-	provocative	a.
+	provocative	a.	启发性的；挑衅的，激怒人的；性挑逗性的(inviting)；
 
 oppress		v.	压迫，欺压；使烦恼；
 	oppression	n.
@@ -2342,3 +2344,18 @@ scalp		vt.	买黄牛票	UK tout
 	scalper		n.	黄牛
 
 hostage		n.	人质
+deed		n.	（尤指很坏或很好的）事情，行为
+redeem		vt.	弥补，补救；赎回；[Christianity]救赎；
+calamity	n.	灾难，灾祸
+jerk		vt. n.	猛拉，猛推，突然改变
+vicinage	n.	vicinity; the people living in a particular neighborhood;
+indecent	a.	下流的，有伤风化的	morally offensive, especially in a sexual way
+risqué		a.	[French]（笑话或故事）粗俗的；（尤指）有伤风化的，近乎淫秽的
+
+benefit		v
+	beneficial	a.	有益的
+	beneficent	a.	慈善的，行善的；有益的(=beneficial)
+		beneficence	n.
+
+regal		a.	帝王的，国王般的
+

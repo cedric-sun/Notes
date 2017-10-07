@@ -49,7 +49,8 @@
 不重要的，无价值的，微不足道的
 	paltry		a.
 	measly
-
+	piddling
+	petty
 
 过剩，过量
 	glut
@@ -133,6 +134,7 @@
 	impassive
 	stolid
 	callous
+	numb
 
 恳求
 	beseech
@@ -215,6 +217,7 @@
 		decrier		n.
 	obloquy		n.	（公开的）抨击，批评	-loquy 言语: soliloquy 独白
 	impugn		vt.	抨击，质疑	[FORMAL]
+	reprobate	vt.	谴责		n. 堕落者	a. 堕落的
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污
@@ -797,4 +800,15 @@ lethargic	a.	没精打采的，行动迟缓的(?)
 
 柔软的
 	supple
-	
+
+即兴
+	offhanded
+	extemporize
+
+假定，假设
+	posit
+	postulate
+	assume
+	suppose
+	hypothesis
+

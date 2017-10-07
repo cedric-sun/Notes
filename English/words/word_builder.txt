@@ -205,7 +205,7 @@ flirt		vi.	调情，打情骂俏
 	flirtatious	a.	打情骂俏的，轻佻的
 
 diocese		n.	主教辖区 an area controlled by a bishop
-	diosesan	a.	主教辖区的
+	diocesan	a.	主教辖区的
 
 nettle		vt.
 	nettlesome	a.	烦人的，讨厌的
@@ -342,7 +342,7 @@ merchant	n.
 		mercantilism	n.	重商主义（认为一国的国力基于通过贸易的顺差，主张国家干预经济，最先由亚当斯密提出和反对）
 	merchandise	n.	商品[formal]	v. 促销
 		merchandising	n.	推销，促销
-		merchandiser	n.
+		merchandiser	n.	GTFO
 	mercenary	a.	唯利是图的	n. 雇佣兵
 
 pass
@@ -421,7 +421,7 @@ suspend		v.	悬挂；暂停
 
 suspect		vt.	怀疑	n. 嫌疑犯	a.可疑的
 	suspicion	n.	怀疑
-	suspicious	n.	（引起）怀疑的	Her behaviour was very suspicious.  她的举止非常可疑。
+	suspicious	a.	（引起）怀疑的；（人）感到怀疑的	Her behaviour was very suspicious.  她的举止非常可疑。	I'm suspicious about your words.
 		suspiciously	adv.
 		suspiciousness	n.	疑心
 
@@ -435,7 +435,7 @@ conceive	v.	构思；怀孕；
 
 concept		n.
 	conceptual	a.
-		conceptualize	v.
+		conceptualize	v.	概念化
 		conceptualist	n.
 		conceptualism	n.
 
@@ -1302,11 +1302,6 @@ high heels = high-heeled shoes	高跟鞋
 
 masculinity	n.	男子气概
 
-sound		a.	完好无损的(intact)；合理的，明智的；完全的，彻底的；
-	soundly		adv.	完全地(=utterly, completely)；
-	resound		vi.	回响；（善行、美德）广为传颂的，被世人传颂回响的；
-	unsound		a.	（人的活动或判断）不够好的，靠不住的；（建筑）不稳固的；
-
 needlessly	adv.	=unnecessarily
 
 rite		n.	（宗教）仪式
@@ -1495,7 +1490,7 @@ phlegm		n.	痰；冷静，沉着[FORMAL]；	[希波克拉底气质论]粘液质-
 choleric
 melancholic
 
-tractable	a.	（情况）易处理的；（人）易管教的，易说服的	[FORMAL]
+tractable	a.	（情况）易处理的；温顺的，（人）易管教的，易说服的	[FORMAL]
 	intractable	a.	棘手的；难管教的；	[FORMAL]
 
 
@@ -1674,6 +1669,11 @@ serve		v.
 		servitude	n.	奴役（比slavery好一点？）
 	servile		a.	卑躬屈膝的，过度谦卑的
 
+sound		a.	完好无损的(intact)；合理的，明智的；完全的，彻底的；
+	soundly		adv.	完全地(=utterly, completely)；
+	resound		vi.	回响；（善行、美德）广为传颂的，被世人传颂回响的；
+	unsound		a.	（人的活动或判断）不够好的，靠不住的；（建筑）不稳固的；
+
 sonant
 	resonant	a.	（声音）洪亮共鸣的；（观点、情感）引起共鸣的；
 		resonate	vi.	发出共鸣，回响；（思想、感情）产生共鸣；
@@ -1820,6 +1820,8 @@ rectify		v.	纠正，矫正；整流（把交流电变成直流电）
 probity		n.	诚实，正直
 	improbity	n.
 
+veracity	n.	真实性；诚实；	the quality of being true, honest or accurate
+	veracious	a.	诚实的
 pursue		v.
 	pursuit		n.	嗜好，消遣（追求）；追踪；追求；
 
@@ -2349,6 +2351,8 @@ redeem		vt.	弥补，补救；赎回；[Christianity]救赎；
 calamity	n.	灾难，灾祸
 jerk		vt. n.	猛拉，猛推，突然改变
 vicinage	n.	vicinity; the people living in a particular neighborhood;
+contiguous	a.
+	contiguity	n.	the state of being contiguous
 indecent	a.	下流的，有伤风化的	morally offensive, especially in a sexual way
 risqué		a.	[French]（笑话或故事）粗俗的；（尤指）有伤风化的，近乎淫秽的
 
@@ -2359,3 +2363,20 @@ benefit		v
 
 regal		a.	帝王的，国王般的
 
+theology	n.	神学
+
+ludic		a.	活泼欢快的(=playful)
+	ludicrous	a.	愚蠢可笑的，荒谬的
+
+playful		a.	欢快的，爱玩的
+antithesis	n.	正相反，对立
+	antithetical	a.	相反的，对立的
+apportion	vt.	（尤指对过失、钱等）分担
+fiscal		a.	财政的
+
+attain		vt.	实现，获得 =achieve
+	unattainable	a.	达不到的，无法实现的
+		an unattainable ideal 无法实现的理想 		Many economists think that full employment is an unattainable goal.  一些经济学家认为欧洲实现充分就业的目标是无法达到的。
+
+head over heels (in love)
+	completely in love 坠入爱河

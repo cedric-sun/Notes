@@ -196,3 +196,7 @@ bibli- biblio-
 		bibliography	目录学，文献学 -> 参考文献
 		bibliology	1. =bibliography	2. Bibliology 圣经学(the study of the theological doctrine of the Bible)
 		bibliophine	书籍爱好者
+
+idio-
+	one's own
+		idiosyncrasy	n.	怪癖，癖好

@@ -8,6 +8,7 @@
 		niggardly	a.	吝啬的；少量的(as if given by a niggard)	adv.	吝啬地
 			niggardliness
 	stingy		a.
+
 满足
 	slake
 	satisfy
@@ -104,6 +105,7 @@
 	glorify
 	resound		vi.	[figurative]to be extolled
 	panegyric	n.
+	chorale		n.	赞美诗
 
 悲痛的，忧伤的
 	dolorous
@@ -141,7 +143,8 @@
 
 恳求
 	beseech
-	entreat
+	entreat		vt.
+		entreaty	n.
 	supplicate
 
 狂饮，痛饮
@@ -221,6 +224,7 @@
 	obloquy		n.	（公开的）抨击，批评	-loquy 言语: soliloquy 独白
 	impugn		vt.	抨击，质疑	[FORMAL]
 	reprobate	vt.	谴责		n. 堕落者	a. 堕落的
+	bash		vt.	猛打；抨击；
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污
@@ -366,6 +370,7 @@
 	crabby
 	cantankerous
 	ticklish
+	petulant	a.	易怒的，耍小孩子脾气的
 
 	
 宣告无罪

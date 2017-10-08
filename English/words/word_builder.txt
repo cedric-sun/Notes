@@ -72,6 +72,7 @@ repugnant	adj.	令人反感的(disgusting)；矛盾的，不一致的(=incompati
 expunge		vt.	删除，抹去
 impugn		vt.	抨击
 oppugn		vt.	反对；质疑；
+pungent		a.	（气味）刺鼻的	（话语或文章）尖刻的
 
 hatred		n.	仇恨，憎恨
 disposition	n.	性格；倾向；
@@ -102,7 +103,7 @@ sperm		n.	精子；精液(=semen)；
 		spermatozoal	a.
 	spermatozoid	n.	[生物学]植物精子
 semen		n.	精液
-	seminal		a.
+	seminal		a.	精液的；影响深远的，开创性的；
 gamete		n.	配子（指精子或卵子）
 libido		n.	性欲	(plural. libidos)
 repress		vt.	抑制，克制（感情）；（尤指用武力）镇压
@@ -238,6 +239,7 @@ sense
 		multisensory	n.	多感官并用的
 	sensual		a.	感官的(=sensory)；肉欲的，愉悦肉体的
 		sensualist	n.	voluptuary
+		sensuality	n.	感官享乐
 	sensuous	a.	感官的(=sensory)；引起美感的；
 	senseless	a.	无意义的；失去意识的；
 	nonsense	n.	胡闹，愚蠢，一派胡言
@@ -716,6 +718,8 @@ laconic		a.	简洁的
 delinquent	a.	拖欠的[FORMAL]；（青少年）不良的，违法的	n. 不良少年
 due		a.	预计的；
 	overdue		a.	过期的，延误的
+	undue		a.	过多的
+	subdue		vt.	压制，控制
 
 imminent	a.	临近的，即将发生的，迫在眉睫的
 inferior	a.	差的；下等（阶级）的	be inferior to 比...次
@@ -1669,7 +1673,7 @@ serve		v.
 		servitude	n.	奴役（比slavery好一点？）
 	servile		a.	卑躬屈膝的，过度谦卑的
 
-sound		a.	完好无损的(intact)；合理的，明智的；完全的，彻底的；
+sound		a.	完好无损的(intact)；合理的，明智的；完全的，彻底的；（建筑物）牢固的；健康强壮的；（逻辑上）严谨的；
 	soundly		adv.	完全地(=utterly, completely)；
 	resound		vi.	回响；（善行、美德）广为传颂的，被世人传颂回响的；
 	unsound		a.	（人的活动或判断）不够好的，靠不住的；（建筑）不稳固的；
@@ -2085,7 +2089,6 @@ avert		v.	转移，转开；阻止，防止；Latin:avertere, ab + vertere(to tu
 		aversion	n.	厌恶，反感
 odium		n.	憎恨，厌恶	[FORMAL]
 
-subdue		vt.	压制，控制
 
 ascend		v.	上升；攀登；
 	ascent		n.	上升；攀登；成功，腾达；
@@ -2331,7 +2334,7 @@ scintilla	n.	一点，极少量	(not) a scintilla of
 
 valediction	n.	告别	vale-: to have strength, be well	-diction: to speak, say
 
-clamor		n.
+clamor		n.	=vociferate
 	clamorous	a.	=vociferous
 
 virtuoso	n.	（尤指演奏乐器或表演的）名家，能手	a. 熟练的，精湛的
@@ -2380,3 +2383,34 @@ attain		vt.	实现，获得 =achieve
 
 head over heels (in love)
 	completely in love 坠入爱河
+
+repute
+	reputable
+		disreputable
+
+compassion	n.	同情
+	compassionate	a.	有同情心的
+
+sympathy	n.	同情
+empathy		n.	感同身受	程度上比sympathy和compassion弱，强调感情上的理解或共鸣，但是不一定有随之而来的行为（比如安慰受害者）
+	empathetic	a.
+
+perjure (yourself)	v.	作伪证
+ruffian		n.	流氓，恶棍
+bearing		n.	[FORMAL] 举止，风度
+famine		n.	饥荒
+tangle		v.	使缠结	n. 缠结的一团 A tangle of wires
+apothegm	n.	格言(short, pothy and instructive saying, =aphorism)
+	apothegmatic	adj.	格言般的，短小精悍的
+mortify		vt.	使尴尬
+divide
+	division	n.	分歧；部门，小组；分配；
+	divisive	a.	有争议的
+artless		a.	单纯的，天真幼稚的(ingenuous)
+idiosyncrasy	n.	怪癖，癖好
+appraise	vt.	评定，评估
+	appraisal	n.
+	appraisee	n.	被评估者
+	appraiser	n.
+
+

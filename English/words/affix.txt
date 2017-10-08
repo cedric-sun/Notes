@@ -186,3 +186,13 @@ phil- philo-
 	loving
 		philanthropic
 		philately
+
+-phil -phile
+	lover, someone who enjoys a particular thing or has it as a hobby, or who likes a particular place 喜爱（或爱好）…的人
+		bibliophine	书籍爱好者
+
+bibli- biblio-
+	book, esp. the Bible
+		bibliography	目录学，文献学 -> 参考文献
+		bibliology	1. =bibliography	2. Bibliology 圣经学(the study of the theological doctrine of the Bible)
+		bibliophine	书籍爱好者

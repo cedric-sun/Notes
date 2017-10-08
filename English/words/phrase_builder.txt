@@ -82,8 +82,14 @@ be above/beyond reproach	无可非议，十全十美
 root around (somewhere)		（尤指在其他物品中）翻找，翻寻 She was rooting around in her drawer for a pencil.  她在抽屉中翻找铅笔。
 put/lay your cards on the table		摊牌，（把想法和意图）和盘托出
 think sth out		仔细考虑，全面考虑	The scheme was well thought out.  这个计划是经过仔细考虑的。
-content yourself with sth	使自己满足于，使自己甘心于	I wanted to take two weeks' holiday, but had to content myself with one because the office was so busy.  我本想休两周的假，不过因为公司太忙，休假一周也就算了。
-of one's own volition		because one wants to :voluntarily, willingly	He left the company of his own volition.
+
+content yourself with sth
+	使自己满足于，使自己甘心于
+		I wanted to take two weeks' holiday, but had to content myself with one because the office was so busy.  我本想休两周的假，不过因为公司太忙，休假一周也就算了。
+
+(out) of one's own volition
+	because one wants to :voluntarily, willingly
+		He left the company of his own volition.
 
 play truant (UK) = play hooky (US)	旷课
 
@@ -385,3 +391,15 @@ reconcile oneself to sth
 hold/keep sb/sth at bay
 	to prevent someone or something unpleasant from harming you 阻止，遏制（令人不快的事物）
 		Exercise can help keep fat at bay.  锻炼有助于防止发胖。
+
+relate to sth
+	to understand a situation or someone's feelings because you have experienced a similar situation or similar feelings 理解；认同；与…产生共鸣
+		The culture that he describes is so different from mine that I sometimes find it hard to relate to.  他所描述的那种文化和我所处的文化如此迥异，有时我觉得很难理解。
+
+be on the lookout for sth/sb
+	to search for something or someone 寻找，查找，搜索
+		I'm always on the lookout for interesting new recipes.  我总是热衷于寻找新的有意思的菜谱。
+
+keep a lookout for sth/sb
+	to continue to watch carefully for something or someone, especially in order to avoid danger （尤指为防备危险而）继续密切注意，继续关注
+		Keep a lookout for small objects that a baby might swallow.  注意不要让婴儿吞食小东西。

@@ -46,11 +46,13 @@
 	temporize
 	drag on
 
-不重要的，无价值的，微不足道的
+琐碎的，不重要的，无价值的，微不足道的
 	paltry		a.
 	measly
 	piddling
 	petty
+	trivial
+	extraneous
 
 过剩，过量
 	glut
@@ -122,9 +124,10 @@
 		prudence
 	
 使干枯，使凋谢
-	wizen		v.
+	wizen		vi vt a
 	sere		a.
 	wither		v.
+	wilt
 
 冷漠的，麻木的
 	anesthetic
@@ -195,7 +198,7 @@
 	excoriate	vt.	磨掉皮肤；严厉批评
 	fulminate	v.	大声斥责(痛斥)
 	lambaste	vt.	严厉斥责	=lambast
-	pillory		vt	批评，抨击
+	pillory		vt	批评，抨击	[原]颈手枷，套上枷锁
 	traduce		vt	强烈批评，尤指伤害他人名誉的那种	[FORMAL]
 	rail against/at	v.	谴责
 	blast		vt.	斥责，抨击	[INFORMAL]
@@ -350,6 +353,7 @@
 	lukewarm
 蹒跚而行
 	waddle
+	toddle
 	teeter
 	wag
 	lurch
@@ -710,6 +714,8 @@ moderate	vt.	使缓和
 appease		v.	[贬]绥靖，为了息事宁人而妥协
 palliate	vt.	缓和，减轻
 placate
+propitiate
+pacify
 
 =================================================
 clot		v.	凝固

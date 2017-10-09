@@ -6,3 +6,5 @@ per capita	/			of/for each person		每人，人均
 etc.		et cetera		and so on			...等等，诸如此类
 R.I.P		requiescat in peace
 e.g.		exempli gratia		for example			比如
+c./ca./circa	/			approximately			大约
+

@@ -80,7 +80,8 @@ disposition	n.	性格；倾向；
 incongruous	adj.	不协调的，不一致的
 hassle		vt.	烦扰；		n. 麻烦
 physiognomy	n.	[FORMAL] 相貌，容貌
-perverse	a.	有悖常理的；任性的
+perverse	a.	有悖常理的
+	pervert		vt.	使变坏	n. （性）变态
 
 voluptuous	a. （女人）性感的	a. 感官上令人愉悦的 [LITERARY]
 	voluptuary	n.	沉溺奢华和感官享受的人(sensualist, sybarite)
@@ -196,11 +197,6 @@ chop		v.	砍
 aroma		n.	（通常指食物、饮料的）香味，香气，芳香
 	aromatic	a.	有香味的
 
-hypocrisy	n.	伪善
-	hypocritical	a.	伪善的
-	hypocrite	n.	伪善者，伪君子
-
-
 flirt		vi.	调情，打情骂俏
 	flirty		a.	轻浮的，轻佻的
 	flirtation	n.	调情，打情骂俏
@@ -261,8 +257,17 @@ sense
 	sentient	a.	有知觉的，有感知力的
 		insentient	a.	无知觉的，无生命的
 		# **dissentient	a. n.	不同意的 expressing `dissent`
-		sentience
-		presentient
+		sentience	n.
+		presentient	a.	有预感的
+			presentiment	n.	预感	=premonition
+				presentimental	a.
+
+premonish	v.	[archaic] 警告
+	premonition	n.	预感	（预先的）警告
+admonish	vt.	建议	责备
+	admonition	n.
+demolish	vt.	破坏
+	demolition	n.
 
 ethnic	a.	种族的；民族特色的；
 	ethnical = ethnic
@@ -568,7 +573,7 @@ recompense	n.	支付，酬谢，报答；补偿
 requite		vt.	回报（报答或报仇）
 	requital	n.
 	unrequited	a.	无回报的；（爱情）单方面的，得不到回报的，单相思的；
-compensatoin	n.	补偿
+compensation	n.	补偿
 
 unearned	a.	不劳而获的
 grain		n.	颗粒
@@ -676,7 +681,7 @@ pure		a.
 
 sinus		n.	鼻窦???wtf
 	sinuous		a.	[literary]弯曲的，蜿蜒的
-	insinuate	vt.	1. to introduce (something, such as an idea) gradually or in a subtle, indirect, or covert way （渗入？） 2. 影射，含沙射影地说(something unpleasant);
+	insinuate	vt.	1. to introduce (something, such as an idea) gradually or in a subtle, indirect, or covert way 潜移默化，渗入 2. 影射，含沙射影地说(something unpleasant);
 		insinuating	a.
 		insinuation	n.
 
@@ -2464,8 +2469,6 @@ steep		a.	陡峭的	过高的 steep demands 过高的要求
 stint		vi.	吝惜，节省
 sequel		n.	结果
 stock		a.	作为常备商品一般的；陈词滥调的；(1. usually kept in stock and thus regularly available for sale.	2. (of a phrase or expression) so regularly used as to be automatic or hackneyed.)
-secular		a.	世俗的，非宗教的(not having any connection with religion)
-sectarian	a.	狭隘的(教派性的，排斥他人信仰的，闹派别的)
 stoke		vt.	增大，促进
 stomach		vt.	容忍
 stonewall	v.	阻碍议事
@@ -2722,4 +2725,64 @@ perk		n.	（因工作而享有的）补贴，津贴，额外好处
 
 petulant	a.	易怒的，耍小孩子脾气的
 pitfall		n.	陷阱
-pivotal
+pivotal		a.	中枢的，关键的
+placid		a.	宁静的，平和的
+plebeian	a.	平民的，下层的，粗俗的
+plush		a.	奢侈的，豪华的	=luxurious
+pointer		n.	提示，建议
+prerogative	n.	特权
+project		vt.	预计，推算
+rampant		a.	（不好的事情）猖獗的，泛滥的
+	rampage		vi. n.	横冲直撞，撒野，暴走
+ravenous	a.	极饥饿的	暴食的	贪婪的
+renege		vi.	违背（诺言、协议、规则）
+residue		n.	残余
+	residual	a.	剩余的，残余的
+restitution	n.	赔偿
+
+resurrect	vt.	复活，复苏
+	resurrection	n.	复活	# Christianity所宣扬的耶稣复活
+insurrect	vt.	叛乱
+	insurrection	n.	叛乱，暴动
+retentive	a.	记忆力强的
+retention	n.	保留，保持	The retention of old technology has slowed the company's growth.  死守着旧技术不放减缓了这家公司的发展。
+reverberate	vi.	（声音）回响，回荡	[figurative]（影响）回荡于（产生广泛影响）reverberate around/across sth)
+rigmarole	n.	（毫无意义的）冗长的废话
+ruthless	a.	无情的，残忍的
+scrimp		vi.	节俭	# See: skimp
+sectarian	a.	狭隘的(教派性的，排斥他人信仰的，闹派别的)
+	sectarianism	n.	宗派主义（顽固，不接受他人看法）
+skittish	a.	易受惊的	善变的
+splutter	vi.	（因惊讶、愤怒等）语无伦次地说
+squeamish	a.	感到恶心的，神经脆弱的
+staunch		a.	忠实的，坚定的
+stereotype	n.	（错误的）模式化观念，成见
+succumb		vi.	屈服
+surmount	vt.	战胜（困难）
+surrogate	a.	代替的	n. 代替品
+surveillance	n.	（尤指警察或军队的）监视
+tame		a.	被驯化的	vt. 控制
+teem		vi.	注入，使充满	The mall was *teeming* with shoppers.
+	teeming		a.	大量的
+tentative	a.	试验性的，暂时的
+	tentatively	adv.
+thick-skinned	a.	厚脸皮的	冷漠的
+tycoon		n.	（商界或企业界的）巨头，大亨
+umbrage		n.	（因感到被怠慢）生气	Usually: take umbrage
+unanimous	a.	一致同意的
+	unanimity	n.	一致同意
+avail		n	效果	A avail A-self of sth	利用sth
+	unavailing	a.	徒劳的，无结果的
+vouchsafe	vt.	告知，给予	to tell or give something to someone
+wayward		a.	任性的，难管束的
+weather		vt.	平安度过（困境）
+willful		a.	固执的
+willy-nilly	adv.	不由分说地
+wilt		vi.	（植物）枯萎	（人）萎靡
+wily		a.	狡猾的
+wiretap		v. n.	窃听	-pp-: wiretapping
+wistful		a.	伤感留恋的，怀念的
+wrest		vt.	辛苦地获得
+wrongheaded	a.	执迷不悟的
+deliberate	a.	（坏事）故意的；深思熟虑的；	vt. 慎重考虑，仔细讨论
+	deliberation	n.	考虑，讨论（尤指陪审团）

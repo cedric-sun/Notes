@@ -348,19 +348,21 @@
 	sway		v.
 	teeter		vi.
 	wag
-	wobble		vi.	（使）摇晃，（使）摇摆；（观点）摇摆不定；
+	wobble		vi.	（使）摇晃，（使）摇摆；*（观点）摇摆不定*；
 		wobbly		a.
 	rickety		a.	摇摇晃晃的，不结实的
 
-微温的；不热心的，冷淡的；
+微温的；不热心的，*冷淡的*；
 	tepid
 	lukewarm
+
 蹒跚而行
 	waddle
 	toddle
 	teeter
 	wag
 	lurch
+	hobble		vt.	阻碍，限制	# 跛行；捆缚（动物，尤指马等的）两条腿；
 
 易怒的
 	irascible

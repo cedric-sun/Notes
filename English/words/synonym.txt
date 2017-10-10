@@ -1,3 +1,15 @@
+磨刀，磨炼，提升
+	whet
+	hone
+狂喜
+	ecstasy
+	euphoria
+	bliss
+	exult
+	elatedness
+	elation
+	rapture
+
 吝啬
 	parsimony	n.
 		parsimonious	a.
@@ -55,6 +67,7 @@
 	trivial
 	extraneous
 	subliminal
+	trifling
 
 过剩，过量
 	glut
@@ -196,7 +209,7 @@
 	pan		vt.	严厉批评	The critics panned the movie version of the novel.  评论家们严厉批评了根据这部小说改编的电影。
 	belabor		vt.	（当众）严厉批评
 	berate		vt.	严厉指责
-	castigate	vt.	强烈（公开）指责
+castigate	vt.	强烈（公开）指责
 	censure		v.	公开表示反对，谴责
 	deplore		vt.	谴责，悲叹，对...深表遗憾	[FORMAL]
 	denounce	v.	公开指责；检举，告发；
@@ -228,6 +241,7 @@
 	reprobate	vt.	谴责		n. 堕落者	a. 堕落的
 	bash		vt.	猛打；抨击；
 	lash		vt.	鞭打；抨击，谴责；
+	assail		vt.	攻击，袭击；抨击；困扰，使苦恼；	[FORMAL]
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污
@@ -298,6 +312,7 @@
 
 贪婪
 	avarice		n.
+		avaricious	a.
 	voracity	n.
 		voracious	a.
 			voraciously	adv.
@@ -376,6 +391,7 @@
 	cantankerous
 	ticklish
 	petulant	a.	易怒的，耍小孩子脾气的
+	fractious
 
 	
 宣告无罪
@@ -580,6 +596,7 @@
 	deracinate
 	eradicate
 	exterminate
+	extirpate	to remove or destroy something completely
 
 温和的
 	moderate(品行)
@@ -689,7 +706,7 @@ sacrilege	n.
 
 =================================================
 bumptious	a.	专横傲慢的
-cavalier	a.	傲慢的			n.有骑士精神的人
+cavalier	a.	傲慢的			n. (1640年代英国的）骑士党成员；有骑士精神的人；
 imperious	a.
 pompous
 overbearing

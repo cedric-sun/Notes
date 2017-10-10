@@ -261,6 +261,8 @@ sense
 			presentiment	n.	预感	=premonition
 				presentimental	a.
 
+prescient	a.	预知的；有先见之明的；
+	prescience	n.	xxx-science
 premonish	v.	[archaic] 警告
 	premonition	n.	预感	（预先的）警告
 admonish	vt.	建议	责备
@@ -799,7 +801,7 @@ abusive		a.	辱骂的		an abusive letter/phone call 辱骂信／电话 He was ap
 
 withhold	vt.	拒绝给予
 rail		vi.	抱怨，谴责(usually rail at/against)
-	raillery	n.	（善意的）戏谑，玩笑，揶揄
+	raillery	n.	（善意的）戏谑，玩笑，揶揄	=persiflage
 
 lu-, lumin- = light(Latin)
 	luster		n.	光泽，光辉 = UK. lustre
@@ -1086,9 +1088,6 @@ sporadic		a.	偶尔的；零星的；（强调不稳定，无规律） = occasio
 affix			vt.	附上，粘上	She affixed a stamp to the envelope.
 她把一张邮票贴在信封上。	n. [linguistics]词缀 a group of letters added to the beginning or end of a word to make a new word
 
-austere		a.	艰苦的；朴素的；
-	austerity	n.	艰苦；朴素；
-
 propel		vt.	推动(尤指物理上的)
 	propulsion	n.
 impel		vt.	驱使(im强调内在的动力)
@@ -1350,6 +1349,8 @@ spurn		v.	（重）践踏(=trample)；轻蔑地拒绝；
 
 confess		v.	坦白，招认（错误或罪行）；（基督教中向上帝或神父）忏悔；
 	confession	n.	坦白；忏悔；
+profess		vt.	声称
+purport		v.	声称		n. 主旨，大意
 
 altar		n.	圣坛，祭坛
 
@@ -1386,6 +1387,7 @@ corona		n.	日冕，光晕	plural: coronae
 	coronal		a.	头冠的，冠状的
 	coronary	a.	冠状的
 	coronation	n.	加冕礼
+		accession	n.	登基，就职
 	coronet		n.	小王冠，a small crown
 	coronagraph	n.	日冕观测仪
 	coronograph = coronagraph
@@ -1501,6 +1503,7 @@ mystery
 	mystify		vt.	使迷惑
 		demystify	vt.	解惑，使清晰易懂
 		mystification	n.
+numinous	a.	神秘的，超自然的
 
 communion	n.	（思想感情的）交流，沟通	[FORMAL]
 antecede	vt.	在...之前(=precede)	Latin: antecedere
@@ -1800,7 +1803,7 @@ ostracize
 oscillate = vacillate
 
 opprobrium	n.	谴责，抨击
-	opprobrious	a.
+	opprobrious	a.	鄙视的(=expressing scorn, disgrace, or contempt)	a. 可鄙的，可耻的(=shameful or infamous)
 
 sepulchre	n.	石墓	a stone structure where someone is buried	[US also `sepulcher`]
 	sepulchral	adj.	阴沉的，阴森森的
@@ -2031,8 +2034,8 @@ juxtapose	v.	把（不同的事物）并置，把…并列
 concede		v.	让步，不情愿地承认
 	concession	n.	让步；认输（承认失败）；
 
-exult		vi.	欢欣鼓舞，狂喜
-	exultant	a.	极高兴的，狂喜的
+exult		vi.	狂喜
+	exultant	a.	狂喜的，极高兴的
 
 ambulate	vi.	走动(=walk)
 	ambulant	a.
@@ -2155,6 +2158,9 @@ procreate	vi.	生育
 vernal		a.	春天的	[FUCKING LITERARY]
 	vernal equinox	n.	春分
 longevity	n.	长寿
+senescent	a.	衰老的
+	senescence	n.	衰老
+
 lugubrious	a.	忧伤的，悲伤的
 flagrant	a.	骇人听闻的，公然的 shocking because of being so OBVIOUS
 indolent	a.
@@ -2164,6 +2170,7 @@ redolent	a.	散发出…强烈气味的；（尤指气味）使人联想起…�
 fragrance	n.	芳香；香水；
 
 conflate	vt.	合并，结合，混合
+deflate		v.	给...放气，使变瘪；使受挫，使灰心；
 all-round	a.	多才多艺的
 
 # 虽然没有ept这个词，但是ept似乎是apt的各种derivation的等价物
@@ -2391,7 +2398,7 @@ scalp		vt.	买黄牛票	UK tout
 
 hostage		n.	人质
 deed		n.	（尤指很坏或很好的）事情，行为
-redeem		vt.	弥补，补救；赎回；[Christianity]救赎；
+redeem		vt.	挽回，弥补；赎回；[Christianity]救赎；
 calamity	n.	灾难，灾祸
 jerk		vt. n.	猛拉，猛推，突然改变
 
@@ -2403,6 +2410,7 @@ risqué		a.	[French]（笑话或故事）粗俗的；（尤指）有伤风化的
 
 benefit		v.
 	beneficial	a.	有益的
+		beneficiary	n.	受益人
 	beneficent	a.	慈善的，行善的；有益的(=beneficial)
 		beneficence	n.
 
@@ -2424,8 +2432,8 @@ repute
 	reputable	
 		disreputable
 
-compass
-	encompass	vt.	围绕（包围，拥有，完成）；包含，包括
+passion		n.
+	passionate	a.
 	compassion	n.	同情
 		compassionate	a.	有同情心的
 
@@ -2446,8 +2454,9 @@ divide
 	division	n.	分歧；部门，小组；分配；
 	divisive	a.	有争议的
 
-artful		a.	精明的，巧妙的	clever and skillful
-artless		a.	单纯的，天真幼稚的(ingenuous)	[可褒义可贬义]
+art		n.	技巧	a skill or special ability
+	artful		a.	精明的，巧妙的	clever and skillful
+	artless		a.	单纯的，天真幼稚的(ingenuous)	[可褒义可贬义]
 
 idiosyncrasy	n.	怪癖，癖好
 appraise	vt.	评定，评估
@@ -2463,6 +2472,7 @@ voluble		a.	话多的
 self-defeating	a.	适得其反的，自我拆台的
 shifty		a.	狡诈的，欺诈的
 shadow		vt.	尾随（影子 -> 如影随形）	v. 遮蔽，使变暗
+	overshadow	vt.	遮蔽；使黯然失色；
 shiftless	a.	没志气的，得过且过的
 shred		n.	一点，少量	v. 撕成碎片
 shroud		vt.	遮蔽
@@ -2566,13 +2576,13 @@ rigmarole	n.	（毫无意义的）冗长的废话
 
 windfall	n.	好运，被风吹落的水果，意外之财
 wry		a.	执迷不悟的
-wobble		v.	摇晃	*犹豫不决*
+wobble		v.	摇晃	*犹豫不决*	=falter
 abreast		a.	并肩地，并排地
 	keep abreast of sth
 # 		to make sure you know all the most recent facts about a subject or situation 了解…的最新情况；跟上…的最新进展
 # 			I try to keep abreast of any developments.  我努力去了解新的进展情况。
 
-appurtenance	n.	附属物
+appurtenance	n.	附属物，标志性物品
 acquire
 	acquisition	n.
 	acquisitive	a.	贪婪的
@@ -2598,16 +2608,19 @@ attune		v.	使协调，使和谐
 backfire	v.	适得其反(~ on)		引擎回火
 arid		a.	干燥的		失败的，无结果的	枯燥的，无新意的(not interesting and showing no imagination)
 august		a.	威严的
-austeer		a.	朴素的
-avow		vt.	承认，宣布
-	avowal		n.
-	disavow		vt.	否认
-		disavowal	n.
+austere		a.	艰苦的；朴素的；
+	austerity	n.	艰苦；朴素；
+
+vow	n.	誓言	v. 发誓
+	avow		vt.	承认，宣布
+		avowal		n.
+		disavow		vt.	否认
+			disavowal	n.
 backslide	vi.	倒退，退步
 baffle		vt.	使困惑，使迷惑
 	baffling	a.	令人费解的
 
-bohemian	n.	特立独行的人
+bohemian	n.	放荡不羁的文化人	# 波西米亚人	# Bohemia
 bash		vt.	猛打	抨击
 beholden	a.	受惠于人的，欠人情的
 
@@ -2621,6 +2634,7 @@ brandish	vt.	威胁（或兴奋）地挥舞
 brim		n.	（容器的）边沿		v. 倒满，充满	-mm-
 bumble		vi	含糊不清地说
 bustle		n.	忙乱，热闹	vi. 忙碌
+	bustling	a.
 canny		a.	（尤指在生意或财务方面）精明的
 canonize	vt.	使崇高，使神圣
 captious	a.	吹毛求疵的
@@ -2665,7 +2679,7 @@ drab		a.	单调的，乏味的
 humdrum		a.	乏味的，单调的
 eclectic	a.	多元化的	Methods, beliefs, ideas, etc. that are eclectic combine whatever seem the best or most useful things from many different areas or systems, rather than following a single system. [FORMAL]
 efficacious	a.	有效的(=effective)
-elude		vt.	躲闪；使困惑；
+elude		vt.	躲闪，躲避；（想法躲着某人 -> 想不起来）
 	elusive		a.	难懂的，难捉摸的
 ethos		n.	=ethics 道德规范
 exorcise	vt.	消除，除去，忘掉（可怕或烦恼的事情产生的后果）		# （通过祈祷或魔法）驱除（邪魔），给…驱除邪魔
@@ -2682,11 +2696,13 @@ figment		n.
 fitful		a.	断断续续的，间歇的(sporadic, occasional)
 foreground	vt.	突出，强调		# n. （图片或照片的）前景 -> 拿到前景上来 -> 突出，强调
 
-forfeit		n.	罚金	vt. （因违规而）丧失，被没收 	If you cancel now, you forfeit your deposit.  如果您现在取消的话，恐怕您不能拿回订金。
+forfeit		n.	罚金	vt. （因违规而）丧失，被没收(confiscate) 	If you cancel now, you forfeit your deposit.  如果您现在取消的话，恐怕您不能拿回订金。
 	forfeiture	n.	（尤指因违反法律协议造成的）丧失，没收
 		He was deep in debt and facing forfeiture of his property.  他负债累累，面临财产被没收的窘境。
 
 forsake		vt.	抛弃，放弃	forsook forsaken
+forgo		vt.	放弃（令人愉悦之物）
+
 frost		n.	霜
 	frosty		a.	寒冷的	冷淡的
 gawky		a.	高而笨拙的(gangly)
@@ -2711,7 +2727,7 @@ incumbent	a.	现任的，在职的
 homicide	n.	谋杀	[US FORMAL]
 lag		n.	掉队	（两件事之间的）间隔，延迟(jet-lag)
 lance		vt.	刺穿，刺破（感染处放脓）
-marginal	a.	少量的；边缘的（问题）（不重要的）； 
+marginal	a.	少量的		边缘的（问题）（不重要的）
 milieu		n.	社会背景，周围环境	[FORMAL] pl. milieux / milieus
 misapprehension	n.	误解
 monopoly	n.	垄断	垄断企业
@@ -2730,14 +2746,13 @@ ostentation	n.	炫耀，卖弄
 outgrow		vt.
 	outgrowth	n.	结果，产物
 outmoded	a.	过时的，废弃的
-overshadow	vt.	遮蔽；使黯然失色；
 palaver		n.	谈话	v. 闲聊		n. 麻烦
 peculiarity	n.	古怪，怪癖	特点，特征
 pedagogy	n.
 	pedagogue	n.
 	pedagogical	a.	教学的
 peel		vt.	剥皮	揭	脱去（衣服）
-perceptive	a.	敏锐的
+perceptive	a.	敏锐的，有洞察力的
 peril		n.	危险
 	perilous	a.	危险的
 perk		n.	（因工作而享有的）补贴，津贴，额外好处
@@ -2751,10 +2766,11 @@ plebeian	a.	平民的，下层的，粗俗的
 pointer		n.	提示，建议
 prerogative	n.	特权
 project		vt.	预计，推算
-rampant		a.	（不好的事情）猖獗的，泛滥的
+rampant		a.	（不好的事情）猖獗的，泛滥的(rife)
 	rampage		vi. n.	横冲直撞，撒野，暴走
 ravenous	a.	极饥饿的	暴食的	贪婪的
-renege		vi.	违背（诺言、协议、规则）
+renege		vi.	违背（诺言、协议、规则）(transgress)
+	renegade	n.	叛徒，叛教者
 residue		n.	残余
 	residual	a.	剩余的，残余的
 restitution	n.	赔偿
@@ -2769,7 +2785,11 @@ retention	n.	保留，保持	The retention of old technology has slowed the comp
 ruthless	a.	无情的，残忍的
 sectarian	a.	狭隘的(教派性的，排斥他人信仰的，闹派别的)
 	sectarianism	n.	宗派主义（顽固，不接受他人看法）
-skittish	a.	易受惊的	善变的
+parish		n.	教区(an area that has its own church or priest)
+	parochial	a.	教区的	狭隘的
+		parochial school	教会学校
+		parochialism	n.	狭隘
+skittish	a.	易受惊的，（性情）无常善变的
 splutter	vi.	（因惊讶、愤怒等）语无伦次地说
 squeamish	a.	感到恶心的，神经脆弱的
 staunch		a.	忠实的，坚定的
@@ -2784,7 +2804,7 @@ teem		vi.	注入，使充满	The mall was *teeming* with shoppers.
 tentative	a.	试验性的，暂时的
 	tentatively	adv.
 thick-skinned	a.	厚脸皮的	冷漠的
-tycoon		n.	（商界或企业界的）巨头，大亨
+tycoon		n.	（商界或企业界的）巨头，大亨	太君
 umbrage		n.	（因感到被怠慢）生气	Usually: take umbrage
 unanimous	a.	一致同意的
 	unanimity	n.	一致同意
@@ -2799,7 +2819,7 @@ wilt		vi.	（植物）枯萎	（人）萎靡
 wily		a.	狡猾的
 wiretap		v. n.	窃听	-pp-: wiretapping	(eavesdrop)
 wistful		a.	伤感留恋的，怀念的
-wrest		vt.	辛苦地获得
+wrest		vt.	辛苦地获得	夺取，抢走
 wrongheaded	a.	执迷不悟的
 deliberate	a.	（坏事）故意的；深思熟虑的；	vt. 慎重考虑，仔细讨论
 	deliberation	n.	考虑，讨论（尤指陪审团）
@@ -2812,3 +2832,26 @@ animism		n.	泛灵论
 surmise		vt. n.	推测	[FORMAL] I want knowledge, not belief, not surmise... - Ingmar Bergman
 factitious	a.	虚假的，人为的	[FORMAL]
 splinter	vi.	破碎
+rouse		vt.	宾语是人:rouse someone with some feeling
+	arouse		vt.	宾语是feeling: His words aroused a lot of interest.
+
+palpitation	n.	心脏悸动，心动过速	the feeling that your heart is beating too quickly or not regularly
+ween		v.	想，认为
+	overweening	a.	傲慢的
+outrageous	a.	shocking and morally unacceptable	惊人的，离谱的
+provenance	n.	起源，出处	[FORMAL]
+malady		n.	病，疾病；弊病，问题；
+purview		n.	（责任、权益或活动的）范围，权限
+
+salient		a.	重要的	(salient facts/qualities)
+	salience	n.	重要性
+inborn		a.	天生的，与生俱来的	先天的
+outstrip	vt.	（在数量、程度或成就上）超过，胜过
+manacle		n.	手铐		vt. 阻止，限制
+sedition	n.	煽动，煽动性的言论或行为
+	seditious	a.	煽动性的
+platitude	n.	陈词滥调
+	platitudinous	a.	陈腐的，陈词滥调的
+
+compartment	n.	（火车的）隔间
+	compartmentalize	vt.	划分，分隔

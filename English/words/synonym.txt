@@ -54,6 +54,7 @@
 	petty
 	trivial
 	extraneous
+	subliminal
 
 过剩，过量
 	glut
@@ -81,6 +82,7 @@
 	rile
 	roil
 	rankle
+	vex
 
 
 赞美，赞颂，歌颂，颂词，颂文，赞美诗，etc.
@@ -225,6 +227,7 @@
 	impugn		vt.	抨击，质疑	[FORMAL]
 	reprobate	vt.	谴责		n. 堕落者	a. 堕落的
 	bash		vt.	猛打；抨击；
+	lash		vt.	鞭打；抨击，谴责；
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污
@@ -704,6 +707,7 @@ finicky		a.	过分讲究的，挑剔的
 fussy		a.	挑剔的/谨慎的
 nitpick		v.	吹毛求疵
 censorious	a.	挑剔的
+captious	a.	吹毛求疵的
 
 =================================================
 bromide		n.	陈词滥调

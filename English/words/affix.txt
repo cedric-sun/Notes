@@ -117,6 +117,9 @@ meta-
 ante-
 	在...之前	from latin "antecedere"		refer to "antecede"
 		antediluvian
+		antecede
+		antedate
+		antechamber	n.	前厅
 
 xen- xeno-	Etymology:	Greek, "xenos": strange
 	外来的，外国人

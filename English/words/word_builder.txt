@@ -211,6 +211,7 @@ nettle		vt.
 vituperate	v.	辱骂	~= berate	[FORMAL] 带脏字，比inveigh严重
 	vituperation	n.	辱骂
 	vituperative	a.	辱骂的
+invective	n.	辱骂，痛骂；抨击；
 
 indurate	vt.	使...变硬	adj. 铁石心肠的
 obdurate	a.	顽固的，倔强的
@@ -533,7 +534,7 @@ inspect		vt.	检查，视察
 	inspection	n.
 
 inquire		v.	问，询问	(UK. sometime enquire)
-	inquiry		n.
+	inquiry		n.	询问；**调查**；
 	inquiring	a.	刨根问底的
 	inquirer	n.	询问者
 	inquisitor	n.	[贬]讯问者，问题过多的询问者
@@ -551,7 +552,7 @@ gratify		v.	使高兴，使满意
 	gratitude	n.	感激的心情
 		in-		n.	不感激->忘恩负义
 	gratuity	n.	小费，赏钱
-		gratuitous	a.	（工作）无报酬的；（人）不求报酬的；（商品）免费的；bad and unnecessary
+		gratuitous	a.	（工作）无报酬的；（人）不求报酬的；（商品）免费的；无理由的，无根据的；（不良行为）不必要的，无谓的；
 	ingratiate	v.	为...赢得好感(usual: A ingratiate A-self with B = A讨好B)
 		ingratiating	a.	[贬]迎合的，奉承的
 		ingratiation	n.
@@ -729,6 +730,7 @@ delinquent	a.	拖欠的[FORMAL]；（青少年）不良的，违法的	n. 不良
 due		a.	预计的(What time is the next bus due?)；欠的，应给的(=owed)(£50 is due to me (us due me) from my boss last month. 上个月老板欠我50欧)；
 	overdue		a.	过期的，延误的
 	undue		a.	过多的
+		unduly		adv.
 	subdue		vt.	压制，控制
 
 imminent	a.	临近的，即将发生的，迫在眉睫的
@@ -1509,6 +1511,8 @@ communion	n.	（思想感情的）交流，沟通	[FORMAL]
 antecede	vt.	在...之前(=precede)	Latin: antecedere
 	antecedent	n.	（尤指作为后来存在或发生之事的起因或起源的）前事，前情，先例，前身		祖先
 antedate	vt.	早于	(formal word for `predate`)
+precede		vt.	（时间、空间上）先于，在...之前
+	precedence	n.	（时间、顺序、重要性）领先，优先，居前
 
 nimble		a.	（行动）灵活的	（头脑）敏锐的	(dexterous)
 	nimbleness	n.
@@ -2157,6 +2161,17 @@ procreate	vi.	生育
 
 vernal		a.	春天的	[FUCKING LITERARY]
 	vernal equinox	n.	春分
+summer		n.
+	summery		a.
+	aestival / estival
+
+autumn/fall
+	autumnal
+winter
+	wintry
+	hibernal
+	brumal
+
 longevity	n.	长寿
 senescent	a.	衰老的
 	senescence	n.	衰老
@@ -2287,8 +2302,6 @@ discreet	a.	谨慎的
 	discretion	n.
 		discretionary	a.
 
-assail		vt.	攻击，袭击；抨击；困扰，使苦恼；	[FORMAL]
-
 tense		a.	（人）紧张的；（局势）令人紧张的；（肌肉）绷紧的； v. （使）（肌肉）绷紧	(taut)
 	tension		n.	（精神上的）紧张；紧张关系，紧张局势；拉力，张力；
 	intense		a.	强烈的，极度的；认真的，热切的；
@@ -2339,8 +2352,9 @@ remonstrate	vi.	抗议；反对；抱怨
 nuisance	n.	恼人的事物（或人）；麻烦的事物（或人）
 berserk		a.	狂怒的，狂暴的		n. =berserker	ber=bear serk=skirt literally a warrior who wear fur of bear
 	berserker	n.	巴萨卡!!!!
-defiant		a.	（公然）对抗的
-	defiance	n.
+defy		vt.
+	defiant		a.	（公然）对抗的
+		defiance	n.
 
 high-flown	a.	浮夸的，言过其实的，装逼的
 haggle		v.	讨价还价
@@ -2589,6 +2603,8 @@ acquire
 adjudicate	v.	裁决
 adverse		a.	逆的，不利的
 	adversity	n.	逆境
+	adversary	n.
+		adversarial	a.	对抗的，敌对的
 agape		a.	（尤指表示惊奇或震惊而）大张着嘴的
 ambivalent	a.	（心情）矛盾的
 	ambivalence	n.	矛盾心理
@@ -2603,6 +2619,7 @@ applicable	a.	适用的；相关的；
 apprehensive	a.	（对将要做的事情）担忧的，担心的
 assail		vt.	攻击，袭击	抨击	困扰，使苦恼	[FORMAL]
 	assailant	n.	攻击者，袭击者
+	assault		n.	assault	cuirass
 arcane		a.	深奥的，难懂的
 attune		v.	使协调，使和谐
 backfire	v.	适得其反(~ on)		引擎回火
@@ -2748,6 +2765,7 @@ outgrow		vt.
 outmoded	a.	过时的，废弃的
 palaver		n.	谈话	v. 闲聊		n. 麻烦
 peculiarity	n.	古怪，怪癖	特点，特征
+pecuniary	a.	金钱上的(monetary)
 pedagogy	n.
 	pedagogue	n.
 	pedagogical	a.	教学的
@@ -2855,3 +2873,24 @@ platitude	n.	陈词滥调
 
 compartment	n.	（火车的）隔间
 	compartmentalize	vt.	划分，分隔
+fetish		n.	狂热（esp. 病态）的迷恋；（从某物或某部位获得性快感）恋物(foot fetish = podophilia)(Refer to: partialism)
+stagy		a.	做作的，做戏似的，不自然的	(from: stage)
+
+emerge		v.
+	emergent	a.	新兴的，新生的，刚出现的
+		emergence	n.	浮现，出现；兴起，崭露头角；
+	emergency	n.	紧急情况
+hinder		vt.	阻碍，妨碍
+adjure		vt.	命令，要求(solemnly, often under oath or penalty)；恳求(entreat solemnly)；
+	adjuration	n.
+
+barring		prep.	除...以外
+prognosis	n.	预测，展望
+hedge		vt.	限制		vi. 支吾其词，回避
+venue		n.	地点，场所
+locus		n.	地点，场所
+# gospel		n.	福音（指耶稣的教诲）；绝对真实的事；（美国黑人的）福音音乐；
+unfounded	a.	（断言或消息）捕风捉影的，无根据的
+opulent		a.	奢侈的，豪华的
+	opulence	n.
+uncalled-for	a.	（批评、侮辱、言论或行动）不恰当的，不必要的

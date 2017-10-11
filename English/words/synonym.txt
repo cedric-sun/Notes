@@ -1,3 +1,7 @@
+解剖，剖析
+	dissect
+	antomize
+
 磨刀，磨炼，提升
 	whet
 	hone
@@ -242,6 +246,7 @@ castigate	vt.	强烈（公开）指责
 	bash		vt.	猛打；抨击；
 	lash		vt.	鞭打；抨击，谴责；
 	assail		vt.	攻击，袭击；抨击；困扰，使苦恼；	[FORMAL]
+	invective	n.	辱骂，痛骂；抨击；
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污
@@ -391,7 +396,7 @@ castigate	vt.	强烈（公开）指责
 	cantankerous
 	ticklish
 	petulant	a.	易怒的，耍小孩子脾气的
-	fractious
+	fractious	a.	易怒的
 
 	
 宣告无罪
@@ -495,7 +500,7 @@ castigate	vt.	强烈（公开）指责
 
 有害的	adj.
 	pernicious	a.	(极其)有害的
-	detrimental 	a.	有害的
+	etrimental 	a.	有害的
 	nocuous		a.	[rare]
 		innocuous	a.	无害的
 	poisonous	a.
@@ -627,6 +632,7 @@ intrinsic
 	jeer	v./n.
 	sneer	v./n.
 	deride	v.only		[FORMAL]
+		derision	n.
 	mock	v.			(a.	虚假的，假装的)
 	ridicule	v./n.
 	gibe

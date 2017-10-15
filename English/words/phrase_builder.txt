@@ -124,18 +124,6 @@ ahead of the curve
 put somebody up (for the night)
 	为某人提供住宿
 
-trespass on/upon sth
-	to take unfair advantage of a good quality in someone's character 不公正地利用（他人性格中的优点）trespass on (=impose on) his hospitality/generosity
-		They said we should stay another night, but I didn't want to trespass on their hospitality.  他们说我们该再呆一晚上，可是我不想给他们多添麻烦。
-
-(raise) the specter(spectre) of sth
-	（引起了）对于…的恐惧（...的鬼魂）
-		The awful spectre of civil war looms over the country.  内战的阴云笼罩着全国。
-		Drought and war have raised the spectre of food shortages for up to 24 million African people.  干旱和战争引起了2400万非洲人民对于食品短缺的恐惧。
-
-the jewel in the crown
-	the best or most valuable part of something 王冠上的宝石，最珍贵的部分
-
 cast/shed/throw light on sth
 	使更易理解；有助于说明
 		The discovery of the dinosaur skeleton has cast light on why they became extinct.  恐龙骨架的发现使人们对于恐龙灭绝的原因有了一些认识。 
@@ -162,9 +150,6 @@ not scruple to do sth
 run for office
 	竞选公职
 
-be shrouded in secrecy/mystery
-	成了一个谜，笼罩在谜团中
-
 on the margins of sth
 	（某人）处于…的边缘，对…稍有涉足
 		He spent the 1980s on the margins of British politics.  20世纪80年代他曾稍稍涉足英国政治。
@@ -177,10 +162,6 @@ ruffle sb's feathers
 		She knows how to ruffle his feathers.  她知道怎样去惹他发火。
 
 as opposed to		与...相对
-
-insinuate oneself into sth(another's life, another's favor)
-	to use clever, secret, and often unpleasant methods to gradually become part of something 渗入某人的生活，巧妙地巴结上某人
-		Over the years she insinuated herself into the great man's life.  这些年间她费尽心机一步步地走进了这位伟人的生活。
 
 at the end of your tether (mainly uk) = (US) ~ your rope
 	having no strength or patience left 筋疲力尽；一筹莫展
@@ -241,25 +222,6 @@ at length
 
 be out of humor
 	心情不好，闷闷不乐
-
-consign sb/sth to sth
-	使...处于不利境地
-		to be consigned to prison 被投入监狱
-		After the financial disaster, she was consigned to a life of poverty.  金融危机之后，她的生活陷于贫困。
-		A poet consigned to oblivion 被埋没的诗人。
-
-wean sb off/from sth
-	使（某人）逐渐戒掉；使（某人）脱离
-		It's difficult to wean addicts off cocaine once they're hooked.  一旦对可卡因上了瘾，就很难戒掉。
-		The whole scheme is intended to wean people off welfare dependency.  整个计划旨在使人们摆脱对福利的依赖。
-
-wean sb on sth
-	使（某人）从小受…影响
-		This generation has been weaned on computer games.  这一代人从小就受到了电脑游戏的影响。
-
-fawn over/on sb
-	奉承，讨好，恭维某人
-		I hate waiters who fawn over you. 我讨厌奉承人的侍者。
 
 give in
 	勉强同意；投降，屈服；
@@ -340,7 +302,7 @@ blast/blow sb/sth to kingdom come
 	to destroy someone or something completely using a gun or bomb:
 		The bombs are capable of blasting a whole city to kingdom come.
 
-a rash of sth
+a rash of sth		`rash` here: 皮疹[FIGURATIVE]
 	a large number of unpleasant events of the same type （一下子出现的）大量令人不快的事
 		There has been a rash of robberies/accidents/complaints in the last two months.
 		过去两个月中，突然发生很多起抢劫案／一下出了很多起事故／接二连三收到多起投诉。
@@ -356,10 +318,6 @@ draw sth off
 not mince (your) words
 	to say what you mean clearly and directly, even if you upset people by doing this 直截了当地说，直言不讳
 		The report does not mince words, describing the situation as "ludicrous".  这篇报道没有婉转措辞，而是直接把事态描述为“荒唐”。
-
-in the spotlight
-	(of a person) receiving a lot of public attention [FIGURATIVE]备受关注的，为公众瞩目的
-		The senator has been in the spotlight recently since the revelation of his tax frauds.  自从参议员的纳税欺诈行为曝光后，他就成了公众关注的焦点。
 
 make conversation
 	to say things to someone who you do not know well, in order to be polite 没话找话，说应酬话
@@ -379,10 +337,6 @@ make a point of doing sth
 
 burn the midnight oil
 	to work late into the night 工作到深夜，熬夜工作
-
-something fierce
-	very much 很，非常 [US INFORMAL]
-		I need a cold drink something fierce.  我真想来杯冷饮。
 
 (be) dead to the world
 	to be sleeping 睡觉
@@ -459,17 +413,13 @@ at once
 	2. at the same time 同时
 		They all started talking at once.  他们同时开始讲起话来。
 
-infringe on/upon sth	[FORMAL]
-	If something infringes on/upon someone's rights or freedom, it takes away some of their rights or limits their freedom.  侵犯（权利或自由）
-		These restrictions infringe upon basic human rights.  这些限制侵犯了基本人权。
-
 take the edge off sth
 	to make something unpleasant have less of an effect on someone 减弱，削弱（不良事物的影响）
 		Have an apple - it'll take the edge off your hunger.  吃个苹果吧——可以充充饥。
 		His apology took the edge off her anger.  他道了歉，她的火气就消了些。
 		Apple and computer, those two words ain't go together, but it made you feel with friendly, it took the edge off the word "computer".
 
-make beisance
+make obeisance
 	鞠躬
 	One by one the noblemen made their obeisances (= bent at the waist) to the queen.  贵族们一一向女王鞠躬行礼。
 
@@ -480,12 +430,6 @@ bristle with something
 		The movie bristles with excitement. 这部电影很刺激。
 		He bristles with energy. 他充满能量。
 		The helicopter hovered above them bristling with machine guns.  直升机在他们头顶上盘旋，上面架着许多机关枪。
-
-
-a treasure trove of sth
-	a place that is full of something good 丰富的…，…的宝库
-		a treasure trove of information 丰富的信息
-		Though small, this museum is a veritable treasure trove of history.  尽管这个博物馆很小，却也是大量史实资料的宝库。
 
 jot sth down	-tt-
 	to write something quickly on a piece of paper so that you remember it 匆匆记下，草草记下
@@ -525,9 +469,6 @@ lull sb into sth
 		Most exercise classes start gently, lulling you into thinking that you're in good shape.  健身课程一开始大多都很容易，让人误以为自己很健康。
 		Their promises lulled us into a false sense of security (= made us feel safe, when in fact we were not).  他们的承诺让我们误以为很安全。
 
-ascend the throne
-	to become queen or king 登上王位，登基
-
 in accordance with a rule, law, wish, etc.
 	C1 following or obeying a rule, law, wish, etc.  依照规则／法律／意愿等
 		In accordance with her wishes, she was buried in France.  按照她的遗愿，人们将她葬在了法国。
@@ -548,11 +489,6 @@ the bitter fruits of sth
 	the unpleasant result of something 苦果，恶果；不好的结局
 		The unemployed are tasting the bitter fruits of the market economy.  失业人士正承受市场经济的苦果。
 
-revel in sth
-	to get great pleasure from a situation or an activity 陶醉于；沉湎于；纵情于
-		She's revelling in her newly found freedom.  她纵情享受着重新找回的自由生活。
-		He revelled in his role as team manager.  他从担任球队教练这个工作中获得了很大乐趣。
-
 jolt sb into sth
 	to give someone a sudden shock that forces them to act 使（某人）受到震惊（而采取行动）
 		The news about Sam's illness jolted her into action.  萨姆生病的消息使她猛醒，开始采取行动。
@@ -572,16 +508,8 @@ a scintilla of sth
 this vale of tears [LITERARY]		vale: world
 	This vale of tears is the world we live in, seen as sad and difficult.  人生苦海；凡尘
 
-safeguard against sth
-	to do things that you hope will stop something unpleasant from happening 预防，避免
-		A good diet will safeguard against disease.  搭配合理的饮食可以预防疾病。
-
 jerk off
 	(of a man) to masturbate （男人）手淫
-
-(be) reminiscent of sb/sth	[FORMAL]
-	making you remember a particular person, event, or thing 使人想起…的；使人回忆起…的
-		That song is so reminiscent of my adolescence.  那首歌勾起了我对青少年时代的无限回忆。
 
 reconcile oneself to sth
 	to accept a situation or fact although you do not like it 与…达成妥协；使甘心于；使顺从于
@@ -628,11 +556,6 @@ have palpitations	[HUMOROUS]
 	to be very shocked 震动，震惊
 		My mother will have palpitations when she sees my new boyfriend.  我母亲看到我的新男友一定会大吃一惊。
 
-bluff your way into/out of sth
-	If you bluff your way into or out of a situation, you get yourself into or out of it by deceiving people.  蒙混过关
-		How did Mina manage to bluff her way into that job?  米娜究竟是怎样蒙混过关得到那份工作的？
-		He's one of those people who is very good at bluffing their way out of trouble.  他属于那种善于蒙混过关摆脱麻烦的人。
-
 out of kilter
 	in a state of not working well 在不正常的状态下；失常，失调
 		Missing more than one night's sleep can throw your body out of kilter.  超过一个晚上不睡觉会使你的身体失调。
@@ -640,3 +563,11 @@ out of kilter
 have a bearing on sth
 	to have an influence on something or a relationship to something 与…有关系；对…有影响
 		What you decide now could have a considerable bearing on your future.  你现在所作的决定可能会对你的未来产生极大的影响。
+
+a shitload of sth	[OFFENSIVE]
+	a lot of something 很多，一大堆
+		He earns a shitload of money.  他挣的钱很多。
+
+(be) less A than B
+	（更像）是B而不是A
+		But being Hillary Clinton is never a simple matter, and her next few years are less a blank check than an equation with multiple variables. Her status is singular but complicated.

@@ -45,6 +45,7 @@
 	exponent
 	proponent
 	adherent
+	advocate	n.	支持者
 
 苍白的
 	wan
@@ -62,6 +63,8 @@
 	indigent	a.
 	impecunious	a.	贫穷的		[X] pecunious
 	penury		n.	赤贫，极度贫穷
+	destitute	a.	赤贫的，一贫如洗的
+		destitution	n.
 
 拖长，拖延
 	protract
@@ -216,11 +219,11 @@
 	converse with sb
 	engage sb in conversation	[FORMAL]
 
-批评，指责，谴责，抨击		强调因不认同对方的行为或观点而进行的批驳
+# 批评，指责，谴责，抨击		强调因不认同对方的行为或观点而进行的批驳
 	pan		vt.	严厉批评	The critics panned the movie version of the novel.  评论家们严厉批评了根据这部小说改编的电影。
 	belabor		vt.	（当众）严厉批评
 	berate		vt.	严厉指责
-castigate	vt.	强烈（公开）指责
+	castigate	vt.	强烈（公开）指责
 	censure		v.	公开表示反对，谴责
 	deplore		vt.	谴责，悲叹，对...深表遗憾	[FORMAL]
 	denounce	v.	公开指责；检举，告发；
@@ -231,7 +234,7 @@ castigate	vt.	强烈（公开）指责
 	traduce		vt	强烈批评，尤指伤害他人名誉的那种	[FORMAL]
 	rail against/at	v.	谴责
 	blast		vt.	斥责，抨击	[INFORMAL]
-	chastise	vt.	严厉批评
+	chastise	vt.	严厉批评，谴责
 		chastisement	n.
 	inveigh		vi.	(~ against sb/sth)猛烈抨击，痛骂(=rail)
 	stricture	n.	指责；限制；
@@ -351,22 +354,6 @@ castigate	vt.	强烈（公开）指责
 	caricature	vt. n.	尤指漫画
 	spoof		n.	（对文章、音乐、戏剧等）滑稽模仿的作品	v. 捉弄，愚弄
 
-预兆
-	sign		n	(m-w 6c)预兆	v.
-	portend		vt.	[FORMAL]预示
-		portent		n.	预兆
-			portentous	a.
-	presage		vt.	预示		n.	预兆
-	omen		n.	预兆
-	augur		n.=soothsayer(old use)预言者	v.预示[FORMAL]
-		augury		n.	预兆；占卜术；
-	bode		v.	预示[FORMAL]
-	harbinger	n.	前兆，先锋	vt.	预示	[LITERARY]
-	herald		n.	传令官；前兆;	vt.	预示
-	adumbrate	vt.	预示
-		adumbration	n.	预兆
-	foreshadow	vt.	预示
-	prognosis	n.	预兆
 
 推动力
 	propel		v.	推进，推动
@@ -604,12 +591,6 @@ castigate	vt.	强烈（公开）指责
 	lych
 	stiff
 
-根除
-	deracinate
-	eradicate
-	exterminate
-	extirpate	to remove or destroy something completely
-
 温和的
 	moderate(品行)
 	temperate(气候)
@@ -621,6 +602,7 @@ castigate	vt.	强烈（公开）指责
 	debris
 
 天生的
+inborn
 innate
 inherent
 instinctive
@@ -858,4 +840,10 @@ lethargic	a.	没精打采的，行动迟缓的(?)
 	assume
 	suppose
 	hypothesis
+
+# 根除
+deracinate	vt.
+eradicate	vt.
+exterminate	vt.
+extirpate	vt.	to remove or destroy something completely
 

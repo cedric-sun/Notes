@@ -90,7 +90,7 @@
 	We'll meet *Monday*.	//邪教？
 8. 介词宾语
 	He majored in *physics*.
-9. 宾语补足语
+9. 双宾语
 	He gave her a *letter*.
 
 ## 冠词 Article

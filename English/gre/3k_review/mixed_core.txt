@@ -1,0 +1,785 @@
+commiserate	vi.	同情
+sympathy	n.	同情
+empathy		n.	感同身受	程度上比sympathy和compassion弱，强调感情上的理解或共鸣，但是不一定有随之而来的行为（比如安慰受害者）
+	empathetic	a.
+
+perjure (yourself)	v.	作伪证
+ruffian		n.	流氓，恶棍
+bearing		n.	[FORMAL] 举止，风度
+famine		n.	饥荒
+tangle		v.	使缠结	n. 缠结的一团 A tangle of wires
+apothegm	n.	格言(short, pothy and instructive saying, =aphorism)
+	apothegmatic	adj.	格言般的，短小精悍的
+mortify		vt.	使尴尬
+divide
+	division	n.	分歧；部门，小组；分配；
+	divisive	a.	有争议的
+
+art		n.	技巧	a skill or special ability
+	artful		a.	精明的，巧妙的	clever and skillful
+	artless		a.	单纯的，天真幼稚的(ingenuous)	[可褒义可贬义]
+
+idiosyncrasy	n.	怪癖，癖好
+appraise	vt.	评定，评估
+	appraisal	n.
+	appraisee	n.	被评估者
+	appraiser	n.
+apprize		vt.	重视，欣赏
+
+bucolic		a.	田园的，乡村的(rustic, idyllic)
+deluxe		a.	豪华的，高档的
+
+voluble		a.	话多的
+self-defeating	a.	适得其反的，自我拆台的
+shifty		a.	狡诈的，欺诈的
+shadow		vt.	尾随（影子 -> 如影随形）	v. 遮蔽，使变暗
+	overshadow	vt.	遮蔽；使黯然失色；
+shiftless	a.	没志气的，得过且过的
+shred		n.	一点，少量	v. 撕成碎片
+shroud		vt.	遮蔽
+shrug		vt.	轻视，忽略		# 耸肩
+signal		a.	重要的
+self-perpetuating	a.	自续的
+snag		n.	障碍
+sacrosanct	a.	极神圣的，神圣不可侵犯的
+scourge		n.	祸根	vt. 带来麻烦	The country has been scourged by famine in recent years.
+skirt		vt.	绕开
+
+slack		a.	松弛的		vt. 松懈
+lax		a.	松弛的	懈怠的
+
+slant		n.	（看问题的）角度，看法		a. 倾斜的
+slate		vt.	列入名单
+slew		n.	大量		# v. 使突然转向(veer)
+slight		a.	不重要的	vt. 轻视，看不起	vt. 忽略，疏忽
+slippery	a.	滑的；狡猾的，狡诈的；意义不明确的；
+slur		v.	忽略(~ with, =pass over)	诋毁
+skullduggery	n.	欺诈，诡计
+snarl		v.	使缠结to make (thread, hair) knotted or tangle	使复杂	龇牙低吼	恶语相向
+sober		a.	严肃的；节制的；
+solid		a.	有理有据的，合理的
+soliloquy	n.	独白
+somber		a.	严肃的；忧郁的，悲伤的；
+slapdash	a.	马虎的
+sop		vt.	浸透，浸湿	n. 小恩小惠
+spate		n.	洪水；大量，泛滥；	a spate of
+sleek		a.	时髦优美的
+slump		n.v.	暴跌
+spike		n.	尖刺	v. 刺激
+spiny		a.	多刺的；棘手的；
+spoof		v. n.	恶搞，滑稽模仿
+sanity		n.	(sane)（心智、神志）健全，正常
+squall
+soft-pedal	v.	低调处理	# 低音踏板
+squelch		vt.	制止，压制，镇压
+secede		vi.	脱离，退出（组织等）
+steep		a.	陡峭的	过高的 steep demands 过高的要求
+stint		vi.	吝惜，节省
+scrimp		vi.	节俭	# See: skimp
+sequel		n.	结果
+stock		a.	作为常备商品一般的；陈词滥调的；(1. usually kept in stock and thus regularly available for sale.	2. (of a phrase or expression) so regularly used as to be automatic or hackneyed.)
+stoke		vt.	增大，促进
+stomach		vt.	容忍
+stonewall	v.	阻碍议事
+sonorous	a.	声音洪亮的
+strand		v.	使搁浅，使陷入困境
+stratify	vt.	使分层
+soothsayer	n.	预言家
+stunt	v.	阻碍生长
+	stultify	vt.	阻碍发展
+stymie		vt.	阻碍，妨碍
+stringent	a.	严格的
+substantial	a.	大的 大量的 重大的
+superfluous	a.	多余的，过剩的
+supposition	n.	猜想
+svelte		a.	苗条的，体态娇美的
+swerve		vt.	突然转向(veer, slew)
+sterling	a.	优秀的		# 银的，纯银的	英镑，英国货币：区别于pound，好像不能做单位
+tilt		v. n.	倾斜
+tantrum		n.	（孩子一般）发脾气
+taper		v.	逐渐减少
+threadbare	a.	陈腐的
+truism		n.	不言自明的话，陈词滥调(automatic)
+truant		v.	逃学，逃避	n. 逃学者，逃避责任者
+truculent	a.	好斗的，好战的
+traverse	vt.	穿越，穿过
+transgress	vt.	违背，违反（法律或道德准则）
+transitory	a.	短暂的
+trope		n.	比喻	（经常在文学艺术作品中被使用的）套路
+upbeat		a.	愉快的
+usher		vt.	开启（新时代）
+underscore	vt.	强调
+unflagging	a.	不懈的，（努力）不减少的 un-flag-ging
+unsung		a.	未被歌颂的，被埋没的
+untoward	a.	不幸的；难管束的；
+univocal	a.	明确的		uni-vocal
+vaccinate	v.	接种疫苗
+valor		n.	英勇	# 好像没什么联系
+	valiant		a.	英勇的
+	valorize	v.	提升，赞美(WTF???)	# 政府补贴资金以维稳物价
+		valorization	n.
+
+vaunt		vi.	吹嘘
+vex		vt	惹恼
+venial		a.	（罪行）可原谅的
+felon		n.	重罪罪犯
+	felony		n.	重罪
+visionary	a.	不切实际的，空想的；有远见的；	n. 有远见者 Linus Ted
+vitiate		v.	削弱，损害
+waffle		v.	胡扯
+warble		v.	(鸟儿)歌唱	（高音、婉转地)歌唱
+wanting		a.	缺少的，不足的
+winnow		v.	筛选		# 扬，簸（谷物）
+warp		v.	曲解	（使）弯曲
+
+windy		a.	冗长的
+rigmarole	n.	（毫无意义的）冗长的废话
+
+windfall	n.	好运，被风吹落的水果，意外之财
+wry		a.	执迷不悟的
+wobble		v.	摇晃	*犹豫不决*	=falter
+abreast		a.	并肩地，并排地
+	keep abreast of sth
+# 		to make sure you know all the most recent facts about a subject or situation 了解…的最新情况；跟上…的最新进展
+# 			I try to keep abreast of any developments.  我努力去了解新的进展情况。
+
+appurtenance	n.	附属物，标志性物品
+acquire
+	acquisition	n.
+	acquisitive	a.	贪婪的
+adjudicate	v.	裁决
+adverse		a.	逆的，不利的
+	adversity	n.	逆境
+	adversary	n.
+		adversarial	a.	对抗的，敌对的
+agape		a.	（尤指表示惊奇或震惊而）大张着嘴的
+ambivalent	a.	（心情）矛盾的
+	ambivalence	n.	矛盾心理
+analogous	a.	可类比的	# analogy
+anachronism	n.	时代错位
+annex		vt.	吞并，占领（领土）	n. 附加建筑(an extra building added to a larger building)	v. 附加
+annotate	vt.	给...注释
+	annotation	n.	注释	JAVA
+antipathy	n.	厌恶
+	antipathetic	a.
+applicable	a.	适用的；相关的；
+apprehensive	a.	（对将要做的事情）担忧的，担心的
+assail		vt.	攻击，袭击	抨击	困扰，使苦恼	[FORMAL]
+	assailant	n.	攻击者，袭击者
+	assault		n.	assault	cuirass
+arcane		a.	深奥的，难懂的
+attune		v.	使协调，使和谐
+backfire	v.	适得其反(~ on)		引擎回火
+arid		a.	干燥的		失败的，无结果的	枯燥的，无新意的(not interesting and showing no imagination)
+august		a.	威严的
+austere		a.	艰苦的；朴素的；
+	austerity	n.	艰苦；朴素；
+
+vow	n.	誓言	v. 发誓
+	avow		vt.	承认，宣布
+		avowal		n.
+		disavow		vt.	否认
+			disavowal	n.
+backslide	vi.	倒退，退步
+baffle		vt.	使困惑，使迷惑
+	baffling	a.	令人费解的
+
+bohemian	n.	放荡不羁的文化人	# 波西米亚人	# Bohemia
+bash		vt.	猛打	抨击
+beholden	a.	受惠于人的，欠人情的
+
+beige		a.	米色的		平淡无奇的
+belligerent	a.	好斗的，好战的		# 交战国的
+beset		vt.	使烦恼		攻击，袭击
+bewitching	a.	迷人的
+bluff		a	（说话）直率的		vt. 欺骗
+bogus		a.	伪造的，假的(counterfeit, sham, factitious)
+brandish	vt.	威胁（或兴奋）地挥舞
+brim		n.	（容器的）边沿		v. 倒满，充满	-mm-
+bumble		vi	含糊不清地说
+bustle		n.	忙乱，热闹	vi. 忙碌
+	bustling	a.
+canny		a.	（尤指在生意或财务方面）精明的
+canonize	vt.	使崇高，使神圣
+captious	a.	吹毛求疵的
+careen		vi	（尤指危险或失控地）猛冲
+carefree	a.	无忧无虑的
+cascade		n.	小瀑布（分支）；瀑布状物（秀发等)；  v. （如瀑布般）大量倾泻
+cellular	a.	细胞的；细胞、蜂窝状多洞穴结构的；
+ceremonious	a.	庄重的
+formality	n.	礼节；俗套；例行公事	something that has to be done but has no real importance	n. 庄重，正式
+certitude	n.	确信
+chivalrous	a.	骑士风度的，（对女士）彬彬有礼的，体贴的
+	unchivalrous	a.
+chorale		n.	赞美诗
+clan		n.	宗族，氏族	团体，帮派
+	clannish	a.	小团体的，排外的
+comprehend	v.	理解；包含；
+conflagrate	v.	（使）燃烧
+	conflagration	n.	大火灾；冲突，战火；
+omnipresent	a.	无处不在的
+contemplate	v.	沉思(ruminate)
+convene		vt.	召集
+	reconvene	v.
+counterproductive	a.	适得其反的(backfiring)
+coy		a.	（尤指女性）害羞的
+crow		n.	乌鸦	v. 啼叫；自鸣得意，夸口；
+dashing		a.	自信潇洒的
+debonair	a.	（尤指男人）有魅力的
+decadent	n.	堕落者	a. 堕落的	=reprobate
+deflect		v.	（使）转向
+defray		vt.	（公司、组织）支付，承担（费用）
+deign to do	phrase	屈尊去做，放下架子去做
+delineate	vt.	描述，勾勒	[FORMAL]
+demote		vt.	降职		antonym of `promote`
+dependable	a.	可靠的，靠得住的
+dichotomy	n.	对立	a dichotomy between A and B
+dishearten	vt.	使沮丧
+disprove	vt.	证伪
+doctrinaire	a.	教条主义的，死板不变通的
+domineer	vt.	凌驾于（别人），控制（别人）
+	domineering	a.	控制欲强的
+drab		a.	单调的，乏味的
+humdrum		a.	乏味的，单调的
+eclectic	a.	多元化的	Methods, beliefs, ideas, etc. that are eclectic combine whatever seem the best or most useful things from many different areas or systems, rather than following a single system. [FORMAL]
+efficacious	a.	有效的(=effective)
+elude		vt.	躲闪，躲避；（想法躲着某人 -> 想不起来）
+	elusive		a.	难懂的，难捉摸的
+ethos		n.	=ethics 道德规范
+exorcise	vt.	消除，除去，忘掉（可怕或烦恼的事情产生的后果）		# （通过祈祷或魔法）驱除（邪魔），给…驱除邪魔
+explicate	vt.	详细解释，详细分析（作品或思想）
+extrapolate	v.	推断
+fad		n.	一时的风尚，短暂的狂热
+fancy		a.	花哨的
+	fanciful	a.	空想的，不切实际的
+feisty		a.	活跃的，好争论的(aggressive)
+figment		n.
+	a figment of sb's imagination （某人）凭空想象的事物，臆造的东西
+		Was it just a figment of my imagination or did I hear John's voice in the other room?  是我的主观臆想还是我真听到了约翰在另一间房里说话？
+
+fitful		a.	断断续续的，间歇的(sporadic, occasional)
+foreground	vt.	突出，强调		# n. （图片或照片的）前景 -> 拿到前景上来 -> 突出，强调
+
+forfeit		n.	罚金	vt. （因违规而）丧失，被没收(confiscate) 	If you cancel now, you forfeit your deposit.  如果您现在取消的话，恐怕您不能拿回订金。
+	forfeiture	n.	（尤指因违反法律协议造成的）丧失，没收
+		He was deep in debt and facing forfeiture of his property.  他负债累累，面临财产被没收的窘境。
+
+forsake		vt.	抛弃，放弃	forsook forsaken
+forgo		vt.	放弃（令人愉悦之物）
+
+frost		n.	霜
+	frosty		a.	寒冷的	冷淡的
+gawky		a.	高而笨拙的(gangly)
+glacial		a.	冰川的	极冷的	冷漠的，冰川般的
+glide		v.	滑行	轻松通过
+glower		vi.	怒视
+graft		vt.	移植（皮肤骨骼等）；嫁接； graft old traditions onto the new culture
+grit		n.	勇气，毅力		# 沙砾
+groggy		a.	（通常因疲惫或生病而）头脑昏沉的，眩晕无力的，行走不稳的
+half-hearted	a.	不热情的，兴趣不大的
+grumble		vi.	*抱怨*，发牢骚	n. 抱怨，牢骚
+heckle		v.	（对...）起哄，使难堪
+hobble		vt.	阻碍，限制	# 跛行；捆缚（动物，尤指马等的）两条腿；
+humiliate	vt.	羞辱
+	humiliation	n.	耻辱
+idle		a.	闲置的；懒散的；	v. 懒散度日
+incumbent	a.	现任的，在职的
+	be incumbent on/upon sb		[FORMAL]
+	to be necessary for someone （某人）义不容辞；（某人）必须履行
+		She felt it incumbent upon/on her to raise the subject at their meeting.  她感到她有义务在他们的会上提出这个问题。
+
+homicide	n.	谋杀	[US FORMAL]
+lag		n.	掉队	（两件事之间的）间隔，延迟(jet-lag)
+lance		vt.	刺穿，刺破（感染处放脓）
+marginal	a.	少量的		边缘的（问题）（不重要的）
+milieu		n.	社会背景，周围环境	[FORMAL] pl. milieux / milieus
+misapprehension	n.	误解
+monopoly	n.	垄断	垄断企业
+	monopolize	vt.	垄断	霸占
+notoriety	n.	坏名声
+	notorious	a.	臭名昭著的
+novice		n.	新手
+nullify		vt.
+	nullification	n.	废除
+oaf		n.	傻瓜
+observant	a.	警觉的；严格遵守的；
+ordeal		n.	考验，磨难
+ostensible	a.	表面上的（假装的）(nominal)
+ostentation	n.	炫耀，卖弄
+	ostentatious	a.	浮夸的，卖弄的
+outgrow		vt.
+	outgrowth	n.	结果，产物
+outmoded	a.	过时的，废弃的
+palaver		n.	谈话	v. 闲聊		n. 麻烦
+peculiarity	n.	古怪，怪癖	特点，特征
+pecuniary	a.	金钱上的(monetary)
+pedagogy	n.
+	pedagogue	n.
+	pedagogical	a.	教学的
+peel		vt.	剥皮	揭	脱去（衣服）
+perceptive	a.	敏锐的，有洞察力的
+peril		n.	危险
+	perilous	a.	危险的
+perk		n.	（因工作而享有的）补贴，津贴，额外好处
+	perquisite	n.	formal spell of perk
+
+petulant	a.	易怒的，耍小孩子脾气的
+pitfall		n.	陷阱
+pivotal		a.	中枢的，关键的
+placid		a.	宁静的，平和的
+plebeian	a.	平民的，下层的，粗俗的
+pointer		n.	提示，建议
+prerogative	n.	特权
+project		vt.	预计，推算
+rampant		a.	（不好的事情）猖獗的，泛滥的(rife)
+	rampage		vi. n.	横冲直撞，撒野，暴走
+ravenous	a.	极饥饿的	暴食的	贪婪的
+renege		vi.	违背（诺言、协议、规则）(transgress)
+	renegade	n.	叛徒，叛教者
+residue		n.	残余
+	residual	a.	剩余的，残余的
+restitution	n.	赔偿
+
+resurrect	vt.	复活，复苏
+	resurrection	n.	复活	# Christianity所宣扬的耶稣复活
+insurrect	vt.	叛乱
+	insurrection	n.	叛乱，暴动
+retention	n.	保留，保持	The retention of old technology has slowed the company's growth.  死守着旧技术不放减缓了这家公司的发展。
+	retentive	a.	记忆力强的
+
+ruthless	a.	无情的，残忍的
+sectarian	a.	狭隘的(教派性的，排斥他人信仰的，闹派别的)
+	sectarianism	n.	宗派主义（顽固，不接受他人看法）
+parish		n.	教区(an area that has its own church or priest)
+	parochial	a.	教区的	狭隘的
+		parochial school	教会学校
+		parochialism	n.	狭隘
+skittish	a.	易受惊的，（性情）无常善变的
+splutter	vi.	（因惊讶、愤怒等）语无伦次地说
+squeamish	a.	感到恶心的，神经脆弱的
+staunch		a.	忠实的，坚定的
+stereotype	n.	（错误的）模式化观念，成见
+succumb		vi.	屈服
+surmount	vt.	战胜（困难）	sur-mount
+surrogate	a.	代替的	n. 代替品
+surveillance	n.	（尤指警察或军队的）监视
+tame		a.	被驯化的	vt. 控制
+teem		vi.	注入，使充满	The mall was *teeming* with shoppers.
+	teeming		a.	大量的
+tentative	a.	试验性的，暂时的
+	tentatively	adv.
+thick-skinned	a.	厚脸皮的	冷漠的
+tycoon		n.	（商界或企业界的）巨头，大亨	太君
+umbrage		n.	（因感到被怠慢）生气	Usually: take umbrage
+unanimous	a.	一致同意的
+	unanimity	n.	一致同意
+avail		n	效果	vt. 帮助（某人）	A avail A-self of sth	利用sth
+	unavailing	a.	徒劳的，无结果的
+vouchsafe	vt.	告知，给予	to tell or give something to someone
+wayward		a.	任性的，难管束的
+weather		vt.	平安度过（困境）
+willful		a.	固执的
+willy-nilly	adv.	不由分说地
+wilt		vi.	（植物）枯萎	（人）萎靡
+wily		a.	狡猾的
+wiretap		v. n.	窃听	-pp-: wiretapping	(eavesdrop)
+wistful		a.	伤感留恋的，怀念的
+wrest		vt.	辛苦地获得	夺取，抢走
+wrongheaded	a.	执迷不悟的
+deliberate	a.	（坏事）故意的；深思熟虑的；	vt. 慎重考虑，仔细讨论
+	deliberation	n.	考虑，讨论（尤指陪审团）
+result		vi.	发生=happen	Something results. 一些事发生了。
+righteous	a.	正义的，公正的
+	righteousness	n.
+	self-righteous	a.	自诩公正的，自以为是的	[DISAPPROVING]
+		self-righteousness	n.
+animism		n.	泛灵论
+surmise		vt. n.	推测	[FORMAL] I want knowledge, not belief, not surmise... - Ingmar Bergman
+factitious	a.	虚假的，人为的	[FORMAL]
+splinter	vi.	破碎
+rouse		vt.	宾语是人:rouse someone with some feeling
+	arouse		vt.	宾语是feeling: His words aroused a lot of interest.
+
+palpitation	n.	心脏悸动，心动过速	the feeling that your heart is beating too quickly or not regularly
+ween		v.	想，认为
+	overweening	a.	傲慢的
+outrageous	a.	shocking and morally unacceptable	惊人的，离谱的
+provenance	n.	起源，出处	[FORMAL]
+malady		n.	病，疾病；弊病，问题；
+purview		n.	（责任、权益或活动的）范围，权限
+
+salient		a.	重要的	(salient facts/qualities)
+	salience	n.	重要性
+inborn		a.	天生的，与生俱来的	先天的
+outstrip	vt.	（在数量、程度或成就上）超过，胜过
+manacle		n.	手铐		vt. 阻止，限制
+sedition	n.	煽动，煽动性的言论或行为
+	seditious	a.	煽动性的
+platitude	n.	陈词滥调
+	platitudinous	a.	陈腐的，陈词滥调的
+
+compartment	n.	（火车的）隔间
+	compartmentalize	vt.	划分，分隔
+fetish		n.	狂热（esp. 病态）的迷恋；（从某物或某部位获得性快感）恋物(foot fetish = podophilia)(Refer to: partialism)
+stagy		a.	做作的，做戏似的，不自然的	(from: stage)
+
+emerge		v.
+	emergent	a.	新兴的，新生的，刚出现的
+		emergence	n.	浮现，出现；兴起，崭露头角；
+	emergency	n.	紧急情况
+hinder		vt.	阻碍，妨碍
+adjure		vt.	命令，要求(solemnly, often under oath or penalty)；恳求(entreat solemnly)；
+	adjuration	n.
+
+barring		prep.	除...以外
+prognosis	n.	预测，展望
+hedge		vt.	限制		vi. 支吾其词，回避
+venue		n.	地点，场所
+locus		n.	地点，场所
+# gospel		n.	福音（指耶稣的教诲）；绝对真实的事；（美国黑人的）福音音乐；
+unfounded	a.	（断言或消息）捕风捉影的，无根据的
+opulent		a.	奢侈的，豪华的
+	opulence	n.
+uncalled-for	a.	（批评、侮辱、言论或行动）不恰当的，不必要的
+lodge		n.	小屋	vt. 提出（索赔/投诉/抗议等）
+	dislodge	vt.	（尤指在外力作用下）使移位，使免职	[PHYSICAL & FIGURATIVE]
+		# The earthquake dislodged stones from the walls and the roof.  地震震落了墙壁和屋顶上的石头。
+		# The Red Sox need two wins to dislodge the Yankees from first place.  我们得赢两场比赛才能把法国队从第一的位置上挤下去。
+
+ramification	n.	可能的后果(the possible results of an action)	=contingency
+burse		n.	钱包
+	disburse	vt.	拨（款），拿出（一部分资金）
+		# The local authorities annually disburse between £50 million and £100 million on arts projects.  当地政府每年都为艺术项目拨款5000万到1亿英镑。
+	reimburse	vt.	偿还；付还；补偿
+		reimbursement	n.
+opium		n.	鸦片
+
+lateral
+	collateral	n.	担保品，抵押品		a. 附带的，次要的
+fiance		n.	未婚夫
+fiancee		n.	未婚妻
+patron		n.
+	patronize	vt.
+	patronage	n.
+waive		vt.	放弃(=relinquish)
+facility	n.	设施	n. 才能，能力
+
+depose
+deject
+disciple
+divulge
+doyen
+ductile
+elate
+enamel
+encomium
+expostulate
+entrance
+exculpate
+excursive
+expendiency
+expiate
+exquisite
+fatuous
+feckless
+feral
+fester
+fetid
+fickle
+finesse
+flinch
+flock
+florid
+flabby
+foster
+fracas
+friable
+fungible
+full-bodied
+fulminate
+fumble
+fusty
+gag
+gauge
+giddy
+gloat
+grimy
+grate
+hamper
+hanker
+harry
+havoc
+humbug
+hone
+hubris
+hyperbole
+immanent
+immure
+impetuous
+implode
+imprudent
+strenuous
+stricture
+enamored
+incessant
+indelible
+indoctrinate
+ineffable
+inexorable
+infatuate
+infiltrate
+insolent
+insouciant
+	insouciance	n.
+interdict
+	interdiction	n.
+interrogate
+vindictive
+invective
+inveigle
+inventory
+inveterate
+irascible
+itinerant
+jest
+jog
+judicious
+labile
+lambaste
+lash
+latitude
+loll
+lugubrious
+lumber
+malaise
+malinger
+malleable
+mannered
+manumit
+malfeasance
+martinet
+maudlin
+mawkish
+mediate
+docile
+mendacious
+	mendacity
+mesh
+ministration
+manacle
+misgiving
+mitigate
+modicum
+mongrel
+medley
+motley
+monolithic
+multifarious
+muddy
+muffle
+myriad
+needy
+negligent
+nuance
+nudge
+nurture
+obtrude
+	obtrusive
+obdurate
+obeisance
+obfuscate
+obstinate
+obtuse
+obviate
+offhand
+offish
+off-key
+opine
+outrageous
+oscillate
+ossify
+overweening
+overt
+pall
+palpable
+palliate
+pallid
+panegyric
+pan
+panoramic
+provenance
+paroxysm(2)
+parrot
+patent(2)
+# ! = remember the exact meaning	@ = some meaning long forgotten		<> = not accord to shanbay
+peck(3)			n. 大量		v. 啄	v. 小口吃
+plaintive		a. 悲伤的
+penury(2)		n 赤贫 吝啬
+peremptory		不容反抗的，专横的
+parochial		a 狭隘的
+perfunctory		敷衍的
+perimeter(2)		n 周长		边界
+pernicious		有害的
+patchwork		a. n. 混合物（的）
+persecute		迫害
+persiflage		善意的玩笑 n
+pertinacious		坚持的
+penance			忏悔，后悔
+petition		请愿，申请
+philistine		庸俗之辈，对文化艺术无知的人
+piddling		琐碎的，不重要的
+precocious		早熟的
+pillory			批评抨击
+pine			渴望
+pique(2)		n 生气		vt 激起
+pinnacle		n 顶峰
+pittance		少量津贴
+plangent		低沉哀伤的
+plausible		似真实的
+poignant		令人感伤的
+plodding(2)		（步伐）沉重缓慢的	单调乏味的
+pluck			拔 勇气
+plummet			暴跌
+plump(2)		a 完全的	vt. 探究
+plunge			暴跌
+postulate		假定
+posture(2)		姿势		vi. 装模作样，故作姿态
+potable			可饮用的	饮品
+ploy			计策，手段
+pregnant(2)		怀孕的	意味深长的
+preen			梳理羽毛，精心打扮
+pretense(2)		伪装	自大，自命不凡(pretension)
+prognosis		预兆
+peddle			叫卖，兜售
+prodigious(!2)		巨大的强大的	惊人的
+pushover		轻而易举的事
+prohibitive(@)		价格过高的
+promulgate		正式宣布
+propitiate		安抚平息
+propitious		吉祥的	auspicious
+propriety		得体 端庄
+prosecution(<>)		实施	进行到底	起诉
+protean(<>)		多变的，多才多艺的
+protocol(<>)		正确的礼仪规范
+protract		延长拖长
+pry			刺探 打听	pry into
+provincial		a. 狭隘的
+putative		a. 假定存在的
+pecuniary		a. 钱的，金钱上的
+peurile			a  幼稚的，不成熟的
+punctilious		a. 一丝不苟的，循规蹈矩的
+pundit			n. 专家
+pungent(2)		a  刺鼻的	尖酸刻薄的
+purport			v. 声称，打算
+purlieu			n. 常去的地方 附近的地区
+quarantine		隔离检疫qi
+qualm			n 担忧，不安
+quash(2)		废除 	镇压
+quirk			怪癖
+	quirky		古怪的，怪癖的
+quell(!2)		镇压，制止	使平静
+quibble(<>)		吹毛求疵
+querulous		（人）爱抱怨的		（声音）烦躁的
+rabid			狂犬病的	极端的，狂热的
+racy(<>2)		活泼生动的	因为跟性相关所以有趣的
+raffish(<>)		低俗的		落拓不羁的
+recapitulate		vt 概括	=recap @Andrew Ng
+ragged			表面边缘 参差不齐的 		破烂的
+rakish(!)		放荡的 行为不检点的
+ramble(2)		漫步闲逛	漫谈，长篇大论
+rambunctious(<>)	喧闹骚乱的
+rankle			激怒
+rant(2)			咆哮	训斥
+rapt(2)			入迷的		狂热的 WCNM Australian English
+rash			轻率的鲁莽的
+raspy			刺耳的
+rave(2)			狂热赞扬	uncontrolled怒吼
+ravish			抢夺	强奸	使陶醉
+ream(3)			令	大量的写作	怒斥(FUCKING US SLNAG)
+ramification		后果
+recessive(3)		后退的		基因隐形的	内向的
+recidivate		复犯 再犯
+recluse			隐居 隐者
+reconcile		调和
+recumbent		躺倒的
+recuperate		恢复 康复
+redoubtable(2)		强大可怕的(=formidable)；杰出的，值得尊敬的(=illustrious, preeminent)；
+reel(2)			卷筒	感到眩晕
+refute(!)		反驳 驳斥
+rehabilitate		使（名誉、健康）恢复
+rein(!)			缰绳 控制 vi
+reiterate		重申
+rehash			v. 老调重弹 换汤不换药	to present or use again in another form without substantial change or improvement
+reminiscent		a. 怀旧的	be reminiscent of
+relinquish		v 放弃 放手
+relish			v 享受 喜欢
+remiss			疏忽的
+remorse(!)		后悔 懊悔
+renegade		叛徒，叛教者
+renounce		放弃
+repatriate		遣返回国
+repine(2)		埋怨 抱怨	渴望 to long for something, pine for
+reprehend		谴责
+repress(2)		压制感情	武装镇压
+reprieve		vt 缓刑		暂时缓解
+repulse(!)		驱逐		使人厌恶
+requite(!!)		回报： 报答/报仇
+reserved(2)		保留的		内向的
+residue(@)		剩余物
+resign(!)		辞职
+resilience		弹性 复原力 从伤痛中恢复的能力
+resolute		坚定的 果断的
+respite			暂停 暂缓
+retroactive		有追溯效力的
+resplendent		辉煌灿烂的
+restive & restless	焦躁不安的，不平静的
+resuscitate		使复活 使苏醒
+repetitious		重复的
+retribution(!@)		报应
+retrospective		回顾的
+resonate(wtf)	 	情感上产生共鸣
+beneficent & munificent		慈善的		慷慨的
+rickety			摇晃的
+restorative		有追溯效力的
+rift			裂缝分歧不和
+rosy			红润的；（局势）乐观的，有希望的
+rationale		基本原理
+royalty(2)		皇室成员
+ruminate(2)		反刍	沉思
+revise			修订	amend emend
+	revision
+runic			卢恩文字的	神秘的
+rustle			沙沙声		vi 快速行动
+saccharine(3) * syrupy	糖精	谄媚奉承的	娇柔做作甜得发腻的
+saddle(2)		马鞍	使负担 saddle sb with sth
+salient		a.	显著的，最突出的
+	salience	n.	突出点，特点
+salubrious		有益健康的
+salutation(<>)		问候 致意	赞扬
+sanction(2)		vt批准		n贸易制裁
+showcase	vt.	展示
+sap(3)		树液	健康活力	削弱
+sapient			智慧的
+saunter			漫步闲逛
+savant			专家学者
+savory(2)	a.	有滋味的；令人愉悦的；
+seditious	a.	煽动性的	instigative
+scotch		vt.	制止
+scour(2)	v.	擦净；仔细搜查；
+scowl			阴沉着脸看，怒目而视
+scrap(<>)		抛弃
+scrawl
+scribble		v潦草地写
+scrupulous(2)		正直的		一丝不苟的(punctiliously exact)
+scuff			磨损 磨坏
+scurrilous		诽谤的 诋毁的
+scurvy			坏血病		卑鄙的 下流的
+secrete(2)		藏匿	分泌
+seduce			诱骗
+seminal(3)	a.	精液的	影响深远的	创新的(FUCKYOU?)
+sift(2)			vt 筛上（面粉、糖等）	vt 仔细检查scrutinize
+sensation(2)		感觉		轰动
+showmanship		表演技艺
+sequester(2)		扣押（财产）	隔离（陪审团）
+serene			宁静的
+

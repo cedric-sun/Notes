@@ -1,3 +1,20 @@
+狡猾的
+	sly
+	cunning
+	crafty
+	slippery
+	wily
+	calculating
+	weasel
+	disingenuous
+
+厌恶	n.
+	odium		
+	antipathy	
+		antipathetic	a.
+	repugnance	
+	aversion	
+
 使窒息，扼杀，阻止...的发展
 	choke
 	chokehold
@@ -9,9 +26,6 @@
 	dissect
 	antomize
 
-磨刀，磨炼，提升
-	whet
-	hone
 狂喜
 	ecstasy
 	euphoria

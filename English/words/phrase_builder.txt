@@ -571,3 +571,25 @@ a shitload of sth	[OFFENSIVE]
 (be) less A than B
 	（更像）是B而不是A
 		But being Hillary Clinton is never a simple matter, and her next few years are less a blank check than an equation with multiple variables. Her status is singular but complicated.
+
+(be) moved to tears
+	Overwhelmed by happy or grateful emotion, such that one feels like he or she will cry.
+		I was moved to tears by the tributes to my late father.
+		The lovely cards from my students had me moved to tears.
+
+whet one's appetite
+	If someone or something whets your appetite for a particular thing,
+	they increase your desire to have it or know about it, especially by giving you an idea of what it is like.  激起某人的欲望
+		I've read an excerpt of the book on the Web and it's whetted my appetite.  我在网上读过这部书的节选，引起了我强烈的兴趣。
+
+invest sb/sth with sth		[LITERARY]
+	to make someone or something seem to have a particular characteristic 赋予…以…，使…似乎具有（某种特征）
+		In his poems everyday reality is invested with a sense of wonder and delight.  在他的诗歌里，现实生活被赋予了一种奇妙和快乐的感觉。
+		Lena Horne's singing style is such that she can invest even the most vapid/insipid lyrics with dramatic meaning.
+
+against (all) (the) odds
+	If you do or achieve something against (all) the odds/against all odds, you do or achieve it although there were a lot of problems and you were not likely to succeed.
+	If something happens against all odds, it happens or succeeds although it seemed impossible or very unlikely.
+	尽管困难重重，在极为不利的情况下
+		Against all the odds, he recovered.
+		他克服一切不利病况康复了。

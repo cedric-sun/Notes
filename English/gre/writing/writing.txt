@@ -1,0 +1,93 @@
+表递进：
+	additionally
+	in addition
+	what's more
+
+表转折：
+	however
+	nevertheless
+
+表强调：
+	conspicuously
+	obviously
+	appearently
+	clearly
+
+表必然：
+	necessarily
+	ensue
+	warrant
+Issue
+========
+给出一个观点的陈述。
+议论你是否同意，为什么。
+
+Argument
+==========
+
+In this argument, the arguer recommends/suggests that ....
+To support this conclusion, the arguer cites the result of a recent survey that ....
+Moreover the arguer points out that ....
+As it stands, the argument suffers from several critical/fatal/crucial flaws as follows. 
+
+First of all,the arguer fails to convince us of the validity of several data cited in ...
+
+In addtion,the auguer commits a fallacy of oversimplification. As we all know, there are several major factors contribute ...
+
+Finally,the argument per se is based on a gratiutous assumption that .... 
+
+To sum up,the conclusion reached in the argument lacks credibility since the evidence cited in the analysis does not lend strong support to what the arguer claims.
+To make the argument more convincing, the arguer should provide more information concerning ....
+
+To better evaluate the argument, we need more concrete evidence that ..., otherwise the argument is logically unacceptable.
+
+------------------------------------------
+
+1.A gruondless survey/study 
+	The validity of the survy is open to doubt. 
+	The survey lacks representativeness... 
+	There is no specific information about the survy... 
+	Without knowing how the survey was done, how it represents the public opnion ...
+	Who conducted the survy? Who responded? How the poll was conducted? 
+	The opinon lacks representativeness of overall attitudes based on which we can make any general judgement about the conclusion.... 
+	In absence of specific information about the survey, it’s impossible for us to evaluate the argument. 
+
+2.Oversimplification 
+	The arguer commits a fallacy of oversimplification. 
+	There are several major factors contribute to the XXX other than YYY ,such as/for instance ZZZ, all of which are ignored by the arguer. 
+	As we know ,XXX depends on many factors ,such as ZZZ, which are unknown from the argument. 
+	The arguer fails to establish a causal relationship between XXX and YYY. 
+	For example ,YYY may also help explain XXX. 
+	Factors such as AA and BB both have some bearing on XXX. 
+	Actually,the recommendation(提议，意见) that YYYY as the only way to XXX most likely turn out to be ineffective and somewhat misleading. 
+
+3.A false analogy 
+	The argument is based on a false analogy. 
+	Even though there are some points of comparison between XX and YY,there are dissimilarities as well. 
+	But the problem is that the two situation are not similar enough to justify the analogical deduction. 
+	# As we know,the struction, system, operation are conspicously different. 
+	It’s a incomplete and selective comparison. 
+	Even though XX is proved effective in YYY,there is no guarantee that it will just work as well in ZZZ. 
+
+4.A gratuitous assumption 
+	The argument is based on a gratuitous assumption that ####, which is, of course unwarranted. 
+	The arguer fails to convince us that.... 
+
+5.A false dilemma 
+	The arguer unfairly assumes that we must make an either/or choice between XX and YY. 
+	XX and YY are not necessarily mutually-exclusive alternatives. 
+	Adjusting XX and YY together might produce a better result. 
+
+6.A hasty generalization 
+	We are informed that XXX, but we do not know whether all of ### prefer ###. 
+	We can believe that XXX is indeed ###, but based on this slim information
+	we can never evaluate the overall performance of YYY. 
+
+7.A fallacy of "after this ,therfore bacause of this" 
+	The arguer unfairly assumes that XXX caused YYY,since many other reasons may explain that ###. 
+	Unless other possiblities have be considered and ruled out ,the conclusion is unconvicing. 
+
+8.All things are equal. 
+	The arguer commits a fallacy of "all things are equal". 
+	The arguer assumes without justification that the background condtions have remained the same at different time and different places. 
+

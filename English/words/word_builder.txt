@@ -869,7 +869,7 @@ lu-, lumin- = light(Latin)
 ludic		a.	活泼欢快的(=playful)
 	ludicrous	a.	愚蠢可笑的，荒谬的
 
-lurid		a.	恐怖的，令人毛骨悚然的
+lurid		a.	（报道）耸人听闻的	(of description) presented in vavidly shocking or sensational terms, especially giving explicit details of crimes or sexual matters(*=sensational*)
 
 prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
 
@@ -923,6 +923,9 @@ the Occident	欧美国家
 
 sublime		vt.	使升华（物质直接由solid转化为vapor）	a.	极好的
 	the sublime	n.	极好之物
+	sublimate	vt.	使高尚化，使转化（为社会可接受的行为）
+		# Hostile feelings and violent responses often seem to be sublimated into sporting activities.
+		# 敌对情绪和暴力反应似乎往往在体育活动中得到升华化解。
 
 dread		n.	恐惧	vt. 感到恐惧
 	dread to think		不愿想；不敢想 I dread to think what would happen if he was left to cope on his own.  我不敢想象，如果让他自己去应付会怎么样。
@@ -931,16 +934,6 @@ civil
 resilient	a.	有弹性的，能复原的
 
 sophism		n.	诡辩
-surge		n.	剧增；涌现；（情感的）涌起，翻涌；	vi.	剧增；涌动；（情感的）涌起，翻涌；
-	surgence	n.
-	insurgent	n.	叛乱者，反叛者	[FORMAL]	a. 叛乱的
-		insurgency	n.	叛乱（的状态）；叛乱（这一行为本身）(=insurgence)；
-			counterinsurgency	n.	（政府的）反暴乱的军事行动
-		insurgence	n.	叛乱（这一行为本身）(=insurrection)
-	resurge		vi.	复活，复兴
-		resurgent	a.	复活的，复兴的
-		resurgence	n.	复活，复兴
-
 hysteria	n.	歇斯底里
 dismal		a.	阴沉的，凄凉的
 
@@ -1133,6 +1126,7 @@ compel		vt.	强迫；激起，引发[FORMAL]；
 	compelling	a.
 repel		vt.	驱逐；使...厌恶
 	repellent	a.	令人厌恶的；	n.驱虫剂；	mosquito repellent
+		repellency	n.	the quality or capacity of repelling
 
 aisle		n.	（客机、电影院或教堂座席间的）走廊，过道，（商店货架间的）通道
 	go/walk down the aisle		[informal] to get married 结婚
@@ -1155,7 +1149,7 @@ conduce		vi.	促进，导致(often desirable result)[FORMAL]	the belief that tec
 deduce		vt.	推断，推理		refer to: infer
 	deducible	a.	able to be deduced 可以推断的（能由推断得知的？）
 	deduction	n.	推断
-induce		vt.	导致；劝说；
+induce		vt.	导致；劝说，使（某人）...；
 	induction	n.	引发，诱导；[specialized]电磁感应
 	inducement	n.	引诱（物），诱惑
 reduce		v.	减少；化简，归纳；[数]约分；
@@ -1532,12 +1526,29 @@ surly		a.	粗鲁的，不礼貌的
 	surlily		adv.
 	surliness	n.
 
-# favor
-# 	favorable
-# 	favorite
-# 		favortism
-# 	disfavor
-# 	in favor of
+favor
+	n.
+		1. friendly regard shown toward another especially by a superior （尤指来自上级的）友好，关心
+		2. approving consideration or attention: approbation 认可，赞同		e.g. He looked with favor on the enterprise.
+		3. partiality 偏袒	e.g. The students naturally showed favor toward their own team.
+		4. popularity （人们的）喜爱，流行	e.g. The fad lost favor quickly.
+		5. gracious kindness, also: an act of such kindness	亲切，友好(的行为)	e.g. do somebody a favor
+		6. attention 注意	e.g. vying for the king's favor 争得国王的注意
+		7. a special privilege or right granted or conceded 特权	e.g. grant a favor to a dear friend
+		8. behalf, interest 利益	e.g. a man who act only in his own favor
+	vt.
+		1. to regard or treat with favor 关心，友善对待
+		2. to do a kindness for: oblige 帮助
+		3. to treat gently or carefully 小心温和地对待	e.g. favored her injured leg 小心照料她受伤的腿
+		4. to show partiality toward 偏袒
+		5. to give support or confirmation to: sustain 支持
+		6. to afford advantages for success to: facilitate 促进，使便利		e.g. Good weather favored the outing.
+		7. to bear a resemblance to 长得像	e.g. He favors his father.
+	favorable
+	favorite
+		favortism
+	disfavor
+	in favor of
 
 swelter		vi.	（人）感觉热急了，汗流浃背
 	sweltering	a.	酷热的
@@ -1691,6 +1702,7 @@ well-versed	a.	精通的，熟知的(be well-versed in sth)
 
 thievish	a.	of, or relating to, or characteristic of a thief; given to stealing
 
+indomitable	a.	不屈不挠的(of person) incapable of being overcome, subdued, or vanquished, unconquerable
 persevere	vi.	坚持，锲而不舍	[APPROVING]
 	persevering	a.
 	perseverance	n.
@@ -1847,11 +1859,6 @@ murk		n.	黑暗，昏暗
 gloom		n.	忧郁，愁闷；昏暗，幽暗[LITERARY]；
 	gloomy		a.	忧郁的，悲观的；灰暗的；
 
-endemic
-pandemic
-
-epidemic
-
 Saturn		n.	土星
 	saturnine	adj.	阴郁的，严肃的
 
@@ -1859,9 +1866,8 @@ contact lens	n.	隐形眼镜
 frantic		a.	发狂的，情绪失控的
 	frantically	adv.
 
-obviate
-ostracize
 oscillate = vacillate
+	oscillation	n.
 
 opprobrium	n.	谴责，抨击
 	opprobrious	a.	鄙视的(=expressing scorn, disgrace, or contempt)	a. 可鄙的，可耻的(=shameful or infamous)
@@ -1889,6 +1895,10 @@ ire		n.	（公开明显的）愤怒，怒火(intense and usually openly displaye
 distinct	a.	明显的，确实的；明显不同的；	There's a distinct smell of cigarettes in here.  这里确实有一股烟味儿。
 	indistinct	a.	不清楚的，模糊的	an indistinct shape/sound/recollection 模糊的形状／声音／记忆
 
+recollect	v.	回忆，想起，记起
+	# Can you recollect his name?
+	# 你能记起他的名字吗？
+	recollection	n.	回忆
 devalue		v.	（使）贬值	vt. 贬低，轻视
 	devaluation	n.
 
@@ -1974,6 +1984,7 @@ perspicuous	a.	(speech or writing)清晰明了的，易懂的
 perspicacious	a.	(of people)有洞察力的，聪明的
 	perspicacity	n.
 
+transpire	vi.	（秘密或未知事实）暴露，公开；发生(=happen)[FORMAL]；	v. （皮肤或植物表面）蒸腾，水分蒸发；
 perspire	vt.	流汗	polite word for `sweat`	[FORMAL]
 	perspiration	n.
 	anti-perspir-ant	n.	（尤指涂在腋下等皮肤表面的）止汗剂
@@ -2194,7 +2205,6 @@ puissance	n.	权力(=strength, power)
 avert		v.	转移，转开；阻止，防止；Latin:avertere, ab + vertere(to turn)
 	averse		a.	反对的
 		aversion	n.	厌恶，反感
-odium		n.	憎恨，厌恶	[FORMAL]
 
 
 ascend		v.	上升；攀登；
@@ -2215,13 +2225,6 @@ suggestive	a.	引起联想的(be ~ of)；性暗示的，性挑逗的；
 spin
 	spindle		n.	（机器的）轴；纺锤，绕线杆
 		spindly		a.	纺锤般的，细长瘦弱的，长而纤弱的
-
-Latin: nasci = to be born
-	nascent		a.	新生的
-		nascence	n.
-		renascent	a.	复活的，复兴的(=reviving)
-	renaissance	n.	复兴	the Renaissance 文艺复兴
-	nation
 
 beget		vt.	[archaic]成为...的父亲(=sire)；引起，导致；
 procreate	vi.	生育
@@ -2275,6 +2278,7 @@ apt
 	inept		a.	无能的；不合适的；
 		ineptly
 		ineptitude	n.
+		ineptness	n.
 
 sator		n.	[HUMOROUS or LITERARY and RARE] 裁缝	=tailor
 	satorial	a.	衣着上的，制衣的	satorial elegance
@@ -2431,7 +2435,6 @@ remonstrate	vi.	抗议；反对；抱怨
 	remonstrance	n.
 
 nuisance	n.	恼人的事物（或人）；麻烦的事物（或人）
-berserk		a.	狂怒的，狂暴的		n. =berserker	ber=bear serk=skirt literally a warrior who wear fur of bear
 	berserker	n.	巴萨卡!!!!
 defy		vt.
 	defiant		a.	（公然）对抗的
@@ -2493,7 +2496,7 @@ scalp		vt.	买黄牛票	UK tout
 
 deed		n.	（尤指很坏或很好的）事情，行为
 redeem		vt.	挽回，弥补；赎回；[Christianity]救赎；
-	redemption	n.
+	redemption	n.	补救，弥补
 		be beyond/past redemption	to be too bad to be improved or saved by anyone 无可挽回；无可补救；不可救药
 	redemptive	a.
 calamity	n.	灾难，灾祸
@@ -2542,7 +2545,10 @@ empathy		n.	感同身受	程度上比sympathy和compassion弱，强调感情上�
 
 perjure (yourself)	v.	作伪证
 ruffian		n.	流氓，恶棍
-bearing		n.	[FORMAL] 举止，风度
+bear		vt.	忍受；承担；具有，带有(bear a resemblance to)；生（孩子）；携带；
+	bearing		n.	[FORMAL] 举止，风度
+	berserk		a.	狂怒的，狂暴的		n. =berserker	ber=bear serk=skirt literally a warrior who wear fur of bear
+
 famine		n.	饥荒
 tangle		v.	使缠结	n. 缠结的一团 A tangle of wires
 apothegm	n.	格言(short, pothy and instructive saying, =aphorism)
@@ -2553,11 +2559,14 @@ divide
 	divisive	a.	有争议的
 
 art		n.	技巧	a skill or special ability
-	artful		a.	精明的，巧妙的	clever and skillful
+	artful		a.	精明的，巧妙的(clever and skillful)；狡猾的(sly or cunning, =crafty, disingenuous)
 	artless		a.	单纯的，天真幼稚的(ingenuous)	[可褒义可贬义]
+craft		n.	工艺；技巧，技术；
+	crafty		a.	狡猾的，狡诈的
 
 idiocy		n.	蠢行，愚蠢
 idiosyncrasy	n.	怪癖，癖好
+	idiosyncratic	a.
 quirky		a.	怪癖的，古怪的
 
 appraise	vt.	评定，评估
@@ -2703,6 +2712,7 @@ anachronism	n.	时代错位
 annex		vt.	吞并，占领（领土）	n. 附加建筑(an extra building added to a larger building)	v. 附加
 annotate	vt.	给...注释
 	annotation	n.	注释	JAVA
+odium		n.	憎恨，厌恶	[FORMAL]
 antipathy	n.	厌恶
 	antipathetic	a.
 applicable	a.	适用的；相关的；
@@ -2897,10 +2907,31 @@ residue		n.	残余
 	residual	a.	剩余的，残余的
 restitution	n.	（被盗物或丢失物的）归还；[Law]赔偿；
 
+surge		n.	剧增；涌现；（情感的）涌起，翻涌；	vi.	剧增；涌动；（情感的）涌起，翻涌；
+	surgence	n.
+	insurgent	n.	叛乱者，反叛者	[FORMAL]	a. 叛乱的
+		insurgency	n.	叛乱（的状态）；叛乱（这一行为本身）(=insurgence)；
+			counterinsurgency	n.	（政府的）反暴乱的军事行动
+		insurgence	n.	叛乱（这一行为本身）(=insurrection)
+	resurge		vi.	复活，复兴
+		resurgent	a.	复活的，复兴的
+		resurgence	n.	复活，复兴
+
+resuscitate	v.	（使）复活，（使）苏醒
+	resuscitation	n.
+revitalize	vt.	使复活，使复兴，使复苏
+	revitalization	n.	复活
 resurrect	vt.	复活，复苏
 	resurrection	n.	复活	# Christianity所宣扬的耶稣复活
 insurrect	vt.	叛乱
 	insurrection	n.	叛乱，暴动
+
+Latin: nasci = to be born
+	nascent		a.	新生的
+		nascence	n.
+		renascent	a.	复活的，复兴的(=reviving)
+	renaissance	n.	复兴	the Renaissance 文艺复兴
+	nation
 
 retention	n.	保留，保持	The retention of old technology has slowed the company's growth.  死守着旧技术不放减缓了这家公司的发展。
 	retentive	a.	记忆力强的
@@ -3055,6 +3086,7 @@ disinter	vt.	（从坟墓中）掘出
 exhume		vt.	（从坟墓中）掘出（尸体）	[FORMAL]
 
 burglar		n.	窃贼
+	burglary	n.	入室盗窃（罪）
 bandit		n.	强盗
 
 # 贪婪
@@ -3120,3 +3152,100 @@ establish	vt.	证明，解决（问题）(=prove)
 	# 二氧化碳和温度的关联并没有解答“到底是大气成分的变化导致了冷暖趋势，还是反之”这一问题
 
 manifold	a.	多种多样的(=multifarious)	[FORMAL]
+regard		n.	尊重；关心；
+	in/with regard to
+		# in connection with 关于；至于
+		# I am writing to you with regard to your letter of 15 March.  兹复3月15日贵函。
+	in this/that regard
+		# in this particular way 在这／那方面；在这／那一点上
+		# The union is the largest in the country and in this/that regard is best placed to serve its members.这家工会是全国最大的，从这方面说，它可为其成员提供最好的服务。
+
+token		n.	象征，标志		a. 有象征意义的(attribute only)
+late		a.	死去的，已故的，已去世的
+
+fulgent		a.	极明亮的，光辉灿烂的	[Literary]
+	effulgent	a.	极明亮的，光辉灿烂的
+	refulgent	a.	极明亮的，光辉灿烂的
+
+quaver		n. vi.	（声音）颤抖
+quiver		n. vi.	（常指因激动而）颤抖，发抖		n. 箭袋，箭筒
+
+reverie		n.	幻想，白日梦
+pathway		n.	小路
+conclude	v.	（使）结束；做出（结论）；
+	conclusion	n.	结束；结论；	the conclusion of a burst of activity
+
+kafkaesque	a.	卡夫卡式的怪诞恐怖	Franz Kafka
+quixotic	a.	堂吉诃德式的异想天开	Don Quixote
+	quixotism	n.
+orwellian	a.	奥威尔式的恐怖独裁政治	George Orwell
+	orwellism	n.
+
+move
+	motive		a.
+		motivate	v.
+			motivation	n.
+	motion		n.	动作；运动，移动；（会议中正式提出准备表决的）提议；
+		# Someone proposed a motion to increase the taxes. 有人提议提高税款。
+		commotion	n.	骚乱
+
+lactic acid	n.	乳酸
+
+# -gamy: 婚姻的
+monogamy	n.	单配偶制
+	monogamous	a.
+polygamy	n.	多配偶制
+	polygamous	a.
+bigamy		n.	重婚(罪)
+	bigamous	a.
+# -andry: 男性
+monandry	n.	一夫制
+	monandrous	a.
+polyandry	n.	多夫制
+	polyandrous	a.
+# -gyny: 女性
+monogyny	n.	一妻制
+	monogynous	a.
+polygyny	n.	多妻制
+	polygynous	a.
+
+crabby		a.	易怒的
+
+flaunt		vt.	炫耀
+flout		v./n. 嘲笑，嘲弄	v. 无视，违抗（法律等）
+# Flaunt is sometimes wrongly used where flout is meant: they must be prevented from flouting (not flaunting) the law - via Collins
+
+cargo		n.	货物(the goods or merchandise conveyed in a ship, airplane, or vehicle)(=freight)	plural: cargoes / cargos
+	a cargo ship/plane	货船/货运飞机
+
+entry		n.	参赛作品；参赛；
+	# The serious purpose of the paper-airplane flying contest, which attracted many novel and sometimes truly bizarre entries, was to determine whether any revolutional aerodynamic designs could be discovered.
+
+odd	a.
+	1. 单个的，落单的	e.g. an odd glove
+	2. 奇数的
+	3. 零碎的，（相对于上下文中提到的数字）少量的	e.g. ten dollars and some odd change, twenty-odd children
+	4. 临时的，非经常的	odd jobs
+	5. 古怪的
+
+odds	n. [plural]
+	1. （数量上的）优势，差额	e.g. won the election by considerable odds
+	2. 不一致，分歧(be at odds)		e.g. faculty and administration often are at odds on everything
+	3. special favor: partiality	偏袒
+	4. 投注的赔率	Figuratively see: `against (all) (the) odds`
+
+by all odds	adv.	=in every way, without question
+	# This book is by all odds the best one of the year.
+
+expedite	n.	加快，促进
+	expeditious	a.	=quick 迅速的，敏捷的	[FORMAL]
+
+unassailable	a.	 牢不可破的；不可战胜的；无懈可击的；
+pregnant	a.	怀孕的；意味深长的；	a pregnant slience
+	impregnate	vt.	浸泡，使吸收；使怀孕；
+		impregnable	a.	（建筑物等）坚不可摧的，固若金汤的；无懈可击的；	WTF, what happened to this word?
+unimpeachable	a.	（品格）无可指责的；无懈可击的；
+unexceptionable	a.	无懈可击的
+
+amalgam		n.	汞合金，汞齐（用于补牙）；混合物；
+	amalgamate	vt.	合并，混合

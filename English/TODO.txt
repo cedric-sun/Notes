@@ -1,22 +1,5 @@
 TO REIVEW:
-mulish
-taint
-slovenly
-penury
-perfume
-per ca
-tiff
-scuff
-spleen
-garrulous loquicious
-perspicacious
-reel
-larva
 inlet
-stand up to
-hearten
-repentence
-spellbound -> 形容词做状语
 
 To add:
 	clamps
@@ -38,29 +21,34 @@ TO BUILD TREE:
 	amble
 	tenuous
 
+# MIND SPELL
 exacerbate
 exasperate	(apserity)
 
+slant
+slake
+slate
+
+wince
+mince
+
+raffle
+ruffle
+
+lacerate
+macerate
+# hints
 condole: to show sympathy and sadness for the family or friends of a person who has recently died
 
 smother
 suffocate
 stifle
 
-solace
-tangent
-
-slant
-slake
-slate
-
 recuperate
-	recuperative restorative
+	recuperative	=restorative
 rehabilitate
 convalesce
 
-wince
-mince
-
-remunerate
-
+faction
+	factious
+facetious

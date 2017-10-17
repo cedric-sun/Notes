@@ -593,3 +593,23 @@ against (all) (the) odds
 	尽管困难重重，在极为不利的情况下
 		Against all the odds, he recovered.
 		他克服一切不利病况康复了。
+
+(be) at odds
+	If someone is at odds with someone else, or if two people are at odds, they are disagreeing or quarrelling with each other.
+	有分歧，意见不一
+		We may have dealt with the Grimm, but the Mistral Council is still at odds with representatives from Atlas.
+		我们可能已经解决了戮兽，但是寒风国会仍然与擎天王国的代表有分歧。
+
+fill sb in
+	If you fill someone in, you give them more details about something that you know about. 告诉某人某事
+		Professor Leonardo Lionheart: I thought you've filled them in.
+		Qrow: Mostly filled in, look, there's a lot to cover, okay? I quit teaching for a reason.
+
+Time slipped away from me.
+	我忘了时间了。我没注意到时间。
+
+(be) in a cleft stick
+	to be in a situation where it is very difficult to decide what to do, usually because both of your two choices of action would cause problems
+	进退维谷，左右为难；陷于窘境
+		UN troops are in a cleft stick: something has to be done for the civilian population, yet to retaliate would surely be the spark to ignite all-out war.
+		联合国军队进退两难：为了平民不得不采取行动，可是还击势必会引发全面战争。

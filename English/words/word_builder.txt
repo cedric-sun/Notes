@@ -125,8 +125,6 @@ impotent	a.	无能的，无力的；阳痿的
 	impotence	n.	无能，无力；阳痿
 
 tertiary	a.	[FORMAL]第三的；(primary secondary tertiary quaternary quinary senary septenary octonary nonary denary)
-grump		n.	[INFORMAL]脾气坏的人
-	grumpy		a.	脾气坏的，易怒的
 marmalade	a.	果酱，橘子酱（涂在面包上吃，通常在早餐食用）
 	marmalade cat	n.	(UK.)橘猫 = US. red tabby cat / orange tabby cat
 eponym		n.	名祖，名字被用于命名其他事物的人，
@@ -870,6 +868,7 @@ ludic		a.	活泼欢快的(=playful)
 	ludicrous	a.	愚蠢可笑的，荒谬的
 
 lurid		a.	（报道）耸人听闻的	(of description) presented in vavidly shocking or sensational terms, especially giving explicit details of crimes or sexual matters(*=sensational*)
+flagrant	a.	骇人听闻的，公然的 shocking because of being so OBVIOUS
 
 prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
 
@@ -2251,7 +2250,6 @@ decrepit	a.	破旧的；衰老的；
 	decrepitude	n.	破旧；衰老；
 
 lugubrious	a.	忧伤的，悲伤的
-flagrant	a.	骇人听闻的，公然的 shocking because of being so OBVIOUS
 indolent	a.
 	indolence	n.	懒惰	[FUCKING LITERARY]
 redolent	a.	散发出…强烈气味的；（尤指气味）使人联想起…的(be ~ of/with)
@@ -2517,6 +2515,14 @@ benefit		v.
 regal		a.	帝王的，国王般的
 
 theology	n.	神学
+deism		n.	自然神论（认为上帝创造了世界，但是之后就不继续影响世界了）
+theism		n.	有神论
+	atheism		n.	无神论
+		atheist		n.	无神论者
+	monotheism	n.	一神论
+	polytheism	n.	多神论
+	pantheism	n.	泛神论
+animism		n.	泛灵论
 
 playful		a.	欢快的，爱玩的
 antithesis	n.	正相反，对立
@@ -2682,7 +2688,7 @@ felon		n.	重罪罪犯
 visionary	a.	不切实际的，空想的；有远见的；	n. 有远见者 Linus Ted
 vitiate		v.	削弱，损害
 waffle		v.	胡扯
-warble		v.	(鸟儿)歌唱	（高音、婉转地)歌唱
+warble		v.	(鸟儿)歌唱	(高音、婉转地)歌唱
 wanting		a.	缺少的，不足的
 winnow		v.	筛选		# 扬，簸（谷物）
 warp		v.	曲解	（使）弯曲
@@ -2775,6 +2781,10 @@ chorale		n.	赞美诗
 clan		n.	宗族，氏族	团体，帮派
 	clannish	a.	小团体的，排外的
 comprehend	v.	理解；包含；
+apprehend	vt.	逮捕，拘捕；理解；
+	# Leonardo Lionheart: ... We need to be positive we can apprehends Spring (maiden), because if we fail, Raven and her tribe will scatter, and we will be lost.
+	apprehensive	a.	担心的，忧虑的
+	apprehension	n.	忧虑，恐惧；逮捕；理解；
 conflagrate	v.	（使）燃烧
 	conflagration	n.	大火灾；冲突，战火；
 omnipresent	a.	无处不在的
@@ -2842,7 +2852,12 @@ graft		vt.	移植（皮肤骨骼等）；嫁接； graft old traditions onto the
 grit		n.	勇气，毅力		# 沙砾
 groggy		a.	（通常因疲惫或生病而）头脑昏沉的，眩晕无力的，行走不稳的
 half-hearted	a.	不热情的，兴趣不大的
+
 grumble		vi.	*抱怨*，发牢骚	n. 抱怨，牢骚
+	grumbling	a.
+grump		n.	[INFORMAL]脾气坏的人
+	grumpy		a.	脾气坏的，易怒的
+
 heckle		v.	（对...）起哄，使难堪
 hobble		vt.	阻碍，限制	# 跛行；捆缚（动物，尤指马等的）两条腿；
 humiliate	vt.	羞辱
@@ -2982,7 +2997,6 @@ righteous	a.	正义的，公正的
 	righteousness	n.
 	self-righteous	a.	自诩公正的，自以为是的	[DISAPPROVING]
 		self-righteousness	n.
-animism		n.	泛灵论
 surmise		vt. n.	推测	[FORMAL] I want knowledge, not belief, not surmise... - Ingmar Bergman
 factitious	a.	虚假的，人为的	[FORMAL]
 splinter	vi.	破碎
@@ -3018,7 +3032,7 @@ emerge		v.
 hinder		vt.	阻碍，妨碍
 manacle		n.	手铐		vt. 限制，阻碍
 adjure		vt.	命令，要求(solemnly, often under oath or penalty)；恳求(entreat solemnly)；
-	adjuration	n.
+	adjuration	n.	叮嘱，要求
 
 barring		prep.	除...以外
 prognosis	n.	预测，展望
@@ -3249,3 +3263,11 @@ unexceptionable	a.	无懈可击的
 
 amalgam		n.	汞合金，汞齐（用于补牙）；混合物；
 	amalgamate	vt.	合并，混合
+premise		n.	前提，假定	vt. 假定...为先决条件，作为...的前提
+	# He premised his argument on several incorrect assumptions.
+	# 他把自己的论证建立在了几个错误的假设之上。
+
+remunerate	vt.	酬劳，给...报酬		=award
+euphony		n.	悦耳之音
+	euphonious	a.
+asseveration	n.	

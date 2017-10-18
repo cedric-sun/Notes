@@ -1,3 +1,19 @@
+格言
+	aphorism
+	euphorism
+	adage
+	maxim
+	proverb
+	epigram
+
+沉默寡言的
+	reticent
+	taciturn
+	cagey
+使尴尬
+	embarrass
+	mortify
+	abash
 狡猾的
 	sly
 	cunning
@@ -487,6 +503,7 @@
 	verge
 	brink
 	brim
+	rim
 	border
 
 浪费，挥霍	v.

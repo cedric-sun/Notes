@@ -1,5 +1,11 @@
 dusk		adj.	黄昏
 grief		n.	悲伤
+	grieve		vi.	（尤指为某人去世而）悲痛	vt. 使伤心
+		grievous	a.	极严重的；令人悲伤的；	# grievous wounds 重伤
+		grievant	n.
+		grievance	n.	不满，委屈
+		aggrieve	vt.	使悲痛
+			aggrieved	a.
 goblet		n.	（尤指盛酒的，通常用玻璃或金属做的）无柄高脚杯
 verge		n.	边；边缘；边沿
 squash		vt.	把…压扁
@@ -435,9 +441,6 @@ Jew		n.	犹太人
 petrol		n.	汽油（透明）	UK = US **Gasoline**
 	petroleum	n.	石油（黄黑色）
 	petrology	n.	岩石学
-
-generous	a.	慷慨的(antonym: un~)
-	generosity	n.	慷慨
 
 prey		n.	被捕食者
 	predator	n.	捕食者
@@ -1753,7 +1756,7 @@ afflict		vt.	折磨，使痛苦
 shrivel		v.	（使）枯萎，（使）干枯；	vi. （经济等）缩小，萎缩	(US -l- UK -ll-) Profits are shrivelling as the recession gets worse.  随着经济衰退的加剧，利润不断萎缩。
 atrophy		vi.	（身体部位）萎缩，衰退	（权力）衰落
 
-# lettuce		n.	生菜（叶用莴苣的俗称）
+lettuce		n.	生菜（叶用莴苣的俗称）
 
 shin		vi.	爬(~ up)	n. 胫(the front part of your leg between your knee and your foot)
 eatery		n.	=a restaurant	[INFORMAL] 餐馆
@@ -2168,7 +2171,9 @@ wholesome	a.	有益健康的
 indigene	n.	土著人，本土的动物或植物	=indigen
 	indigenous	a.	当地的，本土的
 genuine		a.	真正的（非伪造的）；真诚的；
-generous	a.	慷慨的；大量的(a generous slice of cake 一大块蛋糕)
+generous	a.	慷慨的；大量的(a generous slice of cake 一大块蛋糕)；
+	ungenerous	a.
+	generosity	n.	慷慨
 ingenuous	a.	坦诚的；天真幼稚的(sometimes disapproving)；
 	disingenuous	a.	不真诚的，不坦诚的(lacking in candor)
 genius		n.	天才
@@ -2511,6 +2516,8 @@ benefit		v.
 		beneficiary	n.	受益人
 	beneficent	a.	慈善的，行善的；有益的(=beneficial)
 		beneficence	n.	慈善；善行；
+	benevolent	a.	仁慈的，慈善的
+		benevolence	n.
 
 regal		a.	帝王的，国王般的
 
@@ -2633,6 +2640,8 @@ secede		vi.	脱离，退出（组织等）
 steep		a.	陡峭的	过高的 steep demands 过高的要求
 stint		vi.	吝惜，节省
 scrimp		vi.	节俭	# See: skimp
+skimp		v.	节俭，吝啬
+	skimpy		a.	不足的，不够的；（衣服）暴露的；
 sequel		n.	结果
 stock		a.	作为常备商品一般的；陈词滥调的；(1. usually kept in stock and thus regularly available for sale.	2. (of a phrase or expression) so regularly used as to be automatic or hackneyed.)
 stoke		vt.	增大，促进
@@ -2863,6 +2872,7 @@ hobble		vt.	阻碍，限制	# 跛行；捆缚（动物，尤指马等的）两�
 humiliate	vt.	羞辱
 	humiliation	n.	耻辱
 idle		a.	闲置的；懒散的；	v. 懒散度日
+recumbent	a.	躺倒的
 incumbent	a.	现任的，在职的
 	be incumbent on/upon sb		[FORMAL]
 	to be necessary for someone （某人）义不容辞；（某人）必须履行
@@ -3270,4 +3280,63 @@ premise		n.	前提，假定	vt. 假定...为先决条件，作为...的前提
 remunerate	vt.	酬劳，给...报酬		=award
 euphony		n.	悦耳之音
 	euphonious	a.
-asseveration	n.	
+asseveration	n.	断言，誓言(the solemn or emphatic declaration or statement of something)
+
+emphasis	n.	plural: emphases
+	emphatic	a.	坚决的，断然的(done or said in a strong way and without any doubt)
+	emphasize	vt.
+
+proclivity	n.	（不好的）癖好，倾向
+declivity	n.	斜坡，倾斜面
+
+voyeur		n.	窥淫癖者，偷窥者
+	voyeurism	n.
+
+broider		vt.	刺绣
+	embroider	vt.	（对故事等）添油加醋，添枝加叶
+
+consecrate	vt.	使神圣，给...祝圣
+desecrate	vt.	亵渎（神圣），玷污
+
+destine		v.
+	destined	a.	命中注定的；前往某地的；用于...用途的(be ~ for)；
+	destiny		n.
+	destination	n.
+	predestine	vt.
+		predestination	n.
+
+intellect	n.	智力；知识分子[FORMAL]；
+	intellectual	a.	智力的，脑力的；知识分子；
+		intellectual property	n.	知识产权
+		intellectualize	v.	（对…）作纯理性的探讨
+			# She couldn't stand all that pointless intellectualizing about subjects that just didn't matter.
+			# 她无法容忍对无关紧要的问题进行无意义的理论探讨。
+intelligent	a.	聪明的，有才智的
+	intelligence	n.	智力，智慧
+	intelligible	a.	（言语、文章）明白易懂的
+		unintelligible	a.	令人费解的
+
+fort		n.	堡垒，城堡，要塞
+	fortress	n.	城堡；堡垒；要塞；设防的地方
+	fortitude	n.	勇气，坚韧，刚毅	[FORMAL]
+
+valor		n.	勇气，英勇
+	valorous	a.	勇敢的，英勇的	having or showing valor
+
+trick		n.	诡计，骗局；技巧，诀窍；	vt. 欺骗
+	tricky		a.	难办的，难对付的；狡猾的[old-fashioned]；
+	trickless	a.	真诚的，无欺诈的	free from tricks or trickery
+	tricker		n.	骗子
+	trickster	n.	骗子
+	trickery	n.	欺骗，欺诈
+
+grim		n.	忧愁的，令人沮丧的
+	grimy		a.	肮脏的
+
+flight		n.	逃跑，逃避
+	flighty		a.	（尤指女子）轻浮的，不负责任的，反复无常的
+		# a flighty young woman 轻浮的年轻女子
+
+omit		vt.	省略；遗漏；
+	omissive	a.
+	omission	n.

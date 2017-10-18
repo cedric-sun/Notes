@@ -37,6 +37,13 @@ ruffle
 
 lacerate
 macerate
+
+vicarious
+voracious
+veracious
+vociferous
+invidious
+
 # hints
 condole: to show sympathy and sadness for the family or friends of a person who has recently died
 
@@ -52,3 +59,15 @@ convalesce
 faction
 	factious
 facetious
+
+moratorium
+respite
+
+resplendent
+splendid
+refulgent
+effulgent
+
+indigenous
+vernacular
+

@@ -613,3 +613,7 @@ Time slipped away from me.
 	进退维谷，左右为难；陷于窘境
 		UN troops are in a cleft stick: something has to be done for the civilian population, yet to retaliate would surely be the spark to ignite all-out war.
 		联合国军队进退两难：为了平民不得不采取行动，可是还击势必会引发全面战争。
+
+embark on/upon sth	[FORMAL]
+	to start something new or important 开始，着手做（新的或重要的事情）
+		We're embarking upon a new project later this year.  今年晚些时候我们会启动一个新项目。

@@ -44,6 +44,18 @@ veracious
 vociferous
 invidious
 
+racy
+rosy
+	rosette
+
+bonus
+bounty
+
+statue
+stature
+statute
+
+
 # hints
 condole: to show sympathy and sadness for the family or friends of a person who has recently died
 

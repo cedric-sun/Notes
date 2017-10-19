@@ -97,6 +97,8 @@ voluptuous	a. （女人）性感的	a. 感官上令人愉悦的 [LITERARY]
 	voluptuary	n.	沉溺奢华和感官享受的人(sensualist, sybarite)
 bawd		n.	鸨母
 	bawdy		adj.	淫秽的，下流的
+prostitute	v.	卖淫
+	prostitution		n.	卖淫
 salacious	a.	淫荡的，好色的
 	salaciously	adv.
 	salaciousness	n.
@@ -575,7 +577,7 @@ gratify		v.	使高兴，使满意
 	gratitude	n.	感激的心情
 		in-		n.	不感激->忘恩负义
 	gratuity	n.	小费，赏钱
-		gratuitous	a.	（工作）无报酬的；（人）不求报酬的；（商品）免费的；无理由的，无根据的；（不良行为）不必要的，无谓的；
+		gratuitous	a.	（工作）无报酬的；（人）不求报酬的；（商品）免费的；无理由的，无根据的；（不良行为）不必要的，无谓的；无根据的，无保证的(unwarranted)；
 	ingratiate	v.	为...赢得好感(usual: A ingratiate A-self with B = A讨好B)
 		ingratiating	a.	[贬]迎合的，奉承的
 		ingratiation	n.
@@ -602,11 +604,12 @@ object		n.	目的，目标	vi. 反对
 		objectionable	a.	令人反感的
 
 convivial	a.	友好的；欢乐的，愉悦的 a convivial atmosphere/host 欢乐的气氛／热情的主人
-recompense	n.	支付，酬谢，报答；补偿
 requite		vt.	回报（报答或报仇）
 	requital	n.
 	unrequited	a.	无回报的；（爱情）单方面的，得不到回报的，单相思的；
 compensation	n.	补偿
+recompense	n.	支付，酬谢，报答；补偿
+remunerate	vt.	酬劳，给...报酬		=award
 
 unearned	a.	不劳而获的
 grain		n.	颗粒
@@ -1231,9 +1234,6 @@ supple		a.	易弯的；顺从的；灵活的；
 
 contumacious	a.	不服管束的，倔强的
 insubordinate	a.	不顺从的，不听话的
-
-prostitute	v.	卖淫
-	prostitution		n.	卖淫
 
 obsequious	a.	谄媚的，奉承的 [FORMAL]
 	obsequiousness		n.
@@ -2197,7 +2197,7 @@ gladiator	n.	（古罗马）角斗士
 	gladiatorial	a.	你死我活的；狭路相逢的 		gladiatorial combat 你死我活的战斗
 
 heirloom	n.	传家宝，祖传之物
-inculcate	vt.	反复灌输，谆谆教诲	[FORMAL]
+inculcate	vt.	反复灌输，谆谆教诲(indoctrinate)	[FORMAL]
 
 
 
@@ -2498,7 +2498,7 @@ scalp		vt.	买黄牛票	UK tout
 	scalper		n.	黄牛
 
 deed		n.	（尤指很坏或很好的）事情，行为
-redeem		vt.	挽回，弥补；赎回；[Christianity]救赎；
+redeem		vt.	挽回，弥补；赎回；[Christianity]救赎；		(salvage)
 	redemption	n.	补救，弥补
 		be beyond/past redemption	to be too bad to be improved or saved by anyone 无可挽回；无可补救；不可救药
 	redemptive	a.
@@ -3277,7 +3277,6 @@ premise		n.	前提，假定	vt. 假定...为先决条件，作为...的前提
 	# He premised his argument on several incorrect assumptions.
 	# 他把自己的论证建立在了几个错误的假设之上。
 
-remunerate	vt.	酬劳，给...报酬		=award
 euphony		n.	悦耳之音
 	euphonious	a.
 asseveration	n.	断言，誓言(the solemn or emphatic declaration or statement of something)
@@ -3340,3 +3339,24 @@ flight		n.	逃跑，逃避
 omit		vt.	省略；遗漏；
 	omissive	a.
 	omission	n.
+
+allege		vt.	（未经证实地）指责，宣称，指控		[FORMAL]
+	alleged		a.	被说成的，（尤指在证据不足的情况下）被指控的
+	allegation	n.	（未经证实的）指责，指控
+
+recede		v.	后退；逐渐远离；
+	recess		n.	休会期；幽深隐秘之处(a secret or hidden place)；
+	recession	n.	后退；（经济）衰退；
+	recessive	a.	后退的；（基因）隐形的；（性格）内向的；
+
+tingle		vi.	感到刺痛(tingle with)	n. 刺痛		指微小的刺痛感，上至寒风刺痛面颊，下至麻麻的感觉，figuratively，可指“刺痛般地感到一阵阵激动或恐惧”
+	# My fingers and toes are tingling with the cold.  我的脚趾和手指冻得刺痛。
+	# There's a line in that poem that makes my spine tingle every time I read it.  每当我读起那首诗，里面有一行诗句总是让我感到激动不已。
+	# She tingled with fear as she entered the dark alleyway.  她走进那黑暗的小巷时，感到一阵阵恐惧。
+	tingly		a.	
+
+stumble		vi.	绊倒，摔倒
+
+republic	n.	共和国
+	republican	n.	共和主义者	a. 共和的，共和国的
+		Republican	n.	美国共和党党员

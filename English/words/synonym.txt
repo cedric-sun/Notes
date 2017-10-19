@@ -1,3 +1,7 @@
+专家学者资深人士
+	pundit
+	savant
+	doyen
 格言
 	aphorism
 	euphorism
@@ -632,12 +636,13 @@
 	detritus(尤指碎岩)
 	debris
 
-天生的
+天生的，内在的
 inborn
 innate
 inherent
 instinctive
 intrinsic
+# immanent
 
 推测/假设
 	postulate	v./n.	假设

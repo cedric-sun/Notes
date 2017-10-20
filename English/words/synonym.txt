@@ -1,3 +1,33 @@
+传染的
+	contagious
+	infectious
+	catching
+不可避免的
+	inevitable
+	ineluctable
+
+暂停，暂缓
+	moratorium
+	respite
+
+恢复，康复，修复
+	recuperate
+		recuperative	=restorative
+	rehabilitate
+	convalesce
+
+半透明的
+	translucent
+	semiopaque
+
+文盲
+	illiterate	n.	文盲（人）
+		illiteracy	n.	the fact of being unable to read or write; a situation in which someone knows little or nothing about a particular subject.
+			# computer illiteracy
+	unlettered	a.	无教育的，文盲的
+	uninformed	a.	信息贫乏的，不了解情况的；无知的；
+		the uninformed	n.	people who do not have much information or knowledge about something
+
 专家学者资深人士
 	pundit
 	savant
@@ -180,6 +210,7 @@
 	bland
 	vapid
 	insipid
+	humdrum
 
 谨慎的，仔细的
 	punctilious	a.
@@ -342,6 +373,11 @@
 		apocalyptic
 	maelstrom	//mael-strom: NOT `storm`
 
+鄙视
+	despise
+		despicable
+	contempt
+		contemptible
 轻视，鄙视
 	scorn
 	disdain
@@ -522,10 +558,6 @@
 	compelling
 	arresting
 	intriguing	(因奇怪、不寻常或神秘而)令人着迷
-
-可鄙的	adj.
-	despicable
-	contemptible
 
 有害的	adj.
 	pernicious	a.	(极其)有害的
@@ -708,9 +740,13 @@ intrinsic
 	ravage
 	devastate
 
-辉煌的
+辉煌的，灿烂的
 	gorgeous
 	magnificent
+	resplendent
+	splendid
+	refulgent
+	effulgent
 
 裂缝
 	rift
@@ -748,6 +784,7 @@ overweening	a.	傲慢的；自负的；过于自信的
 
 =================================================
 carp		vi.	挑剔			carp about something
+	captious	a.	挑剔的，吹毛求疵的
 cavil		v.	挑剔			cavil about something
 faultfinder	n.	吹毛求疵的人
 fastidious	a.	挑剔的

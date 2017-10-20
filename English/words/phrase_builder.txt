@@ -14,6 +14,13 @@ wrap up [US INFORMAL]
 	to bring to an end; make final; conclude; settle	结束，做完，圆满完成
 	to give a concluding, summarizing statement, report, etc.	总结，概括	=recapitulate
 
+wind sth up
+	使...结束
+		I think it's about time we wound this meeting up.
+		我看我们该结束这次会议了。
+		We need to wind up now, we only have five minutes left.
+		我们现在得结束了，只剩5分钟的时间了。
+
 be not sb's cup of tea
 	非某人所喜好，对...不感冒
 		Thanks for inviting me, but ballet isn't really my cup of tea.  谢谢你邀请我，不过我不大喜欢看芭蕾。
@@ -617,3 +624,11 @@ Time slipped away from me.
 embark on/upon sth	[FORMAL]
 	to start something new or important 开始，着手做（新的或重要的事情）
 		We're embarking upon a new project later this year.  今年晚些时候我们会启动一个新项目。
+
+(be) contingent on/upon sth
+	depending on something else in the future in order to happen
+	视...而定的；因...而变的；取决于...的；
+		Outdoor activities are, as ever, contingent on the weather.
+		同以前一样，室外布置依天气而定。
+		Our success is contingent upon your support.
+		我们的成功有赖于你的支持。

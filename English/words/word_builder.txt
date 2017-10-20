@@ -59,7 +59,6 @@ pharmacy    	n.  	药剂学；药店
 	pharmacologist	n.	药理学家
 	pharmaceutical	a.	制药的	n. 药剂，药品	the pharmaceutical industry 制药业
 
-contemptible    a.  	卑劣可鄙的   ->adv.  contemptibly
 dais		n.	讲台
 	# althrough I don't reckon there exist any logically derivations...
 	daisy   	n.  	雏菊  ->pl.   daisies
@@ -83,7 +82,9 @@ repugnant	adj.	令人反感的(disgusting)；矛盾的，不一致的(=incompati
 expunge		vt.	删除，抹去
 impugn		vt.	抨击
 oppugn		vt.	反对；质疑；
+
 pungent		a.	（气味）刺鼻的	（话语或文章）尖刻的
+	pungency	n.	（气味）刺激性，强烈性
 
 hatred		n.	仇恨，憎恨
 disposition	n.	性格；倾向；
@@ -161,6 +162,11 @@ prude		n.	过度关注行为是否端庄得体的人，过分拘谨的人
 
 affect		vt.	影响；假装；
 	affectation	n.	做作，装模作样
+	disaffected	a.	（对权威）不满的，叛逆的(=rebellious)
+	unaffected	a.	未受影响的；真诚的(=genuine)；
+	affection	n.	爱
+		affectionate	a.	表示爱的，深情的
+
 
 attentive	a.	（听或读）仔细的，认真的(rapt)；关心的，体贴的(=solicitous)
 
@@ -797,7 +803,7 @@ penitent	a.	（感到）悔悟的，悔改的
 	penitence	n.
 	penitency = penitence
 	penitential	a.	（和）悔悟（有关）的
-	penitentiary	n.	监狱
+	penitentiary	n.	监狱	US SLANG: pen
 
 tantalize	vt.	吊胃口，使...干着急
 	tantalization		n.
@@ -855,7 +861,7 @@ lu-, lumin- = light(Latin)
 
 	lucid		a.	清晰明了的，易懂的
 		lucidity	n.
-		pellucid	a.	清澈透明的，易懂的；
+		pellucid	a.	清澈透明的，易懂的；	ANTO: turbid
 		elucidate	v.	阐明，解释
 
 	luminous	a.	发光的
@@ -1380,9 +1386,9 @@ fiery		a.	燃烧的；火红的；辛辣的；充满强烈感情的，激烈的�
 		fiercely	adv.
 
 stamp		v.	（重）踩，踏
-tramp		v.	（重）踩，踏	US also tromp
 tread		v.	踩，踏
-trample		v.	践踏；侵犯；
+tramp		v.	（重）踩，踏	US also tromp
+	trample		v.	践踏；侵犯(trample on/over/upon the rights of others)；
 spurn		v.	（重）践踏(=trample)；轻蔑地拒绝；
 # spur-表示踢，spur马刺在靴子上
 
@@ -1598,9 +1604,6 @@ phlegm		n.	痰；冷静，沉着[FORMAL]；	[希波克拉底气质论]粘液质-
 		phlegmatically	adv.
 # choleric
 # melancholic
-
-tractable	a.	（情况）易处理的；温顺的，（人）易管教的，易说服的	[FORMAL]
-	intractable	a.	棘手的；难管教的；	[FORMAL]
 
 
 nice		a.	细微的，微妙的	[FORMAL] based on very slight differences
@@ -2147,9 +2150,6 @@ detonate	v.	引爆，（使）爆炸
 auspicious	a.	吉利的，吉祥的	suggesting a positive and successful future
 advantageous	a.	=favorable	有利的
 
-disaffected	a.	（对权威）不满的，叛逆的(=rebellious)
-unaffected	a.	未受影响的；真诚的(=genuine)；
-
 grudge		n.	怨恨		refer to: rancor
 	grudging	a.	不情愿的
 resent		vt.	怨恨，对...感到不满
@@ -2325,6 +2325,9 @@ suffrage	n.	投票权
 sovereignty	n.	主权，统治权
 populism	n.	民粹主义
 	populist	n.
+elite		n.	精英
+	elitism		n.	精英主义（认为精英应掌权）
+		elitist		n.
 safeguard	vt. n.	保卫，维护，捍卫
 	safeguard against sth
 		# to do things that you hope will stop something unpleasant from happening 预防，避免
@@ -2426,6 +2429,7 @@ unblemished	a.	清白的，无瑕疵的，（名誉）未受损的
 
 solute		n.	溶质
 solvent		n.	溶剂	a. 有溶解力的（能溶解别的物质） a. 可溶解的（能在别的物质中溶解） a. 有偿还能力的
+	insolvent	a.	破产的（无偿还能力的）
 solution	n.	溶液
 
 philately	n.	集邮	Greek "ateleia": tax exemption: a stamped letter frees the recipient from paying the mailing charges
@@ -2434,7 +2438,7 @@ philately	n.	集邮	Greek "ateleia": tax exemption: a stamped letter frees the r
 candid		a.	（尤指对棘手或令人痛苦之事）率直的，坦诚的，直言不讳的
 	candor		n.
 
-remonstrate	vi.	抗议；反对；抱怨
+remonstrate	vi.	抗议，反对，抱怨
 	remonstrance	n.
 
 nuisance	n.	恼人的事物（或人）；麻烦的事物（或人）
@@ -2769,6 +2773,7 @@ bluff		a	（说话）过于直率的(blunt)	vt. n. 以假象欺骗，唬，蒙
 		# 	He's one of those people who is very good at bluffing their way out of trouble.  他属于那种善于蒙混过关摆脱麻烦的人。
 
 bogus		a.	伪造的，假的(counterfeit, sham, factitious)
+factitious	a.	虚假的，人为的	[FORMAL]
 brandish	vt.	威胁（或兴奋）地挥舞
 brim		n.	（容器的）边沿		v. 倒满，充满	-mm-
 bumble		vi	含糊不清地说
@@ -3008,7 +3013,6 @@ righteous	a.	正义的，公正的
 	self-righteous	a.	自诩公正的，自以为是的	[DISAPPROVING]
 		self-righteousness	n.
 surmise		vt. n.	推测	[FORMAL] I want knowledge, not belief, not surmise... - Ingmar Bergman
-factitious	a.	虚假的，人为的	[FORMAL]
 splinter	vi.	破碎
 rouse		vt.	宾语是人:rouse someone with some feeling
 	arouse		vt.	宾语是feeling: His words aroused a lot of interest.
@@ -3065,8 +3069,9 @@ ramification	n.	可能的后果(the possible results of an action)	=contingency
 burse		n.	钱包
 	disburse	vt.	拨（款），拿出（一部分资金）
 		# The local authorities annually disburse between £50 million and £100 million on arts projects.  当地政府每年都为艺术项目拨款5000万到1亿英镑。
-	reimburse	vt.	偿还；付还；补偿
-		reimbursement	n.
+	imburse		vt.	UK. to pay
+		reimburse	vt.	偿还；付还；补偿
+			reimbursement	n.
 rebate		n.	（尤指政府返还的）部分退款	a tax rebate
 refund		vt. n.	退款
 opium		n.	鸦片
@@ -3104,6 +3109,7 @@ reminisce	vi.	（对愉快的往事）追忆，回忆，缅怀	[FORMAL]
 		reminiscences	n.	回忆录
 ploy		n.	计谋，策略
 bid		v.	（尤指在拍卖中）出价，竞标	n. 投标，申办
+	bidding		n.	出价
 enliven		vt.	make (something) more ENTERTAINING, INTERESTING; make someone more cheerful aor animated
 
 disinter	vt.	（从坟墓中）掘出
@@ -3204,6 +3210,10 @@ quixotic	a.	堂吉诃德式的异想天开	Don Quixote
 	quixotism	n.
 orwellian	a.	奥威尔式的恐怖独裁政治	George Orwell
 	orwellism	n.
+utopian		a.	乌托邦式的不切实际、空想
+	utopia		n.
+dystopian	a.	反乌托邦式的糟糕社会
+	dystopia	n.
 
 move
 	motive		a.
@@ -3360,3 +3370,95 @@ stumble		vi.	绊倒，摔倒
 republic	n.	共和国
 	republican	n.	共和主义者	a. 共和的，共和国的
 		Republican	n.	美国共和党党员
+
+tone
+	monotone
+		monotonous
+
+gravel		n.	石子，砾石	# a gravel path	# 和grave不同源
+grave		a.
+	engrave		v.	铭刻(inscribe)
+	gravity		n.
+		graviton	n.	万有引力（力）
+		gravitate	vi.	受吸引
+			# gravitate toward sth/sb	# 受吸引到...
+			gravitation	n.	万有引力（现象）
+				gravitational	a.
+
+tractor		n.	拖拉机
+	traction	n.	牵引，牵引力
+	tractive	a.	牵引的	used for pulling or drawing
+	tractable	a.	（情况）易处理的；温顺的，（人）易管教的，易说服的	[FORMAL]
+		intractable	a.	棘手的；难管教的；	[FORMAL]
+condole		v.	to show sympathy and sadness for the family or friends of a person who has recently died
+
+snob		n.	势利小人(someone who tends to criticize, reject, or ignore people who come from a lower social class, have less education, etc., one who blatantly imitates, fawningly admires, or vulgarly seeks association with those regarded as social superiors)
+	snobbish	a.	势利的
+		snobbishly	adv.
+	snobbery	n.	势力，虚荣
+
+contemn		v.	鄙视，蔑视
+	contempt	n.	鄙视，蔑视
+	contemptible	a.	可鄙的
+		contemptibly	adv.
+	contemptuous	a.	轻蔑的
+
+inflict		vt.	使遭受，使承受
+
+vacuum		n.	真空；空白，缺乏；真空吸尘器；	v. 用真空吸尘器清扫
+	# in a vacuum		与世隔绝
+	vacuous		a.	空洞的，无知的 not expressing or showing intelligent thought or purpose
+	vacant		a.	空的，未被占用的；（职位）空缺的；无聊的，茫然的；
+
+draw	v.
+	# 1. 画
+	# 2. 吸引	draw somebody's attention/eyes
+	# 3. 作，得出	draw a comparison, draw a conclusion
+	# 4. 移动，行进
+	# 	The train slowly drew in/into the station.
+	# 	draw near/close	靠近
+	# 	draw to a close/an end 即将结束，即将完成
+	# 5. 引起，激起
+	# 	Her speech last night in the Senate drew an angry response.
+	# 5. 拉，拽
+	# 	She drew her coat tightly around her shoulders.
+	# 	draw the curtains
+	# 6. 拿出，拔出（武器）
+	# 	Suddenly he drew a gun/knife and held it to my throat.
+	# 7. 流出（血）
+	# 	He bit me so hard that it drew blood.
+	# 8. 得到，获得（感觉） to get a feeling
+	# 	She drew comfort from the fact that he died peacefully.
+	# 9. 吸气
+	# 	She drew a deep breath and plunge into the water
+	# 10. 平局，战平
+	# 	He drew 1-1 with her in the semifinal.
+
+divine		a.	神圣的
+	divinity	n.	神性；神；
+	divination	n.	占卜
+
+destitute	a.	赤贫的，一贫如洗的
+	destitution	n.
+moron		n.	蠢人，傻子，笨蛋	[INFORMAL]
+	moronic		a.	非常愚蠢的 very stupid
+
+sonic		a.	声音的，音速的
+	supersonic	a.	超音速的
+	sonorous	a.	(声音)浑厚的	a sonorous sound is deep and rich
+		sonority	n.
+		sonorousness	n.
+
+# Prac07
+shimmer		vi.	发出微弱的闪光，闪烁	n. 微弱的闪光，闪烁
+scuttle		vt.	阻止，破坏，阻挠
+panel		n.	专家小组
+exemplar	n.	榜样
+lengthy		a.	漫长的，长久的
+manifesto	n.	宣言
+narrow-minded	a.	lacking in tolerance or breadth of vision, not willing to accept opinion, beliefs, or behaviors that are unusual or different from your own
+ascertain	vt.	弄清，确定
+swell		v.	肿，肿胀；（声音）变大，变响亮；
+	groundswell	n.	（群体情绪的）迅速高涨
+		# 1. a violent swelling or rolling of the ocean, caused by a distant storm or earthquake
+		# 2. a rapidly growing wave of popular sentiment, opinion, etc.

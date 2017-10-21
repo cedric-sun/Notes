@@ -63,7 +63,8 @@ peel
 faction
 	factious
 facetious	爱开玩笑的
-factitious	虚假的
+factitious	人为的（区别于自然的，天然的）&->虚假的
+fictitious	虚假的
 fractious	易怒的
 
 # dingus

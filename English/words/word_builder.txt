@@ -136,6 +136,7 @@ impotent	a.	无能的，无力的；阳痿的
 tertiary	a.	[FORMAL]第三的；(primary secondary tertiary quaternary quinary senary septenary octonary nonary denary)
 marmalade	a.	果酱，橘子酱（涂在面包上吃，通常在早餐食用）
 	marmalade cat	n.	(UK.)橘猫 = US. red tabby cat / orange tabby cat
+feline		a.	猫科的；似猫的；	n. 猫科动物
 eponym		n.	名祖，名字被用于命名其他事物的人，
 	eponymous	a.	（人物与作品标题）同名的
 
@@ -638,6 +639,7 @@ temper		n.	脾气，性情	vt. 使缓和	I learned to temper my criticism.  我�
 		temperance	n.	自我克制，节制（如戒酒、节食等）
 		temperament	n.	性情，气质
 			temperamental	a.	喜怒无常的；性情的；（机器）性能不稳定的
+				temperamentally	adv.	# She seemed temperamentally suited to the study of logics, given her bent for analyzing intricate arguments.
 		temperature	n.	温度
 
 # tempor-: time(latin)
@@ -817,6 +819,7 @@ venerate	vt.	尊敬 [FORMAL]
 		Venerable	n.	（天主教）尊者；（佛教）法师 [均为尊称]
 	veneration	n.
 
+veil		n.	面纱，面罩
 vile		a.	邪恶的；可耻的；极令人厌恶的
 	revile		vt.	谩骂，辱骂[FORMAL]
 		revilement	n.
@@ -1149,6 +1152,8 @@ treachery	n.	背叛[FORMAL]
 	treacherous	a.	背信弃义的；（因环境恶劣）极端危险的；
 
 trench		n.	壕沟，战壕
+	entrench	vt.	使处于牢固地位（挖战壕->使阵地稳固->使地位稳固）
+		entrenched	a.	牢固确立的，根深蒂固的
 trenchant	a.	（批评）尖刻的		（观点）一针见血的，入木三分的
 
 
@@ -1822,8 +1827,9 @@ prevail		vi.	胜出，占上风，占优势；流行，盛行；
 fortuante	a.
 	unfortunate	a.	不幸的；[FORMAL] （言论或行为）令人尴尬的，不恰当的，得罪人的
 
-felicitous	a.	令人愉快的(~ weather, =pleasant,delightful)；恰当的，贴切的；
-	infelicitous	a.	不恰当的，不合适的，令人尴尬的；*根本没有“不幸”的意思*
+felicity	n.	幸福；（文字的）贴切，恰当；	[Literary]
+	felicitous	a.	令人愉快的(~ weather, =pleasant,delightful)；恰当的，贴切的；
+		infelicitous	a.	不恰当的，不合适的，令人尴尬的；*根本没有“不幸”的意思*
 
 triumphant	a.	凯旋的；[Derivative] 洋洋得意的；
 
@@ -2413,6 +2419,7 @@ stale		a.	（通常指因久放）不新鲜的，走味的；陈旧乏味的；
 	staleness	n.
 	stalemate	n.	僵局
 deadlock	n.	僵局
+impasse		n.	僵局，绝境	a situation in which progress is impossible, esp. because the people involved cannot agree
 
 vent		n.	排气口		v.	发泄，表达
 	ventage		n.	=vent;管乐器（如竖笛）上用于通气的指孔；
@@ -2538,7 +2545,6 @@ animism		n.	泛灵论
 playful		a.	欢快的，爱玩的
 antithesis	n.	正相反，对立
 	antithetical	a.	相反的，对立的
-apportion	vt.	（尤指对过失、钱等）分担
 fiscal		a.	财政的
 
 attain		vt.	实现，获得 =achieve
@@ -3462,3 +3468,41 @@ swell		v.	肿，肿胀；（声音）变大，变响亮；
 	groundswell	n.	（群体情绪的）迅速高涨
 		# 1. a violent swelling or rolling of the ocean, caused by a distant storm or earthquake
 		# 2. a rapidly growing wave of popular sentiment, opinion, etc.
+# Prac08
+archipelago	n.	群岛	# the Hawaiian archipelago 夏威夷群岛
+plausible	a.	似真实的
+	implausible	a.	难以置信的
+		implausibility	n.	难以置信
+catharsis	n.	（感情的）宣泄
+	cathartic	a.	宣泄的
+credo		n.	信条，教义	=creed
+prospectus	n.	（学校或企业的）简介，章程
+celebrant	n.	参加者
+mariachi	n.	（墨西哥的）街头乐队；街头乐队的一员；街头音乐；
+piñata		n.	a decorated vessel (such as of papier-mâché) filled with candies, fruits, and gifts and hung up to be broken with sticks by blindfolded persons as part of especially Latin American festivities (as at Christmas or for a birthday party)
+folly		n.	愚蠢，蠢行	[FORMAL]
+wile		n.	诡计
+dispute
+	disputation	n.	异议，争议
+dumbfounded	a.	吓得目瞪口呆的	so shocked that you cannot speak
+	# also: dumbstruck
+enduring	a.	持久的
+miracle
+	miraculous	a.	奇迹般的
+defunct		a.	不复存在的，死亡的
+	# members of a now defunct communist organization
+given		prep.	考虑到，鉴于
+hinge
+	unhinge		vt.	使发狂，使精神错乱	unhinging
+		unhinged	a.	精神错乱的
+galaxy
+	galactic	a.	银河的；星系的；*巨大的*(astronomical)；
+		# a galactic sum of money
+apportion	vt.	（尤指对过失、钱等）分担
+	apportionment	n.
+expropriate	vt.	（尤指无偿充公）征用，没收(forfeit, confiscate)；（尤指个人非法）侵占，把...据为己有；
+	expropriation	n.	征用
+repay		vt.	偿还；报答，酬劳；
+	reparation	n.	赔偿，补偿，弥补	[FORMAL]
+spew		v.	（使）（液体或气体）喷出，涌出
+

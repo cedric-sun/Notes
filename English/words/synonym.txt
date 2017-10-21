@@ -1,3 +1,8 @@
+诡计，欺诈
+	subterfuge
+	wile
+	chicanery
+
 传染的
 	contagious
 	infectious
@@ -12,7 +17,7 @@
 
 恢复，康复，修复
 	recuperate
-		recuperative	=restorative
+		recuperative	=restorative, curative
 	rehabilitate
 	convalesce
 
@@ -240,6 +245,7 @@
 	entreat		vt.
 		entreaty	n.
 	supplicate
+	plead
 
 狂饮，痛饮
 	carouse

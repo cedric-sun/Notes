@@ -203,3 +203,17 @@ bibli- biblio-
 idio-
 	one's own
 		idiosyncrasy	n.	怪癖，癖好
+
+archi- arch-
+	primitive, original, primary
+		archenteron
+		archipelago	n.	群岛
+
+pelag- pelago-
+	sea
+		pelagial	a. n.	（开放式的）水体（区别于海岸和海床）
+		epipelagic	上层带		|
+		mesopelagic	中层带		|
+		bathypelagic	深层带		| 深度
+		abyssopelagic	深渊带		|
+		hadopelagic	超深渊带	V

@@ -632,3 +632,9 @@ embark on/upon sth	[FORMAL]
 		同以前一样，室外布置依天气而定。
 		Our success is contingent upon your support.
 		我们的成功有赖于你的支持。
+
+in that		[FORMAL]
+	because
+	因为，由于
+		This research is important in that it confirms the link between aggression and alcohol.
+		这项研究非常重要，因为它证实了攻击行为和酗酒之间的联系。

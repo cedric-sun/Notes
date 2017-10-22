@@ -1,3 +1,40 @@
+比作
+	liken
+	paragon
+
+假的
+	spurious
+	mendacious
+	bogus
+	factitious
+	fictitious
+	apocryphal
+
+长篇抨击性演说
+	diatribe
+	tirade
+	philippic
+	# jeremiad	a long list of complaints or problems
+	harangue
+节俭的
+	frugal
+	thrift
+		thrifty
+	sparing
+	economical
+	prudent
+	provident
+
+倾斜
+	list
+	tilt
+	careen
+
+英勇的
+	valor
+		valiant
+	gallant
+	prowess		n.
 诡计，欺诈
 	subterfuge
 	wile
@@ -81,7 +118,7 @@
 	dissect
 	antomize
 
-狂喜
+狂喜，极乐
 	ecstasy
 	euphoria
 	bliss
@@ -89,6 +126,7 @@
 	elatedness
 	elation
 	rapture
+	nirvana
 
 吝啬
 	parsimony	n.
@@ -151,6 +189,7 @@
 	extraneous
 	subliminal
 	trifling
+	picayune	a.	微不足道的，无价值的
 
 过剩，过量
 	glut
@@ -216,6 +255,7 @@
 	vapid
 	insipid
 	humdrum
+	drab
 
 谨慎的，仔细的
 	punctilious	a.
@@ -448,6 +488,7 @@
 微温的；不热心的，*冷淡的*；
 	tepid
 	lukewarm
+	halfhearted
 
 蹒跚而行
 	waddle
@@ -912,6 +953,9 @@ lethargic	a.	没精打采的，行动迟缓的(?)
 即兴
 	offhanded
 	extemporize
+	improvise
+		improvisation
+			improvisational
 
 假定，假设
 	posit

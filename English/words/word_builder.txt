@@ -31,7 +31,7 @@ alley		n.	小巷
 booth		n.	货摊；电话亭
 antenna		n.	天线；触角
 errand		n.	使命
-truncate	v.	截短，删节
+truncate	v.	（尤指去尾）截短，删节
 connotation 	n.	内涵
 charisma	n.	（人格）魅力，领导力
 debt		n.	债务
@@ -630,7 +630,7 @@ indemnify	vt.	保障，担保
 	indemnity	n.	保障，担保
 	indemnification = indemnity
 
-sparing		a.	节俭的
+sparing		a.	节俭的(frugal, prudent, provident)
 liquor		n.	烈酒		intoxicating liquor
 
 temper		n.	脾气，性情	vt. 使缓和	I learned to temper my criticism.  我学会了批评别人时语气要缓和些。
@@ -784,7 +784,7 @@ ignis fatuus	n.	鬼火，磷火
 vigil		n.	守夜		Vigil Knight 守夜骑士
 	vigilant	a.	警惕的，警觉的
 		vigilance	n.	警惕，警觉
-	vigilante	n.	（尤指认为警方无法维持治安而自发组织起来的）治安会会员，治安维持者
+	vigilante	n.	（尤指认为警方无法维持治安而自发组织起来的）治安会会员，治安维持者；法外执行者；
 
 vacillate	vi.	摇摆不定；犹豫不决；(to waver in mind, will, or feeling : hesitate in choice of opinions or courses)	*可以指物理上的摇摆*
 	vacillant	a. = vacillating
@@ -1302,7 +1302,7 @@ lenity		n.	仁慈 = clemency
 		lenience = leniency
 
 provide		v.
-	provident	a.	有远见的，未雨绸缪的[FORMAL]
+	provident	a.	谨慎的，有先见之明的；节俭的(prudent or economical)；	[FORMAL]
 		providence	n.	天意，天命；远见(noun for provident)；
 		providential	a.	（神谕般、天意般）幸运的
 	provision	n.	（粮食、物资的）供给(the act or process of providing)；条款(=proviso, stipulation)；准备，预防措施(=preparation)；
@@ -1437,7 +1437,7 @@ corona		n.	日冕，光晕	plural: coronae
 	coronal		a.	头冠的，冠状的
 	coronary	a.	冠状的
 	coronation	n.	加冕礼
-		accession	n.	登基，就职
+		accession	n.	登基，就职(esp. a king or queen)；正式加入（国际组织），签署（条约）；
 	coronet		n.	小王冠，a small crown
 	coronagraph	n.	日冕观测仪
 	coronograph = coronagraph
@@ -2062,6 +2062,7 @@ calc- calx	Latin: lime 石灰
 	calculus	n.	微积分；结石；		Latin: calculus = stone, pebble (used in reckoning)
 	calculate	v.	Latin calculatus, past participle of calculare, from calculus pebble (used in reckoning), perhaps irregular diminutive of calc-, calx lime
 		calculating	a.	工于心计的；精明的；狡猾的
+		calculated	a.	计划好的，蓄意的
 		calculation	n.	
 	chalk		n.	粉笔
 
@@ -2373,6 +2374,8 @@ flop		vi. n.	掉下，垂下	vi. n. 搞砸，失败
 	floppy		a.	松软的，耷拉的		n. 软盘
 slop		n.	软泥(slush)，雪水；稀软味差的食物(food that is more liquid than it should be and is therefore unpleasant)	v. （使）溢出，溅出
 	sloppy		a.	过稀的((of a substance) more liquid than it should be, often in a way that is unpleasant)；adj. 邋遢的，不整洁的 adj. 庸俗伤感的(appealing to the emotions in an obvious and tiresome way)
+		sloppily	adv.	潦草的
+			# sloppily written
 
 article		n.	*物品*；条款；
 
@@ -2603,7 +2606,6 @@ deluxe		a.	豪华的，高档的
 
 voluble		a.	话多的
 self-defeating	a.	适得其反的，自我拆台的
-shifty		a.	狡诈的，欺诈的
 shadow		vt.	尾随（影子 -> 如影随形）	v. 遮蔽，使变暗
 	overshadow	vt.	遮蔽；使黯然失色；
 shiftless	a.	没志气的，得过且过的
@@ -2681,7 +2683,7 @@ truculent	a.	好斗的，好战的
 traverse	vt.	穿越，穿过
 transitory	a.	短暂的
 trope		n.	比喻	（经常在文学艺术作品中被使用的）套路
-upbeat		a.	愉快的
+upbeat		a.	乐观的
 usher		vt.	开启（新时代）
 underscore	vt.	强调
 unflagging	a.	不懈的，（努力）不减少的 un-flag-ging
@@ -2741,7 +2743,6 @@ odium		n.	憎恨，厌恶	[FORMAL]
 antipathy	n.	厌恶
 	antipathetic	a.
 applicable	a.	适用的；相关的；
-apprehensive	a.	（对将要做的事情）担忧的，担心的
 assail		vt.	攻击，袭击	抨击	困扰，使苦恼	[FORMAL]
 	assailant	n.	攻击者，袭击者
 	assault		n.	assault	cuirass
@@ -2770,6 +2771,7 @@ beholden	a.	受惠于人的，欠人情的
 
 beige		a.	米色的		平淡无奇的
 belligerent	a.	好斗的，好战的		# 交战国的
+	# belligerence	n.	好斗性(pugnacity)
 beset		vt.	使烦恼		攻击，袭击
 bewitching	a.	迷人的
 bluff		a	（说话）过于直率的(blunt)	vt. n. 以假象欺骗，唬，蒙
@@ -2779,7 +2781,7 @@ bluff		a	（说话）过于直率的(blunt)	vt. n. 以假象欺骗，唬，蒙
 		# 	He's one of those people who is very good at bluffing their way out of trouble.  他属于那种善于蒙混过关摆脱麻烦的人。
 
 bogus		a.	伪造的，假的(counterfeit, sham, factitious)
-factitious	a.	虚假的，人为的	[FORMAL]
+factitious	a.	人为的，虚假的	[FORMAL]
 brandish	vt.	威胁（或兴奋）地挥舞
 brim		n.	（容器的）边沿		v. 倒满，充满	-mm-
 bumble		vi	含糊不清地说
@@ -2803,7 +2805,7 @@ clan		n.	宗族，氏族	团体，帮派
 comprehend	v.	理解；包含；
 apprehend	vt.	逮捕，拘捕；理解；
 	# Leonardo Lionheart: ... We need to be positive we can apprehends Spring (maiden), because if we fail, Raven and her tribe will scatter, and we will be lost.
-	apprehensive	a.	担心的，忧虑的
+	apprehensive	a.	担心的，忧虑的；敏锐的，有洞察力的；知道的，理解了的(cognizant)；
 	apprehension	n.	忧虑，恐惧；逮捕；理解；
 conflagrate	v.	（使）燃烧
 	conflagration	n.	大火灾；冲突，战火；
@@ -2812,7 +2814,7 @@ contemplate	v.	长时间思考，沉思，盘算(ruminate)
 	contemplated	a.	已考虑很久的
 convene		vt.	召集
 	reconvene	v.
-counterproductive	a.	适得其反的(backfiring)
+counterproductive	a.	产生相反效果的，适得其反的(backfiring)
 coy		a.	（尤指女性）害羞的
 crow		n.	乌鸦	v. 啼叫；自鸣得意，夸口；
 dashing		a.	自信潇洒的
@@ -2846,7 +2848,7 @@ explicate	vt.	详细解释，详细分析（作品或思想）
 extrapolate	v.	推断
 fad		n.	一时的风尚，短暂的狂热
 fancy		a.	花哨的
-	fanciful	a.	空想的，不切实际的
+	fanciful	a.	空想的，不切实际的(visionary, quixotic, utopian)
 feisty		a.	活跃的，好争论的(aggressive)
 figment		n.
 	a figment of sb's imagination （某人）凭空想象的事物，臆造的东西
@@ -2999,7 +3001,7 @@ umbrage		n.	（因感到被怠慢）生气	Usually: take umbrage
 unanimous	a.	一致同意的
 	unanimity	n.	一致同意
 avail		n	效果	vt. 帮助（某人）	A avail A-self of sth	利用sth
-	unavailing	a.	徒劳的，无结果的
+	unavailing	a.	徒劳的，无结果的(bootless, futile)
 vouchsafe	vt.	告知，给予	to tell or give something to someone
 wayward		a.	任性的，难管束的
 weather		vt.	平安度过（困境）
@@ -3007,6 +3009,7 @@ willful		a.	固执的
 willy-nilly	adv.	不由分说地
 wilt		vi.	（植物）枯萎	（人）萎靡
 wily		a.	狡猾的
+shifty		a.	狡诈的，欺诈的
 wiretap		v. n.	窃听	-pp-: wiretapping	(eavesdrop)
 wistful		a.	伤感留恋的，怀念的
 wrest		vt.	辛苦地获得；夺取，抢走；
@@ -3015,6 +3018,7 @@ deliberate	a.	（坏事）故意的；深思熟虑的；	vt. 慎重考虑，仔�
 	deliberation	n.	考虑，讨论（尤指陪审团）
 result		vi.	发生=happen	Something results. 一些事发生了。
 righteous	a.	正义的，公正的
+	unrighteous	a.	不公正的
 	righteousness	n.
 	self-righteous	a.	自诩公正的，自以为是的	[DISAPPROVING]
 		self-righteousness	n.
@@ -3022,6 +3026,7 @@ surmise		vt. n.	推测	[FORMAL] I want knowledge, not belief, not surmise... - I
 splinter	vi.	破碎
 rouse		vt.	宾语是人:rouse someone with some feeling
 	arouse		vt.	宾语是feeling: His words aroused a lot of interest.
+		arousal		n.
 
 palpitation	n.	心脏悸动，心动过速	the feeling that your heart is beating too quickly or not regularly
 ween		v.	想，认为
@@ -3029,6 +3034,7 @@ ween		v.	想，认为
 outrageous	a.	shocking and morally unacceptable	惊人的，离谱的
 provenance	n.	起源，出处	[FORMAL]
 malady		n.	病，疾病；弊病，问题；
+malaise		n.	不适，不舒服；（尤指对社会的）不满，无奈；	[FORMAL]
 purview		n.	（责任、权益或活动的）范围，权限
 
 salient		a.	突出的(EVEN PHYSICALLY: projecting beyond a line, surface, or level)，重要的	(salient facts/qualities)
@@ -3042,7 +3048,7 @@ platitude	n.	陈词滥调
 
 compartment	n.	（火车的）隔间
 	compartmentalize	vt.	划分，分隔
-fetish		n.	狂热（esp. 病态）的迷恋；（从某物或某部位获得性快感）恋物(foot fetish = podophilia)(Refer to: partialism)
+fetish		n.	狂热（esp. 病态）的迷恋；（从某物或某部位获得性快感）恋物(foot fetish = podophilia)(Refer to: partialism)；圣物，被奉若神明之物；
 stagy		a.	做作的，做戏似的，不自然的	(from: stage)
 
 emerge		v.
@@ -3056,7 +3062,7 @@ adjure		vt.	命令，要求(solemnly, often under oath or penalty)；恳求(entr
 
 barring		prep.	除...以外
 prognosis	n.	预测，展望
-hedge		vt.	限制		vi. 支吾其词，回避
+hedge		vt.	严格限制	vi. 支吾其词，回避
 
 venue		n.	地点，场所
 locus		n.	地点，场所
@@ -3078,7 +3084,7 @@ burse		n.	钱包
 	imburse		vt.	UK. to pay
 		reimburse	vt.	偿还；付还；补偿
 			reimbursement	n.
-rebate		n.	（尤指政府返还的）部分退款	a tax rebate
+rebate		vt.	减少	v. 退款	n. （尤指政府返还的）部分退款	a tax rebate
 refund		vt. n.	退款
 opium		n.	鸦片
 
@@ -3163,7 +3169,7 @@ foreshadow	vt.	预示
 chasten		vt.	（失败等）磨练，惩罚（人）	He was chasten by the failure and determined to work harder.
 mishandle	vt.	对...处理不当
 alarmist	n.	大惊小怪者
-animadversion	n.	批评，批评的言论	[FORMAL]
+animadversion	n.	批评(的言论)	[FORMAL]
 (the) wherewithal	n.	必要的资金
 hitch		n.	小故障(=glitch)
 	go (off) without a hitch
@@ -3495,14 +3501,92 @@ given		prep.	考虑到，鉴于
 hinge
 	unhinge		vt.	使发狂，使精神错乱	unhinging
 		unhinged	a.	精神错乱的
-galaxy
+galaxy		n.	群星闪耀的一群电影明星
 	galactic	a.	银河的；星系的；*巨大的*(astronomical)；
 		# a galactic sum of money
-apportion	vt.	（尤指对过失、钱等）分担
-	apportionment	n.
+portion		n.	一部分；（食物的）一份；
+	proportion	n.	比率，比例；份额；
+		blow sth out of proportion
+			# to treat a particular event or problem far too seriously
+			# 对（事情或问题）小题大做
+			# 	It's ridiculous - we have a tiny disagreement and you blow the whole thing out of proportion!
+			# 	太可笑了——我们只是有点小分歧，而你却把整件事闹得这么大！
+			# 	Of course, when the papers get hold of a story, it's blown out of all proportion.
+			# 	当然了，一旦报纸知道了一则传闻，就会大肆渲染一番。
+		proportional	a.	（与...）成比例的
+			proportionality	n.
+			disproportional	a.	不成比例的
+		proportionable	a.
+		proportionate	a.	=proportional
+			disproportionate	a.	不成比例的
+	apportion	vt.	（尤指对过失、钱等）分担
+		apportionment	n.
+
 expropriate	vt.	（尤指无偿充公）征用，没收(forfeit, confiscate)；（尤指个人非法）侵占，把...据为己有；
 	expropriation	n.	征用
 repay		vt.	偿还；报答，酬劳；
 	reparation	n.	赔偿，补偿，弥补	[FORMAL]
 spew		v.	（使）（液体或气体）喷出，涌出
+acknowledge	vt.	承认，认可
 
+economy		n.	经济；节俭，节约；
+	economic	a.	经济上的，和经济有关的；能盈利的，有利可图的；
+		Economics	n.	经济学
+	economical	a.	（人）节俭的；（商品）经济型的，省钱的；
+		(be) economical with the truth		[Humorous]
+			# avoiding stating the true facts about a situation, or lying about it
+			# 隐瞒真相
+thrift		n.	节俭，节约
+	thrifty		a.	节俭的，节约的
+cavalry		n.	骑兵；机械化部队；（总称）	Roman cavalry
+	cavalier	n.	骑士	a. 满不在乎的，漫不经心的
+	cavalcade	n.	
+infantry	n.	步兵，步兵团
+clamp		v.	
+
+cortex		n.	（大脑的或其他器官的）皮层	[pl. cortices]
+	# the celebral cortex
+	# visual cortex
+buzzword	n.	（尤指在电视或报纸上频繁使用的）时髦词语
+
+# Prac09
+progenitor	n.	先驱，前辈
+philippic	n.	=tirade, a discourse or declamation full of bitter condemnation
+overarching	a.	支配一切的，首要的
+picayune	a.	微不足道的，无价值的
+aplomb		n.	自信，沉着
+nose-count	n.	人口普查(=census)
+chronicle	vt.	记录；写入编年史；		n. 编年史(a historical record or register of facts or events arranged in the order in which they happened)；历史（泛指）；
+annals		n.	编年史(a written account of events year by year in chronological order)；
+rack		vt.	折磨	usually passive: be racked with
+bestow		vt.	给予，赠与
+
+gull		v.			n.
+	gullible	a.
+
+abound		vi.	大量存在
+	abound in/with sth
+		# If something abounds in/with other things, it has a lot of them.
+		# 有充足的…；富产…
+		# 	The coast here abounds with rare plants.
+		# 	这儿的海岸生长着大量稀有植物。
+foundation	n.	创建，建立；基金会；(~s)（房子的）地基；
+	be without foundation	[also `have no foundation`]
+		# to be untrue 无根据
+		# 	These allegations are completely without foundation.
+		# 	这些说法完全没有根据。
+	shake/rock sth to its foundations
+		# to seriously damage, upset, or change an organization or someone's beliefs
+		# 从根本上动摇（某一组织或信仰）
+		# 	The scandal has shaken the Democratic Party to its foundations.
+		# 	那件丑闻从根本上动摇了民主党。
+	lay the foundation(s) of/for
+		# to produce the basic ideas or structures from which something much larger develops
+		# 打下…的基础；为…打下基础
+		# 	The two leaders have laid the foundations of a new era in cooperation between their countries.
+		# 	两位领导人为两国合作的新纪元打下了基础。
+		# 	He helped to lay the foundations of English drama.
+		# 	他在奠定英国戏剧的基础方面做出了贡献。
+astringent	a.	尖刻的
+elastic		a.
+	elasticity	n.

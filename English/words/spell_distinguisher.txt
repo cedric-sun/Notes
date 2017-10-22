@@ -1,4 +1,25 @@
 # MIND SPELL
+boundless
+unbounded
+
+mumble
+murmur
+muffle
+
+unprecedented
+indispensable
+
+splinter
+splutter
+
+rabid
+ribald
+
+extravagant
+extraneous
+exasperate
+exacerbate
+
 shrub
 shrug
 shred
@@ -10,6 +31,7 @@ hoard
 bulge
 bugle
 budge
+bungle
 
 crave
 craven
@@ -40,6 +62,8 @@ lacerate
 macerate
 
 vicarious
+vivace
+	vivacious
 voracious
 veracious
 vociferous

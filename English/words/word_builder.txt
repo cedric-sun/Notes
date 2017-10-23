@@ -67,7 +67,7 @@ contrive    	vt. 	发明；谋划
 	contrived	a.	人为的，不自然的
 devise		vt.	发明，设计
 stray   	v.  	迷路；跑题；走神；
-panacea    	n.  	灵丹妙药/万能之计
+panacea    	n.  	灵丹妙药/万能之计	elixier
 meltdown    	n.  	（尤指金融方面的）灾难     financial/economic/market meltdown 金融／经济／市场崩溃
 societal    	a.  	社会的	from society
 tailor  	v.  	裁剪  n.  裁缝
@@ -546,8 +546,13 @@ nocuous		a.	[rare]
 poisonous	a.
 
 announce	vt.	宣布，声明
+	announcement	n.	公告，通告
+	annunciation	n.	宣布（这一行为本身）；
 renounce	vt.	宣布放弃
+	renouncement	n.
+	renunciation	n.	
 denounce	vt.	谴责；检举告发；
+	denunciation	n.	谴责；检举告发；
 
 licit		a.	合法的
 	illicit		a.	不合法的
@@ -617,6 +622,8 @@ requite		vt.	回报（报答或报仇）
 compensation	n.	补偿
 recompense	n.	支付，酬谢，报答；补偿
 remunerate	vt.	酬劳，给...报酬		=award
+	remunerative	a.	有报酬的，有利可图的(lucrative)
+	remuneration	n.
 
 unearned	a.	不劳而获的
 grain		n.	颗粒
@@ -648,7 +655,13 @@ temporal	a.	时间的；尘世的，物质的（与spiritual相对）
 		contemporary	a.	当代的；同时代的；	n. 同时代的人，同辈
 	temporize	vi.	拖延(=procrastinate);妥协(=compromise)
 
-earthly		adj.	尘世的，世俗的(literary: happening in or relating to this world and this physical life, not in heaven or relating to a spiritual life); （用于疑问句或否定句中）可能的，能想到的 What earthly reason can she have for being so horrible to you?  她对你这么不友好，到底什么原因？
+earthy		a.	粗俗的；泥土的；
+earthly		adj.	尘世的，世俗的
+	# [Literary] happening in or relating to this world and this physical life,
+	# not in heaven or relating to a spiritual life
+	# （用于疑问句或否定句中）可能的，能想到的
+		# What earthly reason can she have for being so horrible to you?
+		# 她对你这么不友好，到底什么原因？
 
 secular		a.	世俗的，非宗教的(not having any connection with religion)
 
@@ -777,7 +790,9 @@ due		a.	预计的(What time is the next bus due?)；欠的，应给的(=owed)(£
 
 imminent	a.	临近的，即将发生的，迫在眉睫的
 inferior	a.	差的；下等（阶级）的	be inferior to 比...次
-	antonym: superior
+	inferiority	n.
+superior	a.
+	superiority	n.	优势，优越性；高傲自大，优越感；
 
 ignis fatuus	n.	鬼火，磷火
 
@@ -794,7 +809,7 @@ penal		a.	刑罚的，刑事的
 	penalty		n.	惩罚
 	penalize	vt.	惩罚
 
-penance		n.	忏悔	v. 迫使...忏悔
+penance		n.	忏悔	vt. 迫使...忏悔
 repent		vi.	后悔，忏悔
 	repentant	a.	悔悟的
 		unrepentant	a.	不思悔改的
@@ -1012,6 +1027,8 @@ forbear		vi.	克制，忍耐
 	forbearance	n.
 
 forebear	n.	祖先
+forefathers	n.	祖先	[Plural][Literary]
+progenitor	n.	祖先；先驱；
 
 scarcely	adv.	几乎不 = barely = hardly
 
@@ -1154,7 +1171,7 @@ treachery	n.	背叛[FORMAL]
 trench		n.	壕沟，战壕
 	entrench	vt.	使处于牢固地位（挖战壕->使阵地稳固->使地位稳固）
 		entrenched	a.	牢固确立的，根深蒂固的
-trenchant	a.	（批评）尖刻的		（观点）一针见血的，入木三分的
+trenchant	a.	（批评）尖刻的		（观点）一针见血的，入木三分的(incisive)
 
 
 # -duce和-duct没有任何直接联系，但是两者的名词形式都是-duction，所以同一个单词出现在了不同词根树上，词意叠加。
@@ -1288,7 +1305,7 @@ vary		v.	变化
 	variety		n.	多种多样
 	various		a.	多种多样的
 	variegate	v.	使...多样，画上杂色
-		variegated	a.	色彩斑驳的，有斑点的
+		variegated	a.	色彩斑驳的，有斑点的；多种多样的(=varied, various)；
 		variegation	n.
 
 liable		a.	[法]有责任的(=responsible)；很可能发生的（be liable to sth/to do sth)
@@ -1586,6 +1603,7 @@ numen		n.	守护神
 	numinous	a.	神圣的；神秘的，超自然的；
 
 communion	n.	（思想感情的）交流，沟通	[FORMAL]
+
 antecede	vt.	在...之前(=precede)	Latin: antecedere
 	antecedent	n.	（尤指作为后来存在或发生之事的起因或起源的）前事，前情，先例，前身		祖先
 antedate	vt.	早于	(formal word for `predate`)
@@ -1663,7 +1681,7 @@ eminent		a.	凸出的(=projecting, protruding, prominent)；杰出的，卓越�
 		prominence	n.
 			solar prominence	n.	日珥（太阳表面的火舌状焰柱）
 	preeminent	a.	杰出的，卓越的，强调凸出于众人的能力、才华或地位
-		preeminence	n.
+		preeminence	n.	优势，优越性(=dominance, preponderance)
 
 noteworthy	a.	值得注意的
 
@@ -2116,6 +2134,8 @@ boo
 whistle		口哨，吹口哨
 
 capacity	n.	容量；*职位，工作* [FORMAL]；
+capability	n.	能力
+
 decry		vt.	谴责，抨击(=condemn)	[FORMAL]
 	decrial		n.
 	decrier		n.
@@ -2139,6 +2159,8 @@ ambulate	vi.	走动(=walk)
 dismissive	a.	轻视的，轻蔑的
 pedant		n.	书呆子，过于关注不重要的细节和传统规则的人[DISAPPROVING]
 	pedantic	a.	书呆子气的，过于拘泥细节的
+bookish		a.	书呆子的
+
 embroil		vt.	使卷入（纷争）
 malleable	a.	具延展性的，易变形的(ductile)；易受外界影响的(=susceptible)；
 lionize		vt.	将...视作名人（常贬义，因为该人物实际上并不配）
@@ -2353,7 +2375,7 @@ peeve		vt.	惹恼
 rinse		v.	冲洗
 # -voke
 evoke		vt.	唤起（记忆或感情）
-	evocative	a.	（事物）唤起人记忆感情的(be ~ of)(see: `reminiscent`)
+	evocative	a.	（事物）唤起人记忆感情的(be ~ of)(see: reminiscent, redolent)
 revoke		vt.	撤回(re(back)+voke(call))，废除，解除
 convoke		vt.	召集开会
 	convocation	n.	大型会议
@@ -2582,7 +2604,9 @@ apothegm	n.	格言(short, pothy and instructive saying, =aphorism)
 mortify		vt.	使尴尬
 divide
 	division	n.	分歧；部门，小组；分配；
-	divisive	a.	有争议的
+	divisive	a.	产生分歧的，引起争议的
+		# Abortion has always been a divisive issue.
+		# 堕胎一直是个引起争议的问题。
 
 art		n.	技巧	a skill or special ability
 	artful		a.	精明的，巧妙的(clever and skillful)；狡猾的(sly or cunning, =crafty, disingenuous)
@@ -2769,9 +2793,9 @@ bohemian	n.	放荡不羁的文化人	# 波西米亚人	# Bohemia
 bash		vt.	猛打	抨击
 beholden	a.	受惠于人的，欠人情的
 
-beige		a.	米色的		平淡无奇的
-belligerent	a.	好斗的，好战的		# 交战国的
-	# belligerence	n.	好斗性(pugnacity)
+beige		a.	米色的；平淡无奇的；
+belligerent	a.	好斗的，好战的(militant)		# 交战国的
+	belligerence	n.	好斗性(pugnacity)
 beset		vt.	使烦恼		攻击，袭击
 bewitching	a.	迷人的
 bluff		a	（说话）过于直率的(blunt)	vt. n. 以假象欺骗，唬，蒙
@@ -2815,7 +2839,7 @@ contemplate	v.	长时间思考，沉思，盘算(ruminate)
 convene		vt.	召集
 	reconvene	v.
 counterproductive	a.	产生相反效果的，适得其反的(backfiring)
-coy		a.	（尤指女性）害羞的
+coy		a.	（尤指女性）害羞的(timid, timorous, bashful)
 crow		n.	乌鸦	v. 啼叫；自鸣得意，夸口；
 dashing		a.	自信潇洒的
 debonair	a.	（尤指男人）有魅力的
@@ -2969,7 +2993,11 @@ Latin: nasci = to be born
 		nascence	n.
 		renascent	a.	复活的，复兴的(=reviving)
 	renaissance	n.	复兴	the Renaissance 文艺复兴
+	reconnaissance	n.	侦查
+		# Aerial reconnaissance of the enemy position showed they were ready to attack.
+		# 对敌人阵地进行的空中侦察显示，敌军已经做好了进攻的准备。
 	nation
+reconnoiter	v.	侦察，勘察
 
 retention	n.	保留，保持	The retention of old technology has slowed the company's growth.  死守着旧技术不放减缓了这家公司的发展。
 	retentive	a.	记忆力强的
@@ -3090,6 +3118,10 @@ opium		n.	鸦片
 
 lateral
 	collateral	n.	担保品，抵押品		a. 附带的，次要的
+		# collateral damage
+		# 	during a war, the unintentional deaths and injuries of people who are not soldiers, and damage that is caused to their homes, hospitals, schools, etc.
+		# 	（战争中的）附带性破坏，附带损害
+
 fiance		n.	未婚夫
 fiancee		n.	未婚妻
 patron		n.
@@ -3187,6 +3219,7 @@ cosmetic	a.	表面的，肤浅的，无实质的(=superficial)；化妆的；
 
 correspond	vi.	相称，相对应(~ to/with)；通信(by letters or emails)(~ with)；
 	corresponding	a.	对应的，相应的
+	correspondent	n.	通讯员，记者；通信者，写信的人；
 	correspondence	n.	（尤指两个人之间的）通信；（两个事物之间的）关联，对应性；
 competence	n.	能力，才干
 establish	vt.	证明，解决（问题）(=prove)
@@ -3327,9 +3360,9 @@ destine		v.
 		predestination	n.
 
 intellect	n.	智力；知识分子[FORMAL]；
-	intellectual	a.	智力的，脑力的；知识分子；
+	intellectual	a.	智力的，脑力的		n. 知识分子；
 		intellectual property	n.	知识产权
-		intellectualize	v.	（对…）作纯理性的探讨
+		intellectualize	v.	（对...）作纯理性的探讨
 			# She couldn't stand all that pointless intellectualizing about subjects that just didn't matter.
 			# 她无法容忍对无关紧要的问题进行无意义的理论探讨。
 intelligent	a.	聪明的，有才智的
@@ -3550,12 +3583,11 @@ cortex		n.	（大脑的或其他器官的）皮层	[pl. cortices]
 buzzword	n.	（尤指在电视或报纸上频繁使用的）时髦词语
 
 # Prac09
-progenitor	n.	先驱，前辈
 philippic	n.	=tirade, a discourse or declamation full of bitter condemnation
 overarching	a.	支配一切的，首要的
 picayune	a.	微不足道的，无价值的
 aplomb		n.	自信，沉着
-nose-count	n.	人口普查(=census)
+nose-count	n.	人口普查(=census)	# demography
 chronicle	vt.	记录；写入编年史；		n. 编年史(a historical record or register of facts or events arranged in the order in which they happened)；历史（泛指）；
 annals		n.	编年史(a written account of events year by year in chronological order)；
 rack		vt.	折磨	usually passive: be racked with
@@ -3590,3 +3622,80 @@ foundation	n.	创建，建立；基金会；(~s)（房子的）地基；
 astringent	a.	尖刻的
 elastic		a.
 	elasticity	n.
+hitherto	adv.	迄今为止	[FORMAL]
+ergo		adv.	因此		[FORMAL]
+impede		vt.	妨碍，阻碍，阻止[FORMAL]
+	impediment	n.	障碍
+abode		n.	住所
+
+supplant	vt.	取代，代替 = to replace	[FORMAL]
+supplicate	v.	恳求
+	supplicant	n.	恳求者
+	suppliant	n.	= supplicant
+	supplication	n.
+
+deficit		n.	赤字，亏损
+	deficient	a.	不足的
+		deficiency	n.	不足，缺少；缺点；
+tag		v.	给...打上标签(=to label)；攻击，抨击(to strike or hit hard)；
+
+wig		n.	假发
+toupée		n.	男用假发
+crooked		a.	歪的，弯曲的；狡诈的，不诚实的；
+straightforward	a.	简单的，容易理解的；（人）直率的，坦诚的；
+
+# Prac10
+viscera		n.	内脏
+	visceral	a.	内脏的；非智力的，本能的；发自内心的；
+raiment		n.	衣服(=garment)
+stark		a.	简陋的；严重的，严酷的(=severe)；荒凉的，萧瑟的(bleak, desolate, barren)；	adv. 完全地(completely or extremely)
+derail		vt.	使火车出轨；阻挠；
+desolate	a.	荒芜的；孤单寂寞的；
+flotsam		n.	（冲到海滩上或在海面上漂浮的）碎木，零碎什物
+membrane	n.	膜
+	membranous	n.	膜的；薄膜一般的（透明纤薄）；
+	hymen		n.	处女膜		From Greek word `hymen`, means `membrane`
+filament	n.	细丝；（电灯的）灯丝；
+	# carbon filament 碳灯丝
+befell		v.	（事情）降临于某人，发生在某人身上
+	# Once you knew what befell the hero, you could foresee the fate of the villain.
+come forward	v.	站出来（提供信息或帮助）
+	If someone comes forward, they offer to do something or to give some information in response to a request for help.
+		A vital witness came forward to say that she saw Tanner wearing the boots.
+decimate	vt.	大量杀戮，大幅破坏(to destroy or kill a large part of)
+	# famine decimated the population
+	decimation	n.
+militant	a.	好战的
+outright	a.	完全的，彻底的		adv. 完全的，彻底的
+
+# Prac11
+tease		v.	取笑，戏弄
+diameter	n.
+	diametrically opposite	a.	（沿直径般）完全对立的，截然相反的
+antipodes	n.	地球上沿直径对立的两个地方；完全相反的两个事物；
+filial		a.	子女的(of a son or daughter)	[FORMAL]
+	# filial duty/respect/affection
+	# 子女的义务/尊敬/亲情
+
+opportunism	n.	机会主义，投机主义	# political opportunism 政治投机主义
+	# the art, policy, or practice of taking advantage of opportunities
+	# or circumstances often with little regard for principles or consequences
+	opportunist	n.	投机主义者
+interloper	n.	闯入者；干涉他人私事的人；
+imbecile	n.	笨蛋，蠢货
+desert		vt.	抛弃	v. 当逃兵，逃离部队
+	deserter	n.	逃兵；叛徒；
+flair		n.	天赋
+nihilism	n.	a viewpoint that traditional values and beliefs are unfounded and that existence is senseless and useless; a doctrine or belief that conditions in the social organization are so bad as to make destruction desirable for its own sake independent of any constructive program or possibility;
+	nihilist	a./n.
+	nihilistic	a.
+exercise	vt.	使用，行使，运用	[FORMAL]
+deceit		n.	欺骗
+	deceive		vt.
+	deceitful	a.	欺骗的
+		deceitfulness	n.	欺诈
+memoir		n.	传记
+magisterial	a.	威严的
+penetrator	n.	有洞察力的人
+clairvoyant	n.	先知
+

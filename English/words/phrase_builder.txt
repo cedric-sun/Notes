@@ -638,3 +638,11 @@ in that		[FORMAL]
 	因为，由于
 		This research is important in that it confirms the link between aggression and alcohol.
 		这项研究非常重要，因为它证实了攻击行为和酗酒之间的联系。
+
+revolve around sb/sth	[UK also `revolve round sb/sth`]
+	to have someone or something as the main or most important interest or subject
+	以...为中心，以...为主题，围绕...
+		The conversation revolved around childcare problems.
+		这次会谈的中心议题是儿童保育方面的问题。
+		His whole life revolves around football.
+		足球是他生活的中心。

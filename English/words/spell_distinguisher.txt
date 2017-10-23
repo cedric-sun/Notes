@@ -1,10 +1,24 @@
 # MIND SPELL
+futile
+facile
+
+tatty
+natty
+petty
+
+constrain
+restrain
+
+particularize
+???
+
 boundless
 unbounded
 
 mumble
 murmur
 muffle
+muddle
 
 unprecedented
 indispensable
@@ -90,6 +104,7 @@ facetious	爱开玩笑的
 factitious	人为的（区别于自然的，天然的）&->虚假的
 fictitious	虚假的
 fractious	易怒的
+infectious
 
 # dingus
 indigenous

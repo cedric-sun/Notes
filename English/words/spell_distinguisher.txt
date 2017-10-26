@@ -9,9 +9,6 @@ petty
 constrain
 restrain
 
-particularize
-???
-
 boundless
 unbounded
 

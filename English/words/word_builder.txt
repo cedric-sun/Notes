@@ -836,6 +836,8 @@ venerate	vt.	尊敬 [FORMAL]
 
 veil		n.	面纱，面罩
 vile		a.	邪恶的；可耻的；极令人厌恶的
+	vice		n.	邪恶，堕落；罪行；
+		vicious		a.	恶毒的，凶暴的
 	revile		vt.	谩骂，辱骂[FORMAL]
 		revilement	n.
 		reviler		n.
@@ -845,8 +847,6 @@ vile		a.	邪恶的；可耻的；极令人厌恶的
 		villainous	a.	邪恶的，极坏的
 turpitude	n.	邪恶，堕落
 iniquity	n.	邪恶，不公正
-vice		n.	邪恶，堕落；罪行；
-	vicious		a.	恶毒的，凶暴的
 
 heinous		a.	罪大恶极的，（罪行）滔天的
 	heinousness	n.
@@ -879,7 +879,7 @@ lu-, lumin- = light(Latin)
 
 	lucid		a.	清晰明了的，易懂的
 		lucidity	n.
-		pellucid	a.	清澈透明的，易懂的；	ANTO: turbid
+		pellucid	a.	清澈透明的(limpid)，易懂的；	ANTO: turbid
 		elucidate	v.	阐明，解释
 
 	luminous	a.	发光的
@@ -898,7 +898,8 @@ ludic		a.	活泼欢快的(=playful)
 	ludicrous	a.	愚蠢可笑的，荒谬的
 
 lurid		a.	（报道）耸人听闻的	(of description) presented in vavidly shocking or sensational terms, especially giving explicit details of crimes or sexual matters(*=sensational*)
-flagrant	a.	骇人听闻的，公然的 shocking because of being so OBVIOUS
+flagrant	a.	公然的，明目张胆的，骇人听闻的
+	# shocking because of being so OBVIOUS
 
 prelude		n.	序幕，先声	The changes are seen as a prelude to wide-ranging reforms.  这些变化被视为大范围改革的序幕。
 
@@ -2474,7 +2475,6 @@ remonstrate	vi.	抗议，反对，抱怨
 	remonstrance	n.
 
 nuisance	n.	恼人的事物（或人）；麻烦的事物（或人）
-	berserker	n.	巴萨卡!!!!
 defy		vt.
 	defiant		a.	（公然）对抗的
 		defiance	n.
@@ -2596,6 +2596,7 @@ ruffian		n.	流氓，恶棍
 bear		vt.	忍受；承担；具有，带有(bear a resemblance to)；生（孩子）；携带；
 	bearing		n.	[FORMAL] 举止，风度
 	berserk		a.	狂怒的，狂暴的		n. =berserker	ber=bear serk=skirt literally a warrior who wear fur of bear
+	berserker	n.	巴萨卡!!!!
 
 famine		n.	饥荒
 tangle		v.	使缠结	n. 缠结的一团 A tangle of wires
@@ -2697,7 +2698,7 @@ supposition	n.	猜想
 svelte		a.	苗条的，体态娇美的
 swerve		vt.	突然转向(veer, slew)
 sterling	a.	优秀的		# 银的，纯银的	英镑，英国货币：区别于pound，好像不能做单位
-tilt		v. n.	倾斜
+tilt		v. n.	倾斜		v. 批评，抨击
 tantrum		n.	（孩子一般）发脾气
 taper		v.	逐渐减少
 threadbare	a.	陈腐的
@@ -2710,7 +2711,7 @@ trope		n.	比喻	（经常在文学艺术作品中被使用的）套路
 upbeat		a.	乐观的
 usher		vt.	开启（新时代）
 underscore	vt.	强调
-unflagging	a.	不懈的，（努力）不减少的 un-flag-ging
+unflagging	a.	不懈的，（努力）不减少的
 unsung		a.	未被歌颂的，被埋没的
 untoward	a.	不幸的；难管束的；
 univocal	a.	明确的		uni-vocal
@@ -2903,6 +2904,9 @@ grumble		vi.	*抱怨*，发牢骚	n. 抱怨，牢骚
 	grumbling	a.
 grump		n.	[INFORMAL]脾气坏的人
 	grumpy		a.	脾气坏的，易怒的
+quarrel		n.	争吵
+	quarrelsome	a.	好争吵的，好口角的
+	querulous	a.	（人）爱抱怨的；（语气）烦躁的；
 
 heckle		v.	（对...）起哄，使难堪
 hobble		vt.	阻碍，限制	# 跛行；捆缚（动物，尤指马等的）两条腿；
@@ -2999,8 +3003,11 @@ Latin: nasci = to be born
 	nation
 reconnoiter	v.	侦察，勘察
 
-retention	n.	保留，保持	The retention of old technology has slowed the company's growth.  死守着旧技术不放减缓了这家公司的发展。
-	retentive	a.	记忆力强的
+retain
+	retention	n.	保留，保持；保持力；记忆(recollection)；记忆力；
+	# The retention of old technology has slowed the company's growth.
+	# 死守着旧技术不放减缓了这家公司的发展。
+		retentive	a.	记忆力强的
 
 ruthless	a.	无情的，残忍的
 sectarian	a.	狭隘的(教派性的，排斥他人信仰的，闹派别的)
@@ -3328,7 +3335,7 @@ unexceptionable	a.	无懈可击的
 
 amalgam		n.	汞合金，汞齐（用于补牙）；混合物；
 	amalgamate	vt.	合并，混合
-premise		n.	前提，假定	vt. 假定...为先决条件，作为...的前提
+premise		n.	前提，假定	vt. 假定...为先决条件，作为...的前提(posit, postulate)
 	# He premised his argument on several incorrect assumptions.
 	# 他把自己的论证建立在了几个错误的假设之上。
 
@@ -3619,7 +3626,7 @@ foundation	n.	创建，建立；基金会；(~s)（房子的）地基；
 		# 	两位领导人为两国合作的新纪元打下了基础。
 		# 	He helped to lay the foundations of English drama.
 		# 	他在奠定英国戏剧的基础方面做出了贡献。
-astringent	a.	尖刻的
+astringent	a.	（批评）尖刻的，辛辣的
 elastic		a.
 	elasticity	n.
 hitherto	adv.	迄今为止	[FORMAL]
@@ -3673,6 +3680,10 @@ tease		v.	取笑，戏弄
 diameter	n.
 	diametrically opposite	a.	（沿直径般）完全对立的，截然相反的
 antipodes	n.	地球上沿直径对立的两个地方；完全相反的两个事物；
+oppose		vt.	反对
+	opposite	a.	反对的；完全相反的；对面的；	prep. 在...对面		n. 对立面	adv.
+	opponent	n.	对手，敌人；
+
 filial		a.	子女的(of a son or daughter)	[FORMAL]
 	# filial duty/respect/affection
 	# 子女的义务/尊敬/亲情
@@ -3699,3 +3710,44 @@ magisterial	a.	威严的
 penetrator	n.	有洞察力的人
 clairvoyant	n.	先知
 
+infallible
+unwavering
+short-sightedness	n.
+deliver		vt.	救，帮助(=save)		[FORMAL]
+	# Is there nothing that can be done to deliver these starving people from their suffering?
+
+ambience	n.	气氛，情调(atmosphere)
+	# a feeling or mood associated with a particular place, person, or thing
+	ambiance	n.	=ambience
+relay		vt.	转发，转告
+taxing		a.	难懂的，费劲的
+about-face	n.	转身向反方向；（态度，意见的）逆转；
+filing		n.	存档，（归档的）记录
+scale back/down	vt.	缩减，缩小（规模）
+	# A shortage of money has forced them to scale down the project.
+	# 由于缺乏资金，他们被迫缩减项目的规模。
+ruling		n.	（法院的）裁决		a. 支配的，占统治地位的
+contain		vt.	控制，遏制（疾病、有害物的扩散）；克制（情绪）；
+	# Farms in the area have been closed off in an attempt to contain the disease.
+	# 为阻止疾病扩散，该地区的农场都被关闭了。
+	# More police were sent to help contain the violence.
+	# 更多警力被派去协助控制暴力行为。
+	# She could no longer contain her anger and started yelling at him.
+	# 她再也无法抑制自己的愤怒，不由自主地冲他大叫起来。
+	# humorous Contain yourself! It's not that exciting.
+	# 悠着点儿！没那么精彩！
+weepy		a.	爱哭的
+reclamation	n.	辩护
+sardonic	a.	讽刺的
+celebration	n.	
+subvert		vt.	推翻，颠覆
+	subversive	a.	（对社会秩序、政治体系）破坏性的，颠覆性的
+insofar as	conj.	到...的程度
+counterintelligence
+counterintuitive
+anthropomorphism	n.	拟人化
+profitmonger
+grounded	a.
+auteur
+unalloyed	a.	（尤指积极的情感）纯真的，纯粹的	[Literary]
+impalpable	a.	无形的；难懂的；	[Literary]

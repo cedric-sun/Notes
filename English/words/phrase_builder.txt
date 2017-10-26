@@ -646,3 +646,16 @@ revolve around sb/sth	[UK also `revolve round sb/sth`]
 		这次会谈的中心议题是儿童保育方面的问题。
 		His whole life revolves around football.
 		足球是他生活的中心。
+
+be at variance (with sb/sth)
+	to be in disagreement with someone or something, or to be different from him, her, or it
+	与…有分歧；与…存在差异
+		Young people's reactions to world events are often at variance with those of their parents.
+		年轻人对国际大事的反应往往与父辈们存在差异。
+		Her public and private personas are at variance.
+
+people sth/somewhere by/with sb
+	If something or somewhere is peopled by/with a particular type of person, it is filled with them.
+	充满，充斥着（某种类型的人）
+		Her novels are peopled with the rich and beautiful.
+		她小说里净是些有钱的俊男靓女。

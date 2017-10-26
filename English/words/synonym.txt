@@ -1,3 +1,12 @@
+膨胀
+	inflate
+	dilate		（瞳孔）扩张
+	swell		肿
+	distend
+详细说明
+	particularize
+	explicate
+	
 比作
 	liken
 	paragon
@@ -6,7 +15,7 @@
 	spurious
 	mendacious
 	bogus
-	factitious
+	factitious = artificial
 	fictitious
 	apocryphal
 
@@ -218,6 +227,8 @@
 	roil
 	rankle
 	vex
+	miff
+	peeve
 
 
 赞美，赞颂，歌颂，颂词，颂文，赞美诗，etc.
@@ -929,8 +940,6 @@ dupe		v.	欺骗	n.	易受骗的人
 
 ========================
 lachrymose	a.	催人泪下的，悲伤的
-maudlin		a.	过度感伤的
-mawkish		a.	过度感伤的
 
 ===============================
 levelheaded	a.	明智的

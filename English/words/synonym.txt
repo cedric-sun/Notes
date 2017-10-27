@@ -290,6 +290,8 @@
 	stolid
 	callous
 	numb
+	indifferent
+	unfeeling
 
 恳求
 	beseech

@@ -659,3 +659,32 @@ people sth/somewhere by/with sb
 	充满，充斥着（某种类型的人）
 		Her novels are peopled with the rich and beautiful.
 		她小说里净是些有钱的俊男靓女。
+
+day in day out
+	(especially of something boring) done or happening every day for a long period of time
+	（尤指枯燥之事）一天接一天，日复一日
+		I have to do the same boring jobs day in day out.
+		我每天都要干这些单调乏味的工作。
+
+be out for/to do sth
+	想要做...
+		The company is simply out to make larger profits.
+		These are dangerous men, and they are out for revenge.
+		I was convinced that he was out to cheat me.
+		Just because, as a photographer, Friedlander is interested in places that most people consider ugly does not mean that he is out to prove they are beautiful. Instead, his work suggests that the photographer simply cannot ignore so much of the built American landscape but is obligated to
+
+# (Just) Because 引导主语从句
+(Just) because ... doesn’t mean ... 
+	Just because it’s red doesn’t mean it’s cherry-flavored. 仅仅是红色的并不意味着它有樱桃味。
+	(Just) because I object to his promotion doesn’t mean I’m vindictive. 即使我反对提升他并不意味我报复他。
+	Just because I’m lending you my dress for tonight doesn’t mean you can borrow it whenever you want to. 如果因为我夜晚把裙子借给你，你就以为随时可以借来穿，那你就错了。
+	Just because you’re older than me doesn’t mean you can tell me what to do. 只是因为你比我年纪大，这并不意味着你可以对我指手划脚。
+(Just) because ... is no reason ... 
+	Because you have words with your wife is no reason to smash up things. 你和你的妻子吵架并不能成为摔东西的理由。
+	Because they are dead languages is no reason why they should be ignored in academic circles. 不能因为它们是死的语言而就在学术界忽视它们。
+(Just) because ... doesn’t make ... 
+	Just because something has always been done a certain way does not make it right. 仅仅因为老是以某种方式做事并不意味着这么做就是对的。
+(Just) because ... doesn’t preclude ... 
+	Just because all nation states are motivated by self-interest does not preclude that self-interest having a moral component.
+	所有的民族国家都为自身的利益所驱使，这一点并不排除那种自身利益也包含合乎道德的成分。
+

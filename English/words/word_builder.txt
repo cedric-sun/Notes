@@ -539,7 +539,7 @@ pest		n.
 		pestilential	a.	=pestilent
 		pestilence	n.	瘟疫；毒害之物	I'll pour this pestilence into his ear - Shakespeare
 
-pernicious	a.	(极其)有害的
+pernicious	a.	(极其)有害的(baleful)
 detrimental 	a.	有害的
 nocuous		a.	[rare]
 	innocuous	a.	无害的
@@ -788,7 +788,6 @@ due		a.	预计的(What time is the next bus due?)；欠的，应给的(=owed)(£
 		unduly		adv.
 	subdue		vt.	压制，控制
 
-imminent	a.	临近的，即将发生的，迫在眉睫的
 inferior	a.	差的；下等（阶级）的	be inferior to 比...次
 	inferiority	n.
 superior	a.
@@ -1122,6 +1121,8 @@ dogma		n.	（宗教的）教条，教义（可略带贬义，强调死板、不�
 		dogmatism	n.	武断，教条
 
 undergrowth	n.	树下灌木（bush是普通的灌木？）
+
+imminent	a.	临近的，即将发生的，迫在眉睫的
 immanent	a.	内在的
 	immanence	n.
 
@@ -1389,6 +1390,8 @@ heel		n.	脚跟
 	head over heels (in love)
 		completely in love 坠入爱河
 
+machismo	n.	大男子气概；大男子主义行为
+	# male behaviour that is strong and forceful, and shows very traditional ideas about how men and women should behave
 masculine	a.	（品质）属于男性的，适于男子的
 	masculinity	n.	男子气概
 feminine	a.	（举止或气质）女性特有的，女性的
@@ -1448,7 +1451,9 @@ simmer		v.	在略低于沸点的水中炖；酝酿，积聚；
 
 pamper		vt.	溺爱，娇惯，纵容
 
-slaver		vi.	流口水；渴望，垂涎[贬，强调令他人不悦的渴望](~ over)；	Stop slavering over that guitar, Stephen! 不要再垂涎那把吉他了，斯蒂芬！
+slaver		vi.	流口水；渴望，垂涎[贬，强调令他人不悦的渴望](~ over)；
+	# Stop slavering over that guitar, Stephen!
+	# 不要再垂涎那把吉他了，斯蒂芬！
 saliva		n.	唾液
 
 corona		n.	日冕，光晕	plural: coronae
@@ -1700,6 +1705,7 @@ oblige		v.	帮助，为..效劳；（以法律或道义）强迫，强制(US./UK
 	obliging	a.	乐于助人的
 	disoblige	vt.	违背...的愿望；给...带来不便(=inconvenience)；
 	obligate	vt.	（以法律或道义）强迫，强制
+		# be obligated to do 有义务做
 		obligatory	a.	强制的，义务的
 		obligation	n.
 
@@ -2319,8 +2325,9 @@ sator		n.	[HUMOROUS or LITERARY and RARE] 裁缝	=tailor
 tacit		a.	默契的		understood without being expressed directly
 	taciturn	a.	沉默寡言的	tending not to speak much
 
-swerve		vi.	突然转向；改变，背离；
+swerve		vi.	突然转向(veer, slew)；改变，背离；
 	unswerving	a.	（信任或信仰）坚定的，不懈的，始终如一的
+slew		n.	大量		# v. 使突然转向(veer)
 
 confidant	n.	知己，密友
 
@@ -2534,8 +2541,9 @@ scalp		vt.	买黄牛票	UK tout
 	scalper		n.	黄牛
 
 deed		n.	（尤指很坏或很好的）事情，行为
-redeem		vt.	挽回，弥补；赎回；[Christianity]救赎；		(salvage)
-	redemption	n.	补救，弥补
+deem		vt.	认为		[FORMAL]
+	redeem		vt.	挽回，弥补；赎回；[Christianity]救赎；		(salvage)
+		redemption	n.	补救，弥补
 		be beyond/past redemption	to be too bad to be improved or saved by anyone 无可挽回；无可补救；不可救药
 	redemptive	a.
 calamity	n.	灾难，灾祸
@@ -2651,7 +2659,6 @@ lax		a.	松弛的	懈怠的
 
 slant		n.	（看问题的）角度，看法		a. 倾斜的
 slate		vt.	列入名单
-slew		n.	大量		# v. 使突然转向(veer)
 slight		a.	不重要的	vt. 轻视，看不起	vt. 忽略，疏忽
 slippery	a.	滑的；狡猾的，狡诈的；意义不明确的；
 slur		v.	忽略(~ with, =pass over)	诋毁
@@ -2696,7 +2703,6 @@ substantial	a.	大的 大量的 重大的
 superfluous	a.	多余的，过剩的
 supposition	n.	猜想
 svelte		a.	苗条的，体态娇美的
-swerve		vt.	突然转向(veer, slew)
 sterling	a.	优秀的		# 银的，纯银的	英镑，英国货币：区别于pound，好像不能做单位
 tilt		v. n.	倾斜		v. 批评，抨击
 tantrum		n.	（孩子一般）发脾气
@@ -3048,6 +3054,8 @@ shifty		a.	狡诈的，欺诈的
 wiretap		v. n.	窃听	-pp-: wiretapping	(eavesdrop)
 wistful		a.	伤感留恋的，怀念的
 wrest		vt.	辛苦地获得；夺取，抢走；
+	wrestle		v.	摔跤
+		wrestler	n.
 wrongheaded	a.	执迷不悟的
 deliberate	a.	（坏事）故意的；深思熟虑的；	vt. 慎重考虑，仔细讨论
 	deliberation	n.	考虑，讨论（尤指陪审团）
@@ -3078,6 +3086,7 @@ inborn		a.	天生的，与生俱来的	先天的
 outstrip	vt.	（在数量、程度或成就上）超过，胜过
 sedition	n.	煽动，煽动性的言论或行为
 	seditious	a.	煽动性的
+inflammatory	a.	煽动性的
 platitude	n.	陈词滥调
 	platitudinous	a.	陈腐的，陈词滥调的
 
@@ -3373,7 +3382,8 @@ intellect	n.	智力；知识分子[FORMAL]；
 			# She couldn't stand all that pointless intellectualizing about subjects that just didn't matter.
 			# 她无法容忍对无关紧要的问题进行无意义的理论探讨。
 intelligent	a.	聪明的，有才智的
-	intelligence	n.	智力，智慧
+	intelligence	n.	智力，智慧；（军事）情报，谍报；
+		counterintelligence	n.	反间谍活动
 	intelligible	a.	（言语、文章）明白易懂的
 		unintelligible	a.	令人费解的
 
@@ -3490,8 +3500,8 @@ divine		a.	神圣的
 	divinity	n.	神性；神；
 	divination	n.	占卜
 
-destitute	a.	赤贫的，一贫如洗的
-	destitution	n.
+destitute	a.	赤贫的，一贫如洗的(suffering extreme poverty)
+	destitution	n.	赤贫，(极度)贫穷
 moron		n.	蠢人，傻子，笨蛋	[INFORMAL]
 	moronic		a.	非常愚蠢的 very stupid
 
@@ -3710,8 +3720,9 @@ magisterial	a.	威严的
 penetrator	n.	有洞察力的人
 clairvoyant	n.	先知
 
-infallible
-unwavering
+infallible	a.	万无一失的，不会犯错的
+waver		vi.	（观点）（暂时地）动摇；（在选择间）犹豫不决；
+	unwavering	a.	不移开的，不动摇的
 short-sightedness	n.
 deliver		vt.	救，帮助(=save)		[FORMAL]
 	# Is there nothing that can be done to deliver these starving people from their suffering?
@@ -3739,15 +3750,44 @@ contain		vt.	控制，遏制（疾病、有害物的扩散）；克制（情绪�
 weepy		a.	爱哭的
 reclamation	n.	辩护
 sardonic	a.	讽刺的
-celebration	n.	
+celebration	n.	庆祝；赞扬，支持；
+	# He esteem JOJO's Bizarre Adventure as a celebration of the golden spirit of humanity.
 subvert		vt.	推翻，颠覆
 	subversive	a.	（对社会秩序、政治体系）破坏性的，颠覆性的
 insofar as	conj.	到...的程度
-counterintelligence
-counterintuitive
+counterintuitive	a.	违反直觉的
 anthropomorphism	n.	拟人化
-profitmonger
-grounded	a.
-auteur
+profitmonger	n.	唯利是图者，贪婪者
+	# a person, business or profession marked by avarice and greed
+grounded	a.	明智的（尤指人沉稳冷静，现实，脚踏实地）
+	# sensible and reasonable, understand the importance of ordinary things in life
+	# mentally and emotionally stable, admirably sensible, realistic, and unpretentious
+auteur		n.	电影导演（尤指其自身风格对电影产生了巨大影响）
+	# Compare: director
 unalloyed	a.	（尤指积极的情感）纯真的，纯粹的	[Literary]
 impalpable	a.	无形的；难懂的；	[Literary]
+onomatopoeia	n.	拟声，使用或创造拟声词的行为
+	onomatopoeic	n.	拟声的
+		# onomatopoeic words
+fap fap fap	phon.	...
+esteem		v./n.	尊敬		vt. 认为(=regard, consider)
+	# We esteem it an honor to be invited.
+discord
+	discordant	a.	（声音）刺耳的，不和谐的
+		# strike a discordant note	[FORMAL]
+		# 	to look or sound different or wrong compared with everything else
+		# 	显出不一致的样子；发出不和谐的声音
+		# 		The contemporary dialogue struck a slightly discordant note.
+		# 		在我看来当时的对话（与形势）有些格格不入。
+sore		a.	痛的，疼痛的
+upheaval	n.	动荡，剧变
+auction		n.	拍卖
+explicable	a.	可解释的，可说明的，可理解的(able to be explained) 
+	# Under the circumstances, what happened was quite explicable .
+	# 在那种情形下，所发生的事情是完全可以理解的。
+
+dietician	n.	营养师(=dietician)
+nepotism	n.	任人唯亲
+	nepotistic	a.
+uneven		a.	不平整的；（质量）参差不齐的，良莠不齐的；
+unfeeling	a.	冷漠的，没有同情心的

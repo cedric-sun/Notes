@@ -1,4 +1,6 @@
 # MIND SPELL
+raspy
+
 imminent
 immanent
 
@@ -38,6 +40,7 @@ extravagant
 extraneous
 exasperate
 exacerbate
+exorbitant
 
 shrub
 shrug

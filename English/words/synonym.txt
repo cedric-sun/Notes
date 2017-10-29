@@ -381,6 +381,7 @@
 	lash		vt.	鞭打；抨击，谴责；
 	assail		vt.	攻击，袭击；抨击；困扰，使苦恼；	[FORMAL]
 	invective	n.	辱骂，痛骂；抨击；
+	tilt		vt.	批评，抨击
 
 玷污，抹黑	主语不一定是人，也可能是丑闻玷污了某人的名誉
 	besmirch	v.	玷污

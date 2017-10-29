@@ -176,8 +176,8 @@ decor		n.	（房间内的）装饰布局，装饰风格 (elegant decor 雅致的
 		decorative	a.	装饰的
 		decoration	n.	装饰（行为本身）；装饰品；
 	decorum		n.	（行为）稳重，端庄
-	decorous	adj.	端庄的，得体的
-		indecorous	adj.
+		decorous	adj.	端庄的，得体的
+			indecorous	adj.
 
 propriety	n.	（行为）得体，端庄
 
@@ -1155,6 +1155,7 @@ affix			vt.	附上，粘上	She affixed a stamp to the envelope.
 propel		vt.	推动(尤指物理上的)
 	propulsion	n.
 impel		vt.	驱使(im强调内在的动力)
+expel		vt.	驱逐，开除；排出（空气）；
 compel		vt.	强迫；激起，引发[FORMAL]；
 	compelling	a.
 repel		vt.	驱逐；使...厌恶
@@ -1644,7 +1645,7 @@ mendacious	a.	虚假的
 
 attest		v.	表明，证明
 
-bent		n.	天赋
+bent		n.	天赋		a. 不诚实的
 
 hedonism	n.	享乐主义
 	hedonistic	a.	享乐主义的
@@ -1854,7 +1855,7 @@ fortuante	a.
 
 felicity	n.	幸福；（文字的）贴切，恰当；	[Literary]
 	felicitous	a.	令人愉快的(~ weather, =pleasant,delightful)；恰当的，贴切的；
-		infelicitous	a.	不恰当的，不合适的，令人尴尬的；*根本没有“不幸”的意思*
+		infelicitous	a.	不恰当的，不合适的，令人尴尬的；不幸的；
 
 triumphant	a.	凯旋的；[Derivative] 洋洋得意的；
 
@@ -1972,8 +1973,10 @@ probity		n.	诚实，正直
 
 veracity	n.	真实性；诚实；	the quality of being true, honest or accurate
 	veracious	a.	诚实的
+
+sue		v.	控告，起诉
 pursue		v.
-	pursuit		n.	嗜好，消遣（追求）；追踪；追求；
+	pursuit		n.	嗜好，消遣（追求）；追踪，追捕；追求；
 
 forth		adv.	（时间、地点上）向前	*from that day forth* (从那天起) / They set forth on their travels in early June.		adv. out into notice or view (m-w); When someone or something is brought forth, they are brought to a place or moved into a position where people can see them. out, esp,: out into view, as from hiding (collins)		adv. [OBSOLETE] away, abroad
 	forthright	a.	直率的，直截了当的	adv. =forthrightly
@@ -2107,7 +2110,7 @@ calc- calx	Latin: lime 石灰
 
 grace
 	graceful	a.	优雅的，得体的
-	gracious	a.	（因富贵而）高贵优雅的
+	gracious	a.	亲切的，和蔼的；富裕安逸的；
 	disgrace	vt.	使丢脸，使蒙羞		n. 耻辱，丢脸
 
 garage		n.	车库
@@ -3716,7 +3719,7 @@ deceit		n.	欺骗
 	deceitful	a.	欺骗的
 		deceitfulness	n.	欺诈
 memoir		n.	传记
-magisterial	a.	威严的
+magisterial	a.	权威的，威严的(showing great authority or ability)
 penetrator	n.	有洞察力的人
 clairvoyant	n.	先知
 
@@ -3791,3 +3794,35 @@ nepotism	n.	任人唯亲
 	nepotistic	a.
 uneven		a.	不平整的；（质量）参差不齐的，良莠不齐的；
 unfeeling	a.	冷漠的，没有同情心的
+osteoporosis	n.	骨质疏松
+woe		n.	悲伤		[Literary]
+	woes		n.	灾难，不幸	[FORMAL]
+	woe betide sb	n.	（某人）要倒霉（或遭殃）
+		# This is the second time he's been sent home from school this month, so woe betide him if it happens again!
+		# 这是他本周内第二次被从学校赶回了家，要是再发生一次这样的事，他就要倒霉了。
+	# woe is me	ex.	惨啊		[OLD USE or HUMOROUS]
+	# 	I'm cold and wet and I don't have enough money for the bus home. Oh woe is me!
+	# 	我又冷又湿，连买张回家的公共汽车票的钱也不够。真是惨啊！
+snatch		vt.	夺走，抢走；绑架；
+	# Ember Spirit snatched the Aegis of Immortality!
+bulletin	n.	（电视或电台的）新闻快报；（机构的）简报；
+	bulletin board	n.	告示板，公告栏
+	bulletin board system	n.	=BBS
+commensurable	a.	可用同单位度量的；可比较的；成比例的；
+	incommensurable	a.	不可比较的
+discriminatory	a.	歧视性的；区分性的；
+	# These labels serve a discriminatory purpose.
+downright	a.	（尤指不好的事情）极端（的），极大（的），十足（的）
+	# I think the way she was treated is a downright disgrace.
+	# 我认为那样对待她是一种奇耻大辱。
+envisage	vt.	预计；想象；
+	# Train fare increases of 15 percent are envisaged for the next year.
+	# 预计明年火车票价将会上涨15%。
+	# He wasn't what I'd expected - I'd envisaged someone much taller.
+	# 他和我所期待的不一样——想象中他的个头应该高得多。
+fare		n.	车费
+justify		v.	为...辩护；证明...正当（或有理、正确）；
+	justified	a.	*有正当理由的*
+		unjustified	a.	错误的，未被证明正确的
+tabloid
+trade-off	n.	权衡；让步；

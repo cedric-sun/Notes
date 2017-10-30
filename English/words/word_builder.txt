@@ -1,4 +1,4 @@
-dusk		adj.	黄昏
+	dusk		adj.	黄昏
 grief		n.	悲伤
 	grieve		vi.	（尤指为某人去世而）悲痛	vt. 使伤心
 		grievous	a.	极严重的；令人悲伤的；	# grievous wounds 重伤
@@ -1610,6 +1610,13 @@ numen		n.	守护神
 	numinous	a.	神圣的；神秘的，超自然的；
 
 communion	n.	（思想感情的）交流，沟通	[FORMAL]
+interchange	v. n.	（尤指思想或信息的）交流，交换，互换
+	interchangeable	a.	可互换的
+		# interchangeable parts
+		# 可相互替换的部件
+		# The terms "drinking problem" and "alcohol abuse" are often interchangeable.
+		# drinking problem 和 alcohol abuse 两个术语往往可以互换使用。
+
 
 antecede	vt.	在...之前(=precede)	Latin: antecedere
 	antecedent	n.	（尤指作为后来存在或发生之事的起因或起源的）前事，前情，先例，前身		祖先
@@ -2146,6 +2153,7 @@ whistle		口哨，吹口哨
 capacity	n.	容量；*职位，工作* [FORMAL]；
 capability	n.	能力
 
+descry		vt.	看到，注意到
 decry		vt.	谴责，抨击(=condemn)	[FORMAL]
 	decrial		n.
 	decrier		n.
@@ -2732,7 +2740,8 @@ equivocal	a.	含糊的，模棱两可的
 vaccinate	v.	接种疫苗
 valor		n.	英勇	# 好像没什么联系
 	valiant		a.	英勇的
-	valorize	v.	提升，赞美(WTF???)	# 政府补贴资金以维稳物价
+	valorize	v.	提升，赞美(to assign value or merit to :validate)
+		# 政府补贴资金以维稳物价
 		valorization	n.
 
 vaunt		vi.	吹嘘
@@ -2771,6 +2780,8 @@ ambivalent	a.	（心情）矛盾的
 analogous	a.	可类比的	# analogy
 anachronism	n.	时代错位
 annex		vt.	吞并，占领（领土）	n. 附加建筑(an extra building added to a larger building)	v. 附加
+wing		n.	（常指后来增建的）建筑翼部，厢房，侧厅
+	# a part of a large building that sticks out from the main part, often having been added at a later date
 annotate	vt.	给...注释
 	annotation	n.	注释	JAVA
 odium		n.	憎恨，厌恶	[FORMAL]
@@ -3221,7 +3232,8 @@ chasten		vt.	（失败等）磨练，惩罚（人）	He was chasten by the failu
 mishandle	vt.	对...处理不当
 alarmist	n.	大惊小怪者
 animadversion	n.	批评(的言论)	[FORMAL]
-(the) wherewithal	n.	必要的资金
+(the) wherewithal	n.	必要的资源（资金、能力等）
+	# The modest but functional new wing finally gives the museum the wherewithal to serve its visitors properly, including multiple entrances to eliminate the lines that used to snake around the building.
 hitch		n.	小故障(=glitch)
 	go (off) without a hitch
 		# to happen successfully without any problems 顺利进行
@@ -3824,5 +3836,40 @@ fare		n.	车费
 justify		v.	为...辩护；证明...正当（或有理、正确）；
 	justified	a.	*有正当理由的*
 		unjustified	a.	错误的，未被证明正确的
-tabloid
+tabloid		n.	通俗小报
+	# A tabloid is a newspaper that has small pages, short articles, and lots of photographs. Tabloids are often considered to be less serious than other newspapers. Compare broadsheet.
 trade-off	n.	权衡；让步；
+
+authoritarian	a.	独裁的，专制的		n. 独裁者
+	authoritarianism	n.
+megalomania	n.
+	megalomaniacal	a.
+even-handed	a.	公平的，公正的
+muddle		v.
+	muddled		a.	混乱的，杂乱无章的；迷惑的(confused)
+if		conj.	即使(even though)
+	# an interesting if untenable argument
+confessonal	a.	坦白的，公开的（不隐瞒自己身份、姓名的）
+activist	n.	激进分子
+anniversary	n.	周年庆，周年纪念
+panoply		n.	琳琅满目
+	# a panoply of sth
+collegial	a.	大学的，学院的(=collegiate)；同事分摊责任和权利的；
+	collegiality	n.	共同掌权
+
+scholarly	a.	学术性的；博学的；
+# defensive	a.	防御性的；急于为自己开脱的，此地无银三百两的；
+arguable	a.	有疑问的（尚值得为其争执的）；可声称的；
+	# It is arguable which way is quicker.
+	# 走哪条路更快，还没有定论。
+	it is arguable that...
+		# it is possibly true that
+		# 有理由说...
+		# 	It is arguable that the government has failed in this respect.
+		# 	有理由说政府在这个方面失职。
+	arguably	adv.	大概，可能
+		# He is arguably the world's best football player.
+		# 他可能是世界上最好的足球运动员。
+
+deep-seated	a.	根深蒂固的
+deep-down	a.	深深的，内心深处的

@@ -219,132 +219,132 @@
 	2	C
 	3	AF
 	4	AD
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	5	BD
+*	6	AEI
+	7	BD
+!	8	AD	|	BD
+*	9	BC
+	10	BD
 
 #20
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	B
+	2	D
+	3	CF
+	4	AE
+*!	5	AF	|	BD
+*!	6	BDH	|	CEH
+!	7	DF	|	BF
+*	8	AC	|	BE
+	9	AE
+	10	BE
 
 #21
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	D	|	B
+	2	E
+	3	CD
+*	4	BF
+	5	BEH
+	6	ADG
+	7	CE
+	8	AB
+	9	AF	|	BD
+	10	AD
 
 #22
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	C
+	2	C	|	A
+	3	AE
+	4	CD
+	5	ADI
+*	6	AEG
+	7	BD
+*	8	BC	|	AC
+	9	CF
+	10	CE
 
 #23
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	D
+	2	E
+	3	CE
+*	4	AD	|	BD
+	5	CEI	|	AEI
+*	6	CDI	|	CDG
+*	7	AE	|	BD
+*	8	AF
+	9	AC
+	10	CF
 
 #24
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	E
+	2	E
+	3	BF
+*	4	CE
+	5	AEI
+*	6	ADI
+	7	AD	|	AB
+	8	AF
+	9	CF
+	10	BE
 
 #25
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	A
+	2	B
+*	3	CE	|	BF
+*	4	BD
+	5	ADG
+	6	BEG
+	7	BF
+	8	DF
+*	9	AC	|	AF
+	10	AB
 
 #26
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+*	1	E
+	2	B
+	3	CE
+*	4	BF
+	5	AEH
+	6	BDH	|	BDG
+*	7		|	BD
+	8	AB
+	9	AE
+	10	CE
 
 #27
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	A
+	2	A	|	D
+*	3	CF	|	AD
+	4	BE
+*	5	AFI	|	BDI
+	6	BDI
+	7	CF
+	8	BE
+	9	CD
+	10	AB
 
 #28
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	B
+	2	B
+	3	CD
+*	4	BE
+	5	AEG
+	6	CDH
+*	7		|	AC
+	8	BC
+	9	BC
+	10	AB
 
 #29
-	1	
-	2	
-	3	
-	4	
-	5	
-	6	
-	7	
-	8	
-	9	
-	10	
+	1	A
+	2	E	|	B
+	3	BE
+	4	BF	|	BD
+*	5	BEI	|	AEI
+	6	ADI
+*	7	CD
+*	8		|	BE
+	9	AC
+	10	DF
 
 #30
 	1	

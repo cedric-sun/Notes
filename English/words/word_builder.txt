@@ -158,8 +158,17 @@ obscene		a.	淫秽的，下流的；令人震惊的
 prig		n.	站在优越的角度对别人行为是否端庄得体做过分要求的人 = prude
 	priggish	a.	[DISAPPROVING]一本正经的，死板的
 prude		n.	过度关注行为是否端庄得体的人，过分拘谨的人
-	prudery		n.
-	prudish		a.
+	prudery		n.	this kind of temperament
+	prudish		a.	expressing this kind of temperament
+	prudent		a.	谨慎的；->花钱谨慎的->节俭的；
+		prudence	n.
+		imprudent	a.	
+			imprudence	n.
+
+discreet	a.	谨慎的
+	discretion	n.
+		discretionary	a.
+
 
 affect		vt.	影响；假装；
 	affectation	n.	做作，装模作样
@@ -1348,6 +1357,7 @@ feud		n.	世仇
 		feudalism	n.	欧洲封建制度
 
 foreordain	v.	注定
+	foreordained	a.
 foredoomed	a.	（尤指计划好的活动）注定失败的
 
 damnation	n.	[宗教]下地狱，遭天谴
@@ -2437,15 +2447,6 @@ sneak		v.	悄悄地走，潜行(prowl)
 	sneaky		a.	鬼鬼祟祟的，偷偷摸摸的
 snitch		vi.	告密，揭发；偷窃；
 
-prudent		a.	谨慎的；->花钱谨慎的->节俭的；
-	prudence	n.
-	imprudent	a.	
-		imprudence	n.
-
-discreet	a.	谨慎的
-	discretion	n.
-		discretionary	a.
-
 tense		a.	（人）紧张的；（局势）令人紧张的；（肌肉）绷紧的； v. （使）（肌肉）绷紧	(taut)
 	tension		n.	（精神上的）紧张；紧张关系，紧张局势；拉力，张力；
 	intense		a.	强烈的，极度的；认真的，热切的；
@@ -2870,7 +2871,9 @@ decay
 		decadency	n.
 deflect		v.	（使）转向
 	deflection	n.
-defray		vt.	（公司、组织）支付，承担（费用）
+fray		v.	（使）（布料或绳子）磨损；烦躁，恼火(temper/nerve frays sb)
+	frayed		a.	磨损的；恼火的，沮丧的；
+	defray		vt.	（公司、组织）支付，承担（费用）
 deign to do	phrase	屈尊去做，放下架子去做
 delineate	vt.	描述，勾勒	[FORMAL]
 demote		vt.	降职		antonym of `promote`
@@ -3737,7 +3740,8 @@ clairvoyant	n.	先知
 
 infallible	a.	万无一失的，不会犯错的
 waver		vi.	（观点）（暂时地）动摇；（在选择间）犹豫不决；
-	unwavering	a.	不移开的，不动摇的
+	wavering	a.	动摇的
+		unwavering	a.	不移开的，不动摇的
 short-sightedness	n.
 deliver		vt.	救，帮助(=save)		[FORMAL]
 	# Is there nothing that can be done to deliver these starving people from their suffering?
@@ -3873,3 +3877,76 @@ arguable	a.	有疑问的（尚值得为其争执的）；可声称的；
 
 deep-seated	a.	根深蒂固的
 deep-down	a.	深深的，内心深处的
+
+unwieldy	a.	（物体）笨重的，难移动的；（因机构庞大或组织不善而）效率低下的，无效率的；
+assembly	n.	大会，议会；与会者（全员）；
+upshot		n.	结果，结局
+
+temerity	n.	[FORMAL]
+	temerarious	a.
+jejune		a.	幼稚的，不成熟的；枯燥乏味的(vapid, insipid)；
+	# Many readers today consider the moral sentiments expressed in the ancient writers’ work to be quite vapid, and in the seventeenth century they were similarly regarded as jejune.
+
+import		n.	重要性，意义	[FORMAL]
+daunting	a.	使人气馁的
+de-emphasize	vt.	to remove emphasis from; lessen the importance or prominence of
+
+tenure		n.	任期；占有（权）；终身职位；
+	# Asserting a need to preserve the adaptability/flexiblity that became the hallmark of her predecessor’s tenure, the new director of federal monetary policy refused to subscribe to rigid or mechanistic rules in policy making.
+	tenured		a.	终身职位的
+		# tenured professor
+universality	a.	普遍性，一般性
+codify		vt.	把...编成法典
+uncontested	a.
+managerial	a.	管理的，管理上的
+faculty		n.	能力，才能；身体机能；（高等院校的）系，院；全体教师；
+	# Culture, like speech, is primarily a human faculty, although both functions may exist in a more primitive/rudimentary form in lesser primates.
+
+gingerbread	n.	姜饼(a type of cake, usually very dark brown and soft, that contains ginger)
+	gingerbread man		人形姜饼(a hard ginger biscuit shaped like a person)
+		# Jackie Wullschlager's biography of Hans Christian Andersen stripes away/removes the insipid sweetness with which Andersen coated his life and reveals a vulnerable gingerbread man with a bitter almond where his heart should be.
+		# 此处比喻HCA的脆弱
+ample		a.	丰富的，大量的
+
+maintain	vt.	断言，坚称(assert)
+disparity	n.	不对等，差异(variance)
+columnist	n.	（报纸、杂志的）专栏作家
+taxonomy	n.	分类学；生物分类学；
+	taxonomoist	n.
+likely		a./adv.	很可能的/地
+	# 没有“像，相似”的意思
+repetitious	a.	=repetitive	重复的
+cast-iron	n.	生铁；铁打的，强壮结实的
+	cast-iron guarantee, alibi, etc.
+		# a guarantee, alibi, etc. that can be trusted completely
+		# 永不反悔的保证／无懈可击的不在现场的证据等
+		# Can you give me a cast-iron guarantee that the work will be completed on time?
+		# 你能向我确保按时完成那项工作吗？
+indeed		adv.	确实；甚至；
+dictum		n.	格言
+prestige	n.
+	prestigious	a.	有威望的
+mania
+	manic		a.	狂躁的，十分兴奋的
+bighearted	a.	kind and generous
+burgeoning	a.	迅速发展的
+	# a burgeoning field
+encase		vt.	把...包住
+fetus		n.	胎儿
+	# a young human being or animal before birth, after the organs have started to develop
+usage		n.	对待
+	# With the numerous opponents of the controversial new taxation measure in such a fury, anyone who publicly advocated the measure did not fail to meet with severe usage.
+	# 虐待，不公待遇 [FORMAL]
+		# Many had complained about the usage they'd received at his hands.
+		# 很多人都曾抱怨在他手下受到了不公待遇。
+hormone		n.
+	hormonal	a.
+		hormonally	adv.
+enormity	n.	重大，严重性；罪大恶极，滔天罪行 [FORMAL]；
+	enormous	a.
+preliminary	a.	初步的，起始的	n. 开端活动，初步行动
+insidious	a.	（细菌、疾病）潜伏性的
+quip		n.	俏皮话，妙语
+ballyhoo	n.	喧闹，大吵大嚷
+	ballyhooed	a.
+inexplicable	a.	无法说明的；令人费解的；

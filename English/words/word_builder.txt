@@ -94,6 +94,8 @@ physiognomy	n.	[FORMAL] 相貌，容貌
 perverse	a.	有悖常理的
 	pervert		vt.	使变坏	n. （性）变态
 
+orgasm		n.	性高潮
+	orgasmic	a.	性高潮的
 voluptuous	a. （女人）性感的	a. 感官上令人愉悦的 [LITERARY]
 	voluptuary	n.	沉溺奢华和感官享受的人(sensualist, sybarite)
 bawd		n.	鸨母
@@ -3950,3 +3952,7 @@ quip		n.	俏皮话，妙语
 ballyhoo	n.	喧闹，大吵大嚷
 	ballyhooed	a.
 inexplicable	a.	无法说明的；令人费解的；
+occlude		vt.	挡住	to block something
+sibling		n.	a brother or sister
+
+

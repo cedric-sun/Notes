@@ -1,0 +1,487 @@
+Chapter 1
+================
+总是可用的filename char：
+	- digits
+	- letters
+	- dot (.)
+	- underscore (_)
+
+Wildcard的使用：
+	?		any single character
+	*		any characters sequence (include null)
+	[abc]		'a' || 'b' || 'c'
+	{a,b,c}		ditto
+	[ab,bc]		'a' || 'b' || ',' || 'b' || 'c' <=> 'a' || 'b' || 'c' || ','
+			(duplicate is silently ignored)
+	{ab,bc}		'ab' || 'bc'
+	{0..9}		0, 1, 2 ..., 9
+	{0..9}{a..z}	0a, 0b, 0c, ..., 9x, 9y, 9z
+
+判断文件存在：
+	```bash
+		if [ -f FILE ]; then
+			# do something
+		fi
+	```
+
+Q: Bash - conditional execution of startup scripts? (login & non-login shell?) (interactive and non-interactive shell?)
+
+Chapter 2
+===============
+`ls -F` suffix convention:
+	*	executable
+	/	directory
+	@	symlink
+	|	named pipe
+	=	socket
+
+Q: What does the size of a directory entry mean?
+
+`ls -l` time: timestamp of "Modify".
+
+Q: Difference between `modify` time and `change` time? (see the output of `stat`)
+A: there are 3 kinds of timestamps:
+	- Access: the last time the file was read.
+	- Modify: the last time the content of the file was modified.
+	- Change: the last time the metadata of the file was changed.
+	Q: How does these timestamps map to file opening mode? (like fopen in C?)
+
+`ls -l` 2rd column:
+	For file:	hard link counter
+	For directory:	how many directories does this directory contain (including `.` and `..`)
+
+`ls -l` 1st char of 1st column:
+	-	file
+	d	directory
+	l	symlink
+	s	socket
+	b	block device
+	c	character device
+	p	named pipe
+
+Q: Sticky bit?
+
+Q: Understand permissions on directory? (like `x` for a directory?)
+
+`ls` sorts entries by name by default.
+
+To sort by specific field:
+	`--sort=WORD`, where WORD (shortcut without --sort) = 
+		none (-U)
+		size (-S)
+		time (-t)
+		version (-v)
+		extension (-X)
+
+To sort reversely:
+	`ls -r` or `ls --reverse`
+	// not to be confused with `-R`, which means "Recursive"
+
+最近修改(modify)的文件显示在底部：
+	`ls -altr`
+
+ls human-readable size based on 1024:
+	`-h` with `-l` or `-s`
+
+ls human-readable size based on 1000:
+	`--si` with `-l or `-s`
+
+`pwd` logical vs physical:
+	`-L`	逻辑工作目录（保留软连接）
+	`-P`	物理目录
+
+Chapter 3
+==================
+cp
+---------------
+Note: replace `cp` or `rm` with `cp -i` or `rm -i` in the `.bashrc` file of the root for security.
+
+和ls不同，cp的`-R` & `-r`都是`--recursive`的缩写，为了保持一致性可以统一`-R`
+
+cp -R默认--no-dereference，即拷贝目录时，目录内部的软连接会被保留。
+
+* 使用-L来强制follow软连接。注意如果软连接指向一个庞大的目录，这会带来大量的I/O。
+
+`cp -a SOURCE_DIR/ ARCHIVE_DIR/`
+	-a, --archive		将SOURCE_DIR/备份至ARCHIVE_DIR
+
+About hard link against directory
+-------------------------
+Q: 为何directory不能有hard link
+A: symlink本身从存在形式上使得`--no-dereference`成为可能，考虑如果某个directory存在一个硬链接，那么硬链接之间是无法相互区分哪个是本体的（不如说根本没有本体和链接/副本这个概念 or 无法区分），这种情况下众多操作都无法进行（比如是否递归copy目录？） 
+软连接给目录树提供了一种可选择是否follow的真正的“链接”，而硬链接是一种只能follow别无选择的entry（其实它根本不能称之为“链接”）。
+
+mv
+--------------------
+mv其实只是对directory的inode进行metainfo的操作，并不会使底层文件系统产生任何读写。
+
+Q: inode号 & File system Block? Which runs out first?
+
+删除易和选项混淆的文件：
+	file: "-somefile.txt"
+	`rm -- -somefile.txt`
+	`--`代表此后的token均不应视为选项，而是文件/文件夹名
+	or
+	`rm ./-somefile.txt`
+
+Chapter 4
+===================
+`man`默认使用less作为其页面调度程序，jkfbq/?这种操作其实都是less提供的
+	MANPAGER和PAGER环境变量可以指定特定的页面调度程序，比如`more`，MANPAGER的优先级大于PAGER：
+	`env MANPAGER=more man xxx`
+
+man:
+	1	normal CLI command
+	2	syscall
+	3	std c lib
+	4	special / device file
+	5	file format and convention
+	6	game
+	7	miscellaneous
+	8	root CLI command (e.g. shutdown)
+*如果一个keyword在多个categories里有man page，在不指定category number的情况下默认显示category number小的那个
+
+TODO: learn `info`?
+
+Linux路径集合by convention用':'分割
+
+`man -f` = `whatis`	一行命令描述
+
+whatis:
+	-w, --wildcard
+	-r, --regex
+
+*`man man`上说`man -f`可以接受`whatis`的参数，实测不行，不清楚是否为bug
+
+`man -k` = `apropos`	搜索命令描述内容
+
+apropos:
+	-w : wildcard
+	-r : regex	(default)
+	-e : exact	严格单词匹配(e.g. "list"不会匹配到"listing")
+
+*`man man`上说`man -k`可以接受`apropos`的参数，实测不行，不清楚是否为bug
+
+whereis:	定位命令的binary，source和manual page
+	-b	binary only
+	-m	manual only
+	-s	source only
+
+which NAME: 显示NAME将要执行的可执行文件。当PATH上有同名程序的时候，可以用来指示运行的到底是哪个。
+	-a	显示全部
+*which可能不会搜索alias？
+
+type: 显示一个token到底是什么
+	alias
+	function
+	executable
+	shell bulitin
+	shell keyword
+
+* -a : 显示全部
+* -t : 只显示类型
+* see also: help type
+
+help: 显示shell builtin command的帮助
+
+Chapter 5
+====================
+;	连续执行多个命令
+&&	只有前一个命令成功(return 0)才执行后面
+||	只有前一个命令失败(not return 0)才执行后面
+$(xxx)	将xxx的输出(stdout?)插入到外面的命令中。可嵌套。
+
+set -o noclobber
+	开启noclobber	`>`将无效，使用`>|`来重定向输出
+	+o	关闭
+
+tee FILE
+	从stdin里读，向stdout和FILE各输出一份
+	-a, --append	append to FILE instead of overwrite
+
+<默认重定位stdin
+> and >>默认重定位stdout
+
+			group-able?	dash?
+unix options		y		must 1
+BSD options		y		must not
+GNU long options	n		must 2
+
+TODO: learn `ps`?
+
+* Redirection happens prior to the execution of comands, so if you type something like `command <FILE >FILE`, FILE will be truncated (cleared) due to the side effect of `>` before `command` actually reads stdin (which is also redirected to FILE). As a result, `command` reads a file that contains nothing via stdin, which usually also produces nothing, meanwhile you have lost the original file. What a shame.
+
+Chapter 6
+==============
+file		determine file type
+cat
+	-n	添加行号
+less
+	-N	显示行号
+	-n	强制不显示行号。显示行号可能导致less在显示大文件响应慢。
+	-r, --raw-control-chars		使控制字符生效。此时less无法保证显示正常，因为控制字符会改变显示外观。
+	-R, --RAW-CONTROL-CHARS		仅使ANSI颜色控制字符生效。Unlike -r, the screen appearance is maintained correctly in most cases.
+	* 默认情况下控制字符会用caret notation显示。比如control-A (ASCII \001)就会显示为^A。
+
+*如果命令行上有管道，alias就不会展开了。So `ls | less` is different from `ls --color=auto | less` even if we have the `alias ls='ls --color=auto'`.
+
+export EDITOR=vim
+	改变默认编辑器
+
+less中按v调用$EDITOR进行编辑
+
+head FILE	输出FILE前10行
+	-n [-]NUM	前NUM行。若NUM由'-'打头，则显示除了最后NUM行的其他所有行。
+	-c [-]NUM	前NUM字节。若NUM由'-'打头，则显示除了最后NUM字节的其他所有字节。接受各种后缀：
+	kB MB GB	decimal
+	K M G		binary
+
+tail FILE	输出FILE尾10行
+	-n [+]NUM	输出最后NUM行。由+打头代表从正数第NUM行开始输出到尾。
+	-f, --follow	对文件的追加保持监听。
+	--retry		不停尝试访问文件。在文件会暂时消失时有用。
+	--pid=PID	配合-f，在PID进程结束时结束监听。
+
+Chapter 7 - filter
+======================
+wc
+	-l, --lines
+	-w, --words
+	-m, --chars
+	-c, --bytes
+	* 没有文件时从stdin读，有文件时只读文件。
+	* 多个文件`wc FILE0 FILE1`的时候会显示total
+
+nl	number line - 标记行号
+	-b, --body-numbering=STYLE
+		where STYLE could be:
+		a	all lines
+		t	non-empty lines (default?)
+		n	do not number anything
+			(but preceding indentation will be reserved)
+		pBRE	只为匹配到BRE这一basic regular expression的行标注行号
+
+cut
+	-d SYMBOL, --delimiter=SYMBOL	use SYMBOL as delimiter, instead of TAB
+	-f LIST, --fields=LIST		extract fields (columns)
+	--output-delimiter=STRING	use STRING as output delimiter, instead of the input delimiter by default
+
+* bash里C-V TAB输入一个\t
+
+sort		行排序 	alphabetically sort by default
+	-t SEP		use SEP as delimiter instead of non-blank to blank transition
+	-k		specify key to sort
+	-r		reverse
+	-n, --numeric-sort	数值排序
+		e.g.	`du -d 1 | sort -n`
+	-h, --human-numeric-sort	sort as human-readable numbers
+		e.g.	`du -d 1 -h | sort -h`
+
+uniq		合并彼此相邻的重复行
+	-c	显示次数
+
+tr [OPTION]... SET1 [SET2]
+	-s, --squeeze-repeats
+		e.g.
+		```
+			$ echo "fFfFkkKKkkkkKKKKKkkKK" | tr -s kK
+			fFfFkKkKkK
+			$ echo "hey  wo  test" | tr -s [:blank:]
+			hey wo test
+		```
+	-d, --delete	delete characters in SET1, do not translate
+		e.g.
+		```
+			$ echo "fFfFkkKKkkkkKKKKKkkKK" | tr -d kK
+			fFfF
+		```
+	* 使用interpreted sequences增加可读性
+		e.g.
+		```
+			$ echo "fkfkfkFKFKFKFK" | tr [:lower:] [:upper:]
+			FKFKFKFKFKFKFK
+		```
+
+TODO: learn `sed` and `awk`
+
+Chapter 8
+==================
+
+su - switch user
+-----------
+-, -l, --login
+
+see ../linux_permission_and_account.md
+
+Chapter 9
+====================
+zip & unzip
+-------------
+### zip
+* zip默认会存储目录，但是不会递归存储目录内的内容，当前目录下的子目录都会以空目录存储。递归需要使用-r。
+
+-r, --recurse-paths	递归压缩目录
+-[0-9]			压缩度。0代表不压缩，9代表体积最小( 牺牲压缩/解压速度 )。默认6。
+-i, --include FILES	只包含FILES wildcard匹配到的文件。注意使用\*来通配（`*`会在shell层被直接展开）。
+-x, --exclude FILES	排除FILES wildcard匹配到的文件。注意使用\*来通配（`*`会在shell层被直接展开）。
+-P, --password PASSWORD	直接在命令行上书写zip密码。不安全，推荐使用-e。
+-e, --encrypt		对话式无回显输入zip密码。
+
+### unzip
+-v, --verbose
+-t			zip文件完整性检查。(t = test)
+-l			列出zip文件内容。可用于检查解压后输出是否在统一目录中。
+
+gzip & gunzip
+------------------
+* gzip只处理单个文件。
+* gzip默认不递归进目录处理每个文件。使用-r递归。
+* gunzip是一个shell脚本，调用`gzip -d`
+* 与zip不同，gzip不需要指定输出文件名。gzip会自动添加/删除.gz后缀作为输出文件名。
+* 与zip不同，gzip会自动删除原文件。使用-k选项来保留原文件。( GNU gzip 1.6新增 )
+
+-c, --stdout, --to-stdout	直接将输出文件写入stdout，以便配合重定向。
+				这在GNU gzip 1.6之前是唯一保留输入文件的方式。
+				在1.6之后可以使用-k。
+-k, --keep		保留输入文件。( GNU gzip 1.6新增 )
+-[1-9]			指定压缩度。同zip。默认6。gzip不支持0。
+-r, --recursive		递归进目录处理每个文件。
+-d, --decompress, --uncompress	解压
+-t, --test		测试文件完整性。如果没问题，则不会有任何输出。
+
+bzip2 & bunzip2 & bzcat
+---------------------
+用法基本和gzip保持一致：-c, -k等
+* bzip2, bunzip2, bzcat在有些发行版( e.g. ubuntu 16.04 lts )上其实是两个完全相同的二进制文件，通过argv[0]来判断用户到底从shell上invoke的是什么。
+* bzcat = bzip2 -dc
+-t, --test		测试完整性。实际上进行了解压，只是丢掉了结果。
+-d, --decompress	=bunzip2
+
+tar
+----------------
+`tar [FUNCTION LETTER] [OPTIONS] ...
+c		create an archive
+f ARCHIVE	指定档案文件名
+x		extract
+z		gzip / gunzip
+j		bzip2
+p		preserve permission
+t, -t, --list	列出档案内容。如果为压缩档案，则必须配合-z, -j等压缩选项。配合v可以显示权限等详细信息。
+
+* Linux phrasebook提到f必须是最后一个选项，其后必须紧跟档案名。但是在我的发行版( ubuntu 16.04 lts )中，f不必要是最后一个。
+
+Chapter 10
+======================
+locate
+--------------
+快速搜索文件名
+-i, --ignore-case
+
+updatedb
+-----------------
+更新locate数据库
+* 使用mlocate作为locate的实现的情况下，updatedb是一个最终指向"/usr/bin/updatedb.mlocate"的软连接。
+
+grep
+---------------
+grep = grep -G = grep --basic-regexp
+egrep = grep -E = grep --extended-regexp
+fgrep = grep -F = grep --fixed-strings
+rgrep = grep -r = grep --recursive
+
+```
+cedric@ubuntu:/usr/bin$ ls -li $(which grep egrep fgrep rgrep)
+131121 -rwxr-xr-x 1 root root     28 Apr 29  2016 /bin/egrep
+131125 -rwxr-xr-x 1 root root     28 Apr 29  2016 /bin/fgrep
+131131 -rwxr-xr-x 1 root root 211224 Apr 29  2016 /bin/grep
+  1317 -rwxr-xr-x 1 root root     30 Mar  4  2016 /usr/bin/rgrep
+```
+* 单引号内为纯字符串，双引号内可以使用shell变量替换。
+
+-P, --perl-regexp	使用perl正则
+-R, --recursive		递归子目录
+-i, --ignore-case
+-w, --word-regexp	严格匹配单词（pain不会匹配到paint）
+-n, --line-number	显示行号
+-A NUM, --after-context=NUM		显示匹配后NUM行
+-B NUM, --before-context=NUM		显示匹配前NUM行
+-C NUM, --context=NUM			= -A NUM -B NUM
+-m NUM, --max-count=NUM			匹配到NUM个
+* 如果多个匹配的上下文能够连续，则会正常显示。否则会以---分隔
+-v, --invert-match		反选匹配
+-l, --files-with-matches	显示包含匹配的文件名，而不是确切的匹配行。
+-c, --count			输出匹配行的总数，而不是确切的匹配行。
+				注意如果一行上有多个匹配，仍算1个。
+
+Chapter 11 - find [OPTIONS] [starting-ponit...] [expression]
+===================
+symlink policy
+------------
+-P	从不跟随符号链接。（默认）
+-L	跟随符号链接。
+-H	不跟随符号链接，但是命令行参数除外。
+
+Selection Specifier
+----------------------
+-name FILE_NAME		文件名
+
+-user USER		用户名
+
+-group GROUP		组名
+
+!			否定。如`find ! -user cedric`：搜索owner不为cedric的文件
+
+-size [+-]n[cwbkMG]	指定文件大小要求。前缀+/-表示大于/小于。后缀表示单位。
+	b	512-bytes blocks (default)
+	c	bytes
+	w	2-byte words
+	k	Kilobytes (1024 bytes)
+	M	Megabytes (1024**2 bytes)
+	G	Gigabytes (1024**3 bytes)
+* 此处的单位是**向上**取整后的单位：
+	- 如果`find -size 10M`，9.1,9.9和10.0都是可以成功匹配的
+	- 大于小于的比较也是按一整个单位作为最小单元进行的：即`find -size -1M`只能匹配到空文件。
+* 大于小于的判断是严格的，e.g. +10M和-10M都不会匹配到10M的文件
+
+-type c		只匹配类型为c的文件。Where c could be :
+	b	block device
+	c	character device
+	d	directory
+	p	named pipe
+	f	regular file
+	l	symlink。当使用-L或-follow(deprecated. Use -L instead.)的时候，将永远不会匹配到symlink，此时应使用`-xtype`。
+	s	socket
+
+* 以下n可以带上[+-]前缀，代表大于/小于。
+-amin, -mmin, -cmin n		n分钟前Access/Modify/Change过文件。
+-atime, -mtime, -ctime n	n*24小时之前Access/Modify/Change过文件。
+-anewer, -newer, -cnewer file	Access/Modify/Change time比file的Modify time更新的文件。
+-newerXY reference		Succeeds  if  timestamp  X of the file being considered is newer than timestamp Y of the file reference.
+	X or Y could be:
+		a	Access time
+		B	birth time
+		c	inode status change time
+		m	modification time
+		t	reference直接被视为时间。
+	* 注意有些组合是违法的，比如X不能为t。再比如有些内核不支持B (birth time)。
+
+* 时间戳采取去除小数（即floor，向下取整）机制，即`-atime 0`可以匹配到过去0 ~ 24小时访问过的文件。
+* 时间戳的匹配以整n为单位，即`-atime +1`起码匹配到48小时之前Access过的文件
+
+find -name "*.js" -not -path "./directory/*"
+
+Extra Commands
+======================
+readlink
+------------
+
+realpath
+----------------
+
+lpr
+---------------
+
+Extra Notes
+====================
+1. 如果A是指向可执行文件B的一个软连接，则用A这一名称运行B的时候，可执行文件B得到的argv[0]是A。
+2. $(command)会把command的stdout的内容转为一行，即'\n'会被换成' '。

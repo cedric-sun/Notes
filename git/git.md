@@ -21,12 +21,18 @@ Git Note
 **Workspace and Repository**  
 `git diff HEAD`
 
-## Backtrack to Certain Commit
-**Show History Commits**  
+## Commit operation
+### Show History Commits
 `git log [--pretty=oneline] [--graph]`
 
-**Backtrack**  
+### Backtrack to certain commit (with clean working directory)
 `git reset --hard {HEAD^ | HEAD^^... | HEAD~back_cnt | Commit_ID}`
+
+### Backtrack to certain commit (with all changes staged)
+`git reset --soft {HEAD^ | HEAD^^... | HEAD~back_cnt | Commit_ID}`
+
+### Backtrack to certain commit (with all changes unstaged)
+`git reset {HEAD^ | HEAD^^... | HEAD~back_cnt | Commit_ID}`
 
 ## Show History Instructives
 `git reflog`
@@ -55,3 +61,5 @@ Git Note
 ## Delete Branch
 `git branch -d branch_to_delete`
 
+## Cancel commit
+### `

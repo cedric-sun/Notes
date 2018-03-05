@@ -3954,5 +3954,6 @@ ballyhoo	n.	喧闹，大吵大嚷
 inexplicable	a.	无法说明的；令人费解的；
 occlude		vt.	挡住	to block something
 sibling		n.	a brother or sister
+orthogonal	a.	直角的，正交的，垂直的
 
 

@@ -468,7 +468,462 @@ Selection Specifier
 * 时间戳采取去除小数（即floor，向下取整）机制，即`-atime 0`可以匹配到过去0 ~ 24小时访问过的文件。
 * 时间戳的匹配以整n为单位，即`-atime +1`起码匹配到48小时之前Access过的文件
 
+Exclude specific directory in `find`
+------------
 find -name "*.js" -not -path "./directory/*"
+
+Execute commands for result of find
+-------------
+```
+find -exec command arg1 arg2 ... \;
+```
+
+use '{}' as the placeholder for file name in the result of `find`
+you do NOT need escape "{}" as "\{ \}"because "{" and "}" are not meta chars in bash
+```
+	find . -exce ls {} \;
+```
+
+Replace "\;" with "+" to aggregate the file arguments:
+```
+	find . -exec ls {} +
+```
+
+xargs
+-----------------
+
+Chapter 12 - Shell
+================
+
+history
+------------
+history
+
+run the last command
+--------
+!!
+
+run specific history command
+-------------
+### using history Id
+!ID
+
+### using history command prefix
+!prefix
+
+e.g.
+```
+cedric@TR:~$ ls /var
+backups  crash  local  log   metrics  run   spool
+cache    lib    lock   mail  opt      snap  tmp
+cedric@TR:~$ !ls
+ls /var
+backups  crash  local  log   metrics  run   spool
+cache    lib    lock   mail  opt      snap  tmp
+```
+
+Reverse Incremental Search
+-------------
+Ctrl-r
+Ctrl-s
+	`stty -ixon` to enable Ctrl-s
+Ctrl-g
+
+history-search-forward / history-search-backward
+------------
+search history, and only match history command that has the same prefix as the current line buffer
+
+shopt
+-------------
+set and unset shell options
+
+if invoked without any arguments, listall shell options (and whether each is set)
+
+shopt vs set
+-------------
+- set is a standard of POSIX, shopt is not
+- shopt is exclusive to bash, you may not find it in other Shell (such as zsh)
+
+bind
+------------
+
+unalias
+----------
+
+function
+-----------
+
+declare
+-----------
+
+compgen
+----------
+
+complete
+
+compopt
+--------
+set
+-------
+
+unset
+---------
+unset -f		remove function
+
+if (-d / -f ?)
+-------
+
+Chapter 13 - Env
+===========
+
+uptime
+-----------
+可以用于了解ssh远程服务器是否重启成功
+
+ps
+------
+有前缀dash和没有前缀dash是不一样的：ps -aux和ps aux并不一样。根据POSIX和UNIX标准，ps -aux应该输出
+
+### ps aux - 显示计算机上正在运行的所有进程
+a	all user
+u	show user related to the process
+x	include processes that are not bound to a terminal
+
+*ps每一行默认只输出终端的宽度那么多的字符，使用ps aux -w进行换行以显示全部内容*
+*Q: ps aux | grep xxx，只要拉根管道，输出宽度的限制就无效了。这样的宽度检测是怎么实现的？通过检测stdout文件的属性？*
+
+###  ps axjf - 显示进程树
+j	BSD working format (control which columns to be shown)
+f	ASCII art forest
+
+*See also: pstree*
+
+### ps U {username_list | uid_list}
+list should be quoted by ""
+
+### Note
+1. PPID = Parent Process ID
+2. PGID = Process Group ID
+
+kill & killall
+----------
+killall p_name		kill all processes that named p_name
+*kill only accepts pid as arguments*
+
+top
+---------
+### operator
+k	kill a process
+?	show help
+
+top的进程按"%CPU"排序
+see also: htop
+
+lsof
+----------
+
+### 列出user_list中的用户名下的进程所打开的文件
+lsof -u user_list
+
+*user_list can contain uid(s) and username(s)*
+*user_list is seperated by comma, e.g. lsof -u root,cedric"
+
+### 列出正在使用file的进程
+lsof file
+
+### 列出以prefix开头的进程打开的文件
+lsof -c prefix
+
+free - show RAM info
+-----------
+默认以KB作为单位
+-m		使用MB作为单位
+
+df - disk free
+----------
+
+du - disk usage
+--------
+### 按照文件大小排序
+du | sort -rn
+
+
+Chapter 14 - Package Manager
+================
+* apt是dpkg的wrapper
+
+dpkg
+-------------
+TODO: read manpages of `dpkg` and its backend components
+
+1. dpkg本身有一部分功能（e.g. -i 安装)，但是有时是充当各种dpkg组件的前端，此时对dpkg的调用相当于对其对应后端的调用。例如`dpkg -l`就等价于`dpkg-query -l`
+
+此类组件包括：
+	1. dpkg-deb	
+	2. dpkg-query	用来对dpkg数据库进行查询
+	3. ...
+
+-i pack.deb			installation
+-r package_name			remove
+-l package_name_pattern		list package that match the pattern
+	if package_name_pattern is omitted, all package in "/var/lib/dpkg/status" will be output, except those marked as not-installed (i.e. previously once installed but removed now)
+
+### 显示已安装的某个命令的二进制来自哪个包
+dpkg -S ABSOLUTE_PATH_TO_BINARY
+其中ABSOLUTE_PATH_TO_BINARY可以通过`which COMMAND`找到
+
+### 显示未安装的某个命令来自哪个包
+
+apt - Advanced Package Tool
+------------------
+apt的意图是充当一个end user interface for the package management system，负责调用more specialized的apt-get和apt-cache等工具
+
+### apt update
+Get	Downloading manifest
+Ign	Ignore: remote manifest are the same as the local one
+
+TODO: apt-cache and other components
+
+### remove a package and its configuration file
+Usually `apt-get remove` will not remoe the configuration file of the package
+
+Use `apt-get --purge remove package_name` to remove everything of a package, including its configuration files
+
+From man 8 apt-get:
+--purge
+           Use purge instead of remove for anything that would be removed. An
+           asterisk ("*") will be displayed next to packages which are
+           scheduled to be purged.  remove --purge is equivalent to the purge
+           command. Configuration Item: APT::Get::Purge.
+
+apt list (work-in-progress)
+----------
+list is somewhat similar to dpkg-query --list in that it can
+display a list of packages satisfying certain criteria. It supports
+glob(7) patterns for matching package names as well as options to
+list installed (--installed), upgradeable (--upgradeable) or all
+available (--all-versions) versions.
+
+apt edit-sources (work-in-progress)
+-----------
+edit /etc/apt/sources.list
+
+apt search | apt-cache search
+-------
+在软件包的名称和描述中搜索模糊搜索
+
+apt clean | apt autoclean | apt-get clean | apt-get autoclean
+------------
+clean		清除本地缓存的.deb包
+autoclean	清除本地缓存中无法再从仓库下载的.deb包（因为过期，所以保留也没用了？）
+
+apt-get -f install / apt-get -f remove
+----------------
+-f, --fix-broken
+*can be used with install / remove only*
+
+apt and apt-xxx
+--------
+The apt(8) commandline is designed as an end-user tool and **it may
+change behavior between versions**. While it tries not to break backward
+compatibility, this is not guaranteed either if a change seems
+beneficial for interactive use.
+
+All features of apt(8) are available in dedicated APT tools like apt-
+get(8) and apt-cache(8) as well.  apt(8) just changes the default value
+of some options (see apt.conf(5) and specifically the Binary scope). So
+you should prefer using these commands (potentially with some
+additional options enabled) in your scripts as they keep backward
+compatibility as much as possible.
+
+Conclusion: 
+	apt is designed to be invoked directly from the command line by a user, being interactive is the only aim
+	apt-get & apt-cache is preferred in scripts as they keep backward compatibility
+
+*这些.deb包通常位于/var/cache/apt/archives/*
+
+apt-get install
+-----------------
+包名加上"+"或"-"后缀可以表示安装或删除
+`apt-get install vim-gtk-`
+表示删除vim-gtk这个包
+
+Chapter 15 - Connection
+=================
+ip正逐步取代ipconfig
+iw正逐步取代iwconfig
+nmcli是GUI程序Network Manager的CLI接口
+
+ipconfig & ip
+----------
+### show network interfaces that are up
+ifconfig
+ip addr show up
+
+### show all network interfaces
+ifconfig -a
+ip addr show
+
+### configure network interfaces
+#### ip address
+ipconfig eth0 192.168.1.1
+ip addr add 192.168.1.1 dev eth0
+
+### promiscuous
+#### on
+ipconfig eth0 promisc
+ip link set dev eth0 promisc on
+#### off
+ipconfig eho0 -promisc
+ip link set dev eth0 promisc on
+
+### MAC spoofing
+#### ifconfig
+```
+ifdown eth0
+ifconfig eth0 hw ether aa:bb:cc:dd:ee:ff
+ifup eth0
+```
+
+#### ip
+```
+ip link set dev eth0 down
+ip link set dev eth0 address aa:bb:cc:dd:ee:ff
+ip link set dev eth0 up
+```
+
+iwconfig - show more info about wireless interfaces
+--------------
+
+nmcli
+-----------
+nmcli [option] OBJECT COMMAND ARGUMENTS
+where object could be:
+	help | general | networking | radio | connection | device | agent | monitor
+
+### options
+-p | --pretty		pretty output
+-f | --fields {[field...] | all | common}
+	allowed fields: 
+		GENERAL,CAPABILITIES,WIFI-PROPERTIES,
+		AP,WIRED-PROPERTIES,WIMAX-PROPERTIES,
+		NSP,IP4,DHCP4,IP6,DHCP6,BOND,TEAM,BRIDGE,
+		VLAN,BLUETOOTH,CONNECTIONS
+
+
+### 显示设备状态
+nmcli [-p] device status
+
+### show connection detail
+nmcli [-p] connection show connection_name
+
+### show device detail
+nmcli dev show wlp4s0
+
+默认情况下不显示全部属性细节。使用-f来显示更多细节
+
+dhclient
+------------
+//call dhcp as root
+
+dhclient iface		获取配置
+dhclient -r iface	丢弃配置
+
+ifup / ifdown
+------------------
+### turn on an interface
+ifup eth0
+ifconfig eth0 up
+iwconfig wlan0 up	// for wireless device only?
+ip link set eth0 up
+nmcli connection up id CONNECTION_NAME (not the same layer as the commands above?)
+
+### turn off an interface
+ifdown eth0
+ifconfig eth0 down
+iwconfig wlan0 down
+ip link set eth0 down
+
+route table
+--------------
+
+### show local route table
+route
+netstat -nr
+
+netstat
+-------------
+TODO
+
+ping
+------------
+-c n		ping n times and stop
+
+traceroute
+---------------
+-m n		set max jump limit to n
+
+See also: mtr
+
+Query DNS
+----------------
+### host
+domain name -> IP
+```
+cedric@TR:~$ host www.baidu.com
+www.baidu.com is an alias for www.a.shifen.com.
+www.a.shifen.com has address 115.239.210.27
+www.a.shifen.com has address 115.239.211.112
+```
+
+IP -> domain name (?)
+```
+cedric@TR:~$ host 8.8.8.8
+8.8.8.8.in-addr.arpa domain name pointer google-public-dns-a.google.com.
+```
+
+### dig - domain infomation groper
+`dig domain_name type`
+type = a / aaaa / cname / mx / soa / any
+
+
+-x addr		reversed loopups	IP -> name
+
+#### Query options
++noall		clear all query options
++answer
+
+Chapter 16
+==================
+ssh-keygen
+-------------
+-t		加密类型
+-b bits		生成bits位的密钥
+
+ssh-copy-id
+--------------
+复制public key到远端主机
+-i identity_file	指定public key文件。如果不提供该选项，则使用default_ID_file
+
+ssh-agent - manage ssh passphrase
+----------------
+
+The default_ID_file is the most recent file that matches: ~/.ssh/id*.pub,
+(excluding those that match ~/.ssh/*-cert.pub) so if you create a key
+that is not the one you want ssh-copy-id to use, just use touch(1) on
+your preferred key's .pub file to reinstate it as the most recent.
+
+sftp
+-------
+
+scp
+------------
+
+ssh-add & ssh-agent
+------------
+
+rsync
+---------
 
 Extra Commands
 ======================
@@ -481,7 +936,39 @@ realpath
 lpr
 ---------------
 
+
+pr
+-----------
+
+cron & crontab
+-----------
+
+
+wget
+-------------
+-r			recursive
+-lN			recur only N levels
+-A acclist		Accept file name pattern
+-R rejlist		Reject file name pattern
+-U agent-string		specify user-agent
+-w seconds		wait seconds between files
+-c			continue
+-i file			read URL to download from file
+
+lynx
+----------
+text-based browser
+
 Extra Notes
 ====================
 1. 如果A是指向可执行文件B的一个软连接，则用A这一名称运行B的时候，可执行文件B得到的argv[0]是A。
 2. $(command)会把command的stdout的内容转为一行，即'\n'会被换成' '。
+3. RPM = Red hat Package Manager
+
+Q
+-------
+Q: 同样是没有参数，在管道上的less就能理解读取stdin，而单独调用less就提示没有文件？
+
+TODO:
+1. SSH - what is it and how do i use it
+

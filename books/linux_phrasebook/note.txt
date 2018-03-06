@@ -367,6 +367,7 @@ z		gzip / gunzip
 j		bzip2
 p		preserve permission
 t, -t, --list	列出档案内容。如果为压缩档案，则必须配合-z, -j等压缩选项。配合v可以显示权限等详细信息。
+-C DIR		extract to DIR
 
 * Linux phrasebook提到f必须是最后一个选项，其后必须紧跟档案名。但是在我的发行版( ubuntu 16.04 lts )中，f不必要是最后一个。
 

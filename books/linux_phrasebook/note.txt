@@ -635,6 +635,17 @@ lsof file
 ### 列出以prefix开头的进程打开的文件
 lsof -c prefix
 
+### 列出指定pid打开的文件
+lsof -p
+
+### 列出指定FD
+lsof -d s
+其中s是FDs的列表
+如果s全部不由^打头，那么这是一个inclusion list，e.g. lsof -d "0,1,2"
+如果s全部由^打头，那么这是一个exclusion list，e.g. lsof -d "^0,^1,^2"
+s中不允许混合使用^和非^打头的项
+s中不允许有空格
+
 free - show RAM info
 -----------
 默认以KB作为单位

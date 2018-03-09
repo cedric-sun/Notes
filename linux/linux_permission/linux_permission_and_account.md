@@ -239,11 +239,10 @@ diff user* *user
 useradd, userdel, usermod是binary
 adduser, deluser是perl脚本，后端仍是useradd
 
-第4个权限位
+特殊权限位
 ===============
-linux的默认权限机制通过12个bit来记录权限：
-	前3个是suid(4) sgid(2) sticky_bit(1)
-	剩下9个就是user group other每个的rwx
+chmod的数字法中：
+suid=4 sgid=2 sticky_bit=1
 
 suid - setuid - set user ID upon execution
 --------------
@@ -315,3 +314,8 @@ setgid会在group的x位上显示s，由于会覆盖原来的x：
 sticky bit会在other的x尾上显示t，由于会覆盖原来的x：
 	原来other有x的时候，会显示t
 	原来other没有x的时候，会显示T
+
+目录的x执行权
+=================
+目录的执行权：可以cd到该目录下
+如果目录有x却没有r，则无法查看目录里的内容，但是可以直接手动指定目录里的文件名进行操作（前提是你知道文件名）

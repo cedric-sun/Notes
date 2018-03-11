@@ -68,9 +68,17 @@ tty
 ================
 ps
 ----------
+ps -C cmdlist		显示进程命令名在cmdlist之中的进程
+ps PID			显示pid为PID的进程
+	ps -PID			ditto
+	ps -p PIDLIST		ditto	# PIDLIST支持空格（需要引号）和","作为分隔符
+	ps p PIDLIST		ditto
+	ps --pid PIDLIST	ditto
 
 lsof
 --------------
+-p PID
+-d FDs-LIST
 
 字符流处理
 ===============

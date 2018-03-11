@@ -19,7 +19,7 @@ zcat = gunzip -c = gzip -dc
 bzip, bunzip, bzcat
 -----------
 
-xz, unxz, xzcat
+xz, unxz, xzcat, lzma
 -----------
 
 tar
@@ -154,3 +154,20 @@ xmodmap -pp
 xmodmap -e 'pointer = 3 2 1 4 5'
 对于没有滑轮的鼠标（i.e. 没有2 4 5）:
 xmodmap -e 'pointer = 2 1'
+
+Disk Management
+==============
+
+环境
+============
+printenv
+-------------
+
+env
+-------------
+
+
+算数
+============
+expr
+------------

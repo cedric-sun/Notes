@@ -103,7 +103,7 @@ lrwxrwxrwx 1 root root   4 Mar  4 12:22 /usr/bin/X -> Xorg
 -rwxr-xr-x 1 root root 274 Jul 25  2017 /usr/bin/Xorg
 ```
 
-而Xorg是启动/usr/lib/xorg/Xorg/Xorg.wrap或/usr/lib/xorg/Xorg/Xorg的脚本：
+而Xorg是启动/usr/lib/xorg/Xorg.wrap或/usr/lib/xorg/Xorg的脚本：
 ```
 cedric@TR:~$ cat $(which Xorg)
 #!/bin/sh

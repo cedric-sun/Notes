@@ -60,6 +60,3 @@ Git Note
 
 ## Delete Branch
 `git branch -d branch_to_delete`
-
-## Cancel commit
-### `

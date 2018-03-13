@@ -270,9 +270,13 @@ http://www.faqs.org/faqs/unix-faq/faq/part4/section-7.html
 	echo 123
 ```
 
+//-----------TODO:以下内容待考证
+//--------Ubuntu 16.04.03 LTS里shebang后错误的解释器将直接导致脚本无法运行
+//------而不写shebang，在主调shell是bash的情况下，解释命令的子shell也是bash，而不是sh
 此时在shell里执行`./foo`（首先foo要有x权限），此时没有#!这一magic number，或者OS无法识别`#!`后指定的解释器，则OS会向shell返回一个缺少解释器的错误码，此时shell会尝试用/bin/sh作为解释器运行该脚本（/bin/sh通常为指向真正解释器 - 如bash等 - 的symlink）
 
 可以看到这是一个shell的行为，而不是OS ABI层的行为，所以与“直接调用executable shell script可以使脚本文件上的setuid生效”不同，此时OS看到的实际上是`/bin/sh script arg1 arg2 ...`这样的形式，因此script上的setuid此时不会生效。
+//--------------------------
 
 sgid - setgid - set group ID upon execution
 -------------

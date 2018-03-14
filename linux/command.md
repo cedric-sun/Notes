@@ -55,14 +55,22 @@ cancel - 取消打印任务
 ================
 stty
 ----------
+stty -echo	关闭回显
 
 tset & reset
 ---------
+
+tput & reset
+--------------
+tput clear	清除tty内容
 
 tty
 ---------
 显示自身进程的stdin指向的设备名
 一般直接从shell里调用
+
+trap
+----------
 
 进程管理
 ================
@@ -174,8 +182,9 @@ printenv
 env
 -------------
 
+Miscellaneous
+=============
+aspell
+--------
 
-算数
-============
-expr
-------------
+TODO: vim spell check

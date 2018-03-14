@@ -283,12 +283,197 @@ function
 }
 ```
 
+控制bash的特性和选项
+------------
+### CLI参数
+--posix			以posix兼容模式启动bash
+-O opt / +O opt		打开/关闭shopt选项opt
+
+### set
+set是POSIX标准
+`set -o` or `set +o`获取两种不同版本的当前选项开关情况
+set -o opt打开opt，set +o opt关闭opt
+通常opt会有对应的单选项，比如`set -o xtrace`等价于`set -x`，`set +o xtrace`等价于`set +x`
+
+### shopt
+shopt不是POSIX标准，shopt管理着另一套选项，但是shopt也可以操作set选项
+
+shopt			show all options status
+shopt opt		show opt status
+shopt -s opt		set
+shopt -u opt		unset
+shopt -o		操作set选项
+
+e.g.
+```
+cedric@TR:~$ set -o | grep noclobber
+noclobber      	on
+cedric@TR:~$ shopt -o -u noclobber
+cedric@TR:~$ set -o | grep noclobber
+noclobber      	off
+```
+
+bash工作过程
+-----------------
+### 0.0 历史展开
+如!!运行上一条命令
+set histexpand
+### 0.1 别名替换
+shopt expand_aliases
+### 0.2 Tokenization
+### 1 花括号生成展开
+e.g. `echo chap_{one,two,three}.txt`
+set braceexpand
+注意花括号展开的条件：
+```
+cedric@TR:~$ echo aa_{123}
++ echo 'aa_{123}'
+aa_{123}
+cedric@TR:~$ echo aa_{123,}
++ echo aa_123 aa_
+aa_123 aa_
+cedric@TR:~$ echo aa_{123,456}
++ echo aa_123 aa_456
+aa_123 aa_456
+```
+
+注意[]的展开和{}的展开不同，[]的展开发生在路径名展开层，即vrs[A-E]只能匹配到**已经存在的**vrsA, vrsB, ..., vrsE中，即遵循“若没有匹配到已存在的文件就不生成”的原则。
+```
+cedric@TR:~/Desktop/test$ touch test{0..9}
++ touch test0 test1 test2 test3 test4 test5 test6 test7 test8 test9
+cedric@TR:~/Desktop/test$ ls
++ ls --color=auto
+test0  test1  test2  test3  test4  test5  test6  test7  test8  test9
+cedric@TR:~/Desktop/test$ rm test4
++ rm test4
+cedric@TR:~/Desktop/test$ ls test[0-9]
++ ls --color=auto test0 test1 test2 test3 test5 test6 test7 test8 test9
+test0  test1  test2  test3  test5  test6  test7  test8  test9
+cedric@TR:~/Desktop/test$ ls test{0..9}
++ ls --color=auto test0 test1 test2 test3 test4 test5 test6 test7 test8 test9
+ls: cannot access 'test4': No such file or directory
+test0  test1  test2  test3  test5  test6  test7  test8  test9
+```
+
+同时注意上面{}展开和[]展开中，表示范围的语法的不同，以下是错误示范：
+```
+cedric@TR:~/Desktop/test$ ls test[0..9] # "test0" or "test." or "test." or "test9"
++ ls --color=auto test0 test9
+test0  test9
+cedric@TR:~/Desktop/test$ ls test{0-9}
++ ls --color=auto 'test{0-9}'
+ls: cannot access 'test{0-9}': No such file or directory
+```
+
+### 2 代字符(~)展开
+当~出现在某个token的起始处时：
+1. 后面紧跟一个合法login name时，展开成该login name的home
+e.g.
+```
+cedric@TR:~/Desktop/test$ echo ~tonystark
++ echo /home/tonystark
+/home/tonystark
+```
+
+login name不存在时，不展开
+e.g.
+```
+cedric@TR:/$ echo ~xx
++ echo '~xx'
+~xx
+```
+2. ~+展开成$PWD，~-展开成$OLDPWD
+3. 展开为$HOME
+
+### 3 参数展开 & 变量展开
+参数
+	命令行
+	位置参数
+	特殊参数
+变量
+	用户变量
+	关键字变量
+
+### 4 算数展开
+`$((expression))`
+整数运算，结果向下取整
+
+#### let也可以进行算术运算
+```
+cedric@TR:~$ let a=33+22*4
+cedric@TR:~$ echo $a
+121
+```
+
+如果表达式有空格，则需要使用引号
+```
+cedric@TR:~$ let "a = 3 * 2 + 344"
+cedric@TR:~$ echo $a
+350
+```
+
+同一行上可以有多个表达式
+```
+cedric@TR:~$ let a=3+2 b=99/4
+cedric@TR:~$ echo $a $b
+5 24
+```
+
+((expression))和let expression是同义词
+
+在$(())和let中引用变量时，都不需要带上$
+
+### 5 命令替换
+`$(command)`
+command将在子shell中执行
+
+bash支持
+```
+`command`
+```
+的语法，但是存在各种缺陷，比如不能嵌套，以及标点处理的歧义
+
+### 6 IFS分词
+在前面几层的展开完成之后，再按IFS对被展开的部分进行分词
+
+### 7 路径名（模糊文件名引用）展开
+即替换* ? []
+使用set -o noglob关闭这一层展开，通配符本身将作为参数传递给程序
+shopt -s nullglob可以在通配符匹配不到任何文件时，将通配符转换为null，而不是把通配符本身传递给程序作为参数。
+
+双引号会阻止这一层的展开，但不阻止变量&参数展开
+单引号会阻止所有展开
+
+需注意在变量赋值这一上下文中，虽然没有单双引号，但上下文仍然阻止了这一层展开：
+```
+cedric@TR:~/Desktop/test$ ls
+test0  test1  test2  test3  test5  test6  test7  test8  test9
+cedric@TR:~/Desktop/test$ somevar=test*
+cedric@TR:~/Desktop/test$ set | grep somevar
+somevar='test*'
+```
+
+下面的例子更好地展示了无引号、双引号和单引号的展开层级的不同：
+```
+cedric@TR:~/Desktop/test$ echo $somevar
+test0 test1 test2 test3 test5 test6 test7 test8 test9
+cedric@TR:~/Desktop/test$ echo "$somevar"
+test*
+cedric@TR:~/Desktop/test$ echo '$somevar'
+$somevar
+```
+
+### 8 进程替换（bash特有）
+```
+<(command)
+>(command)
+```
+将command的stdout/stdin管道文件作为文件名参数
+e.g.
+diff <(command1) <(command2)
+
 TODO
 ---------------
 man getty mingetty
 #### bash init script: where is PATH set?
-#### () subshell: stdin and stdout stuff?
-```
-(cd ~/Desktop ; ls) | (cd / ; cat)
-```
 

@@ -1,3 +1,19 @@
+INDEX
+============
+1. 归档 & 压缩
+2. 打印控制
+3. 终端相关
+4. 进程管理
+5. 字符流处理
+6. Shell辅助工具
+7. 多用户 & 用户管理
+8. X
+9. Disk Management
+10. 环境
+11. Booting
+
+tail. Miscellaneous
+
 归档 & 压缩
 =================
 ar
@@ -87,6 +103,10 @@ lsof
 --------------
 -p PID
 -d FDs-LIST
+
+kill (/bin/kill, and also a bash-builtin)
+--------------
+send a signal to a process
 
 字符流处理
 ===============
@@ -182,9 +202,30 @@ printenv
 env
 -------------
 
+Booting
+================
+runlevel
+------------
+显示当前runlevel
+
+telinit
+-----------
+改变runlevel
+
 Miscellaneous
 =============
 aspell
 --------
-
 TODO: vim spell check
+
+basename
+------------
+
+readlink
+-----------
+
+dirname
+-----------
+
+realpath
+-----------

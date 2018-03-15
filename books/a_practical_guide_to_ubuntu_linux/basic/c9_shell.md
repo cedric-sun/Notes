@@ -118,6 +118,17 @@ declare
 
 -换成+可以删除某个属性。e.g. `declare -x -r SOMEVAR=123`声明一个全局只读变量，`declare +x SOMEVAR`将其变为非全局变量，但仍是只读。
 
+integer变量(declare -i)
+```
+cedric@TR:~$ a=6/3
+cedric@TR:~$ echo $a
+6/3
+cedric@TR:~$ declare -i b
+cedric@TR:~$ b=6/3
+cedric@TR:~$ echo $b
+2
+```
+
 关键字变量
 -----------------
 关键字变量是指那些对bash有特殊意义的变量，bash会主动读取它们，它们会影响bash的行为
@@ -475,5 +486,7 @@ diff <(command1) <(command2)
 TODO
 ---------------
 man getty mingetty
-#### bash init script: where is PATH set?
 
+Q&A
+-------------
+Q: bash init script: where is PATH set?

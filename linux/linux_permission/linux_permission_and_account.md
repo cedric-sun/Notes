@@ -260,6 +260,8 @@ e.g. /bin/passwd
 如果passwd是`-rwsr-xr--`，则other无法以root身份执行passwd，因为other没有x
 
 ### 关于脚本的setuid
+**先说结论：不要编写setuid的脚本**
+
 如果脚本是executable shell script，即由magic number `#!/PATH_TO_INTERPRETER`开头，则直接从bash里以`./script arg1 arg2 ...`的形式调用的时候，script文件本身上设置的setuid位会起作用，但是如果以`INTERPRETER script arg1 arg2`调用的时候，则解释器本身被调用读取script，此时script被当做普通文本文件对待，因此script上的setuid位不会起作用。
 
 More about executable shell script:

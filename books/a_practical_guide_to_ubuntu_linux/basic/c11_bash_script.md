@@ -76,7 +76,7 @@ done
 exit 0
 ```
 
-Note: 用`seq first last`或`{first..last}`来生成list
+Note: 用`$(seq first last)`或`{first..last}`来生成list
 
 当省略list时，默认为"$@"
 e.g.

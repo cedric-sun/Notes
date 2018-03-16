@@ -3957,3 +3957,4 @@ sibling		n.	a brother or sister
 orthogonal	a.	直角的，正交的，垂直的
 collation	n.	便餐，小吃；（尤指）自助餐
 		n.	校勘；整理
+interlude	n.	插曲，间歇

@@ -1,0 +1,5 @@
+A process group is not permitted to migrate from one session to another
+
+and a process may not create a process group that belongs to another session
+
+furthermore, a process is not permitted to join a process group that is a member of another session - that is, a process is not permitted to migrate from one session to another.

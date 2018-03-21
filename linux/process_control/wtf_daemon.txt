@@ -1,0 +1,34 @@
+单纯从命令行上拉起xxxxd进程放入后台: `xxxxd &`
+	如果程序本身不做任何处理直接提供服务
+		jobs和其进程组会常驻控制进程（shell）的列表
+			shell正常退出(exit, logout)是不会收到SIGHUP的
+				huponexit on
+					login shell
+						=> [FAIL] 后台进程退出
+					non-login shell
+						=> [OK] xxxxd进程永久地运行下去，失去了控制终端，只产生日志文件
+				huponexit off
+					=> [OK] xxxxd进程永久地运行下去，失去了控制终端，只产生日志文件
+			shell收到SIGHUP（直接关闭emulator，手动发送SIGHUP, etc.)，此时它会向所有jobs发送SIGHUP
+				=> [FAIL] 后台进程退出
+		将xxxxd disown出jobs列表
+			=> [OK] xxxxd进程永久地运行下去，失去了控制终端，只产生日志文件
+	程序fork自身，父进程退出，不读写stdxxx
+		=> [OK] 不受job control的控制，shell收到SIGHUP也不会关闭
+
+放入子shell运行后台，子shell直接返回
+	过继给init，不在session leader shell的jobs list
+	=> [OK] xxxxd进程永久地运行下去，失去了控制终端，只产生日志文件
+		
+nohup在当前shell拉起
+
+占用FD
+占用目录
+
+
+todo: man 1 setsid???
+
+SOLUTION
+=======================
+daemon不应该依赖shell的任何特性来进行自身的存续
+daemon不应该和控制终端有所联系

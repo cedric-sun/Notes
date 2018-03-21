@@ -179,3 +179,8 @@ cedric@MS:~$ dpkg -L dlocate | grep bin
 ### dpkg-deb
 
 
+#### dpkg-query
+显示conffiles
+conffiles不会作为单独的control files保存，也不会由`dpkg-query --control-list`显示
+dpkg-query -s PACKAGE_NAME
+dpkg-query -f '${Conffiles}\n' -W PACKAGE_NAME

@@ -1,0 +1,10 @@
+		本类			子类				无关类
+				包内		包外		包内		包外
+public		y		y		y		y		y
+protected	y		y		y		y		n
+default		y		y		n		y		n
+private		y		n		n		n		n
+
+protected相当于default的基础上，为包外的子类提供了特权
+
+java的访问控制是停留在编译层的，也就是它不会在.class文件中留下任何的痕迹，只在编译的时候进行访问控制的检查。其实，通过反射的手段，是可以访问任何包下任何类中的成员，例如，访问类的私有成员也是可能的。

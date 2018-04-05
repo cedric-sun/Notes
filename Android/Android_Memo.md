@@ -411,3 +411,12 @@ onSaveInstanceState()
 
 See: https://developer.android.com/topic/libraries/architecture/saving-states.html
 for more info about saving & restoring UI
+
+Explicit Intent
+-----------------
+设定了ComponentName的Intent是Explicit Intent:
+1. 通过Intent的Constructor
+2. setComponent()
+3. setClass()
+4. setClassName()
+

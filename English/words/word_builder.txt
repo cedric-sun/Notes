@@ -1,4 +1,4 @@
-	dusk		adj.	黄昏
+dusk		adj.	黄昏
 grief		n.	悲伤
 	grieve		vi.	（尤指为某人去世而）悲痛	vt. 使伤心
 		grievous	a.	极严重的；令人悲伤的；	# grievous wounds 重伤
@@ -3959,3 +3959,99 @@ collation	n.	便餐，小吃；（尤指）自助餐
 		n.	校勘；整理
 interlude	n.	插曲，间歇
 hiccup
+lieu
+	in lieu of	替代，取代（同 instead (of)）
+vacate		vt.	空出，腾出	[FORMAL]
+considerate	a.	体贴的；周到的；关心的
+	inconsierate	a.	不体谅别人的；不为他人着想的，自私的
+
+pouch		n.	小袋子
+his nibs	n.	[old-fashioned][informal]那位大人
+carouse		v.	畅饮作乐，痛饮狂欢
+carousel	n.	旋转木马；旋转式幻灯放映机（css旋转画廊？）；
+LAN cafe	n.	网吧
+high-end	a.
+milkshake	n.	奶昔
+rig		vt.	（采取不正当的手段）操纵；对…做手脚	-gg-
+garment rack	n.	立式衣架
+epicenter	n.	（地震）震中；（原子弹爆炸的）中心，爆炸点
+rubric		n.	（尤指印在试卷上、通常用不同字体或颜色的）指示，说明，提示
+dissect		vt.	解剖；仔细剖析；
+duffel bag	n.	圆筒形旅行包
+cashew		n.	腰果
+almond		n.	杏仁
+parenthetical	a.	作为附带说明的，作为附加注解的	[FORMAL]
+nostril		n.	鼻孔
+septum		n.	隔膜
+saline		n.	生理盐水
+wheeze		vi.	（因呼吸困难而）发出粗重的呼吸声，喘息
+intrinsic	a.
+extrinsic	a.
+burglary	n.	
+unspecific
+tilde		n.	~ symbol on the keyboard
+introductory	a.	首次的（存在，使用或经历）
+			引导的；序言的
+compile toward/against
+career fair
+biannual	a.	happening twice a year
+firsthand	a.	
+summation	n.	
+in the last/final analysis	归根结底，总之
+	In the final analysis, the only people who will benefit are property owners.
+	归根结底，唯一受益的人群将是房产业主。
+vomit		v.	呕吐	[vi. with `up`]
+throw (sth) up	v.	呕吐	[INFORMAL]
+			产生（新问题或新想法）
+				The meeting threw up some interesting ideas.
+				这次会上提出了一些有趣的想法。
+
+have a bearing on sth
+	to have an influence on something or a relationship to something
+	与…有关系；对…有影响
+		What you decide now could have a considerable bearing on your future.
+		你现在所作的决定可能会对你的未来产生极大的影响。
+
+sleep in	v.	睡过头；睡懒觉	[INFORMAL]
+upheaval	n.	激变
+graded activity	n.
+paperwork	n.
+nuts and bolts	n.	the basic practical details
+lever		n.	杠杆
+	leverage	n.	杠杆作用
+			vt.	提升
+				Things we want to leverage through this is that ...
+			vt.	利用
+				We can gain a market advantage by leveraging our network of partners.
+				我们可以借助合伙人网络获得市场优势。
+tangential	a.	切线的；正切的
+		a.	跑题的,（主动或活动）与正在谈论的不直接相关的
+				a tangential issue
+monotony	a.	单调乏味；毫无变化
+bag of tricks	n.	
+axiomatic	a.	不言自明的	obviously true and therefore not needing to be proved
+	It is an axiomatic fact that governments rise and fall on the state of the economy.
+	经济状况决定政府的兴衰成败，这是不言自明的事实。
+overkill	n.	多此一举，适得其反
+	overkilled	a.	多此一举的
+novice
+curly		a.	卷曲的
+	curly brackets	{}
+drive sb. nuts		让某人发疯	to make someone crazy, to irritate someone	=drive sb. crazy
+interplay
+spit out	v.	吐出；输出；
+colloquial	a.	（词语或表达法）口语的，通俗语的，非正式的
+	colloquial speech
+	Colloquially speaking, ...
+
+arborescence	n.	
+misogynist	n.	
+raison d'etre	n.	存在的理由
+symposium	n.	研讨会		pl. symposia
+brownbag	n.	自带午餐
+wise up		v.	想通，看透
+solidarity
+drill		n.	演习
+haul
+	short-haul
+	monetary

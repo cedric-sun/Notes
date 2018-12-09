@@ -4055,3 +4055,5 @@ drill		n.	演习
 haul
 	short-haul
 	monetary
+full-duplex	a.	全双工
+upfront		a.	公开的；坦率的

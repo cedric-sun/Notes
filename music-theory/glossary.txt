@@ -1,0 +1,12 @@
+staff		乐谱横线	UK. stave
+measure		小节		UK. bar
+bar		小节分隔线	UK. barline
+beat		拍
+octave		八度
+accent		重音
+timbre		音色
+key  signature	调号
+	♯	sharp		升调号
+	♭	flat		降调号
+	♮	natural
+clef		谱号

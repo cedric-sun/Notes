@@ -4057,3 +4057,5 @@ haul
 	monetary
 full-duplex	a.	全双工
 upfront		a.	公开的；坦率的
+hang-up		n.	烦恼，焦虑
+precaution	n.	预防，预防措施

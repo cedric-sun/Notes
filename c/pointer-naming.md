@@ -16,6 +16,6 @@ const
 ==============
 常指针的Asterisk紧贴const
 ```
-int const *ptr_a;	// 指向常量的指针
+const int *ptr_a;	// 指向常量的指针
 int *const ptr_b;	// 常指针
 ```

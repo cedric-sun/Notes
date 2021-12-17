@@ -3420,6 +3420,7 @@ trick		n.	诡计，骗局；技巧，诀窍；	vt. 欺骗
 	tricker		n.	骗子
 	trickster	n.	骗子
 	trickery	n.	欺骗，欺诈
+	bag of tricks	n.
 
 grim		n.	忧愁的，令人沮丧的
 	grimy		a.	肮脏的
@@ -4028,7 +4029,6 @@ tangential	a.	切线的；正切的
 		a.	跑题的,（主动或活动）与正在谈论的不直接相关的
 				a tangential issue
 monotony	a.	单调乏味；毫无变化
-bag of tricks	n.	
 axiomatic	a.	不言自明的	obviously true and therefore not needing to be proved
 	It is an axiomatic fact that governments rise and fall on the state of the economy.
 	经济状况决定政府的兴衰成败，这是不言自明的事实。
@@ -4059,3 +4059,10 @@ full-duplex	a.	全双工
 upfront		a.	公开的；坦率的
 hang-up		n.	烦恼，焦虑
 precaution	n.	预防，预防措施
+liaison		n.	联络，联系，沟通; (mainly US)联络官，联络人
+		n.	（尤指婚外的）性关系；私通；婚外情
+affiliate	vt.	 使并入，使隶属（较大的团体或组织）；使紧密联系
+		n.	隶属机构，分支机构
+				Our college is an affiliate of the university.
+				我们学院隶属于这所大学。
+advocacy	n.	支持，拥护

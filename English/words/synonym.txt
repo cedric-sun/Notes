@@ -358,6 +358,7 @@
 	traduce		vt	强烈批评，尤指伤害他人名誉的那种	[FORMAL]
 	rail against/at	v.	谴责
 	blast		vt.	斥责，抨击	[INFORMAL]
+    rebuke      vt. 斥责；指责；训斥
 	chastise	vt.	严厉批评，谴责
 		chastisement	n.
 	inveigh		vi.	(~ against sb/sth)猛烈抨击，痛骂(=rail)
